@@ -1,0 +1,199 @@
+﻿+ Board Games/Игры на доске с фигурами
+  + Вне категорий
+    - Adaptoid
+    - Arimaa
+    - Abalone/Абалон 
+    - Bolotoudou/Болотуду [T]
+    - Cannon/Пушки [T??]
+    - GESS
+    - Rithmomachy/Ритмомахия [T]
+    - Ultima/Ультима 
+    - Three Crowns [T?]
+    - Mana
+    - Qyshinsu
+    - Ordo
+    - Kamisado
+    - Focus [C]
+    - Splut [M]
+  + Mancala/Манкала
+    - Gabata
+    + Selus family
+  + Постановочные игры
+    + Семейство Рендзю
+      - Tic-tac-toe
+      - Go-moku
+      - Quantum tic-tac-toe
+    + Семейство Го
+      - Alak
+      - Go
+        - Stoical Go
+        - MarGo
+        - War Go
+    + Семейство Реверси
+    + Connect games
+  + Morris games/Мельница
+    - Three Man's Morris/Танец трёх мужчин
+    - Quantum Morris
+  + Зажимные игры
+    - Hasami Shogi/Хасами Сёги source: https://en.wikipedia.org/wiki/Hasami_shogi
+    - Jul Gonu
+    - Latrunculi
+    - Petteia
+    - Tibetan Gundru [T]
+    - Seega/Сиджа
+    - Makyek
+    + Tafl family/Семейство Тафл [A]
+      - Brandubh
+      - Ard-Ri
+      - Fitchneal
+      - Tablut
+      - Tawlbrydd
+      - Hnefatafl
+      - Alea Evangeli
+  + Checkers-like games/Шашечно-подобные игры
+    - Konane
+    + Семейство игры "Лиса и гуси"
+      - Лиса и гуси [A][T]
+      - Ну погоди!
+      - Asalto [A]
+    + Alquerque family/Семейство Алькуэрк
+      - Alquerque
+      - Dablo Daares
+      - Dablot Prejjesne
+      - Kharbaga
+      - Zamma
+    + Checkers family/Семейство Шашек
+      + Ортогональные системы
+        - Turkish Dama/Turkish Draughts/Турецкие шашки
+          - Greek Checkers/Греческие шашки
+        - Khakass Draughts/Tobit/Тобит [T?]
+        - Senegalese Checkers
+        + Смешанные системы
+          - Armenian Tama/Армянские шашки
+          - Ossetian Kena 
+          - Old Ossetian Checkers
+      + Диагональные системы
+        + Short-step Kings
+          - English draughts/Checkers
+            - Losing Checkers
+          - Italian Checkers
+          - Damone/Дамоне 
+        + Flying Kings/Дальнобойные дамки
+          - Brazilian Checkers [T]
+          - Canadian Checkers [T]
+          - Czech Checkers [T]
+          - Frisian Checkers [T]
+          - Ghanaian Checkers [T]
+          - International Checkers/International Draughts/Polish Draughts/French Draughts/Международные шашки/Польские шашки [T]
+          - North American Checkers
+          - Pool Checkers
+          - Russian Draughts/Русские шашки [T]
+            - Диагональные шашки
+            - 80 Cells Checkers/80-клеточные шашки
+            - Stavropol Checkers
+            - Northern Checkers
+            - Башни [T][C]
+          - Thai Checkers/Тайские шашки [T]
+    + Игры родственные Шашкам
+      - Fanorona/Фанорона [T]
+      - Surakarta
+      - Yote
+      + Kono games
+        - Four field Kono
+        - Five field Kono
+  + Races/Гонки
+    - Пулук [T][C]
+    - Сенет
+    - Тьяу
+    - Ур 
+    - Таб
+    + Игры круга и креста
+      - Ludo/Людо
+      - Ньют
+    + Семейство Нард
+      - Backgammon
+  + Chess-like games/Шахмато-подобные игры
+    - Agon/Queens Guard
+    - Congo 
+    - Gala [T]
+    - Chase/Чейз 
+    - Jetan [F]
+    - Klin Zha [F]
+    - Nine-Tile Cyvasse [F]
+    - Rollerball Chess [F]
+    - Thud!/Бац [F]
+    + Jungle family
+      - Shou Dou Qi/Jungle/Джунгли
+        - Moon Chess
+      - Luzhanqi/Китайские военные шахматы
+        - Stratego
+    + Chess family/Семейство Шахмат
+      - Чатурандж
+      - Чатуранга
+      - Шатрандж
+      - Courier Chess
+      - Makruk/Макрук [T]
+      - Kar Ouk [T]
+      - Sittuyin [T]
+      - Chess/Шахматы [T]
+        - Шатар
+        - Индийские шахматы
+        - Таврели [C][T??]
+      - Хиашатар
+      - Шахматы Тамерлана
+    + Xiangqi family/Семейство Сянцы
+      - Xiangqi/Сянцы [T]
+      - Janggi/Чанги [T]
+        - Gwangsanghui [T][L]
+      - Mo Qi
+      - Li Qi
+    + Shogi family/Семейство Сёги
+      - Shogi [T]
+        - Mini Shogi source: https://en.wikipedia.org/wiki/Minishogi
+        - Annan Shogi source: https://en.wikipedia.org/wiki/Annan_shogi
+        - Unashogi source: https://en.wikipedia.org/wiki/Unashogi
+        - Yonin Shogi [M] source: https://en.wikipedia.org/wiki/Yonin_shogi
+        - Cannon Shogi source: https://en.wikipedia.org/wiki/Cannon_shogi
+        - Dobutsu Shogi source: https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi         
+      - Ito Shogi
+      - Rutherford's 1-dimensional Shogi source: http://www.chessvariants.com/shogivariants.dir/1dshogi.html
+      - Micro Shogi source: https://en.wikipedia.org/wiki/Micro_shogi
+      - Kyoto Shogi source: https://en.wikipedia.org/wiki/Kyoto_shogi
+      - Judkins shogi source: https://en.wikipedia.org/wiki/Judkins_shogi
+      - Whale shogi source: https://en.wikipedia.org/wiki/Whale_shogi
+      - Tori shogi source: https://en.wikipedia.org/wiki/Tori_shogi
+      - Yari shogi source: https://en.wikipedia.org/wiki/Yari_shogi
+      - Heian shogi source: https://en.wikipedia.org/wiki/Heian_shogi
+      - Sho shogi source: https://en.wikipedia.org/wiki/Sho_shogi
+      - Hand shogi source: https://en.wikipedia.org/wiki/Hand_shogi
+      - Masonic Shogi [H] source: https://en.wikipedia.org/wiki/Masonic_Shogi
+      - Hexshogi [H] source: https://en.wikipedia.org/wiki/Hexshogi
+      - Trishogi [H] source: https://en.wikipedia.org/wiki/Trishogi
+      - Okisaki shogi [L] source: https://en.wikipedia.org/wiki/Okisaki_shogi
+      - Wa shogi [L] source: https://en.wikipedia.org/wiki/Wa_shogi
+      - Chu shogi [L] source: https://en.wikipedia.org/wiki/Chu_shogi
+      - Heian dai shogi [L] source: https://en.wikipedia.org/wiki/Heian_dai_shogi
+      - Dai shogi [L] source: https://en.wikipedia.org/wiki/Dai_shogi
+      - Tenjiku shogi [L] source: https://en.wikipedia.org/wiki/Tenjiku_shogi
+        - Nutty Shogi [L] source: http://www.chessvariants.com/invention/nutty-shogi
+      - Dai dai shogi [L] source: https://en.wikipedia.org/wiki/Dai_dai_shogi
+        - Cashew Shogi [L] source: http://www.chessvariants.com/invention/cashew-shogi
+      - Maka dai dai shogi [L] source: https://en.wikipedia.org/wiki/Maka_dai_dai_shogi
+        - Macadamia Shogi [L] source: http://www.chessvariants.com/invention/macadamia-shogi
+        - Hishigata shogi [L] source: https://en.wikipedia.org/wiki/Maka_dai_dai_shogi#Hishigata_shogi
+      - Ko Shogi [L] source: https://en.wikipedia.org/wiki/Ko_shogi
+      - Tai shogi [L] source: https://en.wikipedia.org/wiki/Tai_shogi
+      - Taikyoku shogi [L] source: https://en.wikipedia.org/wiki/Taikyoku_shogi
+    + Игры с ориентированными фигурами
+      - Rotary
+      - Stations
+      - 100 полей [F]
+  + Cheskers family/Шашматы
+    - Cheskers
+    - Altai Shatra/Шатра [T?]
+    - Byelorussian Cheskers/Белорусские шашки/Белорусские шахматы <1> 
+      - Шабел 
+  + Halma family/Семейство Halma
+    - Halma/Хальма
+    - Salta
+    - Уголки
