@@ -5,22 +5,34 @@
     - Abalone/Абалон 
     - Bolotoudou/Болотуду [T]
     - Cannon/Пушки [T??]
-    - GESS
+    - GESS source: http://en.wikipedia.org/wiki/Gess
+    - Такока/Taacoca source: http://www.iggamecenter.com/info/en/taacoca.html
     - Rithmomachy/Ритмомахия [T]
     - Ultima/Ультима 
     - Three Crowns [T?]
     - Mana
     - Qyshinsu
-    - Ordo
+    - Ordo source: http://www.iggamecenter.com/info/ru/ordo.html
     - Kamisado
     - Focus [C]
     - Splut [M]
   + Mancala/Манкала
-    - Gabata
-    + Selus family
+    + Однократный посев
+      - Оваре source: http://www.iggamecenter.com/info/ru/oware.html
+      - Тогыз Кумалак source: http://skyruk.livejournal.com/406732.html, http://skyruk.livejournal.com/228552.html,http://www.iggamecenter.com/info/ru/toguzkumalak.html
+      - Калах source: http://www.iggamecenter.com/info/ru/kalah.html, http://www.iggamecenter.com/info/ru/crosskalah.html      
+      - Моди source: http://skyruk.livejournal.com/401206.html
+      - Сонго source: http://skyruk.livejournal.com/413629.html
+      - Ohojitxi/Охочичи source: http://skyruk.livejournal.com/396880.html
+      - Реду source: http://skyruk.livejournal.com/408356.html
+    + Циклический посев
+      - Bao/Бао source: http://skyruk.livejournal.com/390109.html, http://skyruk.livejournal.com/228552.html, http://skyruk.livejournal.com/308650.html, http://skyruk.livejournal.com/308650.html
+      - Gabata
+      + Selus family
   + Постановочные игры
     + Семейство Рендзю
       - Tic-tac-toe
+      - Капитанская жёнушка/4 в ряд source: http://skyruk.livejournal.com/427116.html
       - Go-moku
       - Quantum tic-tac-toe
     + Семейство Го
@@ -102,14 +114,29 @@
         - Four field Kono
         - Five field Kono
   + Races/Гонки
-    - Пулук [T][C]
-    - Сенет
+    - Сенет source: http://skyruk.livejournal.com/183773.html
     - Тьяу
-    - Ур 
-    - Таб
+    - Шен/Собаки и шакалы source: http://skyruk.livejournal.com/214033.html, http://skyruk.livejournal.com/238198.html, http://skyruk.livejournal.com/330835.html
+    - Ур source: http://skyruk.livejournal.com/231444.html
+    - Мехен source: http://skyruk.livejournal.com/212534.html
+    - Тхаайям source: http://skyruk.livejournal.com/273902.html
+    - Дальдоза source: http://skyruk.livejournal.com/288965.html
+    - Сахко source: http://skyruk.livejournal.com/288965.html
+    + Battle Races/Боевые гонки
+      - Пулук [T][C] source: http://skyruk.livejournal.com/290069.html
+      + Tablan family/Семейство игры Таблан
+        - Таблан region: Юго-западная Индия source: http://skyruk.livejournal.com/290069.html
+        - Таб source: http://skyruk.livejournal.com/290069.html
+        - Кюз region: Палестина source: http://skyruk.livejournal.com/290069.html
+        - Кюст огюн region: Македония source: http://skyruk.livejournal.com/290069.html
+        - Сиг source: http://skyruk.livejournal.com/290069.html
+        - Беери-бахри region: Индия source: http://skyruk.livejournal.com/290069.html
     + Игры круга и креста
-      - Ludo/Людо
-      - Ньют
+      - Патолли source: http://skyruk.livejournal.com/215478.html
+      - Пачиси/Чаупар source: http://skyruk.livejournal.com/215193.html, http://skyruk.livejournal.com/225466.html
+      - Панча Келия/Виманам/Pancha Keliya/Vimanam source: http://skyruk.livejournal.com/218067.html
+      - Ludo/Людо source: http://skyruk.livejournal.com/215193.html
+      - Ньоут/Nyout-nol-ki/Nyout/Niout/Nyute/Cheok-Sa/Sa-He region: Корея source: http://skyruk.livejournal.com/216114.html
     + Семейство Нард
       - Backgammon
   + Chess-like games/Шахмато-подобные игры
@@ -131,6 +158,7 @@
       - Чатурандж
       - Чатуранга
       - Шатрандж
+      - Senterej source: http://en.wikipedia.org/wiki/Senterej
       - Courier Chess
       - Makruk/Макрук [T]
       - Kar Ouk [T]
@@ -138,7 +166,7 @@
       - Chess/Шахматы [T]
         - Шатар
         - Индийские шахматы
-        - Таврели [C][T??]
+        - Таврели [C][T??] source: http://www.iggamecenter.com/info/ru/tavreli.html
       - Хиашатар
       - Шахматы Тамерлана
     + Xiangqi family/Семейство Сянцы
@@ -190,9 +218,10 @@
       - 100 полей [F]
   + Cheskers family/Шашматы
     - Cheskers
-    - Altai Shatra/Шатра [T?]
-    - Byelorussian Cheskers/Белорусские шашки/Белорусские шахматы <1> 
-      - Шабел 
+    - Altai Shatra/Шатра [T?] source: http://skyruk.livejournal.com/339712.html
+    - Byelorussian Cheskers/Белорусские шашки/Белорусские шахматы source: http://www.gambiter.ru/checkers/item/276-chess-checkers.html
+      - Шабел
+    - Men Row Chess source: http://www.iggamecenter.com/info/en/menrowchess.html
   + Halma family/Семейство Halma
     - Halma/Хальма
     - Salta
