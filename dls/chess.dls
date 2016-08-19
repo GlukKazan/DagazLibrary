@@ -1,0 +1,49 @@
+﻿- Chess [checkmated]
+  players: White, Black
+  board: chess-8x8
+  pieces:
+    King/Король parlett: 1* betza: K = WF 
+    Pawn/Пешка parlett: o1>, c1X>, io2> betza: mfWcfFimfW2
+    Rook/Ладья parlett: n+ betza: R = WW
+    Knight/Конь parlett: ~1/2 betza: N = (1,2)
+    Bishop/Слон/Офицер parlett: nX betza: B = FF
+    Queen/Ферзь parlett: n* betza: Q = RB
+  setup:
+    a2, b2, c2, d2, e2, f2, g2, h2 - White Pawn
+    a1, h1 - White Rook
+    b1, g1 - White Knight
+    c1, f1 - White Bishop
+    d1 - White Queen
+    e1 - White King
+    a7, b7, c7, d7, e7, f7, g7, h7 - Black Pawn
+    a8, h8 - Black Rook
+    b8, g8 - Black Knight
+    c8, f8 - Black Bishop
+    d8 - Black Queen
+    e8 - Black King
++ Xiangqi [checkmated]
+  players: Red, Black
+  board: xiangqi
+  pieces:
+    Jiang/Cheung/General/Генерал parlett: 1+ betza: kW
+    Shi/Advisor/Guard/Советник parlett: 1X betza: F
+    Zu/Soldier/Pawn/Пешка parlett: 1>, 1>= betza: fW, sfW
+    Xiang/Tseung/Elephant parlett: 2X betza: nA
+    Mao/Horse/Конь parlett: 1/2 betza: nN
+    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW
+    Pao/Cannon/Пушка betza: mRcpR
+  setup:
+    a4, c4, e4, g4, i4 - Red Soldier
+    b1, h1 - Red Horse
+    c1, g1 - Red Elephant
+    a1, i1 - Red Chariot
+    b3, h3 - Red Cannon
+    d1, f1 - Red Guard
+    e1 - Red General
+    a7, c7, e7, g7, i7 - Black Soldier
+    b10, h10 - Black Horse
+    c10, g10 - Black Elephant
+    a10, i10 - Black Chariot
+    b8, h8 - Black Cannon
+    d10, f10 - Black Guard
+    e10 - Black General

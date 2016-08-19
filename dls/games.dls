@@ -8,7 +8,6 @@
     - GESS source: http://en.wikipedia.org/wiki/Gess
     - Такока/Taacoca source: http://www.iggamecenter.com/info/en/taacoca.html
     - Rithmomachy/Ритмомахия [T]
-    - Ultima/Ультима 
     - Three Crowns [T?]
     - Mana
     - Qyshinsu
@@ -94,9 +93,9 @@
     + Семейство Го
       - Alak
       - Go
-        - Stoical Go
-        - MarGo
-        - War Go
+      - Stoical Go
+      - MarGo
+      - War Go
     + Семейство Реверси
     + Connect games
   + Morris games/Мельница
@@ -179,7 +178,7 @@
     - Дальдоза source: http://skyruk.livejournal.com/288965.html
     - Сахко source: http://skyruk.livejournal.com/288965.html
     + Battle Races/Боевые гонки
-      - Пулук [T][C] source: http://skyruk.livejournal.com/290069.html
+      - Puluc/Boolik/Bul/Пулук [T][C] source: http://skyruk.livejournal.com/290069.html
       + Tablan family/Семейство игры Таблан
         - Таблан region: Юго-западная Индия source: http://skyruk.livejournal.com/290069.html
         - Таб source: http://skyruk.livejournal.com/290069.html
@@ -197,42 +196,60 @@
       - Backgammon
   + Chess-like games/Шахмато-подобные игры
     - Agon/Queens Guard
-    - Congo 
-    - Gala [T]
-    - Chase/Чейз 
-    - Jetan [F]
-    - Klin Zha [F]
-    - Nine-Tile Cyvasse [F]
-    - Rollerball Chess [F]
+    - Congo source: https://en.wikipedia.org/wiki/Congo_(chess_variant)
+    - Gala [T] source: https://geektimes.ru/post/262146/
+    - Chase/Чейз/Погоня source: http://skyruk.livejournal.com/334947.html
+    - Jetan/Martian Chess [F] source: https://en.wikipedia.org/wiki/Jetan, http://www.chessvariants.com/other.dir/jetan.html
+    - Klin Zha [F] source: http://www.chessvariants.com/shape.dir/klinzha/klinzha.html
+    - Nine-Tile Cyvasse [F] source: http://zanefisher.github.io/nine-tile-cyvasse/cyvasserules.pdf
+    - Rollerball Chess [F] source: https://en.wikipedia.org/wiki/Rollerball_(chess_variant)
     - Thud!/Бац [F]
     + Jungle family
-      - Shou Dou Qi/Jungle/Джунгли
-        - Moon Chess
-      - Luzhanqi/Китайские военные шахматы
+      - Shou Dou Qi/Jungle/Джунгли [T] source: https://en.wikipedia.org/wiki/Jungle_(board_game), http://skyruk.livejournal.com/427724.html
+        - Banqi/Moon Chess source: https://en.wikipedia.org/wiki/Banqi
+      - Luzhanqi/Китайские военные шахматы source: http://skyruk.livejournal.com/428408.html
         - Stratego
     + Chess family/Семейство Шахмат
-      - Чатурандж
-      - Чатуранга
-      - Шатрандж
+      - Chaturanga/Чатуранга [T] source: http://skyruk.livejournal.com/274559.html, https://en.wikipedia.org/wiki/Chaturanga
+        - Chaturaji/Чатурандж [T] source: http://skyruk.livejournal.com/274559.html, https://en.wikipedia.org/wiki/Chaturaji
+      - Shatranj/Шатрандж source: http://skyruk.livejournal.com/292733.html, https://en.wikipedia.org/wiki/Shatranj
       - Senterej source: http://en.wikipedia.org/wiki/Senterej
-      - Courier Chess
-      - Makruk/Макрук [T]
-      - Kar Ouk [T]
-      - Sittuyin [T]
-      - Chess/Шахматы [T]
-        - Шатар
-        - Индийские шахматы
+      - Makruk/Макрук/Ок-чатранг [T] source: https://en.wikipedia.org/wiki/Makruk, http://skyruk.livejournal.com/275784.html
+      - Ouk-Khmer [T?] source: https://en.wikipedia.org/wiki/Ouk-Khmer_(Hill%27s_version)
+      - Sittuyin [T] source: https://en.wikipedia.org/wiki/Sittuyin, http://skyruk.livejournal.com/278047.html
+      - Майн Чатор source: http://skyruk.livejournal.com/278047.html
+      - Courier Chess [T] source: https://en.wikipedia.org/wiki/Courier_chess
+      - Chess/Шахматы [T] source: http://skyruk.livejournal.com/420321.html
+        - Индийские шахматы source: http://archive.ec/H0Rak
+        - Shatar/Шатар [T] source: https://en.wikipedia.org/wiki/Shatar, http://skyruk.livejournal.com/280614.html
+          - Hiashatar/Хиашатар [T] source: https://en.wikipedia.org/wiki/Hiashatar, https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%82%D0%B0%D1%80_%D0%B8_%D1%85%D0%B8%D0%B0%D1%88%D0%B0%D1%82%D0%B0%D1%80
         - Таврели [C][T??] source: http://www.iggamecenter.com/info/ru/tavreli.html
-      - Хиашатар
-      - Шахматы Тамерлана
+        - Dice chess source: https://en.wikipedia.org/wiki/Dice_chess
+      - Tamerlane Chess/Шахматы Тамерлана source: http://skyruk.livejournal.com/283735.html, https://en.wikipedia.org/wiki/Tamerlane_chess
+      - Fairy Chess source: https://en.wikipedia.org/wiki/Fairy_chess_piece
+      - Grant Acedrex source: https://en.wikipedia.org/wiki/Grant_Acedrex
+      - Omega Chess source: https://en.wikipedia.org/wiki/Omega_Chess
+        - Omega Chess Advanced source: https://en.wikipedia.org/wiki/Omega_Chess
+      - Chesquerque source: https://en.wikipedia.org/wiki/Chesquerque
+      - Dragonfly source: https://en.wikipedia.org/wiki/Dragonfly_(chess_variant)
+      - Dragonchess [F] source: https://en.wikipedia.org/wiki/Dragonchess
+      + Hexagonal chess
+        - Glinski's hexagonal chess source: https://en.wikipedia.org/wiki/Hexagonal_chess
+        - Shafran's hexagonal chess source: https://en.wikipedia.org/wiki/Hexagonal_chess
+        - De Vasa's hexagonal chess source: https://en.wikipedia.org/wiki/Hexagonal_chess
+        - Brusky's hexagonal chess source: https://en.wikipedia.org/wiki/Hexagonal_chess
+        - McCooey's hexagonal chess source: https://en.wikipedia.org/wiki/Hexagonal_chess
+        - Starchess source: https://en.wikipedia.org/wiki/Hexagonal_chess
+      - Tri-Chess source: https://en.wikipedia.org/wiki/Triangular_Chess#Tri-Chess
     + Xiangqi family/Семейство Сянцы
-      - Xiangqi/Сянцы [T]
-      - Janggi/Чанги [T]
-        - Gwangsanghui [T][L]
+      - Qiguo Xiangqi [T?][M] source: http://skyruk.livejournal.com/274836.html
+      - Xiangqi/Сянцы [T] source: https://en.wikipedia.org/wiki/Xiangqi, http://skyruk.livejournal.com/274836.html
+      - Janggi/Чанги [T] source: http://skyruk.livejournal.com/275411.html, https://en.wikipedia.org/wiki/Janggi
+        - Gwangsanghui [T][L] source: https://en.wikipedia.org/wiki/Janggi_variants
       - Mo Qi
       - Li Qi
     + Shogi family/Семейство Сёги
-      - Shogi [T]
+      - Shogi [T] source: https://en.wikipedia.org/wiki/Shogi, http://skyruk.livejournal.com/286841.html
         - Mini Shogi source: https://en.wikipedia.org/wiki/Minishogi
         - Annan Shogi source: https://en.wikipedia.org/wiki/Annan_shogi
         - Unashogi source: https://en.wikipedia.org/wiki/Unashogi
@@ -278,6 +295,8 @@
     - Byelorussian Cheskers/Белорусские шашки/Белорусские шахматы source: http://www.gambiter.ru/checkers/item/276-chess-checkers.html
       - Шабел
     - Men Row Chess source: http://www.iggamecenter.com/info/en/menrowchess.html
+  + Ultima family
+    - Ultima/Baroque Chess/Ультима source: https://en.wikipedia.org/wiki/Baroque_chess
   + Halma family/Семейство Halma
     - Halma/Хальма
     - Salta
