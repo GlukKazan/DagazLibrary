@@ -97,32 +97,41 @@
       - MarGo
       - War Go
     + Семейство Реверси
+      - Reversi/Реверси source: http://skyruk.livejournal.com/353918.html
+      - Othello/Отелло source: http://skyruk.livejournal.com/353918.html
     + Connect games
   + Morris games/Мельница
-    - Three Man's Morris/Танец трёх мужчин
-    - Quantum Morris
+    - Three Men's Morris/Танец трёх мужчин source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
+    - Six Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
+    - Nine Men's Morris/Мельница source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris, http://www.iggamecenter.com/info/ru/ninemenmorris.html, http://skyruk.livejournal.com/241051.html
+    - Twelve Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
+    - Morabaraba/Морабараба source: http://www.iggamecenter.com/info/ru/morab.html, https://en.wikipedia.org/wiki/Morabaraba
+    - Fangqi source: https://en.wikipedia.org/wiki/Fangqi
+    - Miracle Five/Чудесная Пятёрка source: http://skyruk.livejournal.com/353918.html
+    - Quantum Morris source: https://habrahabr.ru/post/276329/
   + Зажимные игры
+    - Petteia/Петтейя source: http://skyruk.livejournal.com/244920.html
+    - Latrunculi/Латрункули source: http://skyruk.livejournal.com/246450.html
+    - Seega/Сиджа source: http://skyruk.livejournal.com/244920.html
     - Hasami Shogi/Хасами Сёги source: https://en.wikipedia.org/wiki/Hasami_shogi
+    - Tibetan Gundru/Ming Mang [T] source: http://www.boardgamesoftheworld.com/mingmang.html, http://skyruk.livejournal.com/353918.html
+    + Tafl family/Семейство Тафл
+      - Brandubh/Branddu/Brannumh/Brannamh/Fidchell/Fitchneal/Fithcheall/Брандуб/Фидхелл [A] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
+      - Ard-Ri/Ард-Ри [A] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
+      - Gwyddbwyll/Goedhboell/Gwezboel/Гвиддбойл [A] source: http://skyruk.livejournal.com/247072.html
+      - Tawlbrydd/Tawlbyund/Tawlbwrdd/Tawlbwrd/Dalwbwrd/Tawlbort/Тавлборд [A] source: http://skyruk.livejournal.com/247072.html
+      - Tawlbyund/Тавлбойнд [A] source: http://skyruk.livejournal.com/247072.html
+      - Tablut/Tablot/Dablot/Таблут [A] source: http://skyruk.livejournal.com/246910.html
+      - Hnefatafl/Хнефатафл [A] source: http://skyruk.livejournal.com/246910.html
+      - Alea Evangeli/Алеа Евангелии [A] source: http://skyruk.livejournal.com/246910.html
     - Jul Gonu
-    - Latrunculi
-    - Petteia
-    - Tibetan Gundru [T]
-    - Seega/Сиджа
     - Makyek
-    + Tafl family/Семейство Тафл [A]
-      - Brandubh
-      - Ard-Ri
-      - Fitchneal
-      - Tablut
-      - Tawlbrydd
-      - Hnefatafl
-      - Alea Evangeli
   + Checkers-like games/Шашечно-подобные игры
     - Konane
     + Семейство игры "Лиса и гуси"
-      - Лиса и гуси [A][T]
+      - Лиса и гуси [A][T] source: http://skyruk.livejournal.com/248462.html
+      - Asalto [A] source: http://skyruk.livejournal.com/248462.html
       - Ну погоди!
-      - Asalto [A]
     + Alquerque family/Семейство Алькуэрк
       - Alquerque
       - Dablo Daares
@@ -159,7 +168,8 @@
             - 80 Cells Checkers/80-клеточные шашки
             - Stavropol Checkers
             - Northern Checkers
-            - Башни [T][C]
+            - Башни [T][C] source: http://skyruk.livejournal.com/322288.html
+            - Туры [T][C] source: http://skyruk.livejournal.com/322288.html
           - Thai Checkers/Тайские шашки [T]
     + Игры родственные Шашкам
       - Fanorona/Фанорона [T]
