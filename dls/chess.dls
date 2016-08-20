@@ -1,4 +1,27 @@
-﻿- Chess [checkmated]
+﻿- Shatranj [checkmated]
+  players: White, Black
+  board: ashtapada
+  pieces:
+    King/Shah/Король parlett: 1* betza: K = WF 
+    Pawn/Baidaq/Пешка parlett: o1>, c1X> betza: mfWcfF
+    Rook/Rukh/Ладья parlett: n+ betza: R = WW
+    Knight/Конь parlett: ~1/2 betza: N = (1,2)
+    Alfil/Pil/Слон parlett: ~2X betza: A = (2,2)
+    Ferz/Faras/Ферзь parlett: 1X betza: F = (1,1)
+  setup:
+    a2, b2, c2, d2, e2, f2, g2, h2 - White Pawn
+    a1, h1 - White Rook
+    b1, g1 - White Knight
+    c1, f1 - White Alfil
+    d1 - White Ferz
+    e1 - White King
+    a7, b7, c7, d7, e7, f7, g7, h7 - Black Pawn
+    a8, h8 - Black Rook
+    b8, g8 - Black Knight
+    c8, f8 - Black Alfil
+    d8 - Black Ferz
+    e8 - Black King
+- Chess [checkmated]
   players: White, Black
   board: chess-8x8
   pieces:

@@ -2,16 +2,9 @@
   + Вне категорий
     - Adaptoid
     - Arimaa
-    - Abalone/Абалон 
-    - Bolotoudou/Болотуду [T] source: http://zhurnalko.net/=sam/junyj-tehnik-dlja-umelyh-ruk/1989-06--num9, http://мир-детей.дети/vospitatelyam-uchitelyam-pedagogam.html?id=1362, https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D0%B4%D1%83
-    - Cannon/Пушки [T??]
-    - GESS source: http://en.wikipedia.org/wiki/Gess
-    - Такока/Taacoca source: http://www.iggamecenter.com/info/en/taacoca.html
     - Rithmomachy/Ритмомахия [T]
-    - Three Crowns [T?]
     - Mana
     - Qyshinsu
-    - Ordo source: http://www.iggamecenter.com/info/ru/ordo.html
     - Kamisado
     - Focus [C]
     - Splut [M]
@@ -85,36 +78,45 @@
         - Ламе source: http://skyruk.livejournal.com/470951.html
       - Чука Рума [S] source: http://skyruk.livejournal.com/311958.html
   + Постановочные игры
+    - Точки source: http://skyruk.livejournal.com/352518.html
     + Семейство Рендзю
       - Tic-tac-toe
       - Капитанская жёнушка/4 в ряд source: http://skyruk.livejournal.com/427116.html
-      - Go-moku
+      - Go-moku source: https://en.wikipedia.org/wiki/Gomoku
+      - Renju source: https://en.wikipedia.org/wiki/Renju
       - Quantum tic-tac-toe
     + Семейство Го
-      - Alak
-      - Go
-      - Stoical Go
-      - MarGo
-      - War Go
+      - Go source: https://ru.wikipedia.org/wiki/%D0%93%D0%BE, https://en.wikipedia.org/wiki/Go_(game)
+      - Tibetan Go source: http://senseis.xmp.net/?TibetanGo, https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B1%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE
+      - Stoical Go source: http://senseis.xmp.net/?StoicalGo
+      - Paper and Pencil Go source: http://senseis.xmp.net/?PaperAndPencilGo
+      - MarGo source: http://www.cameronius.com/games/margo/margo-basics-41.pdf
+      - War Go source: http://www.di.fc.ul.pt/~jpn/gv/pieces.htm
+      - Batoo source: https://en.wikipedia.org/wiki/Batoo
+      - Quantum Go source: http://arxiv.org/pdf/1603.04751v2.pdf
+      - Alak source: http://senseis.xmp.net/?AlakGame1, http://senseis.xmp.net/?Alak, http://senseis.xmp.net/?TraditionalAlak
     + Семейство Реверси
       - Reversi/Реверси source: http://skyruk.livejournal.com/353918.html
       - Othello/Отелло source: http://skyruk.livejournal.com/353918.html
     + Connect games
-  + Morris games/Мельница
-    - Three Men's Morris/Танец трёх мужчин source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
-    - Six Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
-    - Nine Men's Morris/Мельница source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris, http://www.iggamecenter.com/info/ru/ninemenmorris.html, http://skyruk.livejournal.com/241051.html
-    - Twelve Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
-    - Morabaraba/Морабараба source: http://www.iggamecenter.com/info/ru/morab.html, https://en.wikipedia.org/wiki/Morabaraba
+  + Morris-like games
+    - Bolotoudou/Болотуду [T] source: http://zhurnalko.net/=sam/junyj-tehnik-dlja-umelyh-ruk/1989-06--num9, http://мир-детей.дети/vospitatelyam-uchitelyam-pedagogam.html?id=1362, https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D0%B4%D1%83
     - Fangqi source: https://en.wikipedia.org/wiki/Fangqi
     - Miracle Five/Чудесная Пятёрка source: http://skyruk.livejournal.com/353918.html
+    - Three Crowns [T?] source: http://www.di.fc.ul.pt/~jpn/gv/3crowns.htm
+    + Morris family/Семейство игры Мельница
+      - Three Men's Morris/Танец трёх мужчин source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
+      - Six Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
+      - Nine Men's Morris/Мельница source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris, http://www.iggamecenter.com/info/ru/ninemenmorris.html, http://skyruk.livejournal.com/241051.html
+      - Twelve Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
+      - Morabaraba/Морабараба source: http://www.iggamecenter.com/info/ru/morab.html, https://en.wikipedia.org/wiki/Morabaraba
     - Quantum Morris source: https://habrahabr.ru/post/276329/
   + Зажимные игры
     - Petteia/Петтейя source: http://skyruk.livejournal.com/244920.html
     - Latrunculi/Латрункули source: http://skyruk.livejournal.com/246450.html
     - Seega/Сиджа source: http://skyruk.livejournal.com/244920.html
-    - Hasami Shogi/Хасами Сёги source: https://en.wikipedia.org/wiki/Hasami_shogi
-    - Tibetan Gundru/Ming Mang [T] source: http://www.boardgamesoftheworld.com/mingmang.html, http://skyruk.livejournal.com/353918.html
+    - Hasami Shogi/Хасами Сёги source: https://en.wikipedia.org/wiki/Hasami_shogi, http://senseis.xmp.net/?HasamiShogi
+    - Tibetan Gundru/Ming Mang [T] source: http://www.boardgamesoftheworld.com/mingmang.html, http://skyruk.livejournal.com/353918.html, https://en.wikipedia.org/wiki/Ming_Mang_%28game%29
     + Tafl family/Семейство Тафл
       - Brandubh/Branddu/Brannumh/Brannamh/Fidchell/Fitchneal/Fithcheall/Брандуб/Фидхелл [A] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
       - Ard-Ri/Ард-Ри [A] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
@@ -127,7 +129,7 @@
     - Jul Gonu
     - Makyek
   + Checkers-like games/Шашечно-подобные игры
-    - Konane
+    - Konane source: https://en.wikipedia.org/wiki/Konane, http://www.iggamecenter.com/info/ru/konane.html
     + Семейство игры "Лиса и гуси"
       - Лиса и гуси [A][T] source: http://skyruk.livejournal.com/248462.html
       - Asalto [A] source: http://skyruk.livejournal.com/248462.html
@@ -172,15 +174,21 @@
             - Туры [T][C] source: http://skyruk.livejournal.com/322288.html
           - Thai Checkers/Тайские шашки [T]
     + Игры родственные Шашкам
-      - Fanorona/Фанорона [T]
-      - Surakarta
-      - Yote
+      - Fanorona/Фанорона [T] source: http://skyruk.livejournal.com/250752.html
+      - Surakarta source: http://www.iggamecenter.com/info/ru/surakarta.html, http://skyruk.livejournal.com/250752.html
+      - Yoté/Йотай source: http://skyruk.livejournal.com/250752.html
       + Kono games
-        - Four field Kono
-        - Five field Kono
+        - Four field Kono source: http://skyruk.livejournal.com/250752.html
+        - Five field Kono source: http://skyruk.livejournal.com/250752.html
+  + Групповое перемещение фигур
+    - Такока/Taacoca source: http://www.iggamecenter.com/info/en/taacoca.html
+    - Abalone/Абалон source: https://en.wikipedia.org/wiki/Abalone_(board_game)
+    - GESS source: http://en.wikipedia.org/wiki/Gess, http://www.chessvariants.com/crossover.dir/gess.html
+    - Cannon/Пушки [T??]
+    - Ordo source: http://www.iggamecenter.com/info/ru/ordo.html
   + Races/Гонки
     - Сенет source: http://skyruk.livejournal.com/183773.html
-    - Тьяу
+    - Тьяу source: http://skyruk.livejournal.com/207915.html
     - Шен/Собаки и шакалы source: http://skyruk.livejournal.com/214033.html, http://skyruk.livejournal.com/238198.html, http://skyruk.livejournal.com/330835.html
     - Ур source: http://skyruk.livejournal.com/231444.html
     - Мехен source: http://skyruk.livejournal.com/212534.html
@@ -223,7 +231,7 @@
       - Chaturanga/Чатуранга [T] source: http://skyruk.livejournal.com/274559.html, https://en.wikipedia.org/wiki/Chaturanga
         - Chaturaji/Чатурандж [T] source: http://skyruk.livejournal.com/274559.html, https://en.wikipedia.org/wiki/Chaturaji
       - Shatranj/Шатрандж source: http://skyruk.livejournal.com/292733.html, https://en.wikipedia.org/wiki/Shatranj
-      - Senterej source: http://en.wikipedia.org/wiki/Senterej
+        - Senterej source: http://en.wikipedia.org/wiki/Senterej
       - Makruk/Макрук/Ок-чатранг [T] source: https://en.wikipedia.org/wiki/Makruk, http://skyruk.livejournal.com/275784.html
       - Ouk-Khmer [T?] source: https://en.wikipedia.org/wiki/Ouk-Khmer_(Hill%27s_version)
       - Sittuyin [T] source: https://en.wikipedia.org/wiki/Sittuyin, http://skyruk.livejournal.com/278047.html
