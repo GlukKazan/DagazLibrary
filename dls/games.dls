@@ -1,13 +1,12 @@
 ﻿+ Board Games/Игры на доске с фигурами
   + Вне категорий
-    - Adaptoid
-    - Arimaa
-    - Rithmomachy/Ритмомахия [T]
-    - Mana
-    - Qyshinsu
-    - Kamisado
-    - Focus [C]
-    - Splut [M]
+    - Adaptoid source: http://www.iggamecenter.com/info/ru/adaptoid.html
+    - Arimaa source: http://www.iggamecenter.com/info/ru/arimaa.html
+    - Mana source: https://www.jocly.com/#/game/mana
+    - Qyshinsu source: http://www.boardspace.net/qyshinsu/english/rules.html
+    - Kamisado source: https://en.wikipedia.org/wiki/Kamisado
+    - Focus [C] source: www.di.fc.ul.pt/~jpn/gv/focus.htm
+    - Зуреро source: http://www.iggamecenter.com/info/ru/zurero.html
   + Mancala/Манкала
     + Однократный посев
       - Оваре source: http://www.iggamecenter.com/info/ru/oware.html
@@ -20,7 +19,7 @@
       - Abawo/Абаво source: http://skyruk.livejournal.com/410114.html
       - Adjito/Vadjito/Аджито source: http://skyruk.livejournal.com/410114.html
         - Jodu/Kyekyemapuduo/Йоду/Кье-кье-мапудво source: http://skyruk.livejournal.com/410114.html
-      - Oware/Wari/Warri/Вари/Аyo/Айо/Оваре source: http://skyruk.livejournal.com/410114.html, http://skyruk.livejournal.com/228552.html
+      - Oware/Wari/Warri/Вари/Аyo/Айо/Оваре source: http://skyruk.livejournal.com/410114.html, http://skyruk.livejournal.com/228552.html, http://www.iggamecenter.com/info/ru/oware.html
         - Achochodi/Ачочоди source: http://skyruk.livejournal.com/410114.html
         - Woaley/Воали source: http://skyruk.livejournal.com/410114.html
         - Ouril/Оурил source: http://skyruk.livejournal.com/410114.html
@@ -70,6 +69,7 @@
         - Бао суахили source: http://skyruk.livejournal.com/390109.html
       - Омвесо source: http://skyruk.livejournal.com/308650.html
       - Игисоро source: http://skyruk.livejournal.com/308650.html
+      - Хавалис source: http://www.iggamecenter.com/info/ru/hawalis.html
       - Gabata source: http://skyruk.livejournal.com/228552.html, http://www.cyningstan.com/game/147/gabata, http://skyruk.livejournal.com/470951.html
       + Selus family
         - Селус source: http://skyruk.livejournal.com/470951.html, http://mancala.wikia.com/wiki/Selus
@@ -79,11 +79,12 @@
       - Чука Рума [S] source: http://skyruk.livejournal.com/311958.html
   + Постановочные игры
     - Точки source: http://skyruk.livejournal.com/352518.html
+    - Оуст source: http://www.iggamecenter.com/info/ru/oust.html
     + Семейство Рендзю
       - Tic-tac-toe
       - Капитанская жёнушка/4 в ряд source: http://skyruk.livejournal.com/427116.html
       - Go-moku source: https://en.wikipedia.org/wiki/Gomoku
-      - Renju source: https://en.wikipedia.org/wiki/Renju
+      - Renju source: https://en.wikipedia.org/wiki/Renju, http://www.iggamecenter.com/info/ru/renju.html
       - Quantum tic-tac-toe
     + Семейство Го
       - Go source: https://ru.wikipedia.org/wiki/%D0%93%D0%BE, https://en.wikipedia.org/wiki/Go_(game)
@@ -97,13 +98,17 @@
       - Alak source: http://senseis.xmp.net/?AlakGame1, http://senseis.xmp.net/?Alak, http://senseis.xmp.net/?TraditionalAlak
     + Семейство Реверси
       - Reversi/Реверси source: http://skyruk.livejournal.com/353918.html
-      - Othello/Отелло source: http://skyruk.livejournal.com/353918.html
+      - Othello/Отелло source: http://skyruk.livejournal.com/353918.html, http://www.iggamecenter.com/info/ru/reversi.html
     + Connect games
+      - Hex source: http://www.iggamecenter.com/info/ru/hex.html
+      - Akron source: http://www.iggamecenter.com/info/ru/akron.html
   + Morris-like games
     - Bolotoudou/Болотуду [T] source: http://zhurnalko.net/=sam/junyj-tehnik-dlja-umelyh-ruk/1989-06--num9, http://мир-детей.дети/vospitatelyam-uchitelyam-pedagogam.html?id=1362, https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D0%B4%D1%83
     - Fangqi source: https://en.wikipedia.org/wiki/Fangqi
     - Miracle Five/Чудесная Пятёрка source: http://skyruk.livejournal.com/353918.html
     - Three Crowns [T?] source: http://www.di.fc.ul.pt/~jpn/gv/3crowns.htm
+    - Нейтрико source: http://www.iggamecenter.com/info/ru/neutreeko.html
+    - Тико source: http://www.iggamecenter.com/info/ru/teeko.html
     + Morris family/Семейство игры Мельница
       - Three Men's Morris/Танец трёх мужчин source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
       - Six Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
@@ -118,13 +123,13 @@
     - Hasami Shogi/Хасами Сёги source: https://en.wikipedia.org/wiki/Hasami_shogi, http://senseis.xmp.net/?HasamiShogi
     - Tibetan Gundru/Ming Mang [T] source: http://www.boardgamesoftheworld.com/mingmang.html, http://skyruk.livejournal.com/353918.html, https://en.wikipedia.org/wiki/Ming_Mang_%28game%29
     + Tafl family/Семейство Тафл
-      - Brandubh/Branddu/Brannumh/Brannamh/Fidchell/Fitchneal/Fithcheall/Брандуб/Фидхелл [A] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
-      - Ard-Ri/Ард-Ри [A] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
-      - Gwyddbwyll/Goedhboell/Gwezboel/Гвиддбойл [A] source: http://skyruk.livejournal.com/247072.html
-      - Tawlbrydd/Tawlbyund/Tawlbwrdd/Tawlbwrd/Dalwbwrd/Tawlbort/Тавлборд [A] source: http://skyruk.livejournal.com/247072.html
-      - Tawlbyund/Тавлбойнд [A] source: http://skyruk.livejournal.com/247072.html
-      - Tablut/Tablot/Dablot/Таблут [A] source: http://skyruk.livejournal.com/246910.html
-      - Hnefatafl/Хнефатафл [A] source: http://skyruk.livejournal.com/246910.html
+      - Brandubh/Branddu/Brannumh/Brannamh/Fidchell/Fitchneal/Fithcheall/Брандуб/Фидхелл [A][T] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
+      - Ard-Ri/Ард-Ри [A][T] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
+      - Gwyddbwyll/Goedhboell/Gwezboel/Гвиддбойл [A][T] source: http://skyruk.livejournal.com/247072.html
+      - Tawlbrydd/Tawlbyund/Tawlbwrdd/Tawlbwrd/Dalwbwrd/Tawlbort/Тавлборд [A][T] source: http://skyruk.livejournal.com/247072.html
+      - Tawlbyund/Тавлбойнд [A][T] source: http://skyruk.livejournal.com/247072.html
+      - Tablut/Tablot/Dablot/Таблут [A][T] source: http://skyruk.livejournal.com/246910.html
+      - Hnefatafl/Хнефатафл [A][T] source: http://skyruk.livejournal.com/246910.html, http://www.iggamecenter.com/info/ru/hnef.html
       - Alea Evangeli/Алеа Евангелии [A] source: http://skyruk.livejournal.com/246910.html
     - Jul Gonu
     - Makyek
@@ -170,11 +175,11 @@
             - 80 Cells Checkers/80-клеточные шашки
             - Stavropol Checkers
             - Northern Checkers
-            - Башни [T][C] source: http://skyruk.livejournal.com/322288.html
+            - Башни [T][C] source: http://skyruk.livejournal.com/322288.html, http://www.iggamecenter.com/info/ru/bashni.html
             - Туры [T][C] source: http://skyruk.livejournal.com/322288.html
           - Thai Checkers/Тайские шашки [T]
     + Игры родственные Шашкам
-      - Fanorona/Фанорона [T] source: http://skyruk.livejournal.com/250752.html
+      - Fanorona/Фанорона [T] source: http://skyruk.livejournal.com/250752.html, http://www.iggamecenter.com/info/ru/fanorona.html
       - Surakarta source: http://www.iggamecenter.com/info/ru/surakarta.html, http://skyruk.livejournal.com/250752.html
       - Yoté/Йотай source: http://skyruk.livejournal.com/250752.html
       + Kono games
@@ -184,8 +189,14 @@
     - Такока/Taacoca source: http://www.iggamecenter.com/info/en/taacoca.html
     - Abalone/Абалон source: https://en.wikipedia.org/wiki/Abalone_(board_game)
     - GESS source: http://en.wikipedia.org/wiki/Gess, http://www.chessvariants.com/crossover.dir/gess.html
-    - Cannon/Пушки [T??]
+    - Cannon/Пушки [T??] source: http://www.iggamecenter.com/info/ru/cannon.html
     - Ordo source: http://www.iggamecenter.com/info/ru/ordo.html
+    - Эпаминонд source: http://www.iggamecenter.com/info/ru/epaminondas.html
+    - Splut [M] source: http://www.iggamecenter.com/info/ru/splut.html
+  + Кооперативное взятие фигур
+    - Rithmomachy/Ритмомахия [T] source: https://en.wikipedia.org/wiki/Rithmomachy, http://www.boardspace.net/rithmomachy/english/rules.html
+    - Nine-Tile Cyvasse [F] source: http://zanefisher.github.io/nine-tile-cyvasse/cyvasserules.pdf
+    - Гвиддвилл source: http://www.ri-kon.narod.ru/gwyddwill.htm
   + Races/Гонки
     - Сенет source: http://skyruk.livejournal.com/183773.html
     - Тьяу source: http://skyruk.livejournal.com/207915.html
@@ -208,10 +219,40 @@
       - Патолли source: http://skyruk.livejournal.com/215478.html
       - Пачиси/Чаупар source: http://skyruk.livejournal.com/215193.html, http://skyruk.livejournal.com/225466.html
       - Панча Келия/Виманам/Pancha Keliya/Vimanam source: http://skyruk.livejournal.com/218067.html
-      - Ludo/Людо source: http://skyruk.livejournal.com/215193.html
+      - Ludo/Людо source: http://skyruk.livejournal.com/215193.html, http://www.iggamecenter.com/info/ru/ludo.html
       - Ньоут/Nyout-nol-ki/Nyout/Niout/Nyute/Cheok-Sa/Sa-He region: Корея source: http://skyruk.livejournal.com/216114.html
     + Семейство Нард
-      - Backgammon
+      - Backgammon/Короткие нарды [T] source: https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B5_%D0%BD%D0%B0%D1%80%D0%B4%D1%8B, https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B4%D1%8B, http://www.gambiter.ru/nardy/item/33-strategia-korotkie-nardy.html, http://www.gambiter.ru/nardy/item/147-backgammon-beginner.html, http://www.gambiter.ru/nardy/item/10-korotkie-nardy.html, https://en.wikipedia.org/wiki/Backgammon, http://www.gambler.ru/forum/index.php?showtopic=224670
+        - Жакет (Нарды)
+        - Голландский Триктрак
+        - Русский Триктрак
+        - Турецкий Триктрак
+        - Погоня (Нарды)
+        - Гаранкуэт (Нарды)
+        - НакГаммон (Нарды)
+        - Гипер-бакгаммон (Нарды)
+        - Тапа (Нарды)
+        - Эйси-диси (Нарды)
+        - Греческие нарды
+        - Бешеные шестерки (Нарды)
+        - Stargammon/Старгаммон
+        - Choicemove (Нарды)
+        - Ядерные нарды
+        - Dominogammon
+        - Matador/Матадор (Нарды)
+        - Dragon/Змей (Нарды)
+      - Длинные нарды [T] source: https://ru.wikipedia.org/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%80%D0%B4%D1%8B, https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B4%D1%8B, http://www.gambiter.ru/nardy/item/31-strategia-dlinnye-nardy.html, http://www.gambiter.ru/nardy/item/11-dlinnye-nardy.html
+        - Карзар (Нарды)
+        - Кафтар (Нарды)
+        - 1-6 (Нарды)
+        - Кабутар (Нарды)
+        - Астрогон (Нарды)
+        - Чёт-нечет (Нарды)
+        - Хачапури (Нарды)
+        - Гюльбар (Нарды)
+        - Бешеный гюльбар (Нарды)
+        - Бешеные нарды/Гул Бара (Нарды)
+        - Эмир (Нарды)
   + Chess-like games/Шахмато-подобные игры
     - Agon/Queens Guard
     - Congo source: https://en.wikipedia.org/wiki/Congo_(chess_variant)
@@ -219,11 +260,10 @@
     - Chase/Чейз/Погоня source: http://skyruk.livejournal.com/334947.html
     - Jetan/Martian Chess [F] source: https://en.wikipedia.org/wiki/Jetan, http://www.chessvariants.com/other.dir/jetan.html
     - Klin Zha [F] source: http://www.chessvariants.com/shape.dir/klinzha/klinzha.html
-    - Nine-Tile Cyvasse [F] source: http://zanefisher.github.io/nine-tile-cyvasse/cyvasserules.pdf
     - Rollerball Chess [F] source: https://en.wikipedia.org/wiki/Rollerball_(chess_variant)
     - Thud!/Бац [F]
     + Jungle family
-      - Shou Dou Qi/Jungle/Джунгли [T] source: https://en.wikipedia.org/wiki/Jungle_(board_game), http://skyruk.livejournal.com/427724.html
+      - Shou Dou Qi/Jungle/Джунгли [T] source: https://en.wikipedia.org/wiki/Jungle_(board_game), http://skyruk.livejournal.com/427724.html, http://www.iggamecenter.com/info/ru/jungle.html
         - Banqi/Moon Chess source: https://en.wikipedia.org/wiki/Banqi
       - Luzhanqi/Китайские военные шахматы source: http://skyruk.livejournal.com/428408.html
         - Stratego
@@ -273,7 +313,8 @@
         - Unashogi source: https://en.wikipedia.org/wiki/Unashogi
         - Yonin Shogi [M] source: https://en.wikipedia.org/wiki/Yonin_shogi
         - Cannon Shogi source: https://en.wikipedia.org/wiki/Cannon_shogi
-        - Dobutsu Shogi source: https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi         
+        - Dobutsu Shogi source: https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi
+        - Goro goro Shogi source: https://en.wikipedia.org/wiki/Goro_goro_shogi
       - Ito Shogi
       - Rutherford's 1-dimensional Shogi source: http://www.chessvariants.com/shogivariants.dir/1dshogi.html
       - Micro Shogi source: https://en.wikipedia.org/wiki/Micro_shogi
@@ -290,7 +331,7 @@
       - Trishogi [H] source: https://en.wikipedia.org/wiki/Trishogi
       - Okisaki shogi [L] source: https://en.wikipedia.org/wiki/Okisaki_shogi
       - Wa shogi [L] source: https://en.wikipedia.org/wiki/Wa_shogi
-      - Chu shogi [L] source: https://en.wikipedia.org/wiki/Chu_shogi
+      - Chu shogi [L] source: https://en.wikipedia.org/wiki/Chu_shogi, https://ru.wikipedia.org/wiki/%D0%A2%D1%8E_%D1%81%D1%91%D0%B3%D0%B8
       - Heian dai shogi [L] source: https://en.wikipedia.org/wiki/Heian_dai_shogi
       - Dai shogi [L] source: https://en.wikipedia.org/wiki/Dai_shogi
       - Tenjiku shogi [L] source: https://en.wikipedia.org/wiki/Tenjiku_shogi
@@ -316,6 +357,6 @@
   + Ultima family
     - Ultima/Baroque Chess/Ультима source: https://en.wikipedia.org/wiki/Baroque_chess
   + Halma family/Семейство Halma
-    - Halma/Хальма
-    - Salta
+    - Halma/Хальма source: http://www.iggamecenter.com/info/ru/halma.html
+    - Salta source: http://www.iggamecenter.com/info/ru/salta.html
     - Уголки
