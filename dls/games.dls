@@ -116,23 +116,27 @@
       - Twelve Men's Morris source: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
       - Morabaraba/Морабараба source: http://www.iggamecenter.com/info/ru/morab.html, https://en.wikipedia.org/wiki/Morabaraba
     - Quantum Morris source: https://habrahabr.ru/post/276329/
-  + Зажимные игры
-    - Petteia/Петтейя source: http://skyruk.livejournal.com/244920.html
-    - Latrunculi/Латрункули source: http://skyruk.livejournal.com/246450.html
-    - Seega/Сиджа source: http://skyruk.livejournal.com/244920.html
-    - Hasami Shogi/Хасами Сёги source: https://en.wikipedia.org/wiki/Hasami_shogi, http://senseis.xmp.net/?HasamiShogi
-    - Tibetan Gundru/Ming Mang [T] source: http://www.boardgamesoftheworld.com/mingmang.html, http://skyruk.livejournal.com/353918.html, https://en.wikipedia.org/wiki/Ming_Mang_%28game%29
-    + Tafl family/Семейство Тафл
-      - Brandubh/Branddu/Brannumh/Brannamh/Fidchell/Fitchneal/Fithcheall/Брандуб/Фидхелл [A][T] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
-      - Ard-Ri/Ард-Ри [A][T] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
-      - Gwyddbwyll/Goedhboell/Gwezboel/Гвиддбойл [A][T] source: http://skyruk.livejournal.com/247072.html
-      - Tawlbrydd/Tawlbyund/Tawlbwrdd/Tawlbwrd/Dalwbwrd/Tawlbort/Тавлборд [A][T] source: http://skyruk.livejournal.com/247072.html
-      - Tawlbyund/Тавлбойнд [A][T] source: http://skyruk.livejournal.com/247072.html
-      - Tablut/Tablot/Dablot/Таблут [A][T] source: http://skyruk.livejournal.com/246910.html
-      - Hnefatafl/Хнефатафл [A][T] source: http://skyruk.livejournal.com/246910.html, http://www.iggamecenter.com/info/ru/hnef.html
-      - Alea Evangeli/Алеа Евангелии [A] source: http://skyruk.livejournal.com/246910.html
-    - Jul Gonu
-    - Makyek
+  + Кооперативный захват фигур
+    - Rithmomachy/Ритмомахия [T] source: https://en.wikipedia.org/wiki/Rithmomachy, http://www.boardspace.net/rithmomachy/english/rules.html
+    - Nine-Tile Cyvasse [F] source: http://zanefisher.github.io/nine-tile-cyvasse/cyvasserules.pdf
+    - Гвиддвилл source: http://www.ri-kon.narod.ru/gwyddwill.htm
+    + Зажимные игры
+      - Petteia/Петтейя source: http://skyruk.livejournal.com/244920.html
+      - Latrunculi/Латрункули source: http://skyruk.livejournal.com/246450.html
+      - Seega/Сиджа source: http://skyruk.livejournal.com/244920.html
+      - Hasami Shogi/Хасами Сёги source: https://en.wikipedia.org/wiki/Hasami_shogi, http://senseis.xmp.net/?HasamiShogi
+      - Tibetan Gundru/Ming Mang [T] source: http://www.boardgamesoftheworld.com/mingmang.html, http://skyruk.livejournal.com/353918.html, https://en.wikipedia.org/wiki/Ming_Mang_%28game%29
+      + Tafl family/Семейство Тафл
+        - Brandubh/Branddu/Brannumh/Brannamh/Fidchell/Fitchneal/Fithcheall/Брандуб/Фидхелл [A][T] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
+        - Ard-Ri/Ард-Ри [A][T] source: http://skyruk.livejournal.com/247072.html, http://skyruk.livejournal.com/248462.html
+        - Gwyddbwyll/Goedhboell/Gwezboel/Гвиддбойл [A][T] source: http://skyruk.livejournal.com/247072.html
+        - Tawlbrydd/Tawlbyund/Tawlbwrdd/Tawlbwrd/Dalwbwrd/Tawlbort/Тавлборд [A][T] source: http://skyruk.livejournal.com/247072.html
+        - Tawlbyund/Тавлбойнд [A][T] source: http://skyruk.livejournal.com/247072.html
+        - Tablut/Tablot/Dablot/Таблут [A][T] source: http://skyruk.livejournal.com/246910.html
+        - Hnefatafl/Хнефатафл [A][T] source: http://skyruk.livejournal.com/246910.html, http://www.iggamecenter.com/info/ru/hnef.html
+        - Alea Evangeli/Алеа Евангелии [A] source: http://skyruk.livejournal.com/246910.html
+      - Jul Gonu
+      - Makyek
   + Checkers-like games/Шашечно-подобные игры
     - Konane source: https://en.wikipedia.org/wiki/Konane, http://www.iggamecenter.com/info/ru/konane.html
     + Семейство игры "Лиса и гуси"
@@ -193,10 +197,6 @@
     - Ordo source: http://www.iggamecenter.com/info/ru/ordo.html
     - Эпаминонд source: http://www.iggamecenter.com/info/ru/epaminondas.html
     - Splut [M] source: http://www.iggamecenter.com/info/ru/splut.html
-  + Кооперативное взятие фигур
-    - Rithmomachy/Ритмомахия [T] source: https://en.wikipedia.org/wiki/Rithmomachy, http://www.boardspace.net/rithmomachy/english/rules.html
-    - Nine-Tile Cyvasse [F] source: http://zanefisher.github.io/nine-tile-cyvasse/cyvasserules.pdf
-    - Гвиддвилл source: http://www.ri-kon.narod.ru/gwyddwill.htm
   + Races/Гонки
     - Сенет source: http://skyruk.livejournal.com/183773.html
     - Тьяу source: http://skyruk.livejournal.com/207915.html
