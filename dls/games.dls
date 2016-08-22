@@ -81,11 +81,11 @@
     - Точки source: http://skyruk.livejournal.com/352518.html
     - Оуст source: http://www.iggamecenter.com/info/ru/oust.html
     + Семейство Рендзю
-      - Tic-tac-toe
+      - Tic-tac-toe source: https://en.wikipedia.org/wiki/Tic-tac-toe
       - Капитанская жёнушка/4 в ряд source: http://skyruk.livejournal.com/427116.html
       - Go-moku source: https://en.wikipedia.org/wiki/Gomoku
       - Renju source: https://en.wikipedia.org/wiki/Renju, http://www.iggamecenter.com/info/ru/renju.html
-      - Quantum tic-tac-toe
+      - Quantum tic-tac-toe source: https://en.wikipedia.org/wiki/Quantum_tic-tac-toe, https://qttt.googlecode.com/files/QT3-AJP%2010-20-06.pdf
     + Семейство Го
       - Go source: https://ru.wikipedia.org/wiki/%D0%93%D0%BE, https://en.wikipedia.org/wiki/Go_(game)
       - Tibetan Go source: http://senseis.xmp.net/?TibetanGo, https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B1%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE
@@ -118,8 +118,9 @@
     - Quantum Morris source: https://habrahabr.ru/post/276329/
   + Кооперативный захват фигур
     - Rithmomachy/Ритмомахия [T] source: https://en.wikipedia.org/wiki/Rithmomachy, http://www.boardspace.net/rithmomachy/english/rules.html
+    - Kriegspiel source: http://r-s-g.org/kriegspiel/rules.php, http://gest.livejournal.com/1242924.html
     - Nine-Tile Cyvasse [F] source: http://zanefisher.github.io/nine-tile-cyvasse/cyvasserules.pdf
-    - Гвиддвилл source: http://www.ri-kon.narod.ru/gwyddwill.htm
+    - Gwyddwill/Гвиддвилл source: http://www.ri-kon.narod.ru/gwyddwill.htm
     + Зажимные игры
       - Petteia/Петтейя source: http://skyruk.livejournal.com/244920.html
       - Latrunculi/Латрункули source: http://skyruk.livejournal.com/246450.html
@@ -135,53 +136,62 @@
         - Tablut/Tablot/Dablot/Таблут [A][T] source: http://skyruk.livejournal.com/246910.html
         - Hnefatafl/Хнефатафл [A][T] source: http://skyruk.livejournal.com/246910.html, http://www.iggamecenter.com/info/ru/hnef.html
         - Alea Evangeli/Алеа Евангелии [A] source: http://skyruk.livejournal.com/246910.html
-      - Jul Gonu
-      - Makyek
+      - Jul Gonu source: https://en.wikipedia.org/wiki/Jul-Gonu, http://zillions-of-games.com/cgi-bin/zilligames/submissions.cgi?do=show;id=504
+      - Makyek source: http://www.boardgamesoftheworld.com/makyek.html
   + Checkers-like games/Шашечно-подобные игры
     - Konane source: https://en.wikipedia.org/wiki/Konane, http://www.iggamecenter.com/info/ru/konane.html
     + Семейство игры "Лиса и гуси"
       - Лиса и гуси [A][T] source: http://skyruk.livejournal.com/248462.html
       - Asalto [A] source: http://skyruk.livejournal.com/248462.html
-      - Ну погоди!
+      - Ну погоди! source: http://skyruk.livejournal.com/334394.html
     + Alquerque family/Семейство Алькуэрк
-      - Alquerque
-      - Dablo Daares
-      - Dablot Prejjesne
-      - Kharbaga
-      - Zamma
+      - Alquerque source: http://skyruk.livejournal.com/249847.html
+      - Kharbaga source: http://skyruk.livejournal.com/250301.html
+      - Zamma source: http://skyruk.livejournal.com/250301.html
+      - Dablo Daares source: http://skyruk.livejournal.com/250301.html
+      - Dablot Prejjesne source: http://skyruk.livejournal.com/250301.html
     + Checkers family/Семейство Шашек
+      + Гексагональные шашки
+        - Шашки Шафрана source: http://skyruk.livejournal.com/334328.html
+          - Шашки "Молния" source: http://skyruk.livejournal.com/334328.html
+        - Псковские шашки source: http://skyruk.livejournal.com/334328.html
+        - Гексагональные шашки source: http://skyruk.livejournal.com/334328.html
+        - Hexdame/Шашки Фрилинга source: http://skyruk.livejournal.com/334328.html
       + Ортогональные системы
-        - Turkish Dama/Turkish Draughts/Турецкие шашки
-          - Greek Checkers/Греческие шашки
-        - Khakass Draughts/Tobit/Тобит [T?]
-        - Senegalese Checkers
+        - Turkish Dama/Turkish Draughts/Турецкие шашки source: http://skyruk.livejournal.com/253275.html
+          - Greek Checkers/Греческие шашки source: http://zillions-of-games.com/cgi-bin/zilligames/submissions.cgi?do=show;id=2351
+        - Khakass Draughts/Tobit/Тобит [T?] source: http://zillions-of-games.com/cgi-bin/zilligames/submissions.cgi?do=show;id=2351, https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B1%D0%B8%D1%82
+        - Senegalese Checkers source: http://skyruk.livejournal.com/253275.html
         + Смешанные системы
-          - Armenian Tama/Армянские шашки
-          - Ossetian Kena 
-          - Old Ossetian Checkers
+          - Armenian Tama/Армянские шашки/Тама source: http://skyruk.livejournal.com/253275.html
+          - Ossetian Kena source: http://skyruk.livejournal.com/253275.html
+          - Old Ossetian Checkers source: http://mlwi.magix.net/bg/ossetian.htm
       + Диагональные системы
         + Short-step Kings
-          - English draughts/Checkers
+          - English draughts/Checkers source: http://skyruk.livejournal.com/256132.html
             - Losing Checkers
-          - Italian Checkers
-          - Damone/Дамоне 
+            - Laska source: http://skyruk.livejournal.com/322288.html
+          - Italian Checkers source: http://skyruk.livejournal.com/256132.html
+          - Damone/Дамоне source: http://skyruk.livejournal.com/256132.html
         + Flying Kings/Дальнобойные дамки
-          - Brazilian Checkers [T]
-          - Canadian Checkers [T]
+          - Brazilian Checkers [T] source: http://skyruk.livejournal.com/259756.html
+          - Canadian Checkers [T] source: http://skyruk.livejournal.com/259756.html
           - Czech Checkers [T]
           - Frisian Checkers [T]
           - Ghanaian Checkers [T]
-          - International Checkers/International Draughts/Polish Draughts/French Draughts/Международные шашки/Польские шашки [T]
-          - North American Checkers
-          - Pool Checkers
-          - Russian Draughts/Русские шашки [T]
-            - Диагональные шашки
-            - 80 Cells Checkers/80-клеточные шашки
-            - Stavropol Checkers
-            - Northern Checkers
+          - International Checkers/International Draughts/Polish Draughts/French Draughts/Международные шашки/Польские шашки [T] source: http://skyruk.livejournal.com/259756.html
+          - North American Checkers source: http://skyruk.livejournal.com/270761.html
+          - Pool Checkers source: http://skyruk.livejournal.com/270761.html
+          - Russian Draughts/Русские шашки [T] source: http://skyruk.livejournal.com/259756.html
+            - Поддавки source: http://skyruk.livejournal.com/321551.html
+            - Диагональные шашки source: http://skyruk.livejournal.com/259756.html
+            - 80 Cells Checkers/80-клеточные шашки source: http://skyruk.livejournal.com/259756.html
+            - Stavropol Checkers source: http://skyruk.livejournal.com/328070.html
+            - Northern Checkers source: http://skyruk.livejournal.com/270761.html
             - Башни [T][C] source: http://skyruk.livejournal.com/322288.html, http://www.iggamecenter.com/info/ru/bashni.html
             - Туры [T][C] source: http://skyruk.livejournal.com/322288.html
-          - Thai Checkers/Тайские шашки [T]
+            - Трибуны/Шашки Дурейса source: http://skyruk.livejournal.com/328070.html
+          - Thai Checkers/Тайские шашки [T] source: http://skyruk.livejournal.com/256132.html
     + Игры родственные Шашкам
       - Fanorona/Фанорона [T] source: http://skyruk.livejournal.com/250752.html, http://www.iggamecenter.com/info/ru/fanorona.html
       - Surakarta source: http://www.iggamecenter.com/info/ru/surakarta.html, http://skyruk.livejournal.com/250752.html
@@ -191,7 +201,7 @@
         - Five field Kono source: http://skyruk.livejournal.com/250752.html
   + Групповое перемещение фигур
     - Такока/Taacoca source: http://www.iggamecenter.com/info/en/taacoca.html
-    - Abalone/Абалон source: https://en.wikipedia.org/wiki/Abalone_(board_game)
+    - Abalone/Абалон source: https://en.wikipedia.org/wiki/Abalone_(board_game), http://skyruk.livejournal.com/334394.html
     - GESS source: http://en.wikipedia.org/wiki/Gess, http://www.chessvariants.com/crossover.dir/gess.html
     - Cannon/Пушки [T??] source: http://www.iggamecenter.com/info/ru/cannon.html
     - Ordo source: http://www.iggamecenter.com/info/ru/ordo.html
@@ -254,19 +264,19 @@
         - Бешеные нарды/Гул Бара (Нарды)
         - Эмир (Нарды)
   + Chess-like games/Шахмато-подобные игры
-    - Agon/Queens Guard
-    - Congo source: https://en.wikipedia.org/wiki/Congo_(chess_variant)
+    - Agon/Queens Guard source: http://skyruk.livejournal.com/334394.html
+    - Congo source: https://en.wikipedia.org/wiki/Congo_(chess_variant), http://gest.livejournal.com/1085438.html
     - Gala [T] source: https://geektimes.ru/post/262146/
     - Chase/Чейз/Погоня source: http://skyruk.livejournal.com/334947.html
     - Jetan/Martian Chess [F] source: https://en.wikipedia.org/wiki/Jetan, http://www.chessvariants.com/other.dir/jetan.html
     - Klin Zha [F] source: http://www.chessvariants.com/shape.dir/klinzha/klinzha.html
     - Rollerball Chess [F] source: https://en.wikipedia.org/wiki/Rollerball_(chess_variant)
-    - Thud!/Бац [F]
+    - Thud!/Бац [F] source: https://en.wikipedia.org/wiki/Games_of_the_Discworld#Thud
     + Jungle family
       - Shou Dou Qi/Jungle/Джунгли [T] source: https://en.wikipedia.org/wiki/Jungle_(board_game), http://skyruk.livejournal.com/427724.html, http://www.iggamecenter.com/info/ru/jungle.html
         - Banqi/Moon Chess source: https://en.wikipedia.org/wiki/Banqi
       - Luzhanqi/Китайские военные шахматы source: http://skyruk.livejournal.com/428408.html
-        - Stratego
+        - Stratego source: https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%BE
     + Chess family/Семейство Шахмат
       - Chaturanga/Чатуранга [T] source: http://skyruk.livejournal.com/274559.html, https://en.wikipedia.org/wiki/Chaturanga
         - Chaturaji/Чатурандж [T] source: http://skyruk.livejournal.com/274559.html, https://en.wikipedia.org/wiki/Chaturaji
@@ -276,7 +286,7 @@
       - Ouk-Khmer [T?] source: https://en.wikipedia.org/wiki/Ouk-Khmer_(Hill%27s_version)
       - Sittuyin [T] source: https://en.wikipedia.org/wiki/Sittuyin, http://skyruk.livejournal.com/278047.html
       - Майн Чатор source: http://skyruk.livejournal.com/278047.html
-      - Courier Chess [T] source: https://en.wikipedia.org/wiki/Courier_chess
+      - Courier Chess [T] source: https://en.wikipedia.org/wiki/Courier_chess, http://gest.livejournal.com/816229.html
       - Chess/Шахматы [T] source: http://skyruk.livejournal.com/420321.html
         - Индийские шахматы source: http://archive.ec/H0Rak
         - Shatar/Шатар [T] source: https://en.wikipedia.org/wiki/Shatar, http://skyruk.livejournal.com/280614.html
@@ -288,6 +298,7 @@
       - Grant Acedrex source: https://en.wikipedia.org/wiki/Grant_Acedrex
       - Omega Chess source: https://en.wikipedia.org/wiki/Omega_Chess
         - Omega Chess Advanced source: https://en.wikipedia.org/wiki/Omega_Chess
+      - Шахбой source: http://gest.livejournal.com/889387.html
       - Chesquerque source: https://en.wikipedia.org/wiki/Chesquerque
       - Dragonfly source: https://en.wikipedia.org/wiki/Dragonfly_(chess_variant)
       - Dragonchess [F] source: https://en.wikipedia.org/wiki/Dragonchess
@@ -299,13 +310,14 @@
         - McCooey's hexagonal chess source: https://en.wikipedia.org/wiki/Hexagonal_chess
         - Starchess source: https://en.wikipedia.org/wiki/Hexagonal_chess
       - Tri-Chess source: https://en.wikipedia.org/wiki/Triangular_Chess#Tri-Chess
+      - American Chess source: http://gest.livejournal.com/1433166.html, http://www.zillions-of-games.com/cgi-bin/zilligames/submissions.cgi/36682?do=show;id=1131
     + Xiangqi family/Семейство Сянцы
       - Qiguo Xiangqi [T?][M] source: http://skyruk.livejournal.com/274836.html
       - Xiangqi/Сянцы [T] source: https://en.wikipedia.org/wiki/Xiangqi, http://skyruk.livejournal.com/274836.html
       - Janggi/Чанги [T] source: http://skyruk.livejournal.com/275411.html, https://en.wikipedia.org/wiki/Janggi
         - Gwangsanghui [T][L] source: https://en.wikipedia.org/wiki/Janggi_variants
-      - Mo Qi
-      - Li Qi
+      - Mo Qi source: http://zillions-of-games.com/cgi-bin/zilligames/submissions.cgi?do=show;id=1044
+      - Li Qi source: http://zillions-of-games.com/cgi-bin/zilligames/submissions.cgi?do=show;id=1007
     + Shogi family/Семейство Сёги
       - Shogi [T] source: https://en.wikipedia.org/wiki/Shogi, http://skyruk.livejournal.com/286841.html
         - Mini Shogi source: https://en.wikipedia.org/wiki/Minishogi
@@ -315,8 +327,9 @@
         - Cannon Shogi source: https://en.wikipedia.org/wiki/Cannon_shogi
         - Dobutsu Shogi source: https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi
         - Goro goro Shogi source: https://en.wikipedia.org/wiki/Goro_goro_shogi
-      - Ito Shogi
-      - Rutherford's 1-dimensional Shogi source: http://www.chessvariants.com/shogivariants.dir/1dshogi.html
+      + 1-dimensional
+        - Ito Shogi source: http://zillions-of-games.com/cgi-bin/zilligames/submissions.cgi?do=show;id=1525
+        - Rutherford's 1-dimensional Shogi source: http://www.chessvariants.com/shogivariants.dir/1dshogi.html
       - Micro Shogi source: https://en.wikipedia.org/wiki/Micro_shogi
       - Kyoto Shogi source: https://en.wikipedia.org/wiki/Kyoto_shogi
       - Judkins shogi source: https://en.wikipedia.org/wiki/Judkins_shogi
@@ -345,18 +358,23 @@
       - Tai shogi [L] source: https://en.wikipedia.org/wiki/Tai_shogi
       - Taikyoku shogi [L] source: https://en.wikipedia.org/wiki/Taikyoku_shogi
     + Игры с ориентированными фигурами
-      - Rotary
-      - Stations
-      - 100 полей [F]
+      - Ploy source: https://en.wikipedia.org/wiki/Ploy_%28board_game%29, http://gest.livejournal.com/1027592.html?thread=3644424
+      - Rotary source: http://gest.livejournal.com/1027592.html?thread=3644424, http://zillions-of-games.com/cgi-bin/zilligames/submissions.cgi?do=show;id=776
+        - Tournoy source: http://www.chessvariants.com/other.dir/tournoy.html, http://gest.livejournal.com/1027592.html?thread=3644424
+      - Stations source: http://www.chessvariants.com/invention/stations, http://gest.livejournal.com/1027592.html?thread=3644424
+      - Omnigon source: http://www.chessvariants.com/d.photo/omnigon.html, http://gest.livejournal.com/1027592.html?thread=3644424
+      - Omega Chess source: http://www.chessvariants.com/large.dir/omega.html, http://gest.livejournal.com/1027592.html?thread=3644424
+      - Pikemen/Пикинёры source: http://gest.livejournal.com/1027592.html?thread=3644424, http://icehousegames.org/wiki/images/e/ef/Pikemen.pdf
+      - 100 полей [F] source: http://www.sakva.ru/Nick/100.html
   + Cheskers family/Шашматы
-    - Cheskers
-    - Altai Shatra/Шатра [T?] source: http://skyruk.livejournal.com/339712.html
+    - Cheskers source: https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%88%D0%BC%D0%B0%D1%82%D1%8B, http://www.chessvariants.com/crossover.dir/cheskers.html
+    - Altai Shatra/Шатра [T?] source: http://skyruk.livejournal.com/339712.html, https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%88%D0%B0%D1%88%D0%BA%D0%B8, http://gest.livejournal.com/1407414.html
     - Byelorussian Cheskers/Белорусские шашки/Белорусские шахматы source: http://www.gambiter.ru/checkers/item/276-chess-checkers.html
-      - Шабел
+      - Шабел source: http://skyruk.livejournal.com/328070.html
     - Men Row Chess source: http://www.iggamecenter.com/info/en/menrowchess.html
   + Ultima family
-    - Ultima/Baroque Chess/Ультима source: https://en.wikipedia.org/wiki/Baroque_chess
+    - Ultima/Baroque Chess/Ультима source: https://en.wikipedia.org/wiki/Baroque_chess, http://www.chessvariants.com/other.dir/ultima.html, http://gest.livejournal.com/1009909.html
   + Halma family/Семейство Halma
     - Halma/Хальма source: http://www.iggamecenter.com/info/ru/halma.html
     - Salta source: http://www.iggamecenter.com/info/ru/salta.html
-    - Уголки
+    - Уголки source: http://mathemlib.ru/books/item/f00/s00/z0000020/st013.shtml
