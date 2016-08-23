@@ -5,20 +5,21 @@
     Rajah/Raja/Король parlett: 1* betza: K = WF 
     Padàti/Bhata/Pedati/Sainik/Пешка parlett: o1>, c1X> betza: mfWcfF promote: Mantri
     Ratha/Śakata/Колесница parlett: n+ betza: R = WW
-    Dabbaba parlett: ~2+ betza: D = (0,2) [old]
+    Boat parlett: ~2X betza: A = (2,2) [old]
+    Dabbaba parlett: ~2+ betza: D = (0,2) [old?]
     Ashva/Ashwa/Asva/Конь parlett: ~1/2 betza: N = (1,2)
     Gaja/Gajah/Hathi/Слон parlett: ~2X betza: A = (2,2)
     Khohn parlett: 1X, 1> betza: FfW [old]
     Mantri/Senapati/Ферзь parlett: 1X betza: F = (1,1)
   setup:
     a2, b2, c2, d2, e2, f2, g2, h2 - White Padàti
-    a1, h1 - White Ratha | White Dabbaba
+    a1, h1 - White Ratha | White Boat | White Dabbaba
     b1, g1 - White Ashva
     c1, f1 - White Gaja | White Khohn
     d1 - White Mantri
     e1 - White Rajah
     a7, b7, c7, d7, e7, f7, g7, h7 - Black Padàti
-    a8, h8 - Black Ratha | Black Dabbaba
+    a8, h8 - Black Ratha | Black Boat | Black Dabbaba
     b8, g8 - Black Ashva
     c8, f8 - Black Gaja | Black Khohn
     d8 - Black Rajah
@@ -26,24 +27,28 @@
 - Chaturaji
   players: Green, Yellow, Black, Red
   dice: 2xD4
+    2 - Boat
+    3 - Ashva
+    4 - Ratha = Gaja
+    5 - Rajah | Padàti
   setup:
     a2, b2, c2, d2 - Green Padàti
-    a1 - Green Ratha
+    a1 - Green Boat
     b1 - Green Ashva
     c1 - Green Gaja
     d1 - Green Rajah
     b8, b7, b6, b5 - Yellow Padàti
-    a8 - Green Ratha
+    a8 - Green Boat
     a7 - Green Ashva
     a6 - Green Gaja
     a5 - Green Rajah
     h7, g7, f7, e7 - Black Padàti
-    h8 - Black Ratha
+    h8 - Black Boat
     g8 - Black Ashva
     f8 - Black Gaja
     e8 - Black Rajah
     g1, g2, g3, g4 - Red Padàti
-    h1 - Red Ratha
+    h1 - Red Boat
     h2 - Red Ashva
     h3 - Red Gaja
     h4 - Red Rajah
