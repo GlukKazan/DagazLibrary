@@ -1,0 +1,26 @@
+﻿+ Xiangqi [checkmated]
+  players: Red, Black
+  board: xiangqi-9x10
+  pieces:
+    Jiang/Cheung/General/Генерал parlett: 1+ betza: kW
+    Shi/Advisor/Guard/Советник parlett: 1X betza: F
+    Zu/Soldier/Pawn/Пешка parlett: 1>, 1>= (zone: enemy) betza: fW, sfW (zone: enemy)
+    Xiang/Tseung/Elephant parlett: 2X betza: nA
+    Mao/Horse/Конь parlett: 1/2 betza: nN
+    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW
+    Pao/Cannon/Пушка betza: mRcpR
+  setup:
+    a4, c4, e4, g4, i4 - Red Soldier
+    b1, h1 - Red Horse
+    c1, g1 - Red Elephant
+    a1, i1 - Red Chariot
+    b3, h3 - Red Cannon
+    d1, f1 - Red Guard
+    e1 - Red General
+    a7, c7, e7, g7, i7 - Black Soldier
+    b10, h10 - Black Horse
+    c10, g10 - Black Elephant
+    a10, i10 - Black Chariot
+    b8, h8 - Black Cannon
+    d10, f10 - Black Guard
+    e10 - Black General

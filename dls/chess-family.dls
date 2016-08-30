@@ -1,9 +1,9 @@
 ﻿- Chaturanga
   players: White, Black
-  board: ashtapada
+  board: ashtapada-8x8
   pieces:
     Rajah/Raja/Король parlett: 1* betza: K = WF 
-    Padàti/Bhata/Pedati/Sainik/Пешка parlett: o1>, c1X> betza: mfWcfF promote: Mantri
+    Padàti/Bhata/Pedati/Sainik/Пешка parlett: o1>, c1X> betza: mfWcfF promote: Mantri (zone: promotion)
     Ratha/Śakata/Колесница parlett: n+ betza: R = WW
     Boat parlett: ~2X betza: A = (2,2) [old]
     Dabbaba parlett: ~2+ betza: D = (0,2) [old?]
@@ -54,10 +54,10 @@
     h4 - Red Rajah
 - Shatranj [stalemated][checkmated]
   players: White, Black
-  board: ashtapada
+  board: ashtapada-8x8
   pieces:
     King/Shah/Король parlett: 1* betza: K = WF 
-    Pawn/Baidaq/Пешка parlett: o1>, c1X> betza: mfWcfF promote: Ferz
+    Pawn/Baidaq/Пешка parlett: o1>, c1X> betza: mfWcfF promote: Ferz (zone: promotion)
     Rook/Rukh/Ладья parlett: n+ betza: R = WW
     Knight/Конь parlett: ~1/2 betza: N = (1,2)
     Alfil/Pil/Слон parlett: ~2X betza: A = (2,2)
@@ -80,7 +80,7 @@
   board: chess-8x8
   pieces:
     King/Король parlett: 1* betza: K = WF 
-    Pawn/Пешка parlett: o1>, c1X>, io2> betza: mfWcfFimfW2 promote: Queen, Rook, Knight, Bishop
+    Pawn/Пешка parlett: o1>, c1X>, io2> betza: mfWcfFimfW2 promote: Queen, Rook, Knight, Bishop (zone: promotion)
     Rook/Ладья parlett: n+ betza: R = WW
     Knight/Конь parlett: ~1/2 betza: N = (1,2)
     Bishop/Слон/Офицер parlett: nX betza: B = FF
@@ -98,29 +98,3 @@
     c8, f8 - Black Bishop
     d8 - Black Queen
     e8 - Black King
-+ Xiangqi [checkmated]
-  players: Red, Black
-  board: xiangqi
-  pieces:
-    Jiang/Cheung/General/Генерал parlett: 1+ betza: kW
-    Shi/Advisor/Guard/Советник parlett: 1X betza: F
-    Zu/Soldier/Pawn/Пешка parlett: 1>, 1>= betza: fW, sfW
-    Xiang/Tseung/Elephant parlett: 2X betza: nA
-    Mao/Horse/Конь parlett: 1/2 betza: nN
-    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW
-    Pao/Cannon/Пушка betza: mRcpR
-  setup:
-    a4, c4, e4, g4, i4 - Red Soldier
-    b1, h1 - Red Horse
-    c1, g1 - Red Elephant
-    a1, i1 - Red Chariot
-    b3, h3 - Red Cannon
-    d1, f1 - Red Guard
-    e1 - Red General
-    a7, c7, e7, g7, i7 - Black Soldier
-    b10, h10 - Black Horse
-    c10, g10 - Black Elephant
-    a10, i10 - Black Chariot
-    b8, h8 - Black Cannon
-    d10, f10 - Black Guard
-    e10 - Black General
