@@ -61,7 +61,7 @@
     Knight dagaz: 0[p]47[p];1[p]45[p];2[p]56[p];3[p]67[p]
     Killer dagaz: 4567
     Forward/Backward
-    Soldier dagaz: 47
+    Soldier dagaz: 479bf
     Pawn dagaz: 013jn
   setup:
     h3 = Red King
