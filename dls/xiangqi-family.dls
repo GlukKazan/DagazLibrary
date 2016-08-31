@@ -2,22 +2,22 @@
   players: Red, Black
   board: xiangqi-9x10
   pieces:
-    Jiang/Cheung/General/Генерал [royal] parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: ghij
-    Shi/Advisor/Guard/Советник parlett: 1X (zone: palace) betza: F (zone: palace) dagaz: klmnopqr
-    Zu/Soldier/Pawn/Пешка parlett: 1>, 1>= (zone: enemy) betza: fW, sfW (zone: enemy) dagaz: 089
-    Xiang/Tseung/Elephant parlett: 2X (zone: home) betza: nA (zone: home) dagaz: (cdef)[p]\1
+    Jiang/Cheung/General/Генерал [royal] parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: 8ace
+    Shi/Advisor/Guard/Советник parlett: 1X (zone: palace) betza: F (zone: palace) dagaz: gikm
+    Zu/Pawn/Пешка parlett: 1>, 1>= (zone: enemy) betza: fW, sfW (zone: enemy) dagaz: 0st
+    Xiang/Tseung/Elephant parlett: 2X (zone: home) betza: nA (zone: home) dagaz: (opqr)[p]\1
     Mao/Horse/Конь parlett: 1/2 betza: nN dagaz: 0[p]47;1[p]45;2[p]56;3[p]67
     Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (0123)([p]\1)*
     Pao/Cannon/Пушка betza: mRcpR dagaz: (0123)([p]\1)*([P]\1([p]\1)*[e])?
   setup:
-    a4, c4, e4, g4, i4 - Red Soldier
+    a4, c4, e4, g4, i4 - Red Pawn
     b1, h1 - Red Horse
     c1, g1 - Red Elephant
     a1, i1 - Red Chariot
     b3, h3 - Red Cannon
     d1, f1 - Red Guard
     e1 - Red General
-    a7, c7, e7, g7, i7 - Black Soldier
+    a7, c7, e7, g7, i7 - Black Pawn
     b10, h10 - Black Horse
     c10, g10 - Black Elephant
     a10, i10 - Black Chariot
@@ -26,24 +26,91 @@
     e10 - Black General
 - Janggi [checkmated]
   pieces:
-    Jiang/Cheung/General/Генерал [royal] parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: ghijklmnopqr
-    Shi/Advisor/Guard/Советник parlett: 1* (zone: palace) betza: WF (zone: palace) dagaz: ghijklmnopqr
-    Zu/Soldier/Pawn/Пешка parlett: 1>= betza: sfW dagaz: 013lr
+    Jiang/Cheung/General/Генерал [royal] parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: 8acegikm
+    Shi/Advisor/Guard/Советник parlett: 1* (zone: palace) betza: WF (zone: palace) dagaz: 8acegikm
+    Zu/Pawn/Пешка parlett: 1>= betza: sfW dagaz: 013jn
     Xiang/Tseung/Elephant parlett: 2/3 betza: nJ dagaz: 0[p](47)[p]\1;1[p](45)[p]\2;2[p](56)[p]\3;3[p](67)[p]\4
-    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (0123kmoq)([p]\1)*
-    Pao/Cannon/Пушка betza: pR dagaz: (0123kmoq)([p]\1)*[P]\1([p]\1)+
+    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (0123hjln)([p]\1)*
+    Pao/Cannon/Пушка betza: pR dagaz: (0123hjln)([p]\1)*[P]\1([p]\1)+
   setup:
-    a4, c4, e4, g4, i4 - Red Soldier
+    a4, c4, e4, g4, i4 - Red Pawn
     b1, h1 - Red Horse
     c1, g1 - Red Elephant
     a1, i1 - Red Chariot
     b3, h3 - Red Cannon
     d1, f1 - Red Guard
     e2 - Red General
-    a7, c7, e7, g7, i7 - Black Soldier
+    a7, c7, e7, g7, i7 - Black Pawn
     b10, h10 - Black Horse
     c10, g10 - Black Elephant
     a10, i10 - Black Chariot
     b8, h8 - Black Cannon
     d10, f10 - Black Guard
     e9 - Black General
+- Gwangsanghui [checkmated]
+  board: gwangsanghui-15x14
+  pieces:
+    General = King [royal] dagaz: 8acegikm[piece!Knight]
+    West General/East General dagaz: 8acegikm[piece!Knight]
+    Guard/West Guard/East Guard dagaz: 8acegikm[piece!Knight]
+    Elephant/West Elephant/East Elephant dagaz: (0[p](47)[p]\2;1[p](45)[p]\3;2[p](56)[p]\4;3[p](67)[p]\5)[piece!Knight]
+    Chariot/West Chariot/East Chariot dagaz: (0123hjln)([p]\1)*[piece!Knight]
+    Cannon/West Cannon/East Cannon dagaz: (0123hjln)([p]\1)*[P]\1([p]\1)+[piece!Knight]
+    Horse/West Horse/East Horse dagaz: (0[p]47;1[p]45;2[p]56;3[p]67)[piece!Knight]
+    Warrior dagaz: 0123{1,2}[piece!Knight]
+    Knight dagaz: 0[p]47[p];1[p]45[p];2[p]56[p];3[p]67[p]
+    Killer dagaz: 4567
+    Forward/Backward
+    Soldier dagaz: 47
+    Pawn dagaz: 013jn
+  setup:
+    h3 = Red King
+    b3 = Red West General
+    n3 = Red East General
+    g2, i2 = Red Guard
+    b2 = Red West Guard
+    n2 = Red East Guard
+    f2, j2 = Red Elephant
+    c2 = Red West Elephant
+    m2 = Red East Elephant
+    e2 k2 = Red Chariot
+    a2 = Red West Chariot
+    o2 = Red East Chariot
+    g4, i4= Red Cannon
+    a4 = Red West Cannon
+    o4 = Red East Cannon
+    f4, j4 = Red Horse
+    c4 = Red West Horse
+    m4 = Red East Horse
+    d3, l3 = Red Warrior
+    d1, l1 = Red Knight
+    d5, l5 = Red Killer
+    h5 = Red Forward
+    h1 = Red Backward
+    a6, b6, c6, d6, e6, f6 = Red Pawn
+    j6, k6, l6, m6, n6, o6 = Red Soldier
+    h12 = Black King
+    b12 = Black West General
+    n12 = Black East General
+    g13, i13 = Black Guard
+    b13 = Black West Guard
+    n13 = Black East Guard
+    f13, j13 = Black Elephant
+    c13 = Black West Elephant
+    m13 = Black East Elephant
+    e13, k13 = Black Chariot
+    a13 = Black West Chariot
+    o13 = Black East Chariot
+    g11, i11 = Black Cannon
+    a11 = Black West Cannon
+    o11 = Black East Cannon
+    f11, j11 = Black Horse
+    c11 = Black West Horse
+    m11 = Black East Horse
+    d12, l12 = Black Warrior
+    d14, l14 = Black Knight
+    d10, l10 = Black Killer
+    h10 = Black Forward
+    h14 = Black Backward
+    j9, k9, l9, m9, n9, o9 = Black Pawn
+    a9, b9, c9, d9, e9, f9 = Black Soldier
