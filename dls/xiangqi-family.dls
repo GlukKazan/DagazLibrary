@@ -2,7 +2,7 @@
   players: Red, Black
   board: xiangqi-9x10
   pieces:
-    Jiang/Cheung/General/Генерал parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: ghij
+    Jiang/Cheung/General/Генерал [royal] parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: ghij
     Shi/Advisor/Guard/Советник parlett: 1X (zone: palace) betza: F (zone: palace) dagaz: klmnopqr
     Zu/Soldier/Pawn/Пешка parlett: 1>, 1>= (zone: enemy) betza: fW, sfW (zone: enemy) dagaz: 089
     Xiang/Tseung/Elephant parlett: 2X (zone: home) betza: nA (zone: home) dagaz: (cdef)[p]\1
@@ -26,9 +26,9 @@
     e10 - Black General
 - Janggi [checkmated]
   pieces:
-    Jiang/Cheung/General/Генерал parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: ghijklmnopqr
+    Jiang/Cheung/General/Генерал [royal] parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: ghijklmnopqr
     Shi/Advisor/Guard/Советник parlett: 1* (zone: palace) betza: WF (zone: palace) dagaz: ghijklmnopqr
-    Zu/Soldier/Pawn/Пешка parlett: 1>= betza: sfW dagaz: 013
+    Zu/Soldier/Pawn/Пешка parlett: 1>= betza: sfW dagaz: 013lr
     Xiang/Tseung/Elephant parlett: 2/3 betza: nJ dagaz: 0[p](47)[p]\1;1[p](45)[p]\2;2[p](56)[p]\3;3[p](67)[p]\4
     Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (0123kmoq)([p]\1)*
     Pao/Cannon/Пушка betza: pR dagaz: (0123kmoq)([p]\1)*[P]\1([p]\1)+

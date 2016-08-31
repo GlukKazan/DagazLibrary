@@ -2,7 +2,7 @@
   players: White, Black
   board: ashtapada-8x8
   pieces:
-    Rajah/Raja/Король parlett: 1* betza: K = WF 
+    Rajah/Raja/Король [royal] parlett: 1* betza: K = WF 
     Padàti/Bhata/Pedati/Sainik/Пешка parlett: o1>, c1X> betza: mfWcfF promote: Mantri (zone: promotion)
     Ratha/Śakata/Колесница parlett: n+ betza: R = WW
     Boat parlett: ~2X betza: A = (2,2) [old]
@@ -56,7 +56,7 @@
   players: White, Black
   board: ashtapada-8x8
   pieces:
-    King/Shah/Король parlett: 1* betza: K = WF 
+    King/Shah/Король [royal] parlett: 1* betza: K = WF 
     Pawn/Baidaq/Пешка parlett: o1>, c1X> betza: mfWcfF promote: Ferz (zone: promotion)
     Rook/Rukh/Ладья parlett: n+ betza: R = WW
     Knight/Конь parlett: ~1/2 betza: N = (1,2)
@@ -79,7 +79,7 @@
   players: White, Black
   board: chess-8x8
   pieces:
-    King/Король parlett: 1* betza: K = WF 
+    King/Король [royal] parlett: 1* betza: K = WF 
     Pawn/Пешка parlett: o1>, c1X>, io2> betza: mfWcfFimfW2 promote: Queen, Rook, Knight, Bishop (zone: promotion)
     Rook/Ладья parlett: n+ betza: R = WW
     Knight/Конь parlett: ~1/2 betza: N = (1,2)
