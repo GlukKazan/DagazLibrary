@@ -2,7 +2,7 @@
   players: Red, Black
   board: xiangqi-9x10
   pieces:
-    Jiang/Cheung/General/Генерал [royal] parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: 8ace
+    Jiang/Cheung/General/Генерал [royal] parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: 8ace|(0[p])+([f];[piece!General])
     Shi/Advisor/Guard/Советник parlett: 1X (zone: palace) betza: F (zone: palace) dagaz: gikm
     Zu/Pawn/Пешка parlett: 1>, 1>= (zone: enemy) betza: fW, sfW (zone: enemy) dagaz: 0st
     Xiang/Tseung/Elephant parlett: 2X (zone: home) betza: nA (zone: home) dagaz: (opqr)[p]\1
@@ -26,7 +26,7 @@
     e10 - Black General
 - Janggi [checkmated]
   pieces:
-    Jiang/Cheung/General/Генерал [royal] parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: 8acegikm
+    Jiang/Cheung/General/Генерал [royal] parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: 8acegikm|(0[p])+([f];[piece!General])
     Shi/Advisor/Guard/Советник parlett: 1* (zone: palace) betza: WF (zone: palace) dagaz: 8acegikm
     Zu/Pawn/Пешка parlett: 1>= betza: sfW dagaz: 013jn
     Xiang/Tseung/Elephant parlett: 2/3 betza: nJ dagaz: 0[p](47)[p]\1;1[p](45)[p]\2;2[p](56)[p]\3;3[p](67)[p]\4
@@ -50,8 +50,8 @@
 - Gwangsanghui [checkmated]
   board: gwangsanghui-15x14
   pieces:
-    General = King [royal] dagaz: 8acegikm[piece!Knight]
-    West General/East General dagaz: 8acegikm[piece!Knight]
+    General = King [royal] dagaz: 8acegikm[piece!Knight]|(0[p])+([f];[piece!General])
+    West General/East General dagaz: 8acegikm[piece!Knight]|(0[p])+([f];[piece!West General;East General])
     Guard/West Guard/East Guard dagaz: 8acegikm[piece!Knight]
     Elephant/West Elephant/East Elephant dagaz: (0[p](47)[p]\2;1[p](45)[p]\3;2[p](56)[p]\4;3[p](67)[p]\5)[piece!Knight]
     Chariot/West Chariot/East Chariot dagaz: (0123hjln)([p]\1)*[piece!Knight]
