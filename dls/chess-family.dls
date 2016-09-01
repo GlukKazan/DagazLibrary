@@ -79,12 +79,12 @@
   players: White, Black
   board: chess-8x8
   pieces:
-    King/Король [royal] parlett: 1* betza: K = WF 
-    Pawn/Пешка parlett: o1>, c1X>, io2> betza: mfWcfFimfW2 promote: Queen, Rook, Knight, Bishop (zone: promotion)
-    Rook/Ладья parlett: n+ betza: R = WW
-    Knight/Конь parlett: ~1/2 betza: N = (1,2)
-    Bishop/Слон/Офицер parlett: nX betza: B = FF
-    Queen/Ферзь parlett: n* betza: Q = RB
+    King/Король [royal] parlett: 1* betza: K = WF dagaz: 0123[A];[M][A](1[p]){2}[A]|1[M]3{2};[M][A](3[p]){3}[A]|3[M]1{2}
+    Pawn/Пешка parlett: o1>, c1X>, io2> betza: mfWcfFimfW2 promote: Queen, Rook, Knight, Bishop (zone: promotion) dagaz: (0[p];47[e])([promotion](!=Queen;Rook;Knight;Bishop))?;[M](0[p]){2};[t,e,Pawn,x 1]4[l0]
+    Rook/Ладья parlett: n+ betza: R = WW dagaz: (0123)\1*
+    Knight/Конь parlett: ~1/2 betza: N = (1,2) dagaz: 0,47;1,45;2,56;3,67
+    Bishop/Слон/Офицер parlett: nX betza: B = FF dagaz: (4567)\1*
+    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (01234567)\1*
   setup:
     a2, b2, c2, d2, e2, f2, g2, h2 - White Pawn
     a1, h1 - White Rook
