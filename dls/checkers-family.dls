@@ -1,9 +1,13 @@
-﻿- Русские шашки
+﻿- Checkers
+  board: chess-8x8
+  pieces:
+    Man/Шашка dagaz: 47[p]([promotion](!=King))?!(4567)[e][x]\1([promotion](!=King))?.[t][Man]2
+- Русские шашки
   players: White, Black
   board: chess-8x8
   pieces:
-    Man/Шашка dagaz: 47[p]([promotion](!=King))?!(!mode=1)(4567)[e][x]\1([promotion](!=King))?.[t][mode=1]
-    King/Дамка dagaz: (4567)([p]\1)*[p]!(!mode=1)(4567)([p]\1)*[e][x](\1[p])+.[t][mode=1]
+    Man/Шашка dagaz: 47[p]([promotion](!=King))?!(4567)[e][x]\1([promotion](!=King))?.[t]2
+    King/Дамка dagaz: (4567)([p]\1)*[p]!(4567)([p]\1)*[e][x](\1[p])+.[t]2
   setup:
     a1, c1, e1, g1, b2, d2, f2, h2, a3, c3, e3, g3 - White Man
     b6, d6, f6, h6, a7, c7, e7, g7, b8, d8, f8, h8 - Black Man
@@ -11,8 +15,8 @@
   players: White, Black
   board: chess-stack-8x8
   pieces:
-    Man/Шашка dagaz: 69[p]([promotion](!=King))?!(!mode=1)(6789)[e]<{1}\1[p]>\1([promotion](!=King))?.[t][mode=1]
-    King/Дамка dagaz: (6789)([p]\1)*[p]!(!mode=1)(6789)([p]\1)*[e]<{1}(\1[p])+(?position)>[!position=\5].[t][mode=1]
+    Man/Шашка dagaz: 69[p]([promotion](!=King))?!(6789)[e]<{1}\1[p]>\1([promotion](!=King))?.[t]2
+    King/Дамка dagaz: (6789)([p]\1)*[p]!(6789)([p]\1)*[e]<{1}(\1[p])+(?position)>[!position=\5].[t]2
   setup:
     a1, c1, e1, g1, b2, d2, f2, h2, a3, c3, e3, g3 - White Man
     b6, d6, f6, h6, a7, c7, e7, g7, b8, d8, f8, h8 - Black Man
