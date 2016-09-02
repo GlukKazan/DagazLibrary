@@ -1,0 +1,42 @@
+﻿- Shogi [checkmated]
+  players: Sente, Gote
+  board: shogi-9x9
+  pieces:
+    King [royal] parlett: 1* betza: K = WF dagaz: 0123[A]
+    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (?promotion)(4567)([p]\2)*([\1;promotion](!=Horse)?)?;[p]
+    Horse parlett: nX, 1+ betza: BW dagaz: 0123;(4567)([p]\1)*
+    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (?promotion)(0123)([p]\2)*([\1;promotion](!=Dragon)?)?;[p]
+    Dragon parlett: n+, 1X betza: RF dagaz: 4567;(0123)([p]\1)*
+    Lance parlett: n> betza: fR promote: Gold dagaz: (?promotion)0([p]0)*([\1;promotion](!=Gold)?)?|[Gold;0];[p]|0
+    Knight betza: ffN promote: Gold dagaz: (?promotion)0,47([\1;promotion](!=Gold)?)?|[Gold;0,47];[p]|0,47
+    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: (?promotion)012347([\1;promotion](!=Gold)?)?;[p]
+    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: 04567;[p]
+    Pawn parlett: 1> betza: fW promote: Tokin dagaz: (?promotion)0([\1;promotion](!=Tokin)?)?|[Gold;0];[p][1][2]|0
+  hooks:
+    1: (Nifu) A pawn cannot be dropped onto a file (column) containing another 
+       unpromoted pawn of the same player (promoted pawns do not count). 
+       A player with an unpromoted pawn on every file is therefore unable 
+       to drop a pawn anywhere. For this reason it is common to sacrifice 
+       a pawn in order to gain flexibility for drops. [1]
+    2: (Uchifuzume) A pawn cannot be dropped to give an immediate checkmate. 
+       (Although other pieces may be dropped to give immediate checkmate.) 
+       A pawn may, however, be dropped to give immediate check. [1]
+  source:
+    1: https://en.wikipedia.org/wiki/Shogi
+  setup:
+    e1 - Sente King
+    b2 - Sente Bishop
+    h2 - Sente Rook
+    a1, i1 - Sente Lance
+    b1, h1 - Sente Knight
+    c1, g1 - Sente Silver
+    d1, f1 - Sente Gold
+    a3, b3, c3, d3, e3, f3, g3, h3, i3 - Sente Pawn
+    e9 - Gote King
+    h8 - Gote Bishop
+    b2 - Gote Rook
+    a9, i9 - Gote Lance
+    b9, h9 - Gote Knight
+    c9, g9 - Gote Silver
+    d9, f9 - Gote Gold
+    a7, b7, c7, d7, e7, f7, g7, h7, i7 - Gote Pawn
