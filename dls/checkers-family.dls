@@ -2,7 +2,7 @@
   players: Black, White
   board: chess-inverse-8x8
   pieces:
-    Man dagaz: 47[p]([promotion](!=King))?!(47)[ex]\1[p]([promotion](!=King))?.[t][Man]2
+    Man dagaz: 47[p]([=promotion][King])?!(47)[ex]\1[p]([=promotion][King])?.[t][Man]2
     King dagaz: 4567[p]!(4567)[ex]\1[p].[t]2
   setup:
     a1, c1, e1, g1, b2, d2, f2, h2, a3, c3, e3, g3 - Black Man
@@ -11,7 +11,7 @@
   players: White, Black
   board: chess-8x8
   pieces:
-    Man/Шашка dagaz: 47[p]([promotion](!=King))?!(4567)[ex]\1[p]([promotion](!=King))?.[t]2
+    Man/Шашка dagaz: 47[p]([=promotion][King])?!(4567)[ex]\1[p]([=promotion][King])?.[t]2
     King/Дамка dagaz: (4567)([p]\1)*[p]!(4567)([p]\1)*[ex](\1[p])+.[t]2
   setup:
     a1, c1, e1, g1, b2, d2, f2, h2, a3, c3, e3, g3 - White Man
@@ -19,7 +19,7 @@
 - International Checkers
   players: White, Black
   board: chess-10x10
-    Man dagaz: 47[p]([promotion](!=King))?!((4567)[ex]\1[p].[t]2)([promotion](!=King))?
+    Man dagaz: 47[p]([=promotion][King])?!((4567)[ex]\1[p].[t]2)([=promotion][King])?
     King dagaz: (4567)([p]\1)*[p]!(4567)([p]\1)*[ex](\1[p])+.[t]2
   setup:
     a1, c1, e1, g1, i1, b2, d2, f2, h2, j2, a3, c3, e3, g3, i3, b4, d4, f4, h4, j4 - White Man
@@ -28,7 +28,7 @@
   players: White, Black
   board: chess-stack-8x8
   pieces:
-    Man/Шашка dagaz: 69[p]([promotion](!=King))?!(6789)[e]<{1}\1[p]>\1([promotion](!=King))?.[t]2
+    Man/Шашка dagaz: 69[p]([=promotion][King])?!(6789)[e]<{1}\1[p]>\1([=promotion][King])?.[t]2
     King/Дамка dagaz: (6789)([p]\1)*[p]!(6789)([p]\1)*[e]<{1}(\1[p])+(?position)>[!position=\5].[t]2
   setup:
     a1, c1, e1, g1, b2, d2, f2, h2, a3, c3, e3, g3 - White Man

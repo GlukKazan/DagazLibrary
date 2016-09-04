@@ -1,8 +1,0 @@
-﻿- Reversi [pass][count]
-  players: Black, White
-  board: chess-8x8
-  pieces:
-    Man dagaz: [p]|((0([e,Friend]0)+[f]),(1([e,Friend]1)+[f]),(2([e,Friend]2)+[f]),(3([e,Friend]3)+[f]),(4([e,Friend]4)+[f]),(5([e,Friend]5)+[f]),(6([e,Friend]6)+[f]),(7([e,Friend]7)+[f]))[\1]
-  setup:
-    d4, e5 - Black
-    d5, e4 - White

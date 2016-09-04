@@ -1,17 +1,17 @@
-﻿- Shogi [checkmated]
+﻿- Shogi [checkmated][shogi-drop]
   players: Sente, Gote
   board: shogi-9x9
   pieces:
-    King [royal] parlett: 1* betza: K = WF dagaz: 0123[A]
-    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (?promotion)(4567)([p]\2)*([\1;promotion](!=Horse)?)?;[p]
+    King [royal] parlett: 1* betza: K = WF dagaz: #[A]
+    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (?=promotion)(4567)([p]\2)*([\1;=promotion][Horse]?)?;[p]
     Horse parlett: nX, 1+ betza: BW dagaz: 0123;(4567)([p]\1)*
-    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (?promotion)(0123)([p]\2)*([\1;promotion](!=Dragon)?)?;[p]
+    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (?=promotion)(0123)([p]\2)*([\1;=promotion][Dragon]?)?;[p]
     Dragon parlett: n+, 1X betza: RF dagaz: 4567;(0123)([p]\1)*
-    Lance parlett: n> betza: fR promote: Gold dagaz: (?promotion)0([p]0)*([\1;promotion](!=Gold)?)?|[Gold;0];[p]|0
-    Knight betza: ffN promote: Gold dagaz: (?promotion)0,47([\1;promotion](!=Gold)?)?|[Gold;0,47];[p]|0,47
-    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: (?promotion)012347([\1;promotion](!=Gold)?)?;[p]
-    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: 04567;[p]
-    Pawn parlett: 1> betza: fW promote: Tokin dagaz: (?promotion)0([\1;promotion](!=Tokin)?)?|[Gold;0];[p][1][2]|0
+    Lance parlett: n> betza: fR promote: Gold dagaz: (?=promotion)0([p]0)*([\1;=promotion][Gold]?)?|[=Gold;0];[p]|0
+    Knight betza: ffN promote: Gold dagaz: (?=promotion)0,47([\1;=promotion][Gold]?)?|[=Gold;0,47];[p]|0,47
+    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: (?=promotion)04567([\1;=promotion][Gold]?)?;[p]
+    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: 012347;[p]
+    Pawn parlett: 1> betza: fW promote: Tokin dagaz: (?=promotion)0([\1;=promotion][Tokin]?)?|[=Tokin;0];[p][1][2]|0
   hooks:
     1: (Nifu) A pawn cannot be dropped onto a file (column) containing another 
        unpromoted pawn of the same player (promoted pawns do not count). 
@@ -40,3 +40,116 @@
     c9, g9 - Gote Silver
     d9, f9 - Gote Gold
     a7, b7, c7, d7, e7, f7, g7, h7, i7 - Gote Pawn
+- Dobutsu Shogi [loss-royal][shogi-drop][breakthrough]
+  players: Sente, Gote
+  board: shogi-3x4
+    King [royal] parlett: 1* betza: K = WF dagaz: #[1]
+    Sang parlett: 1X betza: F dagaz: 4567;[p]
+    Jang parlett: 1+ betza: W dagaz: 0123;[p]
+    Za parlett: 1> betza: fW promote: Hu dagaz: 0([=promotion][Hu])?|[=Hu;0];[p]|0
+    Hu parlett: 1+, 1X> betza: WfF dagaz: 012347;[p]
+  hooks:
+    1: Игрок побеждает если его King добирается до не аткуемой позиции
+       в зоне promotion (на последней горизонтали)
+  setup:
+    a1 - Sente Sang
+    b2 - Sente King
+    c1 - Sente Jang
+    b2 - Sente Za
+    c4 - Gote Sang
+    b4 - Gote King
+    a4 - Gote Jang
+    b3 - Gote Za
+- Mini Shogi [checkmated]
+  players: Sente, Gote
+  board: shogi-5x5
+  pieces:
+    King [royal] parlett: 1* betza: K = WF dagaz: #[A]
+    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (4567)([p]\1)*([=promotion][Horse])?;[p]
+    Horse parlett: nX, 1+ betza: BW dagaz: 0123;(4567)([p]\1)*
+    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (0123)([p]\1)*([=promotion][Dragon])?;[p]
+    Dragon parlett: n+, 1X betza: RF dagaz: 4567;(0123)([p]\1)*
+    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: 04567([=promotion][Gold])?;[p]
+    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: 012347;[p]
+    Pawn parlett: 1> betza: fW promote: Tokin dagaz: 0([=promotion][Tokin])?|0;[p][1][2]|0
+  setup:
+    a1 - Sente King
+    b1 - Sente Gold
+    c1 - Sente Silver
+    d1 - Sente Bishop
+    e1 - Sente Rook
+    a2 - Sente Pawn
+    a5 - Gote Rook
+    b5 - Gote Bishop
+    c5 - Gote Silver
+    d5 - Gote Gold
+    e5 - Gote King
+    e4 - Gote Pawn
+- Yonin Shogi [loss-royal][shogi-drop][3,4,5]
+  players: South, West, North, East
+  board: shogi-9x9
+  hooks:
+    3: Игрок захвативший вражеского короля (King) получает его в свой резерв 
+       и может выставить его на поле в любой момент.
+    4: Потеряв короля, игрок обязан выставить на поле из резерва другого
+       свокго короля (если таковой есть). Игрок выбывает из игры, потеряв 
+       всех своих королей.
+    5: Фигуры игрока, выбывшего из игры, остаются на поле, но не могут
+       выполнять ходов. Эти фигуры могут быть взяты любым из игроков.
+       Все фигуры, находившиеся в резерве выбывшего игрока, передаются
+       в резерв игрока, взявшего его последнего короля.
+  setup:
+    с1, g1 - South Silver
+    d1, f1 - South Gold
+    e1 - South King
+    e2 - South Rook
+    d2, d2, e3 - South Pawn
+    a3, a7 - West Silver
+    a4, a6 - West Gold
+    a5 - West King
+    b5 - West Rook
+    b4, b6, c5 - West Pawn
+    с9, g9 - North Silver
+    d9, f9 - North Gold
+    e9 - North King
+    e8 - North Rook
+    d8, d8, e7 - North Pawn
+    i3, i7 - East Silver
+    i4, i6 - East Gold
+    i5 - East King
+    h5 - East Rook
+    h4, h6, g5 - East Pawn
+- Yonin Shogi (variant)
+  setup:
+    a1 - South Lance
+    b1, h1 - South Knight
+    с1, g1 - South Silver
+    d1, f1 - South Gold
+    e1 - South King
+    b2 - South Bishop
+    g2 - South Rook
+    d3, e3, f3, g3, h3 - South Pawn
+    a9 - West Lance
+    a8, a2 - West Knight
+    a3, a7 - West Silver
+    a4, a6 - West Gold
+    a5 - West King
+    b8 - West Bishop
+    b3 - West Rook
+    c6, c5, c4, c3, c2 - West Pawn
+    i9 - North Lance
+    b9, h9 - North Knight
+    с9, g9 - North Silver
+    d9, f9 - North Gold
+    e9 - North King
+    h8 - North Bishop
+    c8 - North Rook
+    b7, c7, d7, e7, f7 - North Pawn
+    i1 - East Lance
+    i2, i8 - East Knight
+    i3, i7 - East Silver
+    i4, i6 - East Gold
+    i5 - East King
+    h2 - East Bishop
+    h7 - East Rook
+    g4, g5, g6, g7, g8 - East Pawn

@@ -1,0 +1,33 @@
+﻿- Ultima [loss-royal][stalemated]
+  players: White, Black
+  board: chess-8x8
+  pieces:
+    King [royal] dagaz: [E;!Immobilizer #]0123
+    Immobilizer dagaz: (#)([p]\1)*[p]
+    Withdrawer  dagaz: [E;!Immobilizer #](#)([e ~1~1,x ~1~1])?([p]\1)*[p]
+    Long Leaper dagaz: [E;!Immobilizer #](#)([p]\1)*([p];([ex](\1[p])+)+)
+    Coordinator dagaz: [E;!Immobilizer #](#)([p]\1)*[p]|((0123)([p]\4)*[ex](^\4;~4)([p]\6)*[f,=King])?
+    Pawn dagaz: [E;!Immobilizer #](0123)([p]\1)*[p]|((^~1)[ex]\4[f])?
+    Chameleon dagaz: [E;!Immobilizer #](#)([e ~1~1,=Withdrawer ~1~1,x ~1~1])?([e,=King,x];([p]\1)*([p];([e,=Long Leaper,x](\1[p])+)+))|((0123)[e,=Pawn,x]\8[f];(0123)([p]\9)*[e,=Coordinator,x](^\9;~9)([p]\b)*[f,=King])?
+  todo:
+    1: Вражеская фигура не может пройти через поле, контролируемое Immobilizer
+    2: Два Immobilizer парализуют друг друга, пока один из них не будет снят
+    3: Фигура блокированная Immobilizer может выполнить "самоубийственный" ход на месте
+    4: Chameleon может брать Pawn двигаясь лишь в ортогональном направлении
+  source:
+    1: http://igrovir.ucoz.ru/publ/pravila_igry_ultima/1-1-0-59
+  setup:
+    a2, b2, c2, d2, e2, f2, g2, h2 - White Pawn
+    a1 - White Immobilizer
+    h1 - White Coordinator
+    b1, g1 - White Long Leaper
+    c1, f1 - White Chameleon
+    d1 - White King
+    e1 - White Withdrawer
+    a7, b7, c7, d7, e7, f7, g7, h7 - Black Pawn
+    a8 - Black Coordinator
+    h8 - Black Immobilizer
+    b8, g8 - Black Long Leaper
+    c8, f8 - Black Chameleon
+    d8 - Black Withdrawer
+    e8 - Black King
