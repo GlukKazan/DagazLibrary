@@ -1,0 +1,31 @@
+﻿- Omega Chess [checkmated]
+  players: White, Black
+  board: omega-chess
+  pieces:
+    King/Король dagaz: #[A];[MA](1[p]){2}[A]|1[M]3{2};[MA](3[p]){3}[A]|3[M]1{2}
+    Pawn/Пешка promote: Queen, Rook, Knight, Bishop, Champion, Wizard (zone: promotion) dagaz: (0[p];47[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](0[p]){2,3};[(te,=Pawn,x) 2?,1](4)[l 0{1,2}];[(te,=Pawn,x) 2?,3]7[l 0{1,2}]
+    Champion dagaz: 0123;(#)\1
+    Wizard dagaz: 4,(0{2};1{2})?;5,(1{2};2{2})?;6,(2{2};3{2})?;7,(3{2};0{2})?;8,(0{2};1{2};2{2};3{2})?
+    Knight/Конь dagaz: 0,47;1,45;2,56;3,67;8,(0123)\1
+    Bishop/Слон/Офицер dagaz: (4567)([p]\1)*
+    Rook/Ладья dagaz: (0123)([p]\1)*
+    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (#)([p]\1)*
+  source:
+    1: https://en.wikipedia.org/wiki/Omega_Chess
+  setup:
+    w1, w2 - White Wizard
+    a0, j0 - White Champion
+    b0, i0 - White Rook
+    c0, h0 - White Knight
+    d0, g0 - White Bishop
+    e0 - White Queen
+    f0 - White King
+    a1, b1, c1, d1, g1, h1, i1, j1 - White Pawn
+    w3, w4 - Black Wizard
+    a9, j9 - Black Champion
+    b9, i9 - Black Rook
+    c9, h9 - Black Knight
+    d9, g9 - Black Bishop
+    e9 - Black Queen
+    f9 - Black King
+    a8, b8, c8, d8, g8, h8, i8, j8 - Black Pawn
