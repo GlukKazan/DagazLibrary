@@ -6,7 +6,7 @@
     Pawn/Пешка promote: Queen, Rook, Knight, Bishop, Champion, Wizard (zone: promotion) dagaz: (0[p];47[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](0[p]){2,3};[(te,=Pawn,x) 2?,1](4)[l 0{1,2}];[(te,=Pawn,x) 2?,3]7[l 0{1,2}]
     Champion dagaz: 0123;(#)\1
     Wizard dagaz: 4,(0{2};1{2})?;5,(1{2};2{2})?;6,(2{2};3{2})?;7,(3{2};0{2})?;8,(0{2};1{2};2{2};3{2})?
-    Knight/Конь dagaz: 0,47;1,45;2,56;3,67;8,(0123)\1
+    Knight/Конь dagaz: 0,47;1,45;2,56;3,67;8,0123
     Bishop/Слон/Офицер dagaz: (4567)([p]\1)*
     Rook/Ладья dagaz: (0123)([p]\1)*
     Queen/Ферзь parlett: n* betza: Q = RB dagaz: (#)([p]\1)*
