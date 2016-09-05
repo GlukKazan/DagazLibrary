@@ -2,20 +2,13 @@
   players: White, Black
   board: chess-8x8
   pieces:
-    King [royal] dagaz: [E;!Immobilizer #]0123
-    Immobilizer dagaz: (#)([p]\1)*[p]
-    Withdrawer  dagaz: [E;!Immobilizer #](#)([e ~1~1,x ~1~1])?([p]\1)*[p]
-    Long Leaper dagaz: [E;!Immobilizer #](#)([p]\1)*([p];([ex](\1[p])+)+)
-    Coordinator dagaz: [E;!Immobilizer #](#)([p]\1)*[p]|((0123)([p]\4)*[ex](^\4;~4)([p]\6)*[f,=King])?
-    Pawn dagaz: [E;!Immobilizer #](0123)([p]\1)*[p]|((^~1)[ex]\4[f])?
-    Chameleon dagaz: [E;!Immobilizer #](#)([e ~1~1,=Withdrawer ~1~1,x ~1~1])?([e,=King,x];([p]\1)*([p];([e,=Long Leaper,x](\1[p])+)+))|((0123)[e,=Pawn,x]\8[f];(0123)([p]\9)*[e,=Coordinator,x](^\9;~9)([p]\b)*[f,=King])?
-  todo:
-    1: Вражеская фигура не может пройти через поле, контролируемое Immobilizer
-    2: Два Immobilizer парализуют друг друга, пока один из них не будет снят
-    3: Фигура блокированная Immobilizer может выполнить "самоубийственный" ход на месте
-    4: Chameleon может брать Pawn двигаясь лишь в ортогональном направлении
-  source:
-    1: http://igrovir.ucoz.ru/publ/pravila_igry_ultima/1-1-0-59
+    King [royal] parlett: 1* betza: K = WF dagaz: [(E;!Immobilizer) #]0123
+    Immobilizer parlett: on* (Immo1*) betza: mQ (Immo-K) dagaz: [(E;!Immobilizer) #](#)([p]\2)*[p];[(e,Immobilizer) #][x]
+    Withdrawer  dagaz: [(E;!Immobilizer) #](#)([(e,x) ~2~2])?([p]\2)*[p];[(e,Immobilizer) #][x]
+    Long Leaper dagaz: [(E;!Immobilizer) #](#)([p]\2)*([p];([ex](\2[p])+)+);[(e,Immobilizer) #][x]
+    Coordinator dagaz: [(E;!Immobilizer) #](#)([p]\2)*[p]|((0123)([p]\5)*[ex](^\5;~5)([p]\7)*[f,=King])?;[(e,Immobilizer) #][x]
+    Pawn dagaz: [(E;!Immobilizer) #](0123)([p]\2)*[p]|((^~1)[ex]\5[f])?;[(e,Immobilizer) #][x]
+    Chameleon dagaz: [(E;!Immobilizer) #](0123)([(e,=Withdrawer,x) ~2~2])?([e,=King,x];([p]\2)*([p];([e,=Long Leaper,x](\2[p])+)+))|((0123)[e,=Pawn,x]\b[f];(0123)([p]\c)*[e,=Coordinator,x](^\c;~c)([p]\e)*[f,=King])?;[(E;!Immobilizer) #](4567)([(e,=Withdrawer,x) ~h~h])?([e,=King,x];([p]\h)*([p];([e,=Long Leaper,x](\h[p])+)+))|((0123)([p]\q)*[e,=Coordinator,x](^\q;~q)([p]\s)*[f,=King])?
   setup:
     a2, b2, c2, d2, e2, f2, g2, h2 - White Pawn
     a1 - White Immobilizer
