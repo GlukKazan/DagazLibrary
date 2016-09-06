@@ -2,7 +2,7 @@
   players: Black, White
   board: chess-8x8
   pieces:
-    Man dagaz: [p]|[(#)([e][Friend]\1)+[f]]
+    Man dagaz: [p]|[(*)([e][Friend]\1)+[f]]
   setup:
     d4, e5 - Black
     d5, e4 - White
@@ -10,7 +10,7 @@
   players: White, Black
   board: goban-9x9
   pieces:
-    Man dagaz: (#)([p]\1)*|((\1[e][Friend])+(^\1;~1)([e][Friend]\5)*[f])?
+    Man dagaz: (*)([p]\1)*|((\1[e][Friend])+(^\1;~1)([e][Friend]\5)*[f])?
   setup:
     a1, a2, a3, a4, a5, a6, a7, a8, b1, c1, d1, e1, f1, g1, h1, i1 - White
     a9, b9, c9, d9, e9, f9, g9, h9, i9, i8, i7, i6, i5, i4, i3, i2 - Black

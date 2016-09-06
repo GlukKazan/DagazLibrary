@@ -2,13 +2,13 @@
   players: Red, Black
   board: xiangqi-9x10
   pieces:
-    Jiang/Cheung/General/Генерал [royal] parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: 8ace|(0[p])+([f];[!General])
+    Jiang/Cheung/General/Генерал [royal] parlett: 1+ (zone: palace) betza: kW (zone: palace) dagaz: 8ace|(N[p])+([f];[!General])
     Shi/Advisor/Guard/Советник parlett: 1X (zone: palace) betza: F (zone: palace) dagaz: gikm
-    Zu/Pawn/Пешка parlett: 1>, 1>= (zone: enemy) betza: fW, sfW (zone: enemy) dagaz: 0st
+    Zu/Pawn/Пешка parlett: 1>, 1>= (zone: enemy) betza: fW, sfW (zone: enemy) dagaz: Nst
     Xiang/Tseung/Elephant parlett: 2X (zone: home) betza: nA (zone: home) dagaz: (opqr)[p]\1
-    Mao/Horse/Конь parlett: 1/2 betza: nN dagaz: 0[p]47;1[p]45;2[p]56;3[p]67
-    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (0123)([p]\1)*
-    Pao/Cannon/Пушка betza: mRcpR dagaz: (0123)([p]\1)*([P]\1([p]\1)*[e])?
+    Mao/Horse/Конь parlett: 1/2 betza: nN dagaz: N[p]OM;E[p]OT;S[p]TR;W[p]RM
+    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (+)([p]\1)*
+    Pao/Cannon/Пушка betza: mRcpR dagaz: (+)([p]\1)*([P]\1([p]\1)*[e])?
   setup:
     a4, c4, e4, g4, i4 - Red Pawn
     b1, h1 - Red Horse
@@ -26,12 +26,12 @@
     e10 - Black General
 - Janggi [checkmated]
   pieces:
-    Jiang/Cheung/General/Генерал [royal] parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: 8acegikm|(0[p])+([f];[!General])
+    Jiang/Cheung/General/Генерал [royal] parlett: 1* (zone: palace) betza: K = WF (zone: palace) dagaz: 8acegikm|(N[p])+([f];[!General])
     Shi/Advisor/Guard/Советник parlett: 1* (zone: palace) betza: WF (zone: palace) dagaz: 8acegikm
-    Zu/Pawn/Пешка parlett: 1>= betza: sfW dagaz: 013jn
-    Xiang/Tseung/Elephant parlett: 2/3 betza: nJ dagaz: 0[p](47)[p]\1;1[p](45)[p]\2;2[p](56)[p]\3;3[p](67)[p]\4
-    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (0123hjln)([p]\1)*
-    Pao/Cannon/Пушка betza: pR dagaz: (0123hjln)([p]\1)*[P]\1([p]\1)+
+    Zu/Pawn/Пешка parlett: 1>= betza: sfW dagaz: NEWjn
+    Xiang/Tseung/Elephant parlett: 2/3 betza: nJ dagaz: N[p](OM)[p]\1;E[p](OT)[p]\2;S[p](TR)[p]\3;W[p](RM)[p]\4
+    Ju/Kui/Chariot/Колесница parlett: n+ betza: R = WW dagaz: (+hjln)([p]\1)*
+    Pao/Cannon/Пушка betza: pR dagaz: (+hjln)([p]\1)*[P]\1([p]\1)+
   setup:
     a4, c4, e4, g4, i4 - Red Pawn
     b1, h1 - Red Horse
@@ -50,19 +50,19 @@
 - Gwangsanghui [checkmated]
   board: gwangsanghui-15x14
   pieces:
-    General = King [royal] dagaz: 8acegikm[!Knight]|(0[p])+([f];[!General])
-    West General/East General dagaz: 8acegikm[!Knight]|(0[p])+([f];[!West General,!East General])
+    General = King [royal] dagaz: 8acegikm[!Knight]|(N[p])+([f];[!General])
+    West General/East General dagaz: 8acegikm[!Knight]|(N[p])+([f];[!West General,!East General])
     Guard/West Guard/East Guard dagaz: 8acegikm[!Knight]
-    Elephant/West Elephant/East Elephant dagaz: (0[p](47)[p]\2;1[p](45)[p]\3;2[p](56)[p]\4;3[p](67)[p]\5)[!Knight]
-    Chariot/West Chariot/East Chariot dagaz: (0123hjln)([p]\1)*[!Knight]
-    Cannon/West Cannon/East Cannon dagaz: (0123hjln)([p]\1)*[P]\1([p]\1)+[!Knight]
-    Horse/West Horse/East Horse dagaz: (0[p]47;1[p]45;2[p]56;3[p]67)[!Knight]
-    Warrior dagaz: 0123{1,2}[!Knight]
-    Knight dagaz: 0[p]47[p];1[p]45[p];2[p]56[p];3[p]67[p]
-    Killer dagaz: 4567
+    Elephant/West Elephant/East Elephant dagaz: (N[p](OM)[p]\2;E[p](OT)[p]\3;S[p](TR)[p]\4;W[p](RM)[p]\5)[!Knight]
+    Chariot/West Chariot/East Chariot dagaz: (+hjln)([p]\1)*[!Knight]
+    Cannon/West Cannon/East Cannon dagaz: (+hjln)([p]\1)*[P]\1([p]\1)+[!Knight]
+    Horse/West Horse/East Horse dagaz: (N[p]OM;E[p]OT;S[p]RM;W[p]RM)[!Knight]
+    Warrior dagaz: +{1,2}[!Knight]
+    Knight dagaz: N[p]OM[p];E[p]OT[p];S[p]TR[p];W[p]RM[p]
+    Killer dagaz: X
     Forward/Backward
-    Soldier dagaz: 479bf
-    Pawn dagaz: 013jn
+    Soldier dagaz: OM9bf
+    Pawn dagaz: NEWjn
   setup:
     h3 = Red King
     b3 = Red West General

@@ -2,16 +2,16 @@
   players: Sente, Gote
   board: shogi-9x9
   pieces:
-    King [royal] parlett: 1* betza: K = WF dagaz: #[A]
-    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (?=promotion)(4567)([p]\2)*([\1;=promotion][Horse]?)?;[p]
-    Horse parlett: nX, 1+ betza: BW dagaz: 0123;(4567)([p]\1)*
-    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (?=promotion)(0123)([p]\2)*([\1;=promotion][Dragon]?)?;[p]
-    Dragon parlett: n+, 1X betza: RF dagaz: 4567;(0123)([p]\1)*
-    Lance parlett: n> betza: fR promote: Gold dagaz: (?=promotion)0([p]0)*([\1;=promotion][Gold]?)?|[=Gold;0];[p]|0
-    Knight betza: ffN promote: Gold dagaz: (?=promotion)0,47([\1;=promotion][Gold]?)?|[=Gold;0,47];[p]|0,47
-    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: (?=promotion)04567([\1;=promotion][Gold]?)?;[p]
-    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: 012347;[p]
-    Pawn parlett: 1> betza: fW promote: Tokin dagaz: (?=promotion)0([\1;=promotion][Tokin]?)?|[=Tokin;0];[p][1][2]|0
+    King [royal] parlett: 1* betza: K = WF dagaz: *[A]
+    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (?=promotion)(X)([p]\2)*([\1;=promotion][Horse]?)?;[p]
+    Horse parlett: nX, 1+ betza: BW dagaz: +;(X)([p]\1)*
+    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (?=promotion)(+)([p]\2)*([\1;=promotion][Dragon]?)?;[p]
+    Dragon parlett: n+, 1X betza: RF dagaz: X;(+)([p]\1)*
+    Lance parlett: n> betza: fR promote: Gold dagaz: (?=promotion)N([p]N)*([\1;=promotion][Gold]?)?|[=Gold;N];[p]|N
+    Knight betza: ffN promote: Gold dagaz: (?=promotion)N,OM([\1;=promotion][Gold]?)?|[=Gold;N,OM];[p]|N,OM
+    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: (?=promotion)NX([\1;=promotion][Gold]?)?;[p]
+    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: +OM;[p]
+    Pawn parlett: 1> betza: fW promote: Tokin dagaz: (?=promotion)N([\1;=promotion][Tokin]?)?|[=Tokin;N];[p][1][2]|N
   hooks:
     1: (Nifu) A pawn cannot be dropped onto a file (column) containing another 
        unpromoted pawn of the same player (promoted pawns do not count). 
@@ -43,11 +43,11 @@
 - Dobutsu Shogi [loss-royal][shogi-drop][breakthrough]
   players: Sente, Gote
   board: shogi-3x4
-    King [royal] parlett: 1* betza: K = WF dagaz: #[1]
-    Sang parlett: 1X betza: F dagaz: 4567;[p]
-    Jang parlett: 1+ betza: W dagaz: 0123;[p]
-    Za parlett: 1> betza: fW promote: Hu dagaz: 0([=promotion][Hu])?|[=Hu;0];[p]|0
-    Hu parlett: 1+, 1X> betza: WfF dagaz: 012347;[p]
+    King [royal] parlett: 1* betza: K = WF dagaz: *[1]
+    Sang parlett: 1X betza: F dagaz: X;[p]
+    Jang parlett: 1+ betza: W dagaz: +;[p]
+    Za parlett: 1> betza: fW promote: Hu dagaz: N([=promotion][Hu])?|[=Hu;N];[p]|N
+    Hu parlett: 1+, 1X> betza: WfF dagaz: +OM;[p]
   hooks:
     1: Игрок побеждает если его King добирается до не аткуемой позиции
        в зоне promotion (на последней горизонтали)
@@ -64,14 +64,14 @@
   players: Sente, Gote
   board: shogi-5x5
   pieces:
-    King [royal] parlett: 1* betza: K = WF dagaz: #[A]
-    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (4567)([p]\1)*([=promotion][Horse])?;[p]
-    Horse parlett: nX, 1+ betza: BW dagaz: 0123;(4567)([p]\1)*
-    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (0123)([p]\1)*([=promotion][Dragon])?;[p]
-    Dragon parlett: n+, 1X betza: RF dagaz: 4567;(0123)([p]\1)*
-    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: 04567([=promotion][Gold])?;[p]
-    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: 012347;[p]
-    Pawn parlett: 1> betza: fW promote: Tokin dagaz: 0([=promotion][Tokin])?|0;[p][1][2]|0
+    King [royal] parlett: 1* betza: K = WF dagaz: *[A]
+    Bishop parlett: nX betza: B = FF promote: Horse dagaz: (X)([p]\1)*([=promotion][Horse])?;[p]
+    Horse parlett: nX, 1+ betza: BW dagaz: +;(X)([p]\1)*
+    Rook parlett: n+ betza: R = WW promote: Dragon dagaz: (+)([p]\1)*([=promotion][Dragon])?;[p]
+    Dragon parlett: n+, 1X betza: RF dagaz: X;(+)([p]\1)*
+    Silver parlett: 1X, 1> betza: FfW promote: Gold dagaz: NX([=promotion][Gold])?;[p]
+    Gold/Tokin parlett: 1+, 1X> betza: WfF dagaz: +OM;[p]
+    Pawn parlett: 1> betza: fW promote: Tokin dagaz: N([=promotion][Tokin])?|N;[p][1][2]|N
   setup:
     a1 - Sente King
     b1 - Sente Gold

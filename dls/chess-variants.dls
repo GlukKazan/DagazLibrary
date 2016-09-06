@@ -2,14 +2,14 @@
   players: White, Black
   board: omega-chess
   pieces:
-    King/Король dagaz: #[A];[MA](1[p]){2}[A]|1[M]3{2};[MA](3[p]){3}[A]|3[M]1{2}
-    Pawn/Пешка promote: Queen, Rook, Knight, Bishop, Champion, Wizard (zone: promotion) dagaz: (0[p];47[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](0[p]){2,3};[(te,=Pawn,x) 2?,1](4)[l 0{1,2}];[(te,=Pawn,x) 2?,3]7[l 0{1,2}]
-    Champion/Чемпион dagaz: 0123;(#)\1
-    Wizard/Волшебник dagaz: 4,((01)\1)?;5,((12)\1)?;6,((23)\1)?;7,((03)\1)?
-    Knight/Конь dagaz: 4,01;5,12;6,23;7,03
-    Bishop/Слон/Офицер dagaz: (4567)([p]\1)*
-    Rook/Ладья dagaz: (0123)([p]\1)*
-    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (#)([p]\1)*
+    King/Король dagaz: *[A];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>
+    Pawn/Пешка promote: Queen, Rook, Knight, Bishop, Champion, Wizard (zone: promotion) dagaz: (N[p];OM[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](N[p]){2,3};[(te,=Pawn,x)-S?,E](4)O[l-N{1,2}];[(te,=Pawn,x)-S?,W]M[l-N{1,2}]
+    Champion/Чемпион dagaz: +;(*)\1
+    Wizard/Волшебник dagaz: O,((NE)\2)?;T,((ES)\4)?;R,((SW)\6)?;M,((NW)\8)?
+    Knight/Конь dagaz: O,NE;T,ES;R,SW;M,NW
+    Bishop/Слон/Офицер dagaz: (X)([p]\1)*
+    Rook/Ладья dagaz: (+)([p]\1)*
+    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (*)([p]\1)*
   source:
     1: https://en.wikipedia.org/wiki/Omega_Chess
   setup:
@@ -21,6 +21,36 @@
     e0 - White Queen
     f0 - White King
     a1, b1, c1, d1, g1, h1, i1, j1 - White Pawn
+    w3, w4 - Black Wizard
+    a9, j9 - Black Champion
+    b9, i9 - Black Rook
+    c9, h9 - Black Knight
+    d9, g9 - Black Bishop
+    e9 - Black Queen
+    f9 - Black King
+    a8, b8, c8, d8, g8, h8, i8, j8 - Black Pawn
+- Omega Chess Advanced
+  pieces:
+    King/Король dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](*[A];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>)(|[M]<[Fool-\1]>)?
+    Queen/Ферзь dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((*)([p]\5)*;[MA](W[p]){2}[A]|W<[M]E{2}>;[MA](E[p]){3}[A]|E<[M]W{2}>)(|[M]<[Fool-\1]>)?
+    Pawn/Пешка dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((N[p];OM[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](N[p]){2,3};[(te,=Pawn,x)-S?,E](4)O[l-N{1,2}];[(te,=Pawn,x)-S?,W]M[l-N{1,2}])(|[M]<[Fool-\1]>)?
+    Knight/Templar/Конь dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](O,NE(O)?;T,ES(T)?;R,SW(R)?;M,NW(M)?)(|[M]<[Fool-\1]>)?
+    Champion/Чемпион dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](+;(*)\5)(|[M]<[Fool-\1]>)?
+    Wizard/Волшебник dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](O,((NE)\6)?;T,((ES)\8)?;R,((SW)\A)?;M,((NW)\C)?)(|[M]<[Fool-\1]>)?
+    Bishop/Слон/Офицер dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((X)([p]\5)*)(|[M]<[Fool-\1]>)?
+    Rook/Ладья dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((+)([p]\5)*)(|[M]<[Fool-\1]>)?
+    Fool dagaz: [=King-t]*;[=Queen-t](*)([p]\1)*;[=Bishop-t](X)([p]\3)*;[=Rook-t](+)([p]\6)*;[=Champion-t](+;(*)\8);[=Pawn-t](N[p];OM[e]);[=Knight-t](O,NE(O)?;T,ES(T)?;R,SW(R)?;M,NW(M)?);[=Wizard-t](O,((NE)\4)?;T,((ES)\6)?;R,((SW)\8)?;M,((NW)\A)?)
+  setup:
+    1 - White Fool
+    w1, w2 - White Wizard
+    a0, j0 - White Champion
+    b0, i0 - White Rook
+    c0, h0 - White Knight
+    d0, g0 - White Bishop
+    e0 - White Queen
+    f0 - White King
+    a1, b1, c1, d1, g1, h1, i1, j1 - White Pawn
+    1 - Black Fool
     w3, w4 - Black Wizard
     a9, j9 - Black Champion
     b9, i9 - Black Rook

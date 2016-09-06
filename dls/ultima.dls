@@ -2,13 +2,13 @@
   players: White, Black
   board: chess-8x8
   pieces:
-    King [royal] parlett: 1* betza: K = WF dagaz: [(E;!Immobilizer) #]0123
-    Immobilizer parlett: on* (Immo1*) betza: mQ (Immo-K) dagaz: [(E;!Immobilizer) #](#)([p]\2)*[p];[(e,Immobilizer) #][x]
-    Withdrawer  dagaz: [(E;!Immobilizer) #](#)([(e,x) ~2~2])?([p]\2)*[p];[(e,Immobilizer) #][x]
-    Long Leaper dagaz: [(E;!Immobilizer) #](#)([p]\2)*([p];([ex](\2[p])+)+);[(e,Immobilizer) #][x]
-    Coordinator dagaz: [(E;!Immobilizer) #](#)([p]\2)*[p]|((0123)([p]\5)*[ex](^\5;~5)([p]\7)*[f,=King])?;[(e,Immobilizer) #][x]
-    Pawn dagaz: [(E;!Immobilizer) #](0123)([p]\2)*[p]|((^~1)[ex]\5[f])?;[(e,Immobilizer) #][x]
-    Chameleon dagaz: [(E;!Immobilizer) #](0123)([(e,=Withdrawer,x) ~2~2])?([e,=King,x];([p]\2)*([p];([e,=Long Leaper,x](\2[p])+)+))|((0123)[e,=Pawn,x]\b[f];(0123)([p]\c)*[e,=Coordinator,x](^\c;~c)([p]\e)*[f,=King])?;[(E;!Immobilizer) #](4567)([(e,=Withdrawer,x) ~h~h])?([e,=King,x];([p]\h)*([p];([e,=Long Leaper,x](\h[p])+)+))|((0123)([p]\q)*[e,=Coordinator,x](^\q;~q)([p]\s)*[f,=King])?
+    King [royal] parlett: 1* betza: K = WF dagaz: [(E;!Immobilizer)-*](+)
+    Immobilizer parlett: on* (Immo1*) betza: mQ (Immo-K) dagaz: [(E;!Immobilizer)-*](*)([p]\2)*[p];[(e,Immobilizer)-*][x]
+    Withdrawer  dagaz: [(E;!Immobilizer)-*](*)([(e,x) ~2~2])?([p]\2)*[p];[(e,Immobilizer)-*][x]
+    Long Leaper dagaz: [(E;!Immobilizer)-*](*)([p]\2)*([p];([ex](\2[p])+)+);[(e,Immobilizer)-*][x]
+    Coordinator dagaz: [(E;!Immobilizer)-*](*)([p]\2)*[p]|((+)([p]\5)*[ex](^\5;~5)([p]\7)*[f,=King])?;[(e,Immobilizer)-*][x]
+    Pawn dagaz: [(E;!Immobilizer)-*](+)([p]\2)*[p]|((^~1)[ex]\5[f])?;[(e,Immobilizer)-*][x]
+    Chameleon dagaz: [(E;!Immobilizer)-*](+)([(e,=Withdrawer,x) ~2~2])?([e,=King,x];([p]\2)*([p];([e,=Long Leaper,x](\2[p])+)+))|((+)[e,=Pawn,x]\b[f];(+)([p]\c)*[e,=Coordinator,x](^\c;~c)([p]\e)*[f,=King])?;[(E;!Immobilizer)-*](X)([(e,=Withdrawer,x) ~h~h])?([e,=King,x];([p]\h)*([p];([e,=Long Leaper,x](\h[p])+)+))|((+)([p]\q)*[e,=Coordinator,x](^\q;~q)([p]\s)*[f,=King])?
   setup:
     a2, b2, c2, d2, e2, f2, g2, h2 - White Pawn
     a1 - White Immobilizer
