@@ -2,7 +2,7 @@
   players: White, Black
   board: chess-8x8
   pieces:
-    King [royal] parlett: 1* betza: K = WF dagaz: [(E;!Immobilizer)-*](+)
+    King [royal] parlett: 1* betza: K = WF dagaz: [(E;!Immobilizer)-*]*[F]
     Immobilizer parlett: on* (Immo1*) betza: mQ (Immo-K) dagaz: [(E;!Immobilizer)-*](*)([p]\2)*[p];[(e,Immobilizer)-*][x]
     Withdrawer  dagaz: [(E;!Immobilizer)-*](*)([(e,x) ~2~2])?([p]\2)*[p];[(e,Immobilizer)-*][x]
     Long Leaper dagaz: [(E;!Immobilizer)-*](*)([p]\2)*([p];([ex](\2[p])+)+);[(e,Immobilizer)-*][x]

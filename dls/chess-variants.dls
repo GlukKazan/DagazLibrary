@@ -2,14 +2,14 @@
   players: White, Black
   board: omega-chess
   pieces:
-    King/Король dagaz: *[A];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>
+    King/Король dagaz: *[AF];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>
     Pawn/Пешка promote: Queen, Rook, Knight, Bishop, Champion, Wizard (zone: promotion) dagaz: (N[p];OM[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](N[p]){2,3};[(te,=Pawn,x)-S?,E](4)O[l-N{1,2}];[(te,=Pawn,x)-S?,W]M[l-N{1,2}]
-    Champion/Чемпион dagaz: +;(*)\1
-    Wizard/Волшебник dagaz: O,((NE)\2)?;T,((ES)\4)?;R,((SW)\6)?;M,((NW)\8)?
-    Knight/Конь dagaz: O,NE;T,ES;R,SW;M,NW
-    Bishop/Слон/Офицер dagaz: (X)([p]\1)*
-    Rook/Ладья dagaz: (+)([p]\1)*
-    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (*)([p]\1)*
+    Champion/Чемпион dagaz: +;(*)\1[F]
+    Wizard/Волшебник dagaz: (O,((NE)\2)?;T,((ES)\4)?;R,((SW)\6)?;M,((NW)\8)?)[F]
+    Knight/Конь dagaz: (O,NE;T,ES;R,SW;M,NW)[F]
+    Bishop/Слон/Офицер dagaz: (X)([p]\1)*[F]
+    Rook/Ладья dagaz: (+)([p]\1)*[F]
+    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (*)([p]\1)*[F]
   source:
     1: https://en.wikipedia.org/wiki/Omega_Chess
   setup:
@@ -31,15 +31,15 @@
     a8, b8, c8, d8, g8, h8, i8, j8 - Black Pawn
 - Omega Chess Advanced
   pieces:
-    King/Король dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](*[A];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>)(|[M]<[Fool-\1]>)?
-    Queen/Ферзь dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((*)([p]\5)*;[MA](W[p]){2}[A]|W<[M]E{2}>;[MA](E[p]){3}[A]|E<[M]W{2}>)(|[M]<[Fool-\1]>)?
+    King/Король dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](*[AF];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>)(|[M]<[Fool-\1]>)?
+    Queen/Ферзь dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((*)([p]\5)*[F];[MA](W[p]){2}[A]|W<[M]E{2}>;[MA](E[p]){3}[A]|E<[M]W{2}>)(|[M]<[Fool-\1]>)?
     Pawn/Пешка dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((N[p];OM[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](N[p]){2,3};[(te,=Pawn,x)-S?,E](4)O[l-N{1,2}];[(te,=Pawn,x)-S?,W]M[l-N{1,2}])(|[M]<[Fool-\1]>)?
-    Knight/Templar/Конь dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](O,NE(O)?;T,ES(T)?;R,SW(R)?;M,NW(M)?)(|[M]<[Fool-\1]>)?
-    Champion/Чемпион dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](+;(*)\5)(|[M]<[Fool-\1]>)?
-    Wizard/Волшебник dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](O,((NE)\6)?;T,((ES)\8)?;R,((SW)\A)?;M,((NW)\C)?)(|[M]<[Fool-\1]>)?
-    Bishop/Слон/Офицер dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((X)([p]\5)*)(|[M]<[Fool-\1]>)?
-    Rook/Ладья dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((+)([p]\5)*)(|[M]<[Fool-\1]>)?
-    Fool dagaz: [=King-t]*;[=Queen-t](*)([p]\1)*;[=Bishop-t](X)([p]\3)*;[=Rook-t](+)([p]\6)*;[=Champion-t](+;(*)\8);[=Pawn-t](N[p];OM[e]);[=Knight-t](O,NE(O)?;T,ES(T)?;R,SW(R)?;M,NW(M)?);[=Wizard-t](O,((NE)\4)?;T,((ES)\6)?;R,((SW)\8)?;M,((NW)\A)?)
+    Knight/Templar/Конь dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](O,NE(O)?;T,ES(T)?;R,SW(R)?;M,NW(M)?)[F](|[M]<[Fool-\1]>)?
+    Champion/Чемпион dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](+;(*)\5)[F](|[M]<[Fool-\1]>)?
+    Wizard/Волшебник dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*](O,((NE)\6)?;T,((ES)\8)?;R,((SW)\A)?;M,((NW)\C)?)[F](|[M]<[Fool-\1]>)?
+    Bishop/Слон/Офицер dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((X)([p]\5)*)[F](|[M]<[Fool-\1]>)?
+    Rook/Ладья dagaz: (?position)[(E;!Fool)-*;(f,=Fool)-*]((+)([p]\5)*)[F](|[M]<[Fool-\1]>)?
+    Fool dagaz: [=King-t]*[F];[=Queen-t](*)([p]\1)*[F];[=Bishop-t](X)([p]\3)*[F];[=Rook-t](+)([p]\6)*[F];[=Champion-t](+;(*)\8)[F];[=Pawn-t](N[p];OM[e]);[=Knight-t](O,NE(O)?;T,ES(T)?;R,SW(R)?;M,NW(M)?)[F];[=Wizard-t](O,((NE)\4)?;T,((ES)\6)?;R,((SW)\8)?;M,((NW)\A)?)[F]
   setup:
     1 - White Fool
     w1, w2 - White Wizard
@@ -59,3 +59,32 @@
     e9 - Black Queen
     f9 - Black King
     a8, b8, c8, d8, g8, h8, i8, j8 - Black Pawn
+- Jetan [loss-royal]
+  players: South, North
+  board: chess-10x10
+  pieces:
+    Panthan/Пантан dagaz: NEWOM[F]
+    Thoat/Тот dagaz: +,X[F]
+    Warrior/Воин dagaz: +[p]+[FR]
+    Padwar/Падвар dagaz: X[p]X[FR]
+    Dwar/Двар dagaz: +([pR]+){2}[FR]
+    Flier/Лётчик dagaz: X([R]X){2}[FR]
+    Chieftain/Джед dagaz: *([pR]*){2}[FR]
+    Princess/Принцесса [royal] dagaz: *([pR]*){2}[pR];[o](position=[p])
+  setup:
+    a2, j2 - South Thoat
+    a1, j1 - South Warrior
+    b1, i1 - South Padwar
+    c1, h1 - South Dwar
+    d1, g1 - South Flier
+    e1 - South Chieftain
+    f1 - South Princess
+    b2, c2, d2, e2, f2, g2, h2, i2 - South Panthan
+    a9, j9 - North Thoat
+    a10, j10 - North Warrior
+    b10, i10 - North Padwar
+    c10, h10 - North Dwar
+    d10, g10 - North Flier
+    f10 - North Chieftain
+    e10 - North Princess
+    b9, c9, d9, e9, f9, g9, h9, i9 - North Panthan

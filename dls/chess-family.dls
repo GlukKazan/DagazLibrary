@@ -79,12 +79,12 @@
   players: White, Black
   board: chess-8x8
   pieces:
-    King/Король [royal] parlett: 1* betza: K = WF dagaz: *[A];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>
+    King/Король [royal] parlett: 1* betza: K = WF dagaz: *[AF];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>
     Pawn/Пешка parlett: o1>, c1X>, io2> betza: mfWcfFimfW2 promote: Queen, Rook, Knight, Bishop (zone: promotion) dagaz: (N[p];OM[e])([=promotion][Queen;Rook;Knight;Bishop])?;[M](N[p]){2};[(te,=Pawn,x)-E]O[l-N];[(te,=Pawn,x)-W]M[l-N]
-    Rook/Ладья parlett: n+ betza: R = WW dagaz: (+)([p]\1)*
-    Knight/Конь parlett: ~1/2 betza: N = (1,2) dagaz: N,OM;E,OT;S,TR;W,RM
-    Bishop/Слон/Офицер parlett: nX betza: B = FF dagaz: (X)([p]\1)*
-    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (*)([p]\1)*
+    Rook/Ладья parlett: n+ betza: R = WW dagaz: (+)([p]\1)*[F]
+    Knight/Конь parlett: ~1/2 betza: N = (1,2) dagaz: (N,OM;E,OT;S,TR;W,RM)[F]
+    Bishop/Слон/Офицер parlett: nX betza: B = FF dagaz: (X)([p]\1)*[F]
+    Queen/Ферзь parlett: n* betza: Q = RB dagaz: (*)([p]\1)*[F]
   setup:
     a2, b2, c2, d2, e2, f2, g2, h2 - White Pawn
     a1, h1 - White Rook
