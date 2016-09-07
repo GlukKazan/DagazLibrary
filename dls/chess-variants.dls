@@ -5,7 +5,7 @@
     King/Король dagaz: *[AF];[MA](E[p]){2}[A]|E<[M]W{2}>;[MA](W[p]){3}[A]|W<[M]E{2}>
     Pawn/Пешка promote: Queen, Rook, Knight, Bishop, Champion, Wizard (zone: promotion) dagaz: (N[p];OM[e])([=promotion][Queen;Rook;Knight;Bishop;Champion;Wizard])?;[M](N[p]){2,3};[(te,=Pawn,x)-S?,E](4)O[l-N{1,2}];[(te,=Pawn,x)-S?,W]M[l-N{1,2}]
     Champion/Чемпион dagaz: +;(*)\1[F]
-    Wizard/Волшебник dagaz: (O,((NE)\2)?;T,((ES)\4)?;R,((SW)\6)?;M,((NW)\8)?)[F]
+    Wizard/Волшебник dagaz: (O,((NE)\3)?;T,((ES)\5)?;R,((SW)\7)?;M,((NW)\9)?)[F]
     Knight/Конь dagaz: (O,NE;T,ES;R,SW;M,NW)[F]
     Bishop/Слон/Офицер dagaz: (X)([p]\1)*[F]
     Rook/Ладья dagaz: (+)([p]\1)*[F]
