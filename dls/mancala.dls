@@ -1,0 +1,29 @@
+﻿- Oware/Wari/Warri/Вари/Аyo/Айо/Оваре
+  players: South, North
+  board: mancala-2x6
+  pieces:
+    Stone dagaz:
+    pre: [home,P]
+    action: +^(n{1}.)+
+    post: [1,2]([!home,(2;3),x]s)*
+  hooks:
+    1: If all the pits on the opponent's side are empty then a player must try 
+       to sow al least one seed to the opponent's side.  If it is not possible 
+       then the player moves all remaining seeds to his storehouse and the game 
+       ends [1].
+    2: There is a special case (called "Grand Slam") when sowing ends up in 
+       capturing all seeds on the opponent's side.  There are several 
+       variations of the rules applying to this case [1]:
+       2.1 "Grand Slam" captures are illegal, i.e. a player must not make such 
+           moves.  If all possible moves for a player result in "Grand Slams" 
+           then the player takes all remaining seeds to his storehouse and the 
+           game ends.
+       2.2 "Grand Slam" moves are allowed, however they don't capture anything.  
+           This variation is commonly used in International competitions.
+       2.3 "Grand Slams" are allowed.  I.e. a player captures all stones from 
+           the opponent's side,  takes all remaining seeds to his storehouse 
+           and the game ends.
+  source:
+    1: http://www.iggamecenter.com/info/en/oware.html
+  setup:
+    * - Stone x 4
