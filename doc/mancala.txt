@@ -1,0 +1,52 @@
+﻿#http://mancala.wikia.com/wiki/Traditional_mancala_games
+Dakon [Indonesia/Java] [1817, Sir Thomas Stamford Raffles] (2x7+:7 multiple) <Congkak
+Abalala'e/Abala, Abalalà [Eritrea/Ethiopia] [1943, Harold Courlander] (3x6:3 multiple) ~Gabata
+Achochodi/Axoxodi [Ivory Coast] [2009, Jordi Climent Tondo] (2x6:4 single) <Oware
+Adi/Annana [Ghana] (2x8:3 multiple) <Ba-awa
+Ajua [Kenya] [1929, George R. Carline] (2x8:3 multiple) ~Boola ~Lukho
+Alemungula [Ethiopia (West)] [1971, Richard Pankhurst] (2x5:5 single) ~Um el Bagara
+Andada [Eritrea (West)] [1971, Richard Pankhurst] (2x12;15;18;21;24:2 multiple)
+Andot [Sudan (Kassala)] [1938, Thomas Richard Hornby Owen] (2x6:4 single) ~Alemungula
+Anywoli [Ethiopia (Gambela), Sudan] [1971, Richard Pankhurst] (2x12:4 multiple) ~Obridjie
+Aweet [Sudan] (4x10:4,0 multiple) <Coro
+Azigo [Nigeria] [1905, Charles Partridge] (2x20:5{7},1 single) >Abiribi >Onafia
+Ayoayo/Aji/Ajito/Ayo/Madji/Tamtam Apachi/Yovodji [Benin, Ghana, Nigeria] (2x4;5;6:4  multiple)
+Ba-awa [Ghana] [1969, Robert Charles Bell] (2x6:4 multiple) ~Obridjie ~Jerin
+Bakuk [Morocco] [2009, Viktor Bautista i Roca] (2x3:6 single) ~Koumma
+Bao Kiarabu/Arabic Bao/Bao la Kigogo [Kenya (Mombasa), Tanzania (Zanzibar)] [1921, W. H. Ingrams] (4x8;12:3 multiple) ~Hawalis? ~Bao
+Bao la Kimasai [Tanzania (Kilimanjaro)] [2001, David MacKay] (4x8:0,1) ~Bao
+Bao la Kiswahili/Bao La Komwe/Bao La Kucheza/Bao La Zanzibar/Bau/Busolo/Katra/Lusole [Burundi (Bujumbura), Comores (Anjouan), Congo (Kisangani), Kenya (Coast), Madagascar (Northwest), Malawi, Tanzania (Coast, Zanzibar)] [1658, Étienne de Flacourt] (4x8:20+44 multiple) <Katra Fandatsaka
+Bawo [Malawi] [1896] <Bao la Kiswahili
+Bao La Kete [Kenya] [1972, Walter Driedger] <Bao la Kiswahili
+Baré/Bare [Sudan] [1971, Richard Pankhurst] (4x12:4 multiple)
+Baruma [Congo] (4x8 multiple)
+Bechi [Eritrea] [1913] (2x4:6 single) ~Alemungula
+Boola [Kenya] [1971] (2x12:0,3 multiple)
+Bosh [Somalia] [1931, G. Marin] (2x5:4 multiple*) ~Pachgarhwa ~Sat-gol
+Bulto [Ethiopia (South), Kenya (North)] [1971, Richard Pankhurst] (2x10:2 multiple)
+Cela [Angola] (4x7 multiple)
+Cepenet [Kenya] (4x4;8;12;16;24 multiple)
+Chiana [Malawi] (4x*:4 multiple)
+Chisolo/Cisolo [Zambia] (4x5:3 multiple)
+Coro/Choro [Uganda] (4x8:4,0 multiple) <Omweso
+Cuba [Mozambique, South Africa] (4x4;6;8;10;12;14;16;18;20;22 multiple) ~Moruba
+Dabuda [Djibouti, Ethiopia] [1971, Richard Pankhurst] (2x6;10:4 multiple)
+Dagh [Nigeria] (single?)
+Deka [Congo] (3x5;6,2:2 multiple) ~Embeli
+Dwong/Soro [Congo] (4x8 multiple)
+Éhérhé [Ghana] (2x6:4 single) ~Oware
+El Arnab [Sudan] [puzzle] (2x3 multiple)
+Elee [Kenya, Uganda] (4x8 multiple) <Omweso
+Embeli/Ambala [Congo (Buta, Bafwasende)] [1911, Joseph Halkin & Col. Ernest Viaene] (3x10,2:4,0 multiple) <Imbelece
+En Gehé [Tanzania (North)] [1904, Moritz Merker] (2x40-50:4 multiple)
+Enkeshui [Kenya] (2x8;10;12 multiple)
+En Dodoi/Endodoi [Kenya, Tanzania] [1904, Moritz Merker] (2x6;8;10:4 multiple) ~En Gehé
+Fifanga [Madagascar] (4x8:12+52 multiple) <Bao la Kiswahili
+Gamacha/Yada [Ethiopia (South)] (2x12 multiple)
+Giuthi [Kenya] [1925, Orde Brown] (2x5-10:4-9 single)
+Goré [Ethiopia (Omo valley)] [2009, Jordi Climent Tondo] (2x4:6 multiple)
+Huroy [Ethiopia (Omo valley)] [1970, David Turton] (2x6:4 single)
+Owela [Angola, Namibia] [1937, Diana and Antoinette Powell-Cotton] <Hus
+Hus/Lochspiel/Ogoro/Onjune/Onyune/Otjitoto/Thuskae/Uera/Xoros/Wera [Namibia] [1855, Johann Georg Krönlein] (4x8-24:2,0 multiple)
+Ichwe [Nigeria] (single?)
+#https://en.wikipedia.org/wiki/List_of_mancala_games
