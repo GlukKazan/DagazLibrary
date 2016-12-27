@@ -1,6 +1,6 @@
 ﻿#http://mancala.wikia.com/wiki/Traditional_mancala_games
 Dakon [Indonesia/Java] [1817, Sir Thomas Stamford Raffles] (2x7+:7 multiple) <Congkak
-Abalala'e/Abala, Abalalà [Eritrea/Ethiopia] [1943, Harold Courlander] (3x6:3 multiple) ~Gabata
+Abalala'e/Abala/Abalalà [Eritrea/Ethiopia] [1943, Harold Courlander] (3x6:3 multiple) ~Gabata
 Achochodi/Axoxodi [Ivory Coast] [2009, Jordi Climent Tondo] (2x6:4 single) <Oware
 Adi/Annana [Ghana] (2x8:3 multiple) <Ba-awa
 Ajua [Kenya] [1929, George R. Carline] (2x8:3 multiple) ~Boola ~Lukho
@@ -15,7 +15,7 @@ Ba-awa [Ghana] [1969, Robert Charles Bell] (2x6:4 multiple) ~Obridjie ~Jerin
 Bakuk [Morocco] [2009, Viktor Bautista i Roca] (2x3:6 single) ~Koumma
 Bao Kiarabu/Arabic Bao/Bao la Kigogo [Kenya (Mombasa), Tanzania (Zanzibar)] [1921, W. H. Ingrams] (4x8;12:3 multiple) ~Hawalis? ~Bao
 Bao la Kimasai [Tanzania (Kilimanjaro)] [2001, David MacKay] (4x8:0,1) ~Bao
-Bao la Kiswahili/Bao La Komwe/Bao La Kucheza/Bao La Zanzibar/Bau/Busolo/Katra/Lusole [Burundi (Bujumbura), Comores (Anjouan), Congo (Kisangani), Kenya (Coast), Madagascar (Northwest), Malawi, Tanzania (Coast, Zanzibar)] [1658, Étienne de Flacourt] (4x8:20+44 multiple) <Katra Fandatsaka
+Bao la Kiswahili/Bao La Komwe/Bao La Kucheza/Bao La Zanzibar/Bau/Busolo/Katra/Lusole [Burundi (Bujumbura), Comores (Anjouan), Congo (Kisangani), Kenya (Coast), Madagascar (Northwest), Malawi, Tanzania (Coast Zanzibar)] [1658, Étienne de Flacourt] (4x8:20+44 multiple) <Katra Fandatsaka
 Bawo [Malawi] [1896] <Bao la Kiswahili
 Bao La Kete [Kenya] [1972, Walter Driedger] <Bao la Kiswahili
 Baré/Bare [Sudan] [1971, Richard Pankhurst] (4x12:4 multiple)
@@ -36,7 +36,7 @@ Deka [Congo] (3x5;6,2:2 multiple) ~Embeli
 Dwong/Soro [Congo] (4x8 multiple)
 Éhérhé [Ghana] (2x6:4 single) ~Oware
 El Arnab [Sudan] [puzzle] (2x3 multiple) (1)
-Elee [Kenya, Uganda] (4x8 multiple) <Omweso
+Elee [Kenya/Uganda] (4x8 multiple) <Omweso
 Embeli/Ambala [Congo (Buta, Bafwasende)] [1911, Joseph Halkin & Col. Ernest Viaene] (3x10,2:4,0 multiple) <Imbelece
 En Gehé [Tanzania (North)] [1904, Moritz Merker] (2x40-50:4 multiple)
 Enkeshui [Kenya] (2x8;10;12 multiple)
@@ -74,4 +74,41 @@ Kecuek [Kenya] (4x10-12 multiple)
 Kiela [Angola (North)] [1887, Dr. Max Buchner] (4x10 multiple)
 Ki-Nyamwezi [Kenya] (4x4 multiple)
 Kiothi [Kenya] [1959, Bernardo Bernardi] (2x10:0{4},5 multiple)
+Kisolo/Cisolo/Kisoro [Congo] [1878, V. L. Cameron] (4x6-7:3 multiple+) ~Coro
+Kisumbi [Congo] (4x8 multiple)
+Koumma/Hefari?/Hefira? [Morocco (Ouled M'taâ)] (2x3:6 single) <Um ed-Dyar
+Kpo/Kbo/Poo [Liberia] (2x6:4;3 single) (3-4) <Oware
+Krur/Crur/Hrur/Khrour/Krour/Kurùr [Mauretania, Morocco (Western Sahara)] [1955, C. Béart] (2x4:4 multiple) ~Um Laarais
+Kuoless [Guinea] [1960, Horst Luz & Waldemar Herz] (2x2-10:4 single) (2-10) <Oware <Kpo <Walu
+Kwahilka Aitidikus [Eritrea, Ethiopia] (3x3:2{1},1 multiple) (1) ~Selus
+Lahemay Waladat [Ethiopia (southern Tigré)] [1971, R. Pankhurst] (2x6:4 multiple)
+Lamè Uwèlèdèt [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Sulus Nishtaw <Sulus Aidi
+Lami [Ethiopia (South)] (2x10:2 multiple) <Lamlameta
+Lamlameta [Ethiopia (Olanta)] [1971, Richard Pankhurst] (2x12:2 multiple)
+Latho [Ethiopia (south-central)] [1971, Richard Pankhurst] (2x6) ~Tagega ~Aghadaghada
+Layli Goobalay I [Somalia] [1971, Richard Pankhurst] (2x6:4 multiple)
+Layli Goobalay II/Leelo Goobalay/Laylo Goobalay [Somalia (Berbera, Somaliland)] [1931, G. Marin] (2x12:4 multiple)
+Leka [Congo, Uganda] (4x8 multiple) <Omweso
+Lela/Lien' [Congo] (4x7 multiple)
+Li'b al-Aqil [Egypt] (2x6 multiple)
+Li'b al-Ghashim [Egypt] (2x6 multiple)
+Li'bat Iblis/Gamma [Sudan, West Africa] (2x4:4 multiple)
+Lubasi/Mvete/Mbese [Congo] (4x7 multiple) ~Mangola
+Luela/Cela [Angola, Congo] (4x11 multiple)
+Lukho/Olukho [Kenya (Mount Elgon)] [1972, Walter Driedger] (2x8;10;12:3 multiple)
+Lusolo [Kenya] (4x8 multiple)
+Luuth [Ethiopia (West), Sudan] [1971, Richard Pankhurst] (2x7:4 single)
+Mangala [Egypt (Red Sea Coast), Sudan (Coast)] [1909, Henry Parker] (2x6 multiple)
+Mangola [Congo (Kinshasa)] (4x8:2 multiple) [1911] <Sombi <Mangura
+Mangura [Congo] (4x10? multiple)
+Mbangbi [Cameroon] (2x5:8 single)
+Mbele/Nembele [Congo] (4x8 multiple) ~Mangola
+Mbelele [Congo] [1977, Peter Townshend] (3x16,4:3 multiple)
+Mbothe [Keya (Tana river)] [1972, Walter Driedger] (2x10:2 multiple) ~Lamlameta
+Mefuvha [South Africa (Northeast)] [1931, Hugh Arthur Stayt] (4x6;8;10;12;14;16;18;20;22;24;26;28:2,1,0 multiple) ~Moruba ~Tchouba ~Njombwa
+Mongale [Kenya (Mombasa)] (4x8 multiple)
+Mongola [Congo] (4x7:(4,0) multiple)
+Moruba/Maruba/Mofuba/Ncuva/Tshimaya/Ntijwa/Tsoro [South Africa (Transvaal)] [1917, P. A. Wagner] (4x6;8;10;12;14;16:2 multiple) ~Tchouba ~Njombwa
+Msuwa  [Malawi] (4x8;10;12;14;16;18;20:0{1},2 multiple) ~Nsolo
 #https://en.wikipedia.org/wiki/List_of_mancala_games
+#http://skyruk.livejournal.com/410114.html

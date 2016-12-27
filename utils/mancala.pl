@@ -1,6 +1,42 @@
 use utf8;
 
 my @n;
+my %p;
+my %c;
+my %r;
+my %s;
+
+sub addLink {
+  my ($a, $b) = @_;
+  if ($b =~ /([~<>])(.*)/) {
+      my $t = $1;
+      my $n = $2;
+      $a =~ s/^\s+//;
+      $n =~ s/^\s+//;
+      $a =~ s/\s+$//;
+      $n =~ s/\s+$//;
+      $p{$a} = 1;
+      $p{$n} = 1;
+      if ($t eq '~') {
+          if ($r{$a}) {
+              $r{$a} .= ',';
+          }
+          $r{$a} .= $n;
+      }
+      if ($t eq '<') {
+          if ($c{$a}) {
+              $c{$a} .= ',';
+          }
+          $c{$a} .= $n;
+      }
+      if ($t eq '>') {
+          if ($c{$n}) {
+              $c{$n} .= ',';
+          }
+          $c{$n} .= $a;
+      }
+  }
+}
 
 while (<>) {
    chomp;
@@ -11,6 +47,16 @@ while (<>) {
        my $links    = $3;
        my %node     = {};
        $node{names} = \@names;
+       my $nm;
+       foreach my $name(@names) {
+          $name =~ s/^\s+//;
+          $name =~ s/\s+$//;
+          if (!$nm) {
+              $nm = $name;
+          } else {
+              $s{$name} = $nm;
+          }
+       }
        if ($scope =~ /\[(\D[^\]]+)\]/) {
            my @regions = split /\/|,|;/, $1;
            $node{regions} = \@regions;
@@ -26,11 +72,13 @@ while (<>) {
        if ($scope =~ /\((\d(-\d)?)\)/) {
            $node{players}   = $1;
        }
-       $links =~ s/\s~/;~/;
-       $links =~ s/\s</;</;
-       $links =~ s/\s>/;>/;
+       $links =~ s/\s~/;~/g;
+       $links =~ s/\s</;</g;
+       $links =~ s/\s>/;>/g;
        my @links = split /;/, $links;
-       $node{links} = \@links;
+       foreach my $l (@links) {
+          addLink($names[0], $l);
+       }
        $n[@n] = \%node;
    }
 }
@@ -40,31 +88,54 @@ print "<games>\n";
 
 foreach my $node (@n) {
    my $nr = @$node{names};
+   my $fl;
+   foreach my $name(@$nr) {
+       $name =~ s/^\s+//;
+       $name =~ s/\s+$//;
+       if ($p{$name}) { $fl = 1; }
+   }
+   if (!$fl) { next; }
+   my $pr = "";
+   my $rl = "";
    print " <game>\n";
    foreach my $name(@$nr) {
        $name =~ s/^\s+//;
        $name =~ s/\s+$//;
        print "  <name>$name</name>\n";
+       if ($c{$name}) {
+           $pr = $c{$name};
+       }
+       if ($r{$name}) {
+           $rl = $r{$name};
+       }
+   }
+   if ($pr) {
+       my @l = split /,/, $pr;
+       foreach my $l(@l) {
+          $l =~ s/^\s+//;
+          $l =~ s/\s+$//;
+          if ($s{$l}) {
+              $l = $s{$l};
+          }
+          print "  <parent>$l</parent>\n";
+       }
+   }
+   if ($rl) {
+       my @l = split /,/, $rl;
+       foreach my $l(@l) {
+          $l =~ s/^\s+//;
+          $l =~ s/\s+$//;
+          if ($s{$l}) {
+              $l = $s{$l};
+          }
+          print "  <related>$l</related>\n";
+       }
    }
    my $rr = @$node{regions};
    foreach my $name(@$rr) {
        $name =~ s/^\s+//;
        $name =~ s/\s+$//;
        print "  <region>$name</region>\n";
-   }
-   my $lr = @$node{links};
-   foreach my $name(@$lr) {
-       $name =~ s/^\s+//;
-       $name =~ s/\s+$//;
-       if ($name =~ /^<\s*(.*)$/) {
-           print "  <parent>$1</parent>\n";
-       }
-       if ($name =~ /^>\s*(.*)$/) {
-           print "  <child>$1</child>\n";
-       }
-       if ($name =~ /^~\s*(.*)$/) {
-           print "  <related>$1</related>\n";
-       }
    }
    if ($node->{described}) {
        print "  <described>$node->{described}</described>\n";
@@ -79,6 +150,7 @@ foreach my $node (@n) {
    if ($node->{players}) {
        print "  <players>$node->{players}</players>\n";
    }
+ 
    print " </game>\n";
 }
 
