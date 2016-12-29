@@ -51,7 +51,7 @@ Hus/Lochspiel/Ogoro/Onjune/Onyune/Otjitoto/Thuskae/Uera/Xoros/Wera [Namibia] [18
 Ichwe [Nigeria] (single?)
 Igisoro/Gisoro/Ibisoro/Ikisoro/Ikibuguzo/Kubuguza/Kusuro/Kuwaguza  [Burundi, Rwanda, Uganda] [1903, J. M. M. van der Burgt] (4x8:4,0 multiple) ~Omweso
 Igori/Ogori [Nigeria] (single?)
-Imbelece/Ambala [Congo (near Kisangani)] [1977, Philip Townshend] (3x6,4:3 multiple) ~Embeli ~Selus
+Imbelece/Ambala [Congo (near Kisangani)] [1977, Philip Townshend] (3x6,4:3 multiple) ~Selus
 Ise Ozin Egbe [Nigeria] [1949, J. U. Egharevba] (2x3 multiple) (1)
 Isafuba [Zimbabwe] (4x8-15 multiple)
 Isiimbi [Tanzania] (4x8:8+56 multiple) <Bao la Kiswahili
@@ -65,7 +65,7 @@ Kacigh [Kenya] (4x11-12 multiple) <Omweso
 Kale [Gabon] (2x6:4 single) [1894, Stewart Culin] <Oware
 Kanona [Zambia (Mwinilunga District)] (4x8:2 multiple)
 Kâra [Sudan (Kordofan)] [1925, R. Davies] (2x6:7 multiple) (4)
-Katra Fandatsaka [Madagascar] (4x8:12+52 multiple) <Bao la Kiswahili
+Katra Fandatsaka [Madagascar] (4x8:12+52 multiple)
 Katra Gorobaka [Madagascar] (4x8 multiple)
 Katra Mpantsaka [Madagascar] (4x8 multiple)
 Katro [Madagascar (Fianarantsoa)] [1998, Alexander Johan de Voogt] (6x6:2 multiple)
@@ -79,7 +79,7 @@ Kisumbi [Congo] (4x8 multiple)
 Koumma/Hefari?/Hefira? [Morocco (Ouled M'taâ)] (2x3:6 single) <Um ed-Dyar
 Kpo/Kbo/Poo [Liberia] (2x6:4;3 single) (3-4) <Oware
 Krur/Crur/Hrur/Khrour/Krour/Kurùr [Mauretania, Morocco (Western Sahara)] [1955, C. Béart] (2x4:4 multiple) ~Um Laarais
-Kuoless [Guinea] [1960, Horst Luz & Waldemar Herz] (2x2-10:4 single) (2-10) <Oware <Kpo <Walu
+Kuoless [Guinea] [1960, Horst Luz & Waldemar Herz] (2x2-10:4 single) (2-10) <Kpo <Walu
 Kwahilka Aitidikus [Eritrea, Ethiopia] (3x3:2{1},1 multiple) (1) ~Selus
 Lahemay Waladat [Ethiopia (southern Tigré)] [1971, R. Pankhurst] (2x6:4 multiple)
 Lamè Uwèlèdèt [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Sulus Nishtaw <Sulus Aidi
@@ -105,10 +105,29 @@ Mbangbi [Cameroon] (2x5:8 single)
 Mbele/Nembele [Congo] (4x8 multiple) ~Mangola
 Mbelele [Congo] [1977, Peter Townshend] (3x16,4:3 multiple)
 Mbothe [Keya (Tana river)] [1972, Walter Driedger] (2x10:2 multiple) ~Lamlameta
-Mefuvha [South Africa (Northeast)] [1931, Hugh Arthur Stayt] (4x6;8;10;12;14;16;18;20;22;24;26;28:2,1,0 multiple) ~Moruba ~Tchouba ~Njombwa
+Mefuvha [South Africa (Northeast)] [1931, Hugh Arthur Stayt] (4x6;8;10;12;14;16;18;20;22;24;26;28:2,1,0 multiple) ~Moruba ~Tchouba
 Mongale [Kenya (Mombasa)] (4x8 multiple)
 Mongola [Congo] (4x7:(4,0) multiple)
 Moruba/Maruba/Mofuba/Ncuva/Tshimaya/Ntijwa/Tsoro [South Africa (Transvaal)] [1917, P. A. Wagner] (4x6;8;10;12;14;16:2 multiple) ~Tchouba ~Njombwa
 Msuwa  [Malawi] (4x8;10;12;14;16;18;20:0{1},2 multiple) ~Nsolo
+Msuwa Wa Kunja [Malawi] (4x8;10;12;14;16;18;20:0,2 multiple) ~Nsolo
+Mucuba [Congo, Rwanda (Lake Kivu area)] (4x8 multiple)
+Mulabalaba [Zambia] (4x6;8;12;16:2;3 multiple)
+Mutiteba [Congo, Rwanda (Lake Kivu area)] (4x8 multiple)
+Mwambulula [Zambia (Kasana)] [1956, J. H. Chaplin] (4x8:0,2+16 multiple)
+Nakabili [Zambia] (4x8:0{1},2)
+Nam-Nam [Ghana] (2x6:4 multiple) <Ba-awa
+Nambayi [Congo (Panga)] (3x8,2:3 multiple) ~Embeli
+Ncaya [Mozambique, Tanzania] (4x5-8 multiple)
+Nchuba/Ncuba [Zambia] (4x8:2,0 multiple)
+Nchuwa [Malawi] (4x6;9;12;15:2 multiple)
+Ndebukya [Congo, Uganda] (4x7:2 multiple+) ~Kisolo
+Ndoto [Kenya] (2x8:2 multiple)
+Ngikilees [Uganda] (4x8;10 multiple)
+Ngikileth/Amoru [Ethiopia, Uganda] (4x11;12;13 multiple)
+Njombwa [Malawi] (4x8;9;10 multiple)
+Nsa Isong/Nsa-Isong [Nigeria] [1998, 'Dotun Osunsanya] (2x6:4 multiple) <Ba-awa ~J'erin
+Nsolo/Nchombwa [Malawi, Zambia (Ndola)] [1913, Meredith G. Sanderson] (4x8;10;12;14;16;18;20;22;24;26;28;30;32;34;36:2,0 multiple)
+
 #https://en.wikipedia.org/wiki/List_of_mancala_games
 #http://skyruk.livejournal.com/410114.html
