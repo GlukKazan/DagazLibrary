@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<games>
+ <game>
+  <name>Dakon</name>
+  <parent>Congkak</parent>
+  <region>Indonesia</region>
+  <region>Java</region>
+  <described>Sir Thomas Stamford Raffles</described>
+  <date>1817</date>
+  <type>multiple</type>
+  <setup>2x7+:7</setup>
+ </game>
+ <game>
+  <name>Abalala'e</name>
+  <name>Abala</name>
+  <name>Abalalà</name>
+  <related>Gabata</related>
+  <region>Eritrea</region>
+  <region>Ethiopia</region>
+  <described>Harold Courlander</described>
+  <date>1943</date>
+  <type>multiple</type>
+  <setup>3x6:3</setup>
+ </game>
+ <game>
+  <name>Achochodi</name>
+  <name>Axoxodi</name>
+  <parent>Oware</parent>
+  <region>Ivory Coast</region>
+  <described>Jordi Climent Tondo</described>
+  <date>2009</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Adi</name>
+  <name>Annana</name>
+  <parent>Ba-awa</parent>
+  <region>Ghana</region>
+  <type>multiple</type>
+  <setup>2x8:3</setup>
+ </game>
+ <game>
+  <name>Ajua</name>
+  <related>Boola</related>
+  <related>Lukho</related>
+  <region>Kenya</region>
+  <described>George R. Carline</described>
+  <date>1929</date>
+  <type>multiple</type>
+  <setup>2x8:3</setup>
+ </game>
+ <game>
+  <name>Alemungula</name>
+  <related>Um el Bagara</related>
+  <region>Ethiopia (West)</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>single</type>
+  <setup>2x5:5</setup>
+ </game>
+ <game>
+  <name>Andot</name>
+  <related>Alemungula</related>
+  <region>Sudan (Kassala)</region>
+  <described>Thomas Richard Hornby Owen</described>
+  <date>1938</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Anywoli</name>
+  <related>Obridjie</related>
+  <region>Ethiopia (Gambela)</region>
+  <region>Sudan</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>2x12:4</setup>
+ </game>
+ <game>
+  <name>Aweet</name>
+  <parent>Coro</parent>
+  <region>Sudan</region>
+  <type>multiple</type>
+  <setup>4x10:4,0</setup>
+ </game>
+ <game>
+  <name>Azigo</name>
+  <region>Nigeria</region>
+  <described>Charles Partridge</described>
+  <date>1905</date>
+  <type>single</type>
+  <setup>2x20:5{7},1</setup>
+ </game>
+ <game>
+  <name>Ba-awa</name>
+  <related>Obridjie</related>
+  <related>Jerin</related>
+  <region>Ghana</region>
+  <described>Robert Charles Bell</described>
+  <date>1969</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Bakuk</name>
+  <related>Koumma</related>
+  <region>Morocco</region>
+  <described>Viktor Bautista i Roca</described>
+  <date>2009</date>
+  <type>single</type>
+  <setup>2x3:6</setup>
+ </game>
+ <game>
+  <name>Bao Kiarabu</name>
+  <name>Arabic Bao</name>
+  <name>Bao la Kigogo</name>
+  <related>Hawalis?</related>
+  <related>Bao</related>
+  <region>Kenya (Mombasa)</region>
+  <region>Tanzania (Zanzibar)</region>
+  <described>W. H. Ingrams</described>
+  <date>1921</date>
+  <type>multiple</type>
+  <setup>4x8;12:3</setup>
+ </game>
+ <game>
+  <name>Bao la Kimasai</name>
+  <related>Bao</related>
+  <region>Tanzania (Kilimanjaro)</region>
+  <described>David MacKay</described>
+  <date>2001</date>
+  <setup>4x8:0,1</setup>
+ </game>
+ <game>
+  <name>Bao la Kiswahili</name>
+  <name>Bao La Komwe</name>
+  <name>Bao La Kucheza</name>
+  <name>Bao La Zanzibar</name>
+  <name>Bau</name>
+  <name>Busolo</name>
+  <name>Katra</name>
+  <name>Lusole</name>
+  <parent>Katra Fandatsaka</parent>
+  <region>Burundi (Bujumbura)</region>
+  <region>Comores (Anjouan)</region>
+  <region>Congo (Kisangani)</region>
+  <region>Kenya (Coast)</region>
+  <region>Madagascar (Northwest)</region>
+  <region>Malawi</region>
+  <region>Tanzania (Coast Zanzibar)</region>
+  <described>Étienne de Flacourt</described>
+  <date>1658</date>
+  <type>multiple</type>
+  <setup>4x8:20+44</setup>
+ </game>
+ <game>
+  <name>Bawo</name>
+  <parent>Bao la Kiswahili</parent>
+  <region>Malawi</region>
+ </game>
+ <game>
+  <name>Bao La Kete</name>
+  <parent>Bao la Kiswahili</parent>
+  <region>Kenya</region>
+  <described>Walter Driedger</described>
+  <date>1972</date>
+ </game>
+ <game>
+  <name>Bechi</name>
+  <related>Alemungula</related>
+  <region>Eritrea</region>
+  <type>single</type>
+  <setup>2x4:6</setup>
+ </game>
+ <game>
+  <name>Boola</name>
+  <region>Kenya</region>
+  <type>multiple</type>
+  <setup>2x12:0,3</setup>
+ </game>
+ <game>
+  <name>Bosh</name>
+  <related>Pachgarhwa</related>
+  <related>Sat-gol</related>
+  <region>Somalia</region>
+  <described>G. Marin</described>
+  <date>1931</date>
+  <type>multiple*</type>
+  <setup>2x5:4</setup>
+ </game>
+ <game>
+  <name>Coro</name>
+  <name>Choro</name>
+  <parent>Omweso</parent>
+  <region>Uganda</region>
+  <type>multiple</type>
+  <setup>4x8:4,0</setup>
+ </game>
+ <game>
+  <name>Cuba</name>
+  <related>Moruba</related>
+  <region>Mozambique</region>
+  <region>South Africa</region>
+  <type>multiple</type>
+  <setup>4x4;6;8;10;12;14;16;18;20;22</setup>
+ </game>
+ <game>
+  <name>Deka</name>
+  <related>Embeli</related>
+  <region>Congo</region>
+  <type>multiple</type>
+  <setup>3x5;6,2:2</setup>
+ </game>
+ <game>
+  <name>Éhérhé</name>
+  <related>Oware</related>
+  <region>Ghana</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Elee</name>
+  <parent>Omweso</parent>
+  <region>Kenya</region>
+  <region>Uganda</region>
+  <type>multiple</type>
+  <setup>4x8</setup>
+ </game>
+ <game>
+  <name>Embeli</name>
+  <name>Ambala</name>
+  <parent>Imbelece</parent>
+  <region>Congo (Buta</region>
+  <region>Bafwasende)</region>
+  <described>Joseph Halkin &amp; Col. Ernest Viaene</described>
+  <date>1911</date>
+  <type>multiple</type>
+  <setup>3x10,2:4,0</setup>
+ </game>
+ <game>
+  <name>En Gehé</name>
+  <region>Tanzania (North)</region>
+  <described>Moritz Merker</described>
+  <date>1904</date>
+  <type>multiple</type>
+  <setup>2x40-50:4</setup>
+ </game>
+ <game>
+  <name>En Dodoi</name>
+  <name>Endodoi</name>
+  <related>En Gehé</related>
+  <region>Kenya</region>
+  <region>Tanzania</region>
+  <described>Moritz Merker</described>
+  <date>1904</date>
+  <type>multiple</type>
+  <setup>2x6;8;10:4</setup>
+ </game>
+ <game>
+  <name>Fifanga</name>
+  <parent>Bao la Kiswahili</parent>
+  <region>Madagascar</region>
+  <type>multiple</type>
+  <setup>4x8:12+52</setup>
+ </game>
+ <game>
+  <name>Owela</name>
+  <parent>Hus</parent>
+  <region>Angola</region>
+  <region>Namibia</region>
+  <described>Diana and Antoinette Powell-Cotton</described>
+  <date>1937</date>
+ </game>
+ <game>
+  <name>Hus</name>
+  <name>Lochspiel</name>
+  <name>Ogoro</name>
+  <name>Onjune</name>
+  <name>Onyune</name>
+  <name>Otjitoto</name>
+  <name>Thuskae</name>
+  <name>Uera</name>
+  <name>Xoros</name>
+  <name>Wera</name>
+  <region>Namibia</region>
+  <described>Johann Georg Krönlein</described>
+  <date>1855</date>
+  <type>multiple</type>
+  <setup>4x8-24:2,0</setup>
+ </game>
+ <game>
+  <name>Igisoro</name>
+  <name>Gisoro</name>
+  <name>Ibisoro</name>
+  <name>Ikisoro</name>
+  <name>Ikibuguzo</name>
+  <name>Kubuguza</name>
+  <name>Kusuro</name>
+  <name>Kuwaguza</name>
+  <related>Omweso</related>
+  <region>Burundi</region>
+  <region>Rwanda</region>
+  <region>Uganda</region>
+  <described>J. M. M. van der Burgt</described>
+  <date>1903</date>
+  <type>multiple</type>
+  <setup>4x8:4,0</setup>
+ </game>
+ <game>
+  <name>Imbelece</name>
+  <name>Ambala</name>
+  <related>Selus</related>
+  <region>Congo (near Kisangani)</region>
+  <described>Philip Townshend</described>
+  <date>1977</date>
+  <type>multiple</type>
+  <setup>3x6,4:3</setup>
+ </game>
+ <game>
+  <name>Isiimbi</name>
+  <parent>Bao la Kiswahili</parent>
+  <region>Tanzania</region>
+  <type>multiple</type>
+  <setup>4x8:8+56</setup>
+ </game>
+ <game>
+  <name>Isolo I</name>
+  <related>Bao</related>
+  <region>Zambia</region>
+  <described>J. H. Chaplin</described>
+  <date>1956</date>
+  <type>multiple</type>
+  <setup>2x8:2+</setup>
+ </game>
+ <game>
+  <name>J'erin</name>
+  <parent>Ba-awa</parent>
+  <region>Nigeria</region>
+  <described>R. J. Newberry</described>
+  <date>1939</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Kacigh</name>
+  <parent>Omweso</parent>
+  <region>Kenya</region>
+  <type>multiple</type>
+  <setup>4x11-12</setup>
+ </game>
+ <game>
+  <name>Kale</name>
+  <parent>Oware</parent>
+  <region>Gabon</region>
+  <described>Stewart Culin</described>
+  <date>1894</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Katra Fandatsaka</name>
+  <region>Madagascar</region>
+  <type>multiple</type>
+  <setup>4x8:12+52</setup>
+ </game>
+ <game>
+  <name>Kisolo</name>
+  <name>Cisolo</name>
+  <name>Kisoro</name>
+  <related>Coro</related>
+  <region>Congo</region>
+  <described>V. L. Cameron</described>
+  <date>1878</date>
+  <type>multiple+</type>
+  <setup>4x6-7:3</setup>
+ </game>
+ <game>
+  <name>Koumma</name>
+  <name>Hefari?</name>
+  <name>Hefira?</name>
+  <parent>Um ed-Dyar</parent>
+  <region>Morocco (Ouled M'taâ)</region>
+  <type>single</type>
+  <setup>2x3:6</setup>
+ </game>
+ <game>
+  <name>Kpo</name>
+  <name>Kbo</name>
+  <name>Poo</name>
+  <parent>Oware</parent>
+  <region>Liberia</region>
+  <type>single</type>
+  <setup>2x6:4;3</setup>
+  <players>3-4</players>
+ </game>
+ <game>
+  <name>Krur</name>
+  <name>Crur</name>
+  <name>Hrur</name>
+  <name>Khrour</name>
+  <name>Krour</name>
+  <name>Kurùr</name>
+  <related>Um Laarais</related>
+  <region>Mauretania</region>
+  <region>Morocco (Western Sahara)</region>
+  <described>C. Béart</described>
+  <date>1955</date>
+  <type>multiple</type>
+  <setup>2x4:4</setup>
+ </game>
+ <game>
+  <name>Kuoless</name>
+  <parent>Kpo</parent>
+  <parent>Walu</parent>
+  <region>Guinea</region>
+  <described>Horst Luz &amp; Waldemar Herz</described>
+  <date>1960</date>
+  <type>single</type>
+  <setup>2x2-10:4</setup>
+ </game>
+ <game>
+  <name>Kwahilka Aitidikus</name>
+  <related>Selus</related>
+  <region>Eritrea</region>
+  <region>Ethiopia</region>
+  <type>multiple</type>
+  <setup>3x3:2{1},1</setup>
+  <players>1</players>
+ </game>
+ <game>
+  <name>Lahemay Waladat</name>
+  <region>Ethiopia (southern Tigré)</region>
+  <described>R. Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Lamè Uwèlèdèt</name>
+  <parent>Sulus Nishtaw</parent>
+  <parent>Sulus Aidi</parent>
+  <region>Eritrea</region>
+  <described>Harold Courlander</described>
+  <date>1943</date>
+  <type>multiple</type>
+  <setup>3x6:3</setup>
+ </game>
+ <game>
+  <name>Lami</name>
+  <parent>Lamlameta</parent>
+  <region>Ethiopia (South)</region>
+  <type>multiple</type>
+  <setup>2x10:2</setup>
+ </game>
+ <game>
+  <name>Lamlameta</name>
+  <region>Ethiopia (Olanta)</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>2x12:2</setup>
+ </game>
+ <game>
+  <name>Latho</name>
+  <related>Tagega</related>
+  <related>Aghadaghada</related>
+  <region>Ethiopia (south-central)</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <setup>2x6</setup>
+ </game>
+ <game>
+  <name>Leka</name>
+  <parent>Omweso</parent>
+  <region>Congo</region>
+  <region>Uganda</region>
+  <type>multiple</type>
+  <setup>4x8</setup>
+ </game>
+ <game>
+  <name>Lubasi</name>
+  <name>Mvete</name>
+  <name>Mbese</name>
+  <related>Mangola</related>
+  <region>Congo</region>
+  <type>multiple</type>
+  <setup>4x7</setup>
+ </game>
+ <game>
+  <name>Lukho</name>
+  <name>Olukho</name>
+  <region>Kenya (Mount Elgon)</region>
+  <described>Walter Driedger</described>
+  <date>1972</date>
+  <type>multiple</type>
+  <setup>2x8;10;12:3</setup>
+ </game>
+ <game>
+  <name>Mangola</name>
+  <parent>Sombi</parent>
+  <parent>Mangura</parent>
+  <region>Congo (Kinshasa)</region>
+  <type>multiple</type>
+  <setup>4x8:2</setup>
+ </game>
+ <game>
+  <name>Mangura</name>
+  <region>Congo</region>
+  <type>multiple</type>
+  <setup>4x10?</setup>
+ </game>
+ <game>
+  <name>Mbele</name>
+  <name>Nembele</name>
+  <related>Mangola</related>
+  <region>Congo</region>
+  <type>multiple</type>
+  <setup>4x8</setup>
+ </game>
+ <game>
+  <name>Mbothe</name>
+  <related>Lamlameta</related>
+  <region>Keya (Tana river)</region>
+  <described>Walter Driedger</described>
+  <date>1972</date>
+  <type>multiple</type>
+  <setup>2x10:2</setup>
+ </game>
+ <game>
+  <name>Mefuvha</name>
+  <related>Moruba</related>
+  <related>Tchouba</related>
+  <region>South Africa (Northeast)</region>
+  <described>Hugh Arthur Stayt</described>
+  <date>1931</date>
+  <type>multiple</type>
+  <setup>4x6;8;10;12;14;16;18;20;22;24;26;28:2,1,0</setup>
+ </game>
+ <game>
+  <name>Moruba</name>
+  <name>Maruba</name>
+  <name>Mofuba</name>
+  <name>Ncuva</name>
+  <name>Tshimaya</name>
+  <name>Ntijwa</name>
+  <name>Tsoro</name>
+  <related>Tchouba</related>
+  <related>Njombwa</related>
+  <region>South Africa (Transvaal)</region>
+  <described>P. A. Wagner</described>
+  <date>1917</date>
+  <type>multiple</type>
+  <setup>4x6;8;10;12;14;16:2</setup>
+ </game>
+ <game>
+  <name>Msuwa</name>
+  <related>Nsolo</related>
+  <region>Malawi</region>
+  <type>multiple</type>
+  <setup>4x8;10;12;14;16;18;20:0{1},2</setup>
+ </game>
+ <game>
+  <name>Msuwa Wa Kunja</name>
+  <related>Nsolo</related>
+  <region>Malawi</region>
+  <type>multiple</type>
+  <setup>4x8;10;12;14;16;18;20:0,2</setup>
+ </game>
+ <game>
+  <name>Nam-Nam</name>
+  <parent>Ba-awa</parent>
+  <region>Ghana</region>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Nambayi</name>
+  <related>Embeli</related>
+  <region>Congo (Panga)</region>
+  <type>multiple</type>
+  <setup>3x8,2:3</setup>
+ </game>
+ <game>
+  <name>Ndebukya</name>
+  <related>Kisolo</related>
+  <region>Congo</region>
+  <region>Uganda</region>
+  <type>multiple+</type>
+  <setup>4x7:2</setup>
+ </game>
+ <game>
+  <name>Njombwa</name>
+  <region>Malawi</region>
+  <type>multiple</type>
+  <setup>4x8;9;10</setup>
+ </game>
+ <game>
+  <name>Nsa Isong</name>
+  <name>Nsa-Isong</name>
+  <parent>Ba-awa</parent>
+  <related>J'erin</related>
+  <region>Nigeria</region>
+  <described>'Dotun Osunsanya</described>
+  <date>1998</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Nsolo</name>
+  <name>Nchombwa</name>
+  <region>Malawi</region>
+  <region>Zambia (Ndola)</region>
+  <described>Meredith G. Sanderson</described>
+  <date>1913</date>
+  <type>multiple</type>
+  <setup>4x8;10;12;14;16;18;20;22;24;26;28;30;32;34;36:2,0</setup>
+ </game>
+ <game>
+  <name>Num-Num</name>
+  <parent>Adi</parent>
+  <region>Ghana</region>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Obridjie</name>
+  <related>Ba-awa</related>
+  <related>Whyo</related>
+  <related>Jerin</related>
+  <related>Lok</related>
+  <related>Anywoli</related>
+  <region>Nigeria</region>
+  <described>Harold James Ruthven Murray</described>
+  <date>1946</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Ohojichi</name>
+  <name>Ohojitxi</name>
+  <related>Lontu-holu</related>
+  <region>Ivory Coast</region>
+  <described>Jordi Climent Tondo</described>
+  <date>2009</date>
+  <type>single</type>
+  <setup>6x2:4</setup>
+ </game>
+ <game>
+  <name>Oluwuka</name>
+  <parent>Oware</parent>
+  <region>Nigeria</region>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Omweso</name>
+  <name>Mweisho</name>
+  <name>Mweso</name>
+  <name>Omwesso</name>
+  <region>Uganda</region>
+  <described>John Hanning Speke</described>
+  <date>1862</date>
+  <type>multiple</type>
+  <setup>4x8:4,0</setup>
+ </game>
+ <game>
+  <name>Otra</name>
+  <parent>Otu</parent>
+  <region>Congo</region>
+  <type>multiple</type>
+  <setup>4x8</setup>
+ </game>
+ <game>
+  <name>Otu</name>
+  <region>Congo</region>
+  <type>multiple</type>
+  <setup>4x8</setup>
+ </game>
+ <game>
+  <name>Ouri</name>
+  <name>Huri</name>
+  <name>Ourim</name>
+  <name>Òrè</name>
+  <name>Ori</name>
+  <name>Ôrim</name>
+  <name>Ourim</name>
+  <name>Uri</name>
+  <name>Uril</name>
+  <name>Urim</name>
+  <name>Urinca</name>
+  <parent>Oware</parent>
+  <region>Cape Vert</region>
+  <described>António Carreira</described>
+  <date>1947</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Oware</name>
+  <name>Awélé</name>
+  <name>Awalé</name>
+  <name>Aware</name>
+  <name>Ayo</name>
+  <name>Ayoayo</name>
+  <name>Dagboprou</name>
+  <name>Oura</name>
+  <name>Ouril</name>
+  <name>Ourin</name>
+  <name>Ti</name>
+  <name>Wari</name>
+  <name>Wolo</name>
+  <name>Wora</name>
+  <name>Woro</name>
+  <region>Cape Verde</region>
+  <region>Gambia</region>
+  <region>Ghana</region>
+  <region>Ivory Coast</region>
+  <region>Mali</region>
+  <region>Nigeria</region>
+  <region>Sierra Leone</region>
+  <described>Richard Jobson</described>
+  <date>1620</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Qelat I</name>
+  <region>Eritrea</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Qelat II</name>
+  <related>Qelat I</related>
+  <related>Um el Banat</related>
+  <region>Eritrea (Keren-Agordat)</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Rio Kadalis</name>
+  <name>Riya kadhalis</name>
+  <name>Riyo-ka-dhalis</name>
+  <related>Lahemay Waladat</related>
+  <related>Lam Waladach</related>
+  <related>Lamosh</related>
+  <region>Somalia (Hargheisa</region>
+  <region>Jigjiga)</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Selus</name>
+  <related>Gabata</related>
+  <region>Eritrea (Massawa)</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>3x6:3</setup>
+ </game>
+ <game>
+  <name>Shayo</name>
+  <parent>Oware</parent>
+  <region>Nigeria</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Songo Douala</name>
+  <parent>Songo Ewondo</parent>
+  <region>Cameroon</region>
+  <described>P. H. G. Powell-Cotton</described>
+  <date>1931</date>
+  <type>single</type>
+  <setup>2x7:8</setup>
+ </game>
+ <game>
+  <name>Songo Ewondo</name>
+  <name>Akong</name>
+  <name>Songa</name>
+  <name>Songo</name>
+  <name>Songo'o</name>
+  <region>Cameroon</region>
+  <region>Congo</region>
+  <region>Equatorial Guinea</region>
+  <region>Gabon</region>
+  <described>Günter Tessmann</described>
+  <date>1907</date>
+  <type>single</type>
+  <setup>2x7:5</setup>
+ </game>
+ <game>
+  <name>Spreta</name>
+  <related>Msuwa</related>
+  <region>Malawi</region>
+  <type>multiple</type>
+  <setup>4x8;10;12;14;16;18;20:0,1,3</setup>
+ </game>
+ <game>
+  <name>Sulus Aidi</name>
+  <name>Awagagá</name>
+  <parent>Selus</parent>
+  <region>Eritrea</region>
+  <described>Harold Courlander</described>
+  <date>1943</date>
+  <type>multiple</type>
+  <setup>3x6:3</setup>
+ </game>
+ <game>
+  <name>Sulus Nishtaw</name>
+  <parent>Selus</parent>
+  <region>Eritrea</region>
+  <described>Harold Courlander</described>
+  <date>1943</date>
+  <type>multiple</type>
+  <setup>3x6:3</setup>
+ </game>
+</games>
