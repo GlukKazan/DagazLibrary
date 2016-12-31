@@ -1,9 +1,20 @@
-﻿#http://mancala.wikia.com/wiki/Traditional_mancala_games
+﻿2 Ranks Single sowing <Mancala
+2 Ranks Multiple sowing <2 Ranks Single sowing
+4 Ranks Multiple sowing <2 Ranks Multiple sowing ~Ohojichi
+2 Ranks Pussa Kanawa sowing <2 Ranks Multiple sowing
+Gabata ~2 Ranks Multiple sowing
+Congkak <2 Ranks Multiple sowing
+Um el Bagara <2 Ranks Single sowing
+Um ed-Dyar <2 Ranks Single sowing
+Hawalis <4 Ranks Multiple sowing
+Lontu-holu ~2 Ranks Single sowing
+
+#http://mancala.wikia.com/wiki/Traditional_mancala_games
 Dakon [Indonesia/Java] [1817, Sir Thomas Stamford Raffles] (2x7+:7 multiple) <Congkak
 Abalala'e/Abala/Abalalà [Eritrea/Ethiopia] [1943, Harold Courlander] (3x6:3 multiple) ~Gabata
 Achochodi/Axoxodi [Ivory Coast] [2009, Jordi Climent Tondo] (2x6:4 single) <Oware
 Adi/Annana [Ghana] (2x8:3 multiple) <Ba-awa
-Ajua [Kenya] [1929, George R. Carline] (2x8:3 multiple) ~Boola ~Lukho
+Ajua [Kenya] [1929, George R. Carline] (2x8:3 multiple) ~Boola ~Lukho <2 Ranks Multiple sowing
 Alemungula [Ethiopia (West)] [1971, Richard Pankhurst] (2x5:5 single) ~Um el Bagara
 Andada [Eritrea (West)] [1971, Richard Pankhurst] (2x12;15;18;21;24:2 multiple)
 Andot [Sudan (Kassala)] [1938, Thomas Richard Hornby Owen] (2x6:4 single) ~Alemungula
@@ -11,9 +22,9 @@ Anywoli [Ethiopia (Gambela), Sudan] [1971, Richard Pankhurst] (2x12:4 multiple) 
 Aweet [Sudan] (4x10:4,0 multiple) <Coro
 Azigo [Nigeria] [1905, Charles Partridge] (2x20:5{7},1 single) >Abiribi >Onafia
 Ayoayo/Aji/Ajito/Ayo/Madji/Tamtam Apachi/Yovodji [Benin, Ghana, Nigeria] (2x4;5;6:4  multiple)
-Ba-awa [Ghana] [1969, Robert Charles Bell] (2x6:4 multiple) ~Jerin
+Ba-awa [Ghana] [1969, Robert Charles Bell] (2x6:4 multiple) <2 Ranks Multiple sowing
 Bakuk [Morocco] [2009, Viktor Bautista i Roca] (2x3:6 single) ~Koumma
-Bao Kiarabu/Arabic Bao/Bao la Kigogo [Kenya (Mombasa), Tanzania (Zanzibar)] [1921, W. H. Ingrams] (4x8;12:3 multiple) ~Hawalis? ~Bao
+Bao Kiarabu/Arabic Bao/Bao la Kigogo [Kenya (Mombasa), Tanzania (Zanzibar)] [1921, W. H. Ingrams] (4x8;12:3 multiple) ~Hawalis ~Bao
 Bao la Kimasai [Tanzania (Kilimanjaro)] [2001, David MacKay] (4x8:0,1) ~Bao
 Bao la Kiswahili/Bao La Komwe/Bao La Kucheza/Bao La Zanzibar/Bau/Busolo/Katra/Lusole [Burundi (Bujumbura), Comores (Anjouan), Congo (Kisangani), Kenya (Coast), Madagascar (Northwest), Malawi, Tanzania (Coast Zanzibar)] [1658, Étienne de Flacourt] (4x8:20+44 multiple) <Katra Fandatsaka
 Bawo [Malawi] [1896] <Bao la Kiswahili
@@ -22,7 +33,7 @@ Baré/Bare [Sudan] [1971, Richard Pankhurst] (4x12:4 multiple)
 Baruma [Congo] (4x8 multiple)
 Bechi [Eritrea] [1913] (2x4:6 single) ~Alemungula
 Boola [Kenya] [1971] (2x12:0,3 multiple)
-Bosh [Somalia] [1931, G. Marin] (2x5:4 multiple*) ~Pachgarhwa ~Sat-gol
+Bosh [Somalia] [1931, G. Marin] (2x5:4 multiple*) ~Pachgarhwa ~Sat-gol <2 Ranks Pussa Kanawa sowing
 Bulto [Ethiopia (South), Kenya (North)] [1971, Richard Pankhurst] (2x10:2 multiple)
 Cela [Angola] (4x7 multiple)
 Cepenet [Kenya] (4x4;8;12;16;24 multiple)
@@ -40,14 +51,14 @@ Elee [Kenya/Uganda] (4x8 multiple) <Omweso
 Embeli/Ambala [Congo (Buta, Bafwasende)] [1911, Joseph Halkin & Col. Ernest Viaene] (3x10,2:4,0 multiple) <Imbelece
 En Gehé [Tanzania (North)] [1904, Moritz Merker] (2x40-50:4 multiple)
 Enkeshui [Kenya] (2x8;10;12 multiple)
-En Dodoi/Endodoi [Kenya, Tanzania] [1904, Moritz Merker] (2x6;8;10:4 multiple) ~En Gehé
+En Dodoi/Endodoi [Kenya, Tanzania] [1904, Moritz Merker] (2x6;8;10:4 multiple) ~En Gehé <2 Ranks Multiple sowing
 Fifanga [Madagascar] (4x8:12+52 multiple) <Bao la Kiswahili
 Gamacha/Yada [Ethiopia (South)] (2x12 multiple)
 Giuthi [Kenya] [1925, Orde Brown] (2x5-10:4-9 single)
 Goré [Ethiopia (Omo valley)] [2009, Jordi Climent Tondo] (2x4:6 multiple)
 Huroy [Ethiopia (Omo valley)] [1970, David Turton] (2x6:4 single)
 Owela [Angola, Namibia] [1937, Diana and Antoinette Powell-Cotton] <Hus
-Hus/Lochspiel/Ogoro/Onjune/Onyune/Otjitoto/Thuskae/Uera/Xoros/Wera [Namibia] [1855, Johann Georg Krönlein] (4x8-24:2,0 multiple)
+Hus/Lochspiel/Ogoro/Onjune/Onyune/Otjitoto/Thuskae/Uera/Xoros/Wera [Namibia] [1855, Johann Georg Krönlein] (4x8-24:2,0 multiple) <4 Ranks Multiple sowing
 Ichwe [Nigeria] (single?)
 Igisoro/Gisoro/Ibisoro/Ikisoro/Ikibuguzo/Kubuguza/Kusuro/Kuwaguza  [Burundi, Rwanda, Uganda] [1903, J. M. M. van der Burgt] (4x8:4,0 multiple) ~Omweso
 Igori/Ogori [Nigeria] (single?)
@@ -65,7 +76,7 @@ Kacigh [Kenya] (4x11-12 multiple) <Omweso
 Kale [Gabon] (2x6:4 single) [1894, Stewart Culin] <Oware
 Kanona [Zambia (Mwinilunga District)] (4x8:2 multiple)
 Kâra [Sudan (Kordofan)] [1925, R. Davies] (2x6:7 multiple) (4)
-Katra Fandatsaka [Madagascar] (4x8:12+52 multiple)
+Katra Fandatsaka [Madagascar] (4x8:12+52 multiple) <4 Ranks Multiple sowing
 Katra Gorobaka [Madagascar] (4x8 multiple)
 Katra Mpantsaka [Madagascar] (4x8 multiple)
 Katro [Madagascar (Fianarantsoa)] [1998, Alexander Johan de Voogt] (6x6:2 multiple)
@@ -78,14 +89,14 @@ Kisolo/Cisolo/Kisoro [Congo] [1878, V. L. Cameron] (4x6-7:3 multiple+) ~Coro
 Kisumbi [Congo] (4x8 multiple)
 Koumma/Hefari?/Hefira? [Morocco (Ouled M'taâ)] (2x3:6 single) <Um ed-Dyar
 Kpo/Kbo/Poo [Liberia] (2x6:4;3 single) (3-4) <Oware
-Krur/Crur/Hrur/Khrour/Krour/Kurùr [Mauretania, Morocco (Western Sahara)] [1955, C. Béart] (2x4:4 multiple) ~Um Laarais
+Krur/Crur/Hrur/Khrour/Krour/Kurùr [Mauretania, Morocco (Western Sahara)] [1955, C. Béart] (2x4:4 multiple) ~Um Laarais <2 Ranks Multiple sowing
 Kuoless [Guinea] [1960, Horst Luz & Waldemar Herz] (2x2-10:4 single) (2-10) <Kpo <Walu
 Kwahilka Aitidikus [Eritrea, Ethiopia] (3x3:2{1},1 multiple) (1) ~Selus
 Lahemay Waladat [Ethiopia (southern Tigré)] [1971, R. Pankhurst] (2x6:4 multiple)
 Lamè Uwèlèdèt [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Sulus Nishtaw <Sulus Aidi
 Lami [Ethiopia (South)] (2x10:2 multiple) <Lamlameta
-Lamlameta [Ethiopia (Olanta)] [1971, Richard Pankhurst] (2x12:2 multiple)
-Latho [Ethiopia (south-central)] [1971, Richard Pankhurst] (2x6) ~Tagega ~Aghadaghada
+Lamlameta [Ethiopia (Olanta)] [1971, Richard Pankhurst] (2x12:2 multiple) <2 Ranks Multiple sowing
+Latho [Ethiopia (south-central)] [1971, Richard Pankhurst] (2x6) ~Tagega ~Aghadaghada <Mancala
 Layli Goobalay I [Somalia] [1971, Richard Pankhurst] (2x6:4 multiple)
 Layli Goobalay II/Leelo Goobalay/Laylo Goobalay [Somalia (Berbera, Somaliland)] [1931, G. Marin] (2x12:4 multiple)
 Leka [Congo, Uganda] (4x8 multiple) <Omweso
@@ -99,7 +110,7 @@ Lukho/Olukho [Kenya (Mount Elgon)] [1972, Walter Driedger] (2x8;10;12:3 multiple
 Lusolo [Kenya] (4x8 multiple)
 Luuth [Ethiopia (West), Sudan] [1971, Richard Pankhurst] (2x7:4 single)
 Mangala [Egypt (Red Sea Coast), Sudan (Coast)] [1909, Henry Parker] (2x6 multiple)
-Mangola [Congo (Kinshasa)] (4x8:2 multiple) [1911] <Sombi <Mangura
+Mangola [Congo (Kinshasa)] (4x8:2 multiple) [1911] <Sombi <Mangura <4 Ranks Multiple sowing
 Mangura [Congo] (4x10? multiple)
 Mbangbi [Cameroon] (2x5:8 single)
 Mbele/Nembele [Congo] (4x8 multiple) ~Mangola
@@ -108,7 +119,7 @@ Mbothe [Keya (Tana river)] [1972, Walter Driedger] (2x10:2 multiple) ~Lamlameta
 Mefuvha [South Africa (Northeast)] [1931, Hugh Arthur Stayt] (4x6;8;10;12;14;16;18;20;22;24;26;28:2,1,0 multiple) ~Moruba ~Tchouba
 Mongale [Kenya (Mombasa)] (4x8 multiple)
 Mongola [Congo] (4x7:(4,0) multiple)
-Moruba/Maruba/Mofuba/Ncuva/Tshimaya/Ntijwa/Tsoro [South Africa (Transvaal)] [1917, P. A. Wagner] (4x6;8;10;12;14;16:2 multiple) ~Tchouba ~Njombwa
+Moruba/Maruba/Mofuba/Ncuva/Tshimaya/Ntijwa/Tsoro [South Africa (Transvaal)] [1917, P. A. Wagner] (4x6;8;10;12;14;16:2 multiple) ~Tchouba ~Njombwa <4 Ranks Multiple sowing
 Msuwa  [Malawi] (4x8;10;12;14;16;18;20:0{1},2 multiple) ~Nsolo
 Msuwa Wa Kunja [Malawi] (4x8;10;12;14;16;18;20:0,2 multiple) ~Nsolo
 Mucuba [Congo, Rwanda (Lake Kivu area)] (4x8 multiple)
@@ -127,30 +138,30 @@ Ngikilees [Uganda] (4x8;10 multiple)
 Ngikileth/Amoru [Ethiopia, Uganda] (4x11;12;13 multiple)
 Njombwa [Malawi] (4x8;9;10 multiple)
 Nsa Isong/Nsa-Isong [Nigeria] [1998, 'Dotun Osunsanya] (2x6:4 multiple) <Ba-awa ~J'erin
-Nsolo/Nchombwa [Malawi, Zambia (Ndola)] [1913, Meredith G. Sanderson] (4x8;10;12;14;16;18;20;22;24;26;28;30;32;34;36:2,0 multiple)
+Nsolo/Nchombwa [Malawi, Zambia (Ndola)] [1913, Meredith G. Sanderson] (4x8;10;12;14;16;18;20;22;24;26;28;30;32;34;36:2,0 multiple) <4 Ranks Multiple sowing
 Nsumbi [Congo] (4x8 multiple)
 Num-Num [Ghana] (2x6:4 multiple) <Adi
-Obridjie [Nigeria] [1946, Harold James Ruthven Murray] (2x6:4 multiple) ~Ba-awa ~Whyo ~Jerin ~Lok
+Obridjie [Nigeria] [1946, Harold James Ruthven Murray] (2x6:4 multiple) ~Ba-awa ~Whyo ~Lok
 Oce [Tanzania (Kilimanjaro)] (2x6 multiple?)
 Ocela [Angola] (4x14 multiple)
 Ohojichi/Ohojitxi [Ivory Coast] [2009, Jordi Climent Tondo] (6x2:4 single) ~Lontu-holu
 Oluwuka [Nigeria] (2x6:4 multiple) <Oware
-Omweso/Mweisho/Mweso/Omwesso [Uganda] [1862, John Hanning Speke] (4x8:4,0 multiple)
+Omweso/Mweisho/Mweso/Omwesso [Uganda] [1862, John Hanning Speke] (4x8:4,0 multiple) <4 Ranks Multiple sowing
 Otra [Congo] (4x8 multiple) <Otu
-Otu [Congo] (4x8 multiple)
+Otu [Congo] (4x8 multiple) <4 Ranks Multiple sowing
 Ouri/Huri/Ourim/Òrè/Ori/Ôrim/Ourim/Uri/Uril/Urim/Urinca [Cape Vert] [1947, António Carreira] (2x6:4 single) <Oware
-Oware/Awélé/Awalé/Aware/Ayo/Ayoayo/Dagboprou/Oura/Ouril/Ourin/Ti/Wari/Wolo/Wora/Woro [Cape Verde, Gambia, Ghana, Ivory Coast, Mali, Nigeria, Sierra Leone] [1620, Richard Jobson] (2x6:4 single)
+Oware/Awélé/Awalé/Aware/Ayo/Ayoayo/Dagboprou/Oura/Ouril/Ourin/Ti/Wari/Wolo/Wora/Woro [Cape Verde, Gambia, Ghana, Ivory Coast, Mali, Nigeria, Sierra Leone] [1620, Richard Jobson] (2x6:4 single) <2 Ranks Single sowing
 Pereauni [Uganda] (4x8 multiple)
 Qelat I [Eritrea] [1971, Richard Pankhurst] (2x6:4 single)
-Qelat II [Eritrea (Keren-Agordat)] [1971, Richard Pankhurst] (2x6:4 multiple) ~Qelat I ~Um el Banat
-Rio Kadalis/Riya kadhalis/Riyo-ka-dhalis [Somalia (Hargheisa, Jigjiga)] [1971, Richard Pankhurst] (2x6:4 multiple) ~Lahemay Waladat ~Lam Waladach ~Lamosh
+Qelat II [Eritrea (Keren-Agordat)] [1971, Richard Pankhurst] (2x6:4 multiple) ~Qelat I ~Um el Banat <2 Ranks Multiple sowing
+Rio Kadalis/Riya kadhalis/Riyo-ka-dhalis [Somalia (Hargheisa, Jigjiga)] [1971, Richard Pankhurst] (2x6:4 multiple) ~Lahemay Waladat ~Lam Waladach ~Lamosh <2 Ranks Multiple sowing
 Ruhesho [Tanzania] (4x8 multiple)
 Sadéqa [Ethiopia, Sudan] [1971, Richard Pankhurst] (2x10:4 multiple)
 Selus [Eritrea (Massawa)] [1971, Richard Pankhurst] (3x6:3 multiple) ~Gabata
 Shayo [Nigeria] (2x6:4 single) <Oware
 Sokusowó/Sokusọwó [Nigeria] [2009, Jordi Climent Tondo] (2x6:4 multiple)
 Songo Douala [Cameroon] [1931, P. H. G. Powell-Cotton] (2x7:8 single) <Songo Ewondo
-Songo Ewondo/Akong/Songa/Songo/Songo'o [Cameroon, Congo, Equatorial Guinea, Gabon] [1907, Günter Tessmann] (2x7:5 single)
+Songo Ewondo/Akong/Songa/Songo/Songo'o [Cameroon, Congo, Equatorial Guinea, Gabon] [1907, Günter Tessmann] (2x7:5 single) <2 Ranks Single sowing
 Soro [Sudan] (4x8 multiple)
 Spreta [Malawi] (4x8;10;12;14;16;18;20:0,1,3 multiple) ~Msuwa
 Sulus Aidi/Awagagá [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Selus

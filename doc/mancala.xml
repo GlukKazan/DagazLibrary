@@ -42,6 +42,7 @@
  </game>
  <game>
   <name>Ajua</name>
+  <parent>2 Ranks Multiple sowing</parent>
   <related>Boola</related>
   <related>Lukho</related>
   <region>Kenya</region>
@@ -95,8 +96,7 @@
  </game>
  <game>
   <name>Ba-awa</name>
-  <related>Obridjie</related>
-  <related>Jerin</related>
+  <parent>2 Ranks Multiple sowing</parent>
   <region>Ghana</region>
   <described>Robert Charles Bell</described>
   <date>1969</date>
@@ -116,7 +116,7 @@
   <name>Bao Kiarabu</name>
   <name>Arabic Bao</name>
   <name>Bao la Kigogo</name>
-  <related>Hawalis?</related>
+  <related>Hawalis</related>
   <related>Bao</related>
   <region>Kenya (Mombasa)</region>
   <region>Tanzania (Zanzibar)</region>
@@ -182,6 +182,7 @@
  </game>
  <game>
   <name>Bosh</name>
+  <parent>2 Ranks Pussa Kanawa sowing</parent>
   <related>Pachgarhwa</related>
   <related>Sat-gol</related>
   <region>Somalia</region>
@@ -250,6 +251,7 @@
  <game>
   <name>En Dodoi</name>
   <name>Endodoi</name>
+  <parent>2 Ranks Multiple sowing</parent>
   <related>En Gehé</related>
   <region>Kenya</region>
   <region>Tanzania</region>
@@ -284,6 +286,7 @@
   <name>Uera</name>
   <name>Xoros</name>
   <name>Wera</name>
+  <parent>4 Ranks Multiple sowing</parent>
   <region>Namibia</region>
   <described>Johann Georg Krönlein</described>
   <date>1855</date>
@@ -361,6 +364,7 @@
  </game>
  <game>
   <name>Katra Fandatsaka</name>
+  <parent>4 Ranks Multiple sowing</parent>
   <region>Madagascar</region>
   <type>multiple</type>
   <setup>4x8:12+52</setup>
@@ -402,6 +406,7 @@
   <name>Khrour</name>
   <name>Krour</name>
   <name>Kurùr</name>
+  <parent>2 Ranks Multiple sowing</parent>
   <related>Um Laarais</related>
   <region>Mauretania</region>
   <region>Morocco (Western Sahara)</region>
@@ -456,6 +461,7 @@
  </game>
  <game>
   <name>Lamlameta</name>
+  <parent>2 Ranks Multiple sowing</parent>
   <region>Ethiopia (Olanta)</region>
   <described>Richard Pankhurst</described>
   <date>1971</date>
@@ -464,6 +470,7 @@
  </game>
  <game>
   <name>Latho</name>
+  <parent>Mancala</parent>
   <related>Tagega</related>
   <related>Aghadaghada</related>
   <region>Ethiopia (south-central)</region>
@@ -501,6 +508,7 @@
   <name>Mangola</name>
   <parent>Sombi</parent>
   <parent>Mangura</parent>
+  <parent>4 Ranks Multiple sowing</parent>
   <region>Congo (Kinshasa)</region>
   <type>multiple</type>
   <setup>4x8:2</setup>
@@ -546,6 +554,7 @@
   <name>Tshimaya</name>
   <name>Ntijwa</name>
   <name>Tsoro</name>
+  <parent>4 Ranks Multiple sowing</parent>
   <related>Tchouba</related>
   <related>Njombwa</related>
   <region>South Africa (Transvaal)</region>
@@ -610,6 +619,7 @@
  <game>
   <name>Nsolo</name>
   <name>Nchombwa</name>
+  <parent>4 Ranks Multiple sowing</parent>
   <region>Malawi</region>
   <region>Zambia (Ndola)</region>
   <described>Meredith G. Sanderson</described>
@@ -628,9 +638,7 @@
   <name>Obridjie</name>
   <related>Ba-awa</related>
   <related>Whyo</related>
-  <related>Jerin</related>
   <related>Lok</related>
-  <related>Anywoli</related>
   <region>Nigeria</region>
   <described>Harold James Ruthven Murray</described>
   <date>1946</date>
@@ -659,6 +667,7 @@
   <name>Mweisho</name>
   <name>Mweso</name>
   <name>Omwesso</name>
+  <parent>4 Ranks Multiple sowing</parent>
   <region>Uganda</region>
   <described>John Hanning Speke</described>
   <date>1862</date>
@@ -674,6 +683,7 @@
  </game>
  <game>
   <name>Otu</name>
+  <parent>4 Ranks Multiple sowing</parent>
   <region>Congo</region>
   <type>multiple</type>
   <setup>4x8</setup>
@@ -713,6 +723,7 @@
   <name>Wolo</name>
   <name>Wora</name>
   <name>Woro</name>
+  <parent>2 Ranks Single sowing</parent>
   <region>Cape Verde</region>
   <region>Gambia</region>
   <region>Ghana</region>
@@ -735,6 +746,7 @@
  </game>
  <game>
   <name>Qelat II</name>
+  <parent>2 Ranks Multiple sowing</parent>
   <related>Qelat I</related>
   <related>Um el Banat</related>
   <region>Eritrea (Keren-Agordat)</region>
@@ -747,6 +759,7 @@
   <name>Rio Kadalis</name>
   <name>Riya kadhalis</name>
   <name>Riyo-ka-dhalis</name>
+  <parent>2 Ranks Multiple sowing</parent>
   <related>Lahemay Waladat</related>
   <related>Lam Waladach</related>
   <related>Lamosh</related>
@@ -788,6 +801,7 @@
   <name>Songa</name>
   <name>Songo</name>
   <name>Songo'o</name>
+  <parent>2 Ranks Single sowing</parent>
   <region>Cameroon</region>
   <region>Congo</region>
   <region>Equatorial Guinea</region>
