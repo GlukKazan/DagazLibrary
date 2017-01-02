@@ -1,0 +1,56 @@
+﻿Yoté ~Alquerque
+Bolotudu ~Windmill ~Yoté
+Nam Dinh <Alquerque ~Chess
+Seega ~Petteia
+Latrunculi <Petteia
+Jul Gonu ~Petteia
+Hnefatafl ~Latrunculi
+Alea Evangelii <Hnefatafl
+Hasami Shogi ~Petteia ~Shogi ~Renju
+Halatafl ~Hnefatafl
+Fox and Goose ~Halatafl
+Asalto <Fox and Goose
+Alquerque ~Halatafl ~Windmill
+Makyek <Hnefatafl
+Five Field Kono ~Alquerque
+Four Field Kono ~Five Field Kono
+Fanorona ~Alquerque
+Surakarta ~Alquerque
+Dablot <Alquerque
+Kharbaga <Alquerque
+Zamma <Alquerque
+Konane ~Alquerque
+Senegalese Checkers <Alquerque
+Khakass Tobit ~Senegalese Checkers
+Turkish Dama ~Senegalese Checkers
+Bahrain Dama [Bahrain] <Turkish Dama
+Greek Checkers <Turkish Dama
+Checkers/English Draughts <Alquerque
+Italian Draughts <Checkers
+Italian Damone <Italian Draughts
+Spanish Draughts <Checkers
+International Draughts ~Spanish Draughts
+Russian Checkers/Шашки <International Draughts
+Pool checkers <International Draughts
+Brazilian draughts <International Draughts
+Loosing Checkers <Checkers
+Поддавки <Шашки
+Столбовые Шашки <Шашки
+Ставропольские шашки <Шашки
+Северные шашки <Шашки ~Столбовые Шашки
+Laska <Checkers
+Portuguese draughts <Spanish Draughts
+Armenian Tama ~Turkish Dama
+Ossetian Checkers ~Armenian Tama
+Ossetian Kena ~Ossetian Checkers <Turkish Dama
+80 Cells Checkers <Шашки
+Canadian Checkers <International Draughts
+Damii/Ghana Draughts <International Draughts
+Frisian Checkers <International Draughts ~Turkish Dama
+Thai Checkers <Spanish Draughts
+North American Checkers ~Checkers
+Czech draughts <Spanish Draughts
+Shatra ~International Draughts ~Chess
+Шабел/Белорусские шашки ~International Draughts ~Chess
+Hex Dame <International Draughts
+Cheskers/Шашматы <Checkers ~Chess
