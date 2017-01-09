@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games>
+ <game>
+  <name>Yote</name>
+  <related>Alquerque</related>
+ </game>
+ <game>
+  <name>Bolotudu</name>
+  <related>Windmill</related>
+  <related>Yote</related>
+ </game>
+ <game>
+  <name>Ming Mang</name>
+  <name>Gundru</name>
+  <related>Hnefatafl</related>
+  <related>Reversi</related>
+ </game>
+ <game>
+  <name>Nam Dinh</name>
+  <parent>Alquerque</parent>
+  <related>Chess</related>
+ </game>
+ <game>
+  <name>Seega</name>
+  <related>Petteia</related>
+ </game>
+ <game>
+  <name>Latrunculi</name>
+  <parent>Petteia</parent>
+ </game>
+ <game>
+  <name>Jul Gonu</name>
+  <related>Petteia</related>
+ </game>
+ <game>
+  <name>Hnefatafl</name>
+  <related>Latrunculi</related>
+ </game>
+ <game>
+  <name>Alea Evangelii</name>
+  <parent>Hnefatafl</parent>
+ </game>
+ <game>
+  <name>Hasami Shogi</name>
+  <related>Petteia</related>
+  <related>Shogi</related>
+  <related>Renju</related>
+ </game>
+ <game>
+  <name>Halatafl</name>
+  <related>Hnefatafl</related>
+ </game>
+ <game>
+  <name>Fox and Goose</name>
+  <related>Halatafl</related>
+ </game>
+ <game>
+  <name>Asalto</name>
+  <parent>Fox and Goose</parent>
+ </game>
+ <game>
+  <name>Alquerque</name>
+  <related>Halatafl</related>
+  <related>Windmill</related>
+ </game>
+ <game>
+  <name>Makyek</name>
+  <parent>Hnefatafl</parent>
+ </game>
+ <game>
+  <name>Five Field Kono</name>
+  <related>Alquerque</related>
+ </game>
+ <game>
+  <name>Four Field Kono</name>
+  <related>Five Field Kono</related>
+ </game>
+ <game>
+  <name>Fanorona</name>
+  <related>Alquerque</related>
+ </game>
+ <game>
+  <name>Surakarta</name>
+  <related>Alquerque</related>
+ </game>
+ <game>
+  <name>Dablot</name>
+  <parent>Alquerque</parent>
+ </game>
+ <game>
+  <name>Kharbaga</name>
+  <parent>Alquerque</parent>
+ </game>
+ <game>
+  <name>Zamma</name>
+  <parent>Alquerque</parent>
+ </game>
+ <game>
+  <name>Konane</name>
+  <related>Alquerque</related>
+ </game>
+ <game>
+  <name>Senegalese Checkers</name>
+  <parent>Alquerque</parent>
+ </game>
+ <game>
+  <name>Khakass Tobit</name>
+  <related>Senegalese Checkers</related>
+ </game>
+ <game>
+  <name>Turkish Dama</name>
+  <related>Senegalese Checkers</related>
+ </game>
+ <game>
+  <name>Bahrain Dama</name>
+  <parent>Turkish Dama</parent>
+  <region>Bahrain</region>
+ </game>
+ <game>
+  <name>Greek Checkers</name>
+  <parent>Turkish Dama</parent>
+ </game>
+ <game>
+  <name>Checkers</name>
+  <name>English Draughts</name>
+  <parent>Alquerque</parent>
+ </game>
+ <game>
+  <name>Italian Draughts</name>
+  <parent>Checkers</parent>
+ </game>
+ <game>
+  <name>Italian Damone</name>
+  <parent>Italian Draughts</parent>
+ </game>
+ <game>
+  <name>Spanish Draughts</name>
+  <parent>Checkers</parent>
+ </game>
+ <game>
+  <name>International Draughts</name>
+  <related>Spanish Draughts</related>
+ </game>
+ <game>
+  <name>Russian Checkers</name>
+  <name>Шашки</name>
+  <parent>International Draughts</parent>
+ </game>
+ <game>
+  <name>Pool checkers</name>
+  <parent>International Draughts</parent>
+ </game>
+ <game>
+  <name>Brazilian draughts</name>
+  <parent>International Draughts</parent>
+ </game>
+ <game>
+  <name>Loosing Checkers</name>
+  <parent>Checkers</parent>
+ </game>
+ <game>
+  <name>Поддавки</name>
+  <parent>Russian Checkers</parent>
+ </game>
+ <game>
+  <name>Столбовые Шашки</name>
+  <parent>Russian Checkers</parent>
+ </game>
+ <game>
+  <name>Ставропольские шашки</name>
+  <parent>Russian Checkers</parent>
+ </game>
+ <game>
+  <name>Северные шашки</name>
+  <parent>Russian Checkers</parent>
+  <related>Столбовые Шашки</related>
+ </game>
+ <game>
+  <name>Laska</name>
+  <parent>Checkers</parent>
+ </game>
+ <game>
+  <name>Portuguese draughts</name>
+  <parent>Spanish Draughts</parent>
+ </game>
+ <game>
+  <name>Armenian Tama</name>
+  <related>Turkish Dama</related>
+ </game>
+ <game>
+  <name>Ossetian Checkers</name>
+  <related>Armenian Tama</related>
+ </game>
+ <game>
+  <name>Ossetian Kena</name>
+  <parent>Turkish Dama</parent>
+  <related>Ossetian Checkers</related>
+ </game>
+ <game>
+  <name>80 Cells Checkers</name>
+  <parent>Russian Checkers</parent>
+ </game>
+ <game>
+  <name>Canadian Checkers</name>
+  <parent>International Draughts</parent>
+ </game>
+ <game>
+  <name>Damii</name>
+  <name>Ghana Draughts</name>
+  <parent>International Draughts</parent>
+ </game>
+ <game>
+  <name>Frisian Checkers</name>
+  <parent>International Draughts</parent>
+  <related>Turkish Dama</related>
+ </game>
+ <game>
+  <name>Thai Checkers</name>
+  <parent>Spanish Draughts</parent>
+ </game>
+ <game>
+  <name>North American Checkers</name>
+  <related>Checkers</related>
+ </game>
+ <game>
+  <name>Czech draughts</name>
+  <parent>Spanish Draughts</parent>
+ </game>
+ <game>
+  <name>Shatra</name>
+  <related>International Draughts</related>
+  <related>Chess</related>
+ </game>
+ <game>
+  <name>Шабел</name>
+  <name>Белорусские шашки</name>
+  <related>International Draughts</related>
+  <related>Chess</related>
+ </game>
+ <game>
+  <name>Hex Dame</name>
+  <parent>International Draughts</parent>
+ </game>
+ <game>
+  <name>Cheskers</name>
+  <name>Шашматы</name>
+  <parent>Checkers</parent>
+  <related>Chess</related>
+ </game>
+</games>

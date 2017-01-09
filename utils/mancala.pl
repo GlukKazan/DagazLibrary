@@ -41,7 +41,7 @@ sub addLink {
 while (<>) {
    chomp;
    s/&/&amp;/;
-   if (/^([^[]+)(\[[^<>~]+)(.*)$/) {
+   if (/^([^[<>~]+)(\[[^<>~]+)?(.*)$/) {
        my @names    = split /\//, $1;
        my $scope    = $2;
        my $links    = $3;

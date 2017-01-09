@@ -167,5 +167,27 @@ Spreta [Malawi] (4x8;10;12;14;16;18;20:0,1,3 multiple) ~Msuwa
 Sulus Aidi/Awagagá [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Selus
 Sulus Nishtaw [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Selus
 
+Sute [Malawi] (4x8;10;12;14;16;18;20:1,0{1} multiple)
+Takti [Tanzania] [1935, Paul Berger] (2x9:3 multiple) ~Boola ~Endodoi
+Tapata [Ethiopia (South)] (2x12 multiple) ~Gamacha
+Tchadji/M'pale [Mozambique] [2001, Abdulcarimo Ismael] (4x8:2 multiple) ~Mefuvha ~Moruba
+Tchouba/Nchuwa/Tschuba [Mozambique] [1898,  Henri Alexandre Junod] (4x16;18;20;22;24;26;28;30;32;34;36;38;40:2 multiple)
+Tegre [Ethiopia (South)] (2x6:4 multiple)
+Tihbat [Morocco (Taurirt)] [2006, Lalo Kinast] (2x2:7 single)
+Tok Ku Rou/Tok Kurou [Ethiopia (Far West), Sudan] [1971, Richard Pankhurst] (4x12;13:4  multiple) <Baré
+Tokoro/Tokolo [Congo] (4x8 multiple) ~Mangola
+Tsoro/Fuva/Imbwe [Zimbabwe (Northeast)] [1964, J. B. Matthews] (4x6;8;12;15;18;21:2,0 multiple)
+Udi/Curi [Kenya] (4x4-6 multiple)
+Uera [Namibia (Okavango)] (4x10 multiple) <Hus
+Um ed-Dyar/Enmediar/Krur/Khrour/Kurúr/Manddiaré/Umdiyar/Umm Dyar [Mauretania] [1952, Mokhtar Ould Hamidoun] (2x2;4;6;8;10;12:4;6;8;10;12  single)
+Um el Bagara [Sudan (Kordofan)] [1925, R. Davies] (2x5:5 single) <Alemungula
+Um el Banat/Mazageb [Eritrea, Sudan (North)] (2x6:4 multiple)
+Um el Tuweisat [Sudan (Kordofan)] (2x3:3 single) ~Um el Bagara
+Um Laarais [Morocco (Western Sahara)] [2001, Víktor Bautista i Roca] (2x6:4 multiple) (3) ~Krur
+Urim/Huri/Ouri/Ourim/Òrè/Ori/Ôrim/Ourim/Uri/Urim/Urinca [Cape Vert] [1994,  Elísio Romariz Santos Silva] (2x6:4 single) <Oware
+Usolo [Tanzania] (4x16 multiple)
+Wouri [Mali] [1950, Koné Moussa] (2x6:4 multiple) <Ba-awa
+Yit [Sudan] (4x12 multiple)
+
 #https://en.wikipedia.org/wiki/List_of_mancala_games
 #http://skyruk.livejournal.com/410114.html

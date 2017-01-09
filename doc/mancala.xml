@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <games>
  <game>
+  <name>2 Ranks Single sowing</name>
+  <parent>Mancala</parent>
+ </game>
+ <game>
+  <name>2 Ranks Multiple sowing</name>
+  <parent>2 Ranks Single sowing</parent>
+ </game>
+ <game>
+  <name>4 Ranks Multiple sowing</name>
+  <parent>2 Ranks Multiple sowing</parent>
+  <related>Ohojichi</related>
+ </game>
+ <game>
+  <name>2 Ranks Pussa Kanawa sowing</name>
+  <parent>2 Ranks Multiple sowing</parent>
+ </game>
+ <game>
+  <name>Gabata</name>
+  <related>2 Ranks Multiple sowing</related>
+ </game>
+ <game>
+  <name>Congkak</name>
+  <parent>2 Ranks Multiple sowing</parent>
+ </game>
+ <game>
+  <name>Um el Bagara</name>
+  <parent>2 Ranks Single sowing</parent>
+ </game>
+ <game>
+  <name>Um ed-Dyar</name>
+  <parent>2 Ranks Single sowing</parent>
+ </game>
+ <game>
+  <name>Hawalis</name>
+  <parent>4 Ranks Multiple sowing</parent>
+ </game>
+ <game>
+  <name>Lontu-holu</name>
+  <related>2 Ranks Single sowing</related>
+ </game>
+ <game>
   <name>Dakon</name>
   <parent>Congkak</parent>
   <region>Indonesia</region>

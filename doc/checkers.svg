@@ -1,0 +1,641 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2160 764" width="2160pt" height="764pt">
+<g class="graph" id="graph1" transform="scale(1) rotate(0) translate(4 760)">
+<title>checkers</title>
+<polygon fill="white" stroke="white" points="-4,5 -4,-760 2157,-760 2157,5 -4,5" />
+<!-- Alquerque -->
+<g class="node" id="node1"><title>Alquerque</title>
+<ellipse fill="none" stroke="black" cx="811" cy="-450" rx="51.1929" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="811" y="-445.8">Alquerque</text>
+</g>
+<!-- Yote -->
+<g class="node" id="node3"><title>Yote</title>
+<ellipse fill="none" stroke="black" cx="301" cy="-378" rx="29.2139" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="301" y="-373.8">Yote</text>
+</g>
+<!-- Alquerque&#45;&gt;Yote -->
+<g class="edge" id="edge2"><title>Alquerque-&gt;Yote</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 759.541 -448.207 C 671.935 -445.756 488.842 -435.844 340 -396 C 337.565 -395.348 335.087 -394.568 332.619 -393.706" />
+<polygon fill="black" stroke="black" points="333.861,-390.433 323.273,-390.066 331.322,-396.956 333.861,-390.433" />
+</g>
+<!-- Nam Dinh -->
+<g class="node" id="node14"><title>Nam Dinh</title>
+<ellipse fill="none" stroke="black" cx="1792" cy="-162" rx="51.2992" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1792" y="-157.8">Nam Dinh</text>
+</g>
+<!-- Alquerque&#45;&gt;Nam Dinh -->
+<g class="edge" id="edge12"><title>Alquerque-&gt;Nam Dinh</title>
+<path fill="none" stroke="black" d="M 861.352 -445.92 C 977.92 -437.521 1274.02 -408.857 1505 -324 C 1604.66 -287.387 1710.87 -219.086 1761.6 -184.399" />
+<polygon fill="black" stroke="black" points="1763.88,-187.083 1770.13,-178.529 1759.91,-181.318 1763.88,-187.083" />
+</g>
+<!-- Five Field Kono -->
+<g class="node" id="node44"><title>Five Field Kono</title>
+<ellipse fill="none" stroke="black" cx="1711" cy="-378" rx="74.0103" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1711" y="-373.8">Five Field Kono</text>
+</g>
+<!-- Alquerque&#45;&gt;Five Field Kono -->
+<g class="edge" id="edge44"><title>Alquerque-&gt;Five Field Kono</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 862.045 -447.894 C 990.403 -444.63 1336.81 -432.835 1623 -396 C 1630.9 -394.983 1639.16 -393.693 1647.32 -392.28" />
+<polygon fill="black" stroke="black" points="1647.97,-395.72 1657.19,-390.506 1646.73,-388.83 1647.97,-395.72" />
+</g>
+<!-- Fanorona -->
+<g class="node" id="node48"><title>Fanorona</title>
+<ellipse fill="none" stroke="black" cx="1851" cy="-378" rx="47.2604" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1851" y="-373.8">Fanorona</text>
+</g>
+<!-- Alquerque&#45;&gt;Fanorona -->
+<g class="edge" id="edge48"><title>Alquerque-&gt;Fanorona</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 861.854 -446.962 C 1050.2 -439.319 1701.96 -411.974 1794 -396 C 1798.24 -395.265 1802.6 -394.319 1806.94 -393.251" />
+<polygon fill="black" stroke="black" points="1808.19,-396.54 1816.95,-390.578 1806.39,-389.777 1808.19,-396.54" />
+</g>
+<!-- Surakarta -->
+<g class="node" id="node50"><title>Surakarta</title>
+<ellipse fill="none" stroke="black" cx="397" cy="-378" rx="48.0528" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="397" y="-373.8">Surakarta</text>
+</g>
+<!-- Alquerque&#45;&gt;Surakarta -->
+<g class="edge" id="edge50"><title>Alquerque-&gt;Surakarta</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 762.384 -444.006 C 693.308 -436.409 563.03 -420.223 454 -396 C 450.086 -395.13 446.048 -394.134 442.013 -393.068" />
+<polygon fill="black" stroke="black" points="442.637,-389.609 432.065,-390.311 440.767,-396.355 442.637,-389.609" />
+</g>
+<!-- Dablot -->
+<g class="node" id="node52"><title>Dablot</title>
+<ellipse fill="none" stroke="black" cx="500" cy="-378" rx="36.9799" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="500" y="-373.8">Dablot</text>
+</g>
+<!-- Alquerque&#45;&gt;Dablot -->
+<g class="edge" id="edge52"><title>Alquerque-&gt;Dablot</title>
+<path fill="none" stroke="black" d="M 764.52 -441.97 C 711.194 -433.385 621.394 -417.329 546 -396 C 543.235 -395.218 540.4 -394.346 537.56 -393.423" />
+<polygon fill="black" stroke="black" points="538.584,-390.074 527.989,-390.136 536.31,-396.694 538.584,-390.074" />
+</g>
+<!-- Kharbaga -->
+<g class="node" id="node54"><title>Kharbaga</title>
+<ellipse fill="none" stroke="black" cx="604" cy="-378" rx="48.352" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="604" y="-373.8">Kharbaga</text>
+</g>
+<!-- Alquerque&#45;&gt;Kharbaga -->
+<g class="edge" id="edge54"><title>Alquerque-&gt;Kharbaga</title>
+<path fill="none" stroke="black" d="M 775.415 -436.967 C 740.186 -425.053 686.162 -406.784 648.2 -393.947" />
+<polygon fill="black" stroke="black" points="649.027,-390.532 638.432,-390.644 646.784,-397.163 649.027,-390.532" />
+</g>
+<!-- Zamma -->
+<g class="node" id="node56"><title>Zamma</title>
+<ellipse fill="none" stroke="black" cx="711" cy="-378" rx="40.3003" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="711" y="-373.8">Zamma</text>
+</g>
+<!-- Alquerque&#45;&gt;Zamma -->
+<g class="edge" id="edge56"><title>Alquerque-&gt;Zamma</title>
+<path fill="none" stroke="black" d="M 788.807 -433.465 C 774.436 -423.405 755.572 -410.2 740.017 -399.312" />
+<polygon fill="black" stroke="black" points="741.965,-396.403 731.766,-393.536 737.951,-402.138 741.965,-396.403" />
+</g>
+<!-- Konane -->
+<g class="node" id="node58"><title>Konane</title>
+<ellipse fill="none" stroke="black" cx="811" cy="-378" rx="41.1001" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="811" y="-373.8">Konane</text>
+</g>
+<!-- Alquerque&#45;&gt;Konane -->
+<g class="edge" id="edge58"><title>Alquerque-&gt;Konane</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 811 -431.697 C 811 -423.983 811 -414.712 811 -406.112" />
+<polygon fill="black" stroke="black" points="814.5,-406.104 811,-396.104 807.5,-406.104 814.5,-406.104" />
+</g>
+<!-- Senegalese Checkers -->
+<g class="node" id="node60"><title>Senegalese Checkers</title>
+<ellipse fill="none" stroke="black" cx="962" cy="-378" rx="91.9157" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="962" y="-373.8">Senegalese Checkers</text>
+</g>
+<!-- Alquerque&#45;&gt;Senegalese Checkers -->
+<g class="edge" id="edge60"><title>Alquerque-&gt;Senegalese Checkers</title>
+<path fill="none" stroke="black" d="M 840.833 -435.17 C 863.087 -424.854 893.82 -410.607 918.765 -399.043" />
+<polygon fill="black" stroke="black" points="920.412,-402.137 928.013,-394.756 917.468,-395.786 920.412,-402.137" />
+</g>
+<!-- Checkers -->
+<g class="node" id="node70"><title>Checkers</title>
+<ellipse fill="none" stroke="black" cx="1119" cy="-378" rx="46.4467" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1119" y="-373.8">Checkers</text>
+</g>
+<!-- Alquerque&#45;&gt;Checkers -->
+<g class="edge" id="edge70"><title>Alquerque-&gt;Checkers</title>
+<path fill="none" stroke="black" d="M 855.427 -440.875 C 905.985 -431.347 990.895 -414.489 1063 -396 C 1066.77 -395.034 1070.66 -393.977 1074.56 -392.877" />
+<polygon fill="black" stroke="black" points="1075.55,-396.232 1084.18,-390.084 1073.6,-389.51 1075.55,-396.232" />
+</g>
+<!-- Bolotudu -->
+<g class="node" id="node6"><title>Bolotudu</title>
+<ellipse fill="none" stroke="black" cx="243" cy="-306" rx="46.4798" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="243" y="-301.8">Bolotudu</text>
+</g>
+<!-- Yote&#45;&gt;Bolotudu -->
+<g class="edge" id="edge6"><title>Yote-&gt;Bolotudu</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 288.128 -361.465 C 280.827 -352.654 271.528 -341.43 263.269 -331.463" />
+<polygon fill="black" stroke="black" points="265.72,-328.934 256.644,-323.467 260.329,-333.4 265.72,-328.934" />
+</g>
+<!-- Windmill -->
+<g class="node" id="node4"><title>Windmill</title>
+<ellipse fill="none" stroke="black" cx="398" cy="-522" rx="48.0832" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="398" y="-517.8">Windmill</text>
+</g>
+<!-- Windmill&#45;&gt;Alquerque -->
+<g class="edge" id="edge40"><title>Windmill-&gt;Alquerque</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 441.029 -513.707 C 516.494 -500.916 672.581 -474.461 755.85 -460.347" />
+<polygon fill="black" stroke="black" points="756.603,-463.77 765.878,-458.648 755.434,-456.868 756.603,-463.77" />
+</g>
+<!-- Windmill&#45;&gt;Bolotudu -->
+<g class="edge" id="edge4"><title>Windmill-&gt;Bolotudu</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 374.394 -506.191 C 343.471 -485.483 289.912 -444.872 262 -396 C 251.192 -377.077 246.515 -352.709 244.5 -334.256" />
+<polygon fill="black" stroke="black" points="247.974,-333.809 243.595,-324.161 241.002,-334.434 247.974,-333.809" />
+</g>
+<!-- Hnefatafl -->
+<g class="node" id="node8"><title>Hnefatafl</title>
+<ellipse fill="none" stroke="black" cx="1032" cy="-594" rx="47.2401" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1032" y="-589.8">Hnefatafl</text>
+</g>
+<!-- Ming Mang -->
+<g class="node" id="node10"><title>Ming Mang</title>
+<ellipse fill="none" stroke="black" cx="824" cy="-522" rx="56.3556" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="824" y="-517.8">Ming Mang</text>
+</g>
+<!-- Hnefatafl&#45;&gt;Ming Mang -->
+<g class="edge" id="edge8"><title>Hnefatafl-&gt;Ming Mang</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 997.653 -581.441 C 963.229 -569.856 909.961 -551.929 871.498 -538.985" />
+<polygon fill="black" stroke="black" points="872.16,-535.515 861.566,-535.642 869.927,-542.149 872.16,-535.515" />
+</g>
+<!-- Alea Evangelii -->
+<g class="node" id="node26"><title>Alea Evangelii</title>
+<ellipse fill="none" stroke="black" cx="968" cy="-522" rx="68.5323" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="968" y="-517.8">Alea Evangelii</text>
+</g>
+<!-- Hnefatafl&#45;&gt;Alea Evangelii -->
+<g class="edge" id="edge24"><title>Hnefatafl-&gt;Alea Evangelii</title>
+<path fill="none" stroke="black" d="M 1017.16 -576.765 C 1009.11 -567.969 999.02 -556.928 990.075 -547.144" />
+<polygon fill="black" stroke="black" points="992.539,-544.652 983.208,-539.633 987.372,-549.375 992.539,-544.652" />
+</g>
+<!-- Halatafl -->
+<g class="node" id="node34"><title>Halatafl</title>
+<ellipse fill="none" stroke="black" cx="1097" cy="-522" rx="42.2009" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1097" y="-517.8">Halatafl</text>
+</g>
+<!-- Hnefatafl&#45;&gt;Halatafl -->
+<g class="edge" id="edge32"><title>Hnefatafl-&gt;Halatafl</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1047.08 -576.765 C 1055.36 -567.841 1065.79 -556.608 1074.97 -546.719" />
+<polygon fill="black" stroke="black" points="1077.77,-548.857 1082.01,-539.147 1072.64,-544.094 1077.77,-548.857" />
+</g>
+<!-- Makyek -->
+<g class="node" id="node42"><title>Makyek</title>
+<ellipse fill="none" stroke="black" cx="1200" cy="-522" rx="42.5185" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1200" y="-517.8">Makyek</text>
+</g>
+<!-- Hnefatafl&#45;&gt;Makyek -->
+<g class="edge" id="edge42"><title>Hnefatafl-&gt;Makyek</title>
+<path fill="none" stroke="black" d="M 1062.81 -580.161 C 1090.59 -568.586 1131.56 -551.518 1161.49 -539.047" />
+<polygon fill="black" stroke="black" points="1162.9,-542.249 1170.79,-535.172 1160.21,-535.787 1162.9,-542.249" />
+</g>
+<!-- Reversi -->
+<g class="node" id="node11"><title>Reversi</title>
+<ellipse fill="none" stroke="black" cx="824" cy="-594" rx="40.2988" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="824" y="-589.8">Reversi</text>
+</g>
+<!-- Reversi&#45;&gt;Ming Mang -->
+<g class="edge" id="edge10"><title>Reversi-&gt;Ming Mang</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 824 -575.697 C 824 -567.983 824 -558.712 824 -550.112" />
+<polygon fill="black" stroke="black" points="827.5,-550.104 824,-540.104 820.5,-550.104 827.5,-550.104" />
+</g>
+<!-- Chess -->
+<g class="node" id="node15"><title>Chess</title>
+<ellipse fill="none" stroke="black" cx="1597" cy="-234" rx="34.1548" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1597" y="-229.8">Chess</text>
+</g>
+<!-- Chess&#45;&gt;Nam Dinh -->
+<g class="edge" id="edge14"><title>Chess-&gt;Nam Dinh</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1624.53 -223.119 C 1656.52 -211.634 1709.77 -192.52 1747.63 -178.929" />
+<polygon fill="black" stroke="black" points="1749.15,-182.101 1757.38,-175.428 1746.79,-175.512 1749.15,-182.101" />
+</g>
+<!-- Shatra -->
+<g class="node" id="node123"><title>Shatra</title>
+<ellipse fill="none" stroke="black" cx="1512" cy="-162" rx="35.5569" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1512" y="-157.8">Shatra</text>
+</g>
+<!-- Chess&#45;&gt;Shatra -->
+<g class="edge" id="edge128"><title>Chess-&gt;Shatra</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1579.39 -218.496 C 1567.39 -208.613 1551.3 -195.365 1537.85 -184.291" />
+<polygon fill="black" stroke="black" points="1539.83,-181.382 1529.88,-177.726 1535.38,-186.785 1539.83,-181.382" />
+</g>
+<!-- Шабел -->
+<g class="node" id="node126"><title>Шабел</title>
+<ellipse fill="none" stroke="black" cx="1644" cy="-162" rx="78.4524" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1644" y="-157.8">Шабел</text>
+</g>
+<!-- Chess&#45;&gt;Шабел -->
+<g class="edge" id="edge132"><title>Chess-&gt;Шабел</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1607.9 -216.765 C 1613.55 -208.354 1620.57 -197.89 1626.92 -188.436" />
+<polygon fill="black" stroke="black" points="1629.83,-190.377 1632.5,-180.124 1624.02,-186.475 1629.83,-190.377" />
+</g>
+<!-- Petteia -->
+<g class="node" id="node17"><title>Petteia</title>
+<ellipse fill="none" stroke="black" cx="1088" cy="-738" rx="36.9756" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1088" y="-733.8">Petteia</text>
+</g>
+<!-- Seega -->
+<g class="node" id="node19"><title>Seega</title>
+<ellipse fill="none" stroke="black" cx="929" cy="-666" rx="34.1403" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="929" y="-661.8">Seega</text>
+</g>
+<!-- Petteia&#45;&gt;Seega -->
+<g class="edge" id="edge16"><title>Petteia-&gt;Seega</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1061.39 -725.284 C 1034.62 -713.499 993.215 -695.271 963.845 -682.34" />
+<polygon fill="black" stroke="black" points="964.947,-679.002 954.384,-678.175 962.126,-685.408 964.947,-679.002" />
+</g>
+<!-- Latrunculi -->
+<g class="node" id="node21"><title>Latrunculi</title>
+<ellipse fill="none" stroke="black" cx="1032" cy="-666" rx="50.8926" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1032" y="-661.8">Latrunculi</text>
+</g>
+<!-- Petteia&#45;&gt;Latrunculi -->
+<g class="edge" id="edge18"><title>Petteia-&gt;Latrunculi</title>
+<path fill="none" stroke="black" d="M 1075.01 -720.765 C 1068.11 -712.143 1059.49 -701.365 1051.78 -691.727" />
+<polygon fill="black" stroke="black" points="1054.29,-689.256 1045.31,-683.633 1048.82,-693.629 1054.29,-689.256" />
+</g>
+<!-- Jul Gonu -->
+<g class="node" id="node23"><title>Jul Gonu</title>
+<ellipse fill="none" stroke="black" cx="1147" cy="-666" rx="46.2632" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1147" y="-661.8">Jul Gonu</text>
+</g>
+<!-- Petteia&#45;&gt;Jul Gonu -->
+<g class="edge" id="edge20"><title>Petteia-&gt;Jul Gonu</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1101.39 -721.116 C 1108.83 -712.292 1118.23 -701.13 1126.57 -691.238" />
+<polygon fill="black" stroke="black" points="1129.49,-693.209 1133.26,-683.307 1124.13,-688.698 1129.49,-693.209" />
+</g>
+<!-- Hasami Shogi -->
+<g class="node" id="node28"><title>Hasami Shogi</title>
+<ellipse fill="none" stroke="black" cx="1277" cy="-666" rx="65.2265" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1277" y="-661.8">Hasami Shogi</text>
+</g>
+<!-- Petteia&#45;&gt;Hasami Shogi -->
+<g class="edge" id="edge26"><title>Petteia-&gt;Hasami Shogi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1116.71 -726.369 C 1146.72 -715.251 1194.32 -697.622 1229.86 -684.458" />
+<polygon fill="black" stroke="black" points="1231.38,-687.628 1239.54,-680.873 1228.95,-681.064 1231.38,-687.628" />
+</g>
+<!-- Latrunculi&#45;&gt;Hnefatafl -->
+<g class="edge" id="edge22"><title>Latrunculi-&gt;Hnefatafl</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1032 -647.697 C 1032 -639.983 1032 -630.712 1032 -622.112" />
+<polygon fill="black" stroke="black" points="1035.5,-622.104 1032,-612.104 1028.5,-622.104 1035.5,-622.104" />
+</g>
+<!-- Shogi -->
+<g class="node" id="node29"><title>Shogi</title>
+<ellipse fill="none" stroke="black" cx="1320" cy="-738" rx="33.3604" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1320" y="-733.8">Shogi</text>
+</g>
+<!-- Shogi&#45;&gt;Hasami Shogi -->
+<g class="edge" id="edge28"><title>Shogi-&gt;Hasami Shogi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1310.03 -720.765 C 1304.91 -712.44 1298.56 -702.104 1292.8 -692.725" />
+<polygon fill="black" stroke="black" points="1295.74,-690.813 1287.52,-684.124 1289.77,-694.477 1295.74,-690.813" />
+</g>
+<!-- Renju -->
+<g class="node" id="node31"><title>Renju</title>
+<ellipse fill="none" stroke="black" cx="1234" cy="-738" rx="34.1562" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1234" y="-733.8">Renju</text>
+</g>
+<!-- Renju&#45;&gt;Hasami Shogi -->
+<g class="edge" id="edge30"><title>Renju-&gt;Hasami Shogi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1243.97 -720.765 C 1249.09 -712.44 1255.44 -702.104 1261.2 -692.725" />
+<polygon fill="black" stroke="black" points="1264.23,-694.477 1266.48,-684.124 1258.26,-690.813 1264.23,-694.477" />
+</g>
+<!-- Halatafl&#45;&gt;Alquerque -->
+<g class="edge" id="edge38"><title>Halatafl-&gt;Alquerque</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1065.24 -510.098 C 1058.59 -507.961 1051.59 -505.82 1045 -504 C 983.711 -487.08 912.317 -471.495 864.659 -461.668" />
+<polygon fill="black" stroke="black" points="865.36,-458.239 854.861,-459.66 863.955,-465.096 865.36,-458.239" />
+</g>
+<!-- Fox and Goose -->
+<g class="node" id="node36"><title>Fox and Goose</title>
+<ellipse fill="none" stroke="black" cx="1383" cy="-450" rx="69.2567" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1383" y="-445.8">Fox and Goose</text>
+</g>
+<!-- Halatafl&#45;&gt;Fox and Goose -->
+<g class="edge" id="edge34"><title>Halatafl-&gt;Fox and Goose</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1128.41 -509.985 C 1134.85 -507.879 1141.62 -505.779 1148 -504 C 1205.55 -487.963 1272.04 -473.321 1319.58 -463.511" />
+<polygon fill="black" stroke="black" points="1320.33,-466.93 1329.42,-461.493 1318.92,-460.073 1320.33,-466.93" />
+</g>
+<!-- Asalto -->
+<g class="node" id="node38"><title>Asalto</title>
+<ellipse fill="none" stroke="black" cx="1953" cy="-378" rx="36.3698" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1953" y="-373.8">Asalto</text>
+</g>
+<!-- Fox and Goose&#45;&gt;Asalto -->
+<g class="edge" id="edge36"><title>Fox and Goose-&gt;Asalto</title>
+<path fill="none" stroke="black" d="M 1451.73 -447.571 C 1552.74 -444.233 1746.65 -433.105 1907 -396 C 1910.15 -395.271 1913.38 -394.383 1916.6 -393.401" />
+<polygon fill="black" stroke="black" points="1917.73,-396.714 1926.11,-390.231 1915.51,-390.073 1917.73,-396.714" />
+</g>
+<!-- Four Field Kono -->
+<g class="node" id="node46"><title>Four Field Kono</title>
+<ellipse fill="none" stroke="black" cx="1712" cy="-306" rx="75.1192" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1712" y="-301.8">Four Field Kono</text>
+</g>
+<!-- Five Field Kono&#45;&gt;Four Field Kono -->
+<g class="edge" id="edge46"><title>Five Field Kono-&gt;Four Field Kono</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1711.25 -359.697 C 1711.36 -351.983 1711.49 -342.712 1711.61 -334.112" />
+<polygon fill="black" stroke="black" points="1715.11,-334.153 1711.76,-324.104 1708.11,-334.053 1715.11,-334.153" />
+</g>
+<!-- Khakass Tobit -->
+<g class="node" id="node62"><title>Khakass Tobit</title>
+<ellipse fill="none" stroke="black" cx="375" cy="-306" rx="67.1311" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="375" y="-301.8">Khakass Tobit</text>
+</g>
+<!-- Senegalese Checkers&#45;&gt;Khakass Tobit -->
+<g class="edge" id="edge62"><title>Senegalese Checkers-&gt;Khakass Tobit</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 896.644 -365.223 C 884.806 -363.311 872.553 -361.477 861 -360 C 679.554 -336.801 631.764 -352.027 451 -324 C 445.094 -323.084 438.962 -321.978 432.857 -320.774" />
+<polygon fill="black" stroke="black" points="433.156,-317.262 422.655,-318.673 431.744,-324.118 433.156,-317.262" />
+</g>
+<!-- Turkish Dama -->
+<g class="node" id="node64"><title>Turkish Dama</title>
+<ellipse fill="none" stroke="black" cx="527" cy="-306" rx="66.3197" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="527" y="-301.8">Turkish Dama</text>
+</g>
+<!-- Senegalese Checkers&#45;&gt;Turkish Dama -->
+<g class="edge" id="edge64"><title>Senegalese Checkers-&gt;Turkish Dama</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 894.919 -365.619 C 883.6 -363.724 871.968 -361.793 861 -360 C 767.997 -344.794 660.316 -327.821 592.925 -317.274" />
+<polygon fill="black" stroke="black" points="593.293,-313.789 582.872,-315.702 592.211,-320.705 593.293,-313.789" />
+</g>
+<!-- Bahrain Dama -->
+<g class="node" id="node66"><title>Bahrain Dama</title>
+<ellipse fill="none" stroke="black" cx="67" cy="-234" rx="67.1151" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="67" y="-229.8">Bahrain Dama</text>
+</g>
+<!-- Turkish Dama&#45;&gt;Bahrain Dama -->
+<g class="edge" id="edge66"><title>Turkish Dama-&gt;Bahrain Dama</title>
+<path fill="none" stroke="black" d="M 478.903 -293.452 C 469.675 -291.46 460.064 -289.539 451 -288 C 315.124 -264.927 278.876 -275.073 143 -252 C 137.193 -251.014 131.162 -249.871 125.151 -248.654" />
+<polygon fill="black" stroke="black" points="125.602,-245.172 115.097,-246.548 124.167,-252.024 125.602,-245.172" />
+</g>
+<!-- Greek Checkers -->
+<g class="node" id="node68"><title>Greek Checkers</title>
+<ellipse fill="none" stroke="black" cx="225" cy="-234" rx="72.45" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="225" y="-229.8">Greek Checkers</text>
+</g>
+<!-- Turkish Dama&#45;&gt;Greek Checkers -->
+<g class="edge" id="edge68"><title>Turkish Dama-&gt;Greek Checkers</title>
+<path fill="none" stroke="black" d="M 478.143 -293.675 C 425.78 -281.538 342.566 -262.25 285.955 -249.129" />
+<polygon fill="black" stroke="black" points="286.59,-245.683 276.058,-246.835 285.01,-252.502 286.59,-245.683" />
+</g>
+<!-- Armenian Tama -->
+<g class="node" id="node101"><title>Armenian Tama</title>
+<ellipse fill="none" stroke="black" cx="390" cy="-234" rx="74.0721" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="390" y="-229.8">Armenian Tama</text>
+</g>
+<!-- Turkish Dama&#45;&gt;Armenian Tama -->
+<g class="edge" id="edge102"><title>Turkish Dama-&gt;Armenian Tama</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 497.273 -289.811 C 477.441 -279.678 451.145 -266.242 429.551 -255.209" />
+<polygon fill="black" stroke="black" points="431.115,-252.077 420.618,-250.644 427.93,-258.311 431.115,-252.077" />
+</g>
+<!-- Ossetian Kena -->
+<g class="node" id="node105"><title>Ossetian Kena</title>
+<ellipse fill="none" stroke="black" cx="437" cy="-90" rx="67.1137" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="437" y="-85.8">Ossetian Kena</text>
+</g>
+<!-- Turkish Dama&#45;&gt;Ossetian Kena -->
+<g class="edge" id="edge106"><title>Turkish Dama-&gt;Ossetian Kena</title>
+<path fill="none" stroke="black" d="M 522.726 -287.986 C 514.857 -257.985 496.604 -194.111 472 -144 C 467.383 -134.597 461.373 -124.874 455.639 -116.364" />
+<polygon fill="black" stroke="black" points="458.411,-114.218 449.835,-107.998 452.66,-118.209 458.411,-114.218" />
+</g>
+<!-- Frisian Checkers -->
+<g class="node" id="node114"><title>Frisian Checkers</title>
+<ellipse fill="none" stroke="black" cx="596" cy="-162" rx="76.2997" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="596" y="-157.8">Frisian Checkers</text>
+</g>
+<!-- Turkish Dama&#45;&gt;Frisian Checkers -->
+<g class="edge" id="edge118"><title>Turkish Dama-&gt;Frisian Checkers</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 535.323 -287.871 C 547.238 -263.35 569.259 -218.032 583.24 -189.259" />
+<polygon fill="black" stroke="black" points="586.425,-190.713 587.647,-180.189 580.129,-187.654 586.425,-190.713" />
+</g>
+<!-- Italian Draughts -->
+<g class="node" id="node72"><title>Italian Draughts</title>
+<ellipse fill="none" stroke="black" cx="1066" cy="-306" rx="73.2739" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1066" y="-301.8">Italian Draughts</text>
+</g>
+<!-- Checkers&#45;&gt;Italian Draughts -->
+<g class="edge" id="edge72"><title>Checkers-&gt;Italian Draughts</title>
+<path fill="none" stroke="black" d="M 1106.44 -360.411 C 1100.07 -351.992 1092.19 -341.585 1085.08 -332.201" />
+<polygon fill="black" stroke="black" points="1087.67,-329.816 1078.84,-323.956 1082.08,-334.042 1087.67,-329.816" />
+</g>
+<!-- Spanish Draughts -->
+<g class="node" id="node76"><title>Spanish Draughts</title>
+<ellipse fill="none" stroke="black" cx="1237" cy="-306" rx="79.1422" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1237" y="-301.8">Spanish Draughts</text>
+</g>
+<!-- Checkers&#45;&gt;Spanish Draughts -->
+<g class="edge" id="edge76"><title>Checkers-&gt;Spanish Draughts</title>
+<path fill="none" stroke="black" d="M 1143.45 -362.496 C 1160.16 -352.585 1182.57 -339.288 1201.27 -328.194" />
+<polygon fill="black" stroke="black" points="1203.3,-331.062 1210.11,-322.95 1199.73,-325.042 1203.3,-331.062" />
+</g>
+<!-- Loosing Checkers -->
+<g class="node" id="node86"><title>Loosing Checkers</title>
+<ellipse fill="none" stroke="black" cx="1415" cy="-306" rx="81.0465" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1415" y="-301.8">Loosing Checkers</text>
+</g>
+<!-- Checkers&#45;&gt;Loosing Checkers -->
+<g class="edge" id="edge86"><title>Checkers-&gt;Loosing Checkers</title>
+<path fill="none" stroke="black" d="M 1157.7 -367.849 C 1207.03 -356.183 1292.96 -335.861 1351.84 -321.936" />
+<polygon fill="black" stroke="black" points="1352.85,-325.294 1361.78,-319.587 1351.24,-318.482 1352.85,-325.294" />
+</g>
+<!-- Laska -->
+<g class="node" id="node97"><title>Laska</title>
+<ellipse fill="none" stroke="black" cx="698" cy="-306" rx="34.1403" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="698" y="-301.8">Laska</text>
+</g>
+<!-- Checkers&#45;&gt;Laska -->
+<g class="edge" id="edge98"><title>Checkers-&gt;Laska</title>
+<path fill="none" stroke="black" d="M 1084.9 -365.564 C 1077.73 -363.465 1070.17 -361.475 1063 -360 C 921.955 -330.963 880.74 -358.777 741 -324 C 738.225 -323.309 735.389 -322.482 732.564 -321.569" />
+<polygon fill="black" stroke="black" points="733.695,-318.256 723.1,-318.209 731.353,-324.853 733.695,-318.256" />
+</g>
+<!-- North American Checkers -->
+<g class="node" id="node119"><title>North American Checkers</title>
+<ellipse fill="none" stroke="black" cx="862" cy="-306" rx="112.085" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="862" y="-301.8">North American Checkers</text>
+</g>
+<!-- Checkers&#45;&gt;North American Checkers -->
+<g class="edge" id="edge122"><title>Checkers-&gt;North American Checkers</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1083.81 -366.1 C 1076.92 -364.029 1069.74 -361.912 1063 -360 C 1018.51 -347.386 968.198 -334.121 929.04 -324.017" />
+<polygon fill="black" stroke="black" points="929.892,-320.622 919.335,-321.518 928.147,-327.401 929.892,-320.622" />
+</g>
+<!-- Italian Damone -->
+<g class="node" id="node74"><title>Italian Damone</title>
+<ellipse fill="none" stroke="black" cx="750" cy="-234" rx="70.2498" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="750" y="-229.8">Italian Damone</text>
+</g>
+<!-- Italian Draughts&#45;&gt;Italian Damone -->
+<g class="edge" id="edge74"><title>Italian Draughts-&gt;Italian Damone</title>
+<path fill="none" stroke="black" d="M 1013.46 -293.362 C 957.804 -281.033 870.008 -261.584 811.245 -248.567" />
+<polygon fill="black" stroke="black" points="811.87,-245.121 801.35,-246.375 810.356,-251.955 811.87,-245.121" />
+</g>
+<!-- International Draughts -->
+<g class="node" id="node78"><title>International Draughts</title>
+<ellipse fill="none" stroke="black" cx="1097" cy="-234" rx="98.28" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1097" y="-229.8">International Draughts</text>
+</g>
+<!-- Spanish Draughts&#45;&gt;International Draughts -->
+<g class="edge" id="edge78"><title>Spanish Draughts-&gt;International Draughts</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1205.58 -289.291 C 1185.78 -279.389 1159.98 -266.491 1138.5 -255.752" />
+<polygon fill="black" stroke="black" points="1139.79,-252.484 1129.28,-251.142 1136.66,-258.745 1139.79,-252.484" />
+</g>
+<!-- Portuguese draughts -->
+<g class="node" id="node99"><title>Portuguese draughts</title>
+<ellipse fill="none" stroke="black" cx="1303" cy="-234" rx="89.4224" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1303" y="-229.8">Portuguese draughts</text>
+</g>
+<!-- Spanish Draughts&#45;&gt;Portuguese draughts -->
+<g class="edge" id="edge100"><title>Spanish Draughts-&gt;Portuguese draughts</title>
+<path fill="none" stroke="black" d="M 1252.98 -288.055 C 1261.16 -279.371 1271.28 -268.644 1280.26 -259.114" />
+<polygon fill="black" stroke="black" points="1282.86,-261.466 1287.17,-251.789 1277.76,-256.664 1282.86,-261.466" />
+</g>
+<!-- Thai Checkers -->
+<g class="node" id="node117"><title>Thai Checkers</title>
+<ellipse fill="none" stroke="black" cx="1478" cy="-234" rx="67.1151" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1478" y="-229.8">Thai Checkers</text>
+</g>
+<!-- Spanish Draughts&#45;&gt;Thai Checkers -->
+<g class="edge" id="edge120"><title>Spanish Draughts-&gt;Thai Checkers</title>
+<path fill="none" stroke="black" d="M 1283.75 -291.42 C 1324.05 -279.715 1382.23 -262.817 1424.4 -250.568" />
+<polygon fill="black" stroke="black" points="1425.59,-253.867 1434.22,-247.717 1423.64,-247.145 1425.59,-253.867" />
+</g>
+<!-- Czech draughts -->
+<g class="node" id="node121"><title>Czech draughts</title>
+<ellipse fill="none" stroke="black" cx="910" cy="-234" rx="70.2527" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="910" y="-229.8">Czech draughts</text>
+</g>
+<!-- Spanish Draughts&#45;&gt;Czech draughts -->
+<g class="edge" id="edge124"><title>Spanish Draughts-&gt;Czech draughts</title>
+<path fill="none" stroke="black" d="M 1181.53 -293.125 C 1123.45 -280.692 1032.44 -261.211 972.021 -248.277" />
+<polygon fill="black" stroke="black" points="972.736,-244.851 962.225,-246.18 971.271,-251.695 972.736,-244.851" />
+</g>
+<!-- Russian Checkers -->
+<g class="node" id="node80"><title>Russian Checkers</title>
+<ellipse fill="none" stroke="black" cx="1230" cy="-162" rx="79.436" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1230" y="-157.8">Russian Checkers</text>
+</g>
+<!-- International Draughts&#45;&gt;Russian Checkers -->
+<g class="edge" id="edge80"><title>International Draughts-&gt;Russian Checkers</title>
+<path fill="none" stroke="black" d="M 1127.85 -216.765 C 1146.61 -206.888 1170.76 -194.181 1190.86 -183.6" />
+<polygon fill="black" stroke="black" points="1192.56,-186.661 1199.78,-178.906 1189.3,-180.466 1192.56,-186.661" />
+</g>
+<!-- Pool checkers -->
+<g class="node" id="node82"><title>Pool checkers</title>
+<ellipse fill="none" stroke="black" cx="1393" cy="-162" rx="64.4013" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1393" y="-157.8">Pool checkers</text>
+</g>
+<!-- International Draughts&#45;&gt;Pool checkers -->
+<g class="edge" id="edge82"><title>International Draughts-&gt;Pool checkers</title>
+<path fill="none" stroke="black" d="M 1154.77 -219.337 C 1207.09 -206.965 1283.73 -188.84 1335.85 -176.514" />
+<polygon fill="black" stroke="black" points="1336.69,-179.914 1345.61,-174.206 1335.08,-173.102 1336.69,-179.914" />
+</g>
+<!-- Brazilian draughts -->
+<g class="node" id="node84"><title>Brazilian draughts</title>
+<ellipse fill="none" stroke="black" cx="772" cy="-162" rx="82.1501" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="772" y="-157.8">Brazilian draughts</text>
+</g>
+<!-- International Draughts&#45;&gt;Brazilian draughts -->
+<g class="edge" id="edge84"><title>International Draughts-&gt;Brazilian draughts</title>
+<path fill="none" stroke="black" d="M 1035.87 -219.834 C 979.465 -207.685 895.93 -189.693 838.021 -177.22" />
+<polygon fill="black" stroke="black" points="838.751,-173.797 828.238,-175.113 837.277,-180.64 838.751,-173.797" />
+</g>
+<!-- Canadian Checkers -->
+<g class="node" id="node110"><title>Canadian Checkers</title>
+<ellipse fill="none" stroke="black" cx="958" cy="-162" rx="85.2729" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="958" y="-157.8">Canadian Checkers</text>
+</g>
+<!-- International Draughts&#45;&gt;Canadian Checkers -->
+<g class="edge" id="edge112"><title>International Draughts-&gt;Canadian Checkers</title>
+<path fill="none" stroke="black" d="M 1065.11 -216.941 C 1045.42 -207.025 1019.97 -194.208 998.817 -183.555" />
+<polygon fill="black" stroke="black" points="1000.25,-180.357 989.741,-178.985 997.098,-186.609 1000.25,-180.357" />
+</g>
+<!-- Damii -->
+<g class="node" id="node112"><title>Damii</title>
+<ellipse fill="none" stroke="black" cx="1097" cy="-162" rx="35.2615" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1097" y="-157.8">Damii</text>
+</g>
+<!-- International Draughts&#45;&gt;Damii -->
+<g class="edge" id="edge114"><title>International Draughts-&gt;Damii</title>
+<path fill="none" stroke="black" d="M 1097 -215.697 C 1097 -207.983 1097 -198.712 1097 -190.112" />
+<polygon fill="black" stroke="black" points="1100.5,-190.104 1097,-180.104 1093.5,-190.104 1100.5,-190.104" />
+</g>
+<!-- International Draughts&#45;&gt;Frisian Checkers -->
+<g class="edge" id="edge116"><title>International Draughts-&gt;Frisian Checkers</title>
+<path fill="none" stroke="black" d="M 1026.47 -221.485 C 1014 -219.567 1001.13 -217.663 989 -216 C 852.456 -197.281 817.128 -201.532 681 -180 C 674.409 -178.957 667.55 -177.766 660.715 -176.508" />
+<polygon fill="black" stroke="black" points="661.227,-173.043 650.752,-174.628 659.929,-179.922 661.227,-173.043" />
+</g>
+<!-- International Draughts&#45;&gt;Shatra -->
+<g class="edge" id="edge126"><title>International Draughts-&gt;Shatra</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1168.05 -221.497 C 1180.04 -219.617 1192.37 -217.723 1204 -216 C 1320.27 -198.778 1351.98 -208.541 1466 -180 C 1469.14 -179.214 1472.36 -178.287 1475.57 -177.278" />
+<polygon fill="black" stroke="black" points="1476.71,-180.585 1485.07,-174.064 1474.47,-173.955 1476.71,-180.585" />
+</g>
+<!-- International Draughts&#45;&gt;Шабел -->
+<g class="edge" id="edge130"><title>International Draughts-&gt;Шабел</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1166.85 -221.329 C 1179.21 -219.427 1191.97 -217.57 1204 -216 C 1359.94 -195.654 1400.42 -202.937 1556 -180 C 1563.09 -178.955 1570.48 -177.735 1577.83 -176.438" />
+<polygon fill="black" stroke="black" points="1578.58,-179.859 1587.79,-174.63 1577.33,-172.971 1578.58,-179.859" />
+</g>
+<!-- Поддавки -->
+<g class="node" id="node88"><title>Поддавки</title>
+<ellipse fill="none" stroke="black" cx="1230" cy="-90" rx="112.54" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1230" y="-85.8">Поддавки</text>
+</g>
+<!-- Russian Checkers&#45;&gt;Поддавки -->
+<g class="edge" id="edge88"><title>Russian Checkers-&gt;Поддавки</title>
+<path fill="none" stroke="black" d="M 1230 -143.697 C 1230 -135.983 1230 -126.712 1230 -118.112" />
+<polygon fill="black" stroke="black" points="1233.5,-118.104 1230,-108.104 1226.5,-118.104 1233.5,-118.104" />
+</g>
+<!-- Столбовые Шашки -->
+<g class="node" id="node90"><title>Столбовые Шашки</title>
+<ellipse fill="none" stroke="black" cx="1535" cy="-90" rx="173.275" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1535" y="-85.8">Столбовые Шашки</text>
+</g>
+<!-- Russian Checkers&#45;&gt;Столбовые Шашки -->
+<g class="edge" id="edge90"><title>Russian Checkers-&gt;Столбовые Шашки</title>
+<path fill="none" stroke="black" d="M 1283.83 -148.647 C 1331.88 -137.617 1402.85 -121.33 1457.1 -108.878" />
+<polygon fill="black" stroke="black" points="1458.07,-112.248 1467.03,-106.6 1456.5,-105.426 1458.07,-112.248" />
+</g>
+<!-- Ставропольские шашки -->
+<g class="node" id="node92"><title>Ставропольские шашки</title>
+<ellipse fill="none" stroke="black" cx="1939" cy="-90" rx="212.292" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1939" y="-85.8">Ставропольские шашки</text>
+</g>
+<!-- Russian Checkers&#45;&gt;Ставропольские шашки -->
+<g class="edge" id="edge92"><title>Russian Checkers-&gt;Ставропольские шашки</title>
+<path fill="none" stroke="black" d="M 1286.83 -149.238 C 1297.49 -147.29 1308.56 -145.439 1319 -144 C 1363.5 -137.865 1611.85 -117.333 1780.41 -103.699" />
+<polygon fill="black" stroke="black" points="1780.7,-107.187 1790.38,-102.892 1780.14,-100.209 1780.7,-107.187" />
+</g>
+<!-- Северные шашки -->
+<g class="node" id="node94"><title>Северные шашки</title>
+<ellipse fill="none" stroke="black" cx="1222" cy="-18" rx="154.304" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1222" y="-13.8">Северные шашки</text>
+</g>
+<!-- Russian Checkers&#45;&gt;Северные шашки -->
+<g class="edge" id="edge94"><title>Russian Checkers-&gt;Северные шашки</title>
+<path fill="none" stroke="black" d="M 1171.63 -149.666 C 1161.43 -147.738 1150.91 -145.783 1141 -144 C 1093.75 -135.496 958.987 -144.664 928 -108 C 880.67 -51.9995 968.982 -30.4799 1060.89 -22.5568" />
+<polygon fill="black" stroke="black" points="1061.26,-26.0385 1070.94,-21.7439 1060.69,-19.0613 1061.26,-26.0385" />
+</g>
+<!-- 80 Cells Checkers -->
+<g class="node" id="node108"><title>80 Cells Checkers</title>
+<ellipse fill="none" stroke="black" cx="1018" cy="-90" rx="80.9501" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1018" y="-85.8">80 Cells Checkers</text>
+</g>
+<!-- Russian Checkers&#45;&gt;80 Cells Checkers -->
+<g class="edge" id="edge110"><title>Russian Checkers-&gt;80 Cells Checkers</title>
+<path fill="none" stroke="black" d="M 1187.1 -146.834 C 1153.59 -135.77 1106.85 -120.338 1071 -108.501" />
+<polygon fill="black" stroke="black" points="1071.79,-105.076 1061.2,-105.264 1069.6,-111.723 1071.79,-105.076" />
+</g>
+<!-- Столбовые Шашки&#45;&gt;Северные шашки -->
+<g class="edge" id="edge96"><title>Столбовые Шашки-&gt;Северные шашки</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1465.54 -73.4647 C 1416.49 -62.4951 1350.71 -47.7852 1299.88 -36.4178" />
+<polygon fill="black" stroke="black" points="1300.45,-32.9579 1289.93,-34.191 1298.92,-39.7892 1300.45,-32.9579" />
+</g>
+<!-- Ossetian Checkers -->
+<g class="node" id="node103"><title>Ossetian Checkers</title>
+<ellipse fill="none" stroke="black" cx="381" cy="-162" rx="82.445" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="381" y="-157.8">Ossetian Checkers</text>
+</g>
+<!-- Armenian Tama&#45;&gt;Ossetian Checkers -->
+<g class="edge" id="edge104"><title>Armenian Tama-&gt;Ossetian Checkers</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 387.775 -215.697 C 386.783 -207.983 385.592 -198.712 384.486 -190.112" />
+<polygon fill="black" stroke="black" points="387.946,-189.576 383.199,-180.104 381.003,-190.469 387.946,-189.576" />
+</g>
+<!-- Ossetian Checkers&#45;&gt;Ossetian Kena -->
+<g class="edge" id="edge108"><title>Ossetian Checkers-&gt;Ossetian Kena</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 394.556 -144.055 C 401.366 -135.543 409.745 -125.068 417.255 -115.681" />
+<polygon fill="black" stroke="black" points="420.055,-117.784 423.569,-107.789 414.589,-113.411 420.055,-117.784" />
+</g>
+</g>
+</svg>

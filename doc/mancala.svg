@@ -1,1116 +1,1121 @@
-<svg width="3859pt" height="620pt" viewBox="0.00 0.00 3859.00 620.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph1" class="graph" transform="scale(1 1) rotate(0) translate(4 616)">
-<title>G</title>
-<polygon fill="white" stroke="white" points="-4,5 -4,-616 3856,-616 3856,5 -4,5"></polygon>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4519 620" width="4519pt" height="620pt">
+<g class="graph" id="graph1" transform="scale(1) rotate(0) translate(4 616)">
+<title>mancala</title>
+<polygon fill="white" stroke="white" points="-4,5 -4,-616 4516,-616 4516,5 -4,5" />
 <!-- Mancala -->
-<g id="node1" class="node"><title>Mancala</title>
-<ellipse fill="none" stroke="black" cx="2021" cy="-594" rx="43.9211" ry="18"></ellipse>
-<text text-anchor="middle" x="2021" y="-589.8" font-family="Times,serif" font-size="14.00">Mancala</text>
+<g class="node" id="node1"><title>Mancala</title>
+<ellipse fill="none" stroke="black" cx="3713" cy="-594" rx="43.9211" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3713" y="-589.8">Mancala</text>
 </g>
 <!-- 2 Ranks Single sowing -->
-<g id="node3" class="node"><title>2 Ranks Single sowing</title>
-<ellipse fill="none" stroke="black" cx="1997" cy="-522" rx="99.2347" ry="18"></ellipse>
-<text text-anchor="middle" x="1997" y="-517.8" font-family="Times,serif" font-size="14.00">2 Ranks Single sowing</text>
+<g class="node" id="node3"><title>2 Ranks Single sowing</title>
+<ellipse fill="none" stroke="black" cx="3689" cy="-522" rx="99.2347" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3689" y="-517.8">2 Ranks Single sowing</text>
 </g>
 <!-- Mancala&#45;&gt;2 Ranks Single sowing -->
-<g id="edge2" class="edge"><title>Mancala-&gt;2 Ranks Single sowing</title>
-<path fill="none" stroke="black" d="M2015.19,-576.055C2012.49,-568.176 2009.21,-558.617 2006.19,-549.794"></path>
-<polygon fill="black" stroke="black" points="2009.48,-548.6 2002.92,-540.275 2002.86,-550.87 2009.48,-548.6"></polygon>
+<g class="edge" id="edge2"><title>Mancala-&gt;2 Ranks Single sowing</title>
+<path fill="none" stroke="black" d="M 3707.19 -576.055 C 3704.49 -568.176 3701.21 -558.617 3698.19 -549.794" />
+<polygon fill="black" stroke="black" points="3701.48,-548.6 3694.92,-540.275 3694.86,-550.87 3701.48,-548.6" />
 </g>
 <!-- Latho -->
-<g id="node138" class="node"><title>Latho</title>
-<ellipse fill="none" stroke="black" cx="2148" cy="-522" rx="33.3445" ry="18"></ellipse>
-<text text-anchor="middle" x="2148" y="-517.8" font-family="Times,serif" font-size="14.00">Latho</text>
+<g class="node" id="node139"><title>Latho</title>
+<ellipse fill="none" stroke="black" cx="3840" cy="-522" rx="33.3445" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3840" y="-517.8">Latho</text>
 </g>
 <!-- Mancala&#45;&gt;Latho -->
-<g id="edge130" class="edge"><title>Mancala-&gt;Latho</title>
-<path fill="none" stroke="black" d="M2046.09,-579.17C2066.33,-568.014 2094.91,-552.261 2116.66,-540.275"></path>
-<polygon fill="black" stroke="black" points="2118.45,-543.286 2125.51,-535.394 2115.07,-537.156 2118.45,-543.286"></polygon>
+<g class="edge" id="edge132"><title>Mancala-&gt;Latho</title>
+<path fill="none" stroke="black" d="M 3738.09 -579.17 C 3758.33 -568.014 3786.91 -552.261 3808.66 -540.275" />
+<polygon fill="black" stroke="black" points="3810.45,-543.286 3817.51,-535.394 3807.07,-537.156 3810.45,-543.286" />
 </g>
 <!-- 2 Ranks Multiple sowing -->
-<g id="node5" class="node"><title>2 Ranks Multiple sowing</title>
-<ellipse fill="none" stroke="black" cx="1299" cy="-450" rx="108.109" ry="18"></ellipse>
-<text text-anchor="middle" x="1299" y="-445.8" font-family="Times,serif" font-size="14.00">2 Ranks Multiple sowing</text>
+<g class="node" id="node5"><title>2 Ranks Multiple sowing</title>
+<ellipse fill="none" stroke="black" cx="2341" cy="-450" rx="108.109" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2341" y="-445.8">2 Ranks Multiple sowing</text>
 </g>
 <!-- 2 Ranks Single sowing&#45;&gt;2 Ranks Multiple sowing -->
-<g id="edge4" class="edge"><title>2 Ranks Single sowing-&gt;2 Ranks Multiple sowing</title>
-<path fill="none" stroke="black" d="M1912.46,-512.522C1783.21,-499.56 1537.01,-474.87 1399.06,-461.034"></path>
-<polygon fill="black" stroke="black" points="1399.21,-457.532 1388.91,-460.016 1398.51,-464.497 1399.21,-457.532"></polygon>
+<g class="edge" id="edge4"><title>2 Ranks Single sowing-&gt;2 Ranks Multiple sowing</title>
+<path fill="none" stroke="black" d="M 3589.92 -520.088 C 3380.63 -517.424 2878.24 -507.133 2459 -468 C 2448.35 -467.006 2437.19 -465.72 2426.16 -464.302" />
+<polygon fill="black" stroke="black" points="2426.46,-460.811 2416.09,-462.966 2425.54,-467.75 2426.46,-460.811" />
 </g>
 <!-- Um el Bagara -->
-<g id="node16" class="node"><title>Um el Bagara</title>
-<ellipse fill="none" stroke="black" cx="1926" cy="-450" rx="64.4933" ry="18"></ellipse>
-<text text-anchor="middle" x="1926" y="-445.8" font-family="Times,serif" font-size="14.00">Um el Bagara</text>
+<g class="node" id="node17"><title>Um el Bagara</title>
+<ellipse fill="none" stroke="black" cx="3618" cy="-450" rx="64.4933" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3618" y="-445.8">Um el Bagara</text>
 </g>
 <!-- 2 Ranks Single sowing&#45;&gt;Um el Bagara -->
-<g id="edge14" class="edge"><title>2 Ranks Single sowing-&gt;Um el Bagara</title>
-<path fill="none" stroke="black" d="M1979.81,-504.055C1970.92,-495.285 1959.91,-484.432 1950.17,-474.831"></path>
-<polygon fill="black" stroke="black" points="1952.61,-472.317 1943.03,-467.789 1947.69,-477.302 1952.61,-472.317"></polygon>
+<g class="edge" id="edge16"><title>2 Ranks Single sowing-&gt;Um el Bagara</title>
+<path fill="none" stroke="black" d="M 3671.81 -504.055 C 3662.92 -495.285 3651.91 -484.432 3642.17 -474.831" />
+<polygon fill="black" stroke="black" points="3644.61,-472.317 3635.03,-467.789 3639.69,-477.302 3644.61,-472.317" />
 </g>
 <!-- Um ed&#45;Dyar -->
-<g id="node18" class="node"><title>Um ed-Dyar</title>
-<ellipse fill="none" stroke="black" cx="2068" cy="-450" rx="59.3481" ry="18"></ellipse>
-<text text-anchor="middle" x="2068" y="-445.8" font-family="Times,serif" font-size="14.00">Um ed-Dyar</text>
+<g class="node" id="node19"><title>Um ed-Dyar</title>
+<ellipse fill="none" stroke="black" cx="3760" cy="-450" rx="59.3481" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3760" y="-445.8">Um ed-Dyar</text>
 </g>
 <!-- 2 Ranks Single sowing&#45;&gt;Um ed&#45;Dyar -->
-<g id="edge16" class="edge"><title>2 Ranks Single sowing-&gt;Um ed-Dyar</title>
-<path fill="none" stroke="black" d="M2014.19,-504.055C2023.21,-495.156 2034.41,-484.112 2044.26,-474.408"></path>
-<polygon fill="black" stroke="black" points="2046.8,-476.82 2051.46,-467.307 2041.88,-471.835 2046.8,-476.82"></polygon>
+<g class="edge" id="edge18"><title>2 Ranks Single sowing-&gt;Um ed-Dyar</title>
+<path fill="none" stroke="black" d="M 3706.19 -504.055 C 3715.21 -495.156 3726.41 -484.112 3736.26 -474.408" />
+<polygon fill="black" stroke="black" points="3738.8,-476.82 3743.46,-467.307 3733.88,-471.835 3738.8,-476.82" />
 </g>
 <!-- Lontu&#45;holu -->
-<g id="node22" class="node"><title>Lontu-holu</title>
-<ellipse fill="none" stroke="black" cx="2293" cy="-450" rx="54.2334" ry="18"></ellipse>
-<text text-anchor="middle" x="2293" y="-445.8" font-family="Times,serif" font-size="14.00">Lontu-holu</text>
+<g class="node" id="node23"><title>Lontu-holu</title>
+<ellipse fill="none" stroke="black" cx="1761" cy="-450" rx="54.2334" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1761" y="-445.8">Lontu-holu</text>
 </g>
 <!-- 2 Ranks Single sowing&#45;&gt;Lontu&#45;holu -->
-<g id="edge20" class="edge"><title>2 Ranks Single sowing-&gt;Lontu-holu</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2054.77,-507.337C2108.56,-494.618 2188.05,-475.818 2240.18,-463.49"></path>
-<polygon fill="black" stroke="black" points="2241.3,-466.822 2250.23,-461.115 2239.69,-460.01 2241.3,-466.822"></polygon>
+<g class="edge" id="edge22"><title>2 Ranks Single sowing-&gt;Lontu-holu</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3592.58 -517.53 C 3358.21 -509.091 2739.99 -486.806 2224 -468 C 2081.54 -462.808 1914.42 -456.657 1825.06 -453.363" />
+<polygon fill="black" stroke="black" points="1824.94,-449.856 1814.82,-452.986 1824.69,-456.852 1824.94,-449.856" />
 </g>
 <!-- Oware -->
-<g id="node27" class="node"><title>Oware</title>
-<ellipse fill="none" stroke="black" cx="3478" cy="-450" rx="36.155" ry="18"></ellipse>
-<text text-anchor="middle" x="3478" y="-445.8" font-family="Times,serif" font-size="14.00">Oware</text>
+<g class="node" id="node28"><title>Oware</title>
+<ellipse fill="none" stroke="black" cx="3942" cy="-450" rx="36.155" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3942" y="-445.8">Oware</text>
 </g>
 <!-- 2 Ranks Single sowing&#45;&gt;Oware -->
-<g id="edge196" class="edge"><title>2 Ranks Single sowing-&gt;Oware</title>
-<path fill="none" stroke="black" d="M2065.69,-508.948C2078.71,-507.016 2092.25,-505.245 2105,-504 2623.55,-453.357 3256.69,-450.55 3431.43,-450.817"></path>
-<polygon fill="black" stroke="black" points="3431.56,-454.317 3441.56,-450.837 3431.57,-447.317 3431.56,-454.317"></polygon>
+<g class="edge" id="edge198"><title>2 Ranks Single sowing-&gt;Oware</title>
+<path fill="none" stroke="black" d="M 3741.11 -506.581 C 3788.62 -493.437 3857.84 -474.286 3901.36 -462.243" />
+<polygon fill="black" stroke="black" points="3902.34,-465.604 3911.05,-459.564 3900.47,-458.858 3902.34,-465.604" />
 </g>
 <!-- Songo Ewondo -->
-<g id="node215" class="node"><title>Songo Ewondo</title>
-<ellipse fill="none" stroke="black" cx="529" cy="-450" rx="69.9773" ry="18"></ellipse>
-<text text-anchor="middle" x="529" y="-445.8" font-family="Times,serif" font-size="14.00">Songo Ewondo</text>
+<g class="node" id="node216"><title>Songo Ewondo</title>
+<ellipse fill="none" stroke="black" cx="4238" cy="-450" rx="69.9773" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="4238" y="-445.8">Songo Ewondo</text>
 </g>
 <!-- 2 Ranks Single sowing&#45;&gt;Songo Ewondo -->
-<g id="edge218" class="edge"><title>2 Ranks Single sowing-&gt;Songo Ewondo</title>
-<path fill="none" stroke="black" d="M1898.13,-519.426C1624.12,-514.712 858.772,-499.075 609,-468 602.278,-467.164 595.284,-466.049 588.352,-464.788"></path>
-<polygon fill="black" stroke="black" points="588.76,-461.303 578.279,-462.852 587.439,-468.177 588.76,-461.303"></polygon>
-</g>
-<!-- 2 Ranks Pussa Kanawa sowing -->
-<g id="node10" class="node"><title>2 Ranks Pussa Kanawa sowing</title>
-<ellipse fill="none" stroke="black" cx="1009" cy="-378" rx="131.275" ry="18"></ellipse>
-<text text-anchor="middle" x="1009" y="-373.8" font-family="Times,serif" font-size="14.00">2 Ranks Pussa Kanawa sowing</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;2 Ranks Pussa Kanawa sowing -->
-<g id="edge8" class="edge"><title>2 Ranks Multiple sowing-&gt;2 Ranks Pussa Kanawa sowing</title>
-<path fill="none" stroke="black" d="M1240.31,-434.834C1194.25,-423.715 1129.91,-408.186 1080.78,-396.326"></path>
-<polygon fill="black" stroke="black" points="1081.4,-392.874 1070.85,-393.93 1079.75,-399.679 1081.4,-392.874"></polygon>
-</g>
-<!-- Gabata -->
-<g id="node12" class="node"><title>Gabata</title>
-<ellipse fill="none" stroke="black" cx="1197" cy="-378" rx="38.0712" ry="18"></ellipse>
-<text text-anchor="middle" x="1197" y="-373.8" font-family="Times,serif" font-size="14.00">Gabata</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Gabata -->
-<g id="edge10" class="edge"><title>2 Ranks Multiple sowing-&gt;Gabata</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1274.83,-432.411C1260.35,-422.475 1241.84,-409.771 1226.5,-399.246"></path>
-<polygon fill="black" stroke="black" points="1228.12,-396.111 1217.89,-393.338 1224.16,-401.883 1228.12,-396.111"></polygon>
-</g>
-<!-- Congkak -->
-<g id="node14" class="node"><title>Congkak</title>
-<ellipse fill="none" stroke="black" cx="1299" cy="-378" rx="45.3598" ry="18"></ellipse>
-<text text-anchor="middle" x="1299" y="-373.8" font-family="Times,serif" font-size="14.00">Congkak</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Congkak -->
-<g id="edge12" class="edge"><title>2 Ranks Multiple sowing-&gt;Congkak</title>
-<path fill="none" stroke="black" d="M1299,-431.697C1299,-423.983 1299,-414.712 1299,-406.112"></path>
-<polygon fill="black" stroke="black" points="1302.5,-406.104 1299,-396.104 1295.5,-406.104 1302.5,-406.104"></polygon>
-</g>
-<!-- Ba&#45;awa -->
-<g id="node30" class="node"><title>Ba-awa</title>
-<ellipse fill="none" stroke="black" cx="1403" cy="-378" rx="40.2844" ry="18"></ellipse>
-<text text-anchor="middle" x="1403" y="-373.8" font-family="Times,serif" font-size="14.00">Ba-awa</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Ba&#45;awa -->
-<g id="edge44" class="edge"><title>2 Ranks Multiple sowing-&gt;Ba-awa</title>
-<path fill="none" stroke="black" d="M1323.65,-432.411C1338.55,-422.382 1357.64,-409.533 1373.36,-398.952"></path>
-<polygon fill="black" stroke="black" points="1375.36,-401.826 1381.7,-393.338 1371.45,-396.019 1375.36,-401.826"></polygon>
-</g>
-<!-- Ajua -->
-<g id="node34" class="node"><title>Ajua</title>
-<ellipse fill="none" stroke="black" cx="104" cy="-378" rx="29.2139" ry="18"></ellipse>
-<text text-anchor="middle" x="104" y="-373.8" font-family="Times,serif" font-size="14.00">Ajua</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Ajua -->
-<g id="edge30" class="edge"><title>2 Ranks Multiple sowing-&gt;Ajua</title>
-<path fill="none" stroke="black" d="M1224.24,-436.982C1209.92,-435.034 1195.02,-433.249 1181,-432 951.106,-411.514 368.097,-447.014 143,-396 140.479,-395.429 137.918,-394.696 135.376,-393.856"></path>
-<polygon fill="black" stroke="black" points="136.374,-390.491 125.783,-390.205 133.884,-397.033 136.374,-390.491"></polygon>
-</g>
-<!-- En Dodoi -->
-<g id="node89" class="node"><title>En Dodoi</title>
-<ellipse fill="none" stroke="black" cx="680" cy="-378" rx="47.9799" ry="18"></ellipse>
-<text text-anchor="middle" x="680" y="-373.8" font-family="Times,serif" font-size="14.00">En Dodoi</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;En Dodoi -->
-<g id="edge80" class="edge"><title>2 Ranks Multiple sowing-&gt;En Dodoi</title>
-<path fill="none" stroke="black" d="M1222.28,-437.242C1208.56,-435.34 1194.37,-433.504 1181,-432 984.259,-409.874 931.589,-432.491 737,-396 732.889,-395.229 728.653,-394.277 724.433,-393.219"></path>
-<polygon fill="black" stroke="black" points="725.25,-389.815 714.684,-390.598 723.433,-396.575 725.25,-389.815"></polygon>
-</g>
-<!-- Krur -->
-<g id="node119" class="node"><title>Krur</title>
-<ellipse fill="none" stroke="black" cx="1795" cy="-378" rx="28.9018" ry="18"></ellipse>
-<text text-anchor="middle" x="1795" y="-373.8" font-family="Times,serif" font-size="14.00">Krur</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Krur -->
-<g id="edge112" class="edge"><title>2 Ranks Multiple sowing-&gt;Krur</title>
-<path fill="none" stroke="black" d="M1404.11,-445.609C1497.81,-440.521 1638.01,-427.801 1756,-396 1758.43,-395.344 1760.91,-394.561 1763.38,-393.696"></path>
-<polygon fill="black" stroke="black" points="1764.68,-396.946 1772.72,-390.053 1762.14,-390.424 1764.68,-396.946"></polygon>
-</g>
-<!-- Lamlameta -->
-<g id="node133" class="node"><title>Lamlameta</title>
-<ellipse fill="none" stroke="black" cx="1693" cy="-378" rx="54.2117" ry="18"></ellipse>
-<text text-anchor="middle" x="1693" y="-373.8" font-family="Times,serif" font-size="14.00">Lamlameta</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Lamlameta -->
-<g id="edge128" class="edge"><title>2 Ranks Multiple sowing-&gt;Lamlameta</title>
-<path fill="none" stroke="black" d="M1381.4,-438.252C1448.64,-428.896 1545.92,-414.023 1630,-396 1634.42,-395.053 1638.99,-393.988 1643.56,-392.865"></path>
-<polygon fill="black" stroke="black" points="1644.67,-396.195 1653.5,-390.338 1642.94,-389.41 1644.67,-396.195"></polygon>
-</g>
-<!-- Qelat II -->
-<g id="node199" class="node"><title>Qelat II</title>
-<ellipse fill="none" stroke="black" cx="327" cy="-378" rx="40.1917" ry="18"></ellipse>
-<text text-anchor="middle" x="327" y="-373.8" font-family="Times,serif" font-size="14.00">Qelat II</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Qelat II -->
-<g id="edge198" class="edge"><title>2 Ranks Multiple sowing-&gt;Qelat II</title>
-<path fill="none" stroke="black" d="M1223.59,-437.01C1209.47,-435.085 1194.81,-433.3 1181,-432 824.885,-398.457 728.506,-462.233 377,-396 373.362,-395.315 369.628,-394.422 365.919,-393.406"></path>
-<polygon fill="black" stroke="black" points="366.825,-390.024 356.24,-390.481 364.8,-396.724 366.825,-390.024"></polygon>
-</g>
-<!-- Rio Kadalis -->
-<g id="node205" class="node"><title>Rio Kadalis</title>
-<ellipse fill="none" stroke="black" cx="803" cy="-378" rx="56.3499" ry="18"></ellipse>
-<text text-anchor="middle" x="803" y="-373.8" font-family="Times,serif" font-size="14.00">Rio Kadalis</text>
-</g>
-<!-- 2 Ranks Multiple sowing&#45;&gt;Rio Kadalis -->
-<g id="edge204" class="edge"><title>2 Ranks Multiple sowing-&gt;Rio Kadalis</title>
-<path fill="none" stroke="black" d="M1220.97,-437.442C1207.64,-435.558 1193.93,-433.677 1181,-432 1042.57,-414.046 1006.24,-421.469 869,-396 864.037,-395.079 858.896,-393.993 853.774,-392.823"></path>
-<polygon fill="black" stroke="black" points="854.537,-389.407 843.998,-390.489 852.912,-396.215 854.537,-389.407"></polygon>
-</g>
-<!-- Ohojichi -->
-<g id="node6" class="node"><title>Ohojichi</title>
-<ellipse fill="none" stroke="black" cx="2480" cy="-378" rx="44.2487" ry="18"></ellipse>
-<text text-anchor="middle" x="2480" y="-373.8" font-family="Times,serif" font-size="14.00">Ohojichi</text>
+<g class="edge" id="edge220"><title>2 Ranks Single sowing-&gt;Songo Ewondo</title>
+<path fill="none" stroke="black" d="M 3760.4 -509.384 C 3772.6 -507.507 3785.16 -505.643 3797 -504 C 3926.13 -486.084 4077.03 -468.717 4164.63 -458.988" />
+<polygon fill="black" stroke="black" points="4165.18,-462.448 4174.74,-457.868 4164.41,-455.491 4165.18,-462.448" />
 </g>
 <!-- 4 Ranks Multiple sowing -->
-<g id="node8" class="node"><title>4 Ranks Multiple sowing</title>
-<ellipse fill="none" stroke="black" cx="2558" cy="-306" rx="108.109" ry="18"></ellipse>
-<text text-anchor="middle" x="2558" y="-301.8" font-family="Times,serif" font-size="14.00">4 Ranks Multiple sowing</text>
+<g class="node" id="node7"><title>4 Ranks Multiple sowing</title>
+<ellipse fill="none" stroke="black" cx="1314" cy="-306" rx="108.109" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1314" y="-301.8">4 Ranks Multiple sowing</text>
 </g>
-<!-- Ohojichi&#45;&gt;4 Ranks Multiple sowing -->
-<g id="edge6" class="edge"><title>Ohojichi-&gt;4 Ranks Multiple sowing</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2497.7,-361.116C2507.78,-352.07 2520.6,-340.567 2531.82,-330.494"></path>
-<polygon fill="black" stroke="black" points="2534.18,-333.081 2539.28,-323.797 2529.5,-327.872 2534.18,-333.081"></polygon>
+<!-- 2 Ranks Multiple sowing&#45;&gt;4 Ranks Multiple sowing -->
+<g class="edge" id="edge6"><title>2 Ranks Multiple sowing-&gt;4 Ranks Multiple sowing</title>
+<path fill="none" stroke="black" d="M 2235.56 -445.722 C 2016.14 -438.464 1524.69 -419.782 1452 -396 C 1440.52 -392.246 1383.8 -354.482 1346.74 -329.367" />
+<polygon fill="black" stroke="black" points="1348.48,-326.317 1338.24,-323.594 1344.55,-332.108 1348.48,-326.317" />
+</g>
+<!-- 2 Ranks Pussa Kanawa sowing -->
+<g class="node" id="node11"><title>2 Ranks Pussa Kanawa sowing</title>
+<ellipse fill="none" stroke="black" cx="1592" cy="-378" rx="131.275" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1592" y="-373.8">2 Ranks Pussa Kanawa sowing</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;2 Ranks Pussa Kanawa sowing -->
+<g class="edge" id="edge10"><title>2 Ranks Multiple sowing-&gt;2 Ranks Pussa Kanawa sowing</title>
+<path fill="none" stroke="black" d="M 2244.92 -441.654 C 2124.82 -432.239 1913.03 -414.863 1732 -396 C 1719.99 -394.749 1707.41 -393.348 1694.93 -391.903" />
+<polygon fill="black" stroke="black" points="1695.29,-388.422 1684.95,-390.737 1694.48,-395.375 1695.29,-388.422" />
+</g>
+<!-- Gabata -->
+<g class="node" id="node13"><title>Gabata</title>
+<ellipse fill="none" stroke="black" cx="2009" cy="-378" rx="38.0712" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2009" y="-373.8">Gabata</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Gabata -->
+<g class="edge" id="edge12"><title>2 Ranks Multiple sowing-&gt;Gabata</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2261.28 -437.746 C 2203.7 -428.754 2124.35 -414.584 2056 -396 C 2053.08 -395.206 2050.08 -394.313 2047.08 -393.362" />
+<polygon fill="black" stroke="black" points="2048.19,-390.041 2037.59,-390.182 2045.96,-396.678 2048.19,-390.041" />
+</g>
+<!-- Congkak -->
+<g class="node" id="node15"><title>Congkak</title>
+<ellipse fill="none" stroke="black" cx="2111" cy="-378" rx="45.3598" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2111" y="-373.8">Congkak</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Congkak -->
+<g class="edge" id="edge14"><title>2 Ranks Multiple sowing-&gt;Congkak</title>
+<path fill="none" stroke="black" d="M 2291.19 -433.998 C 2256.16 -423.426 2208.19 -408.91 2166 -396 C 2162.5 -394.928 2158.87 -393.815 2155.22 -392.693" />
+<polygon fill="black" stroke="black" points="2156.2,-389.331 2145.61,-389.731 2154.14,-396.021 2156.2,-389.331" />
+</g>
+<!-- Ba&#45;awa -->
+<g class="node" id="node31"><title>Ba-awa</title>
+<ellipse fill="none" stroke="black" cx="2376" cy="-378" rx="40.2844" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2376" y="-373.8">Ba-awa</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Ba&#45;awa -->
+<g class="edge" id="edge46"><title>2 Ranks Multiple sowing-&gt;Ba-awa</title>
+<path fill="none" stroke="black" d="M 2349.47 -432.055 C 2353.56 -423.887 2358.54 -413.912 2363.09 -404.824" />
+<polygon fill="black" stroke="black" points="2366.26,-406.299 2367.61,-395.789 2360,-403.168 2366.26,-406.299" />
+</g>
+<!-- Ajua -->
+<g class="node" id="node35"><title>Ajua</title>
+<ellipse fill="none" stroke="black" cx="2591" cy="-378" rx="29.2139" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2591" y="-373.8">Ajua</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Ajua -->
+<g class="edge" id="edge32"><title>2 Ranks Multiple sowing-&gt;Ajua</title>
+<path fill="none" stroke="black" d="M 2405.98 -435.595 C 2448.12 -426.191 2503.92 -412.393 2552 -396 C 2554.24 -395.236 2556.53 -394.396 2558.83 -393.512" />
+<polygon fill="black" stroke="black" points="2560.21,-396.727 2568.15,-389.708 2557.57,-390.246 2560.21,-396.727" />
+</g>
+<!-- En Dodoi -->
+<g class="node" id="node90"><title>En Dodoi</title>
+<ellipse fill="none" stroke="black" cx="2688" cy="-378" rx="47.9799" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2688" y="-373.8">En Dodoi</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;En Dodoi -->
+<g class="edge" id="edge82"><title>2 Ranks Multiple sowing-&gt;En Dodoi</title>
+<path fill="none" stroke="black" d="M 2416.92 -437.128 C 2475.24 -427.503 2557.62 -412.809 2629 -396 C 2633.32 -394.983 2637.79 -393.847 2642.26 -392.658" />
+<polygon fill="black" stroke="black" points="2643.24,-396.019 2651.95,-389.996 2641.38,-389.269 2643.24,-396.019" />
+</g>
+<!-- Krur -->
+<g class="node" id="node120"><title>Krur</title>
+<ellipse fill="none" stroke="black" cx="2796" cy="-378" rx="28.9018" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2796" y="-373.8">Krur</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Krur -->
+<g class="edge" id="edge114"><title>2 Ranks Multiple sowing-&gt;Krur</title>
+<path fill="none" stroke="black" d="M 2419.36 -437.511 C 2432.59 -435.629 2446.18 -433.73 2459 -432 C 2585.96 -414.865 2620.07 -424.394 2745 -396 C 2750.57 -394.733 2756.4 -393.099 2762.04 -391.347" />
+<polygon fill="black" stroke="black" points="2763.48,-394.558 2771.89,-388.117 2761.3,-387.906 2763.48,-394.558" />
+</g>
+<!-- Lamlameta -->
+<g class="node" id="node134"><title>Lamlameta</title>
+<ellipse fill="none" stroke="black" cx="2489" cy="-378" rx="54.2117" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2489" y="-373.8">Lamlameta</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Lamlameta -->
+<g class="edge" id="edge130"><title>2 Ranks Multiple sowing-&gt;Lamlameta</title>
+<path fill="none" stroke="black" d="M 2375.33 -432.765 C 2397.54 -422.257 2426.53 -408.547 2449.67 -397.601" />
+<polygon fill="black" stroke="black" points="2451.33,-400.69 2458.87,-393.25 2448.34,-394.362 2451.33,-400.69" />
+</g>
+<!-- Qelat II -->
+<g class="node" id="node200"><title>Qelat II</title>
+<ellipse fill="none" stroke="black" cx="2920" cy="-378" rx="40.1917" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2920" y="-373.8">Qelat II</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Qelat II -->
+<g class="edge" id="edge200"><title>2 Ranks Multiple sowing-&gt;Qelat II</title>
+<path fill="none" stroke="black" d="M 2418.37 -437.319 C 2431.9 -435.429 2445.85 -433.578 2459 -432 C 2625.24 -412.057 2668.33 -420.264 2834 -396 C 2847.19 -394.068 2861.42 -391.468 2874.44 -388.884" />
+<polygon fill="black" stroke="black" points="2875.47,-392.246 2884.57,-386.827 2874.08,-385.386 2875.47,-392.246" />
+</g>
+<!-- Rio Kadalis -->
+<g class="node" id="node206"><title>Rio Kadalis</title>
+<ellipse fill="none" stroke="black" cx="3262" cy="-378" rx="56.3499" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3262" y="-373.8">Rio Kadalis</text>
+</g>
+<!-- 2 Ranks Multiple sowing&#45;&gt;Rio Kadalis -->
+<g class="edge" id="edge206"><title>2 Ranks Multiple sowing-&gt;Rio Kadalis</title>
+<path fill="none" stroke="black" d="M 2417.06 -437.162 C 2430.99 -435.245 2445.41 -433.425 2459 -432 C 2531.45 -424.401 3018.89 -394.002 3197 -383" />
+<polygon fill="black" stroke="black" points="3197.25,-386.491 3207.02,-382.382 3196.82,-379.505 3197.25,-386.491" />
 </g>
 <!-- Hawalis -->
-<g id="node20" class="node"><title>Hawalis</title>
-<ellipse fill="none" stroke="black" cx="2296" cy="-234" rx="42.5127" ry="18"></ellipse>
-<text text-anchor="middle" x="2296" y="-229.8" font-family="Times,serif" font-size="14.00">Hawalis</text>
+<g class="node" id="node21"><title>Hawalis</title>
+<ellipse fill="none" stroke="black" cx="90" cy="-234" rx="42.5127" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="90" y="-229.8">Hawalis</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Hawalis -->
-<g id="edge18" class="edge"><title>4 Ranks Multiple sowing-&gt;Hawalis</title>
-<path fill="none" stroke="black" d="M2497.96,-291.009C2455.8,-280.901 2398.21,-266.524 2348,-252 2344.66,-251.034 2341.21,-249.996 2337.75,-248.927"></path>
-<polygon fill="black" stroke="black" points="2338.66,-245.543 2328.07,-245.867 2336.55,-252.218 2338.66,-245.543"></polygon>
+<g class="edge" id="edge20"><title>4 Ranks Multiple sowing-&gt;Hawalis</title>
+<path fill="none" stroke="black" d="M 1239.23 -292.988 C 1224.92 -291.039 1210.02 -289.253 1196 -288 C 742.858 -247.504 624.752 -305.831 173 -252 C 160.791 -250.545 147.705 -248.228 135.617 -245.766" />
+<polygon fill="black" stroke="black" points="136.246,-242.322 125.739,-243.68 134.8,-249.171 136.246,-242.322" />
 </g>
 <!-- Katra Fandatsaka -->
-<g id="node59" class="node"><title>Katra Fandatsaka</title>
-<ellipse fill="none" stroke="black" cx="2435" cy="-234" rx="78.0014" ry="18"></ellipse>
-<text text-anchor="middle" x="2435" y="-229.8" font-family="Times,serif" font-size="14.00">Katra Fandatsaka</text>
+<g class="node" id="node60"><title>Katra Fandatsaka</title>
+<ellipse fill="none" stroke="black" cx="560" cy="-234" rx="78.0014" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="560" y="-229.8">Katra Fandatsaka</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Katra Fandatsaka -->
-<g id="edge104" class="edge"><title>4 Ranks Multiple sowing-&gt;Katra Fandatsaka</title>
-<path fill="none" stroke="black" d="M2529.16,-288.588C2511.95,-278.795 2489.94,-266.267 2471.53,-255.787"></path>
-<polygon fill="black" stroke="black" points="2473.23,-252.732 2462.81,-250.827 2469.77,-258.815 2473.23,-252.732"></polygon>
+<g class="edge" id="edge106"><title>4 Ranks Multiple sowing-&gt;Katra Fandatsaka</title>
+<path fill="none" stroke="black" d="M 1237.28 -293.267 C 1223.55 -291.362 1209.37 -289.519 1196 -288 C 1142.41 -281.912 802.368 -254.421 642.658 -241.609" />
+<polygon fill="black" stroke="black" points="642.652,-238.098 632.404,-240.787 642.092,-245.075 642.652,-238.098" />
 </g>
 <!-- Omweso -->
-<g id="node74" class="node"><title>Omweso</title>
-<ellipse fill="none" stroke="black" cx="2668" cy="-234" rx="45.0441" ry="18"></ellipse>
-<text text-anchor="middle" x="2668" y="-229.8" font-family="Times,serif" font-size="14.00">Omweso</text>
+<g class="node" id="node75"><title>Omweso</title>
+<ellipse fill="none" stroke="black" cx="831" cy="-234" rx="45.0441" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="831" y="-229.8">Omweso</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Omweso -->
-<g id="edge188" class="edge"><title>4 Ranks Multiple sowing-&gt;Omweso</title>
-<path fill="none" stroke="black" d="M2584.07,-288.411C2599.72,-278.45 2619.74,-265.708 2636.31,-255.168"></path>
-<polygon fill="black" stroke="black" points="2638.55,-257.892 2645.1,-249.57 2634.79,-251.986 2638.55,-257.892"></polygon>
+<g class="edge" id="edge190"><title>4 Ranks Multiple sowing-&gt;Omweso</title>
+<path fill="none" stroke="black" d="M 1235.32 -293.597 C 1135.89 -279.186 967.516 -254.785 882.865 -242.517" />
+<polygon fill="black" stroke="black" points="883.119,-239.017 872.72,-241.046 882.115,-245.945 883.119,-239.017" />
 </g>
 <!-- Moruba -->
-<g id="node76" class="node"><title>Moruba</title>
-<ellipse fill="none" stroke="black" cx="2155" cy="-234" rx="41.4107" ry="18"></ellipse>
-<text text-anchor="middle" x="2155" y="-229.8" font-family="Times,serif" font-size="14.00">Moruba</text>
+<g class="node" id="node77"><title>Moruba</title>
+<ellipse fill="none" stroke="black" cx="1138" cy="-234" rx="41.4107" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1138" y="-229.8">Moruba</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Moruba -->
-<g id="edge154" class="edge"><title>4 Ranks Multiple sowing-&gt;Moruba</title>
-<path fill="none" stroke="black" d="M2483.38,-292.868C2419.71,-282.406 2325.75,-266.706 2244,-252 2230.31,-249.537 2215.45,-246.746 2201.87,-244.148"></path>
-<polygon fill="black" stroke="black" points="2202.25,-240.658 2191.77,-242.208 2200.93,-247.533 2202.25,-240.658"></polygon>
+<g class="edge" id="edge156"><title>4 Ranks Multiple sowing-&gt;Moruba</title>
+<path fill="none" stroke="black" d="M 1274.06 -289.116 C 1244.9 -277.519 1205.59 -261.883 1176.72 -250.4" />
+<polygon fill="black" stroke="black" points="1177.94,-247.121 1167.36,-246.677 1175.36,-253.625 1177.94,-247.121" />
 </g>
 <!-- Hus -->
-<g id="node94" class="node"><title>Hus</title>
-<ellipse fill="none" stroke="black" cx="2558" cy="-234" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="2558" y="-229.8" font-family="Times,serif" font-size="14.00">Hus</text>
+<g class="node" id="node95"><title>Hus</title>
+<ellipse fill="none" stroke="black" cx="1285" cy="-234" rx="27" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1285" y="-229.8">Hus</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Hus -->
-<g id="edge88" class="edge"><title>4 Ranks Multiple sowing-&gt;Hus</title>
-<path fill="none" stroke="black" d="M2558,-287.697C2558,-279.983 2558,-270.712 2558,-262.112"></path>
-<polygon fill="black" stroke="black" points="2561.5,-262.104 2558,-252.104 2554.5,-262.104 2561.5,-262.104"></polygon>
+<g class="edge" id="edge90"><title>4 Ranks Multiple sowing-&gt;Hus</title>
+<path fill="none" stroke="black" d="M 1306.83 -287.697 C 1303.48 -279.609 1299.42 -269.812 1295.72 -260.869" />
+<polygon fill="black" stroke="black" points="1298.95,-259.521 1291.89,-251.622 1292.48,-262.2 1298.95,-259.521" />
 </g>
 <!-- Mangola -->
-<g id="node145" class="node"><title>Mangola</title>
-<ellipse fill="none" stroke="black" cx="3257" cy="-234" rx="45.0456" ry="18"></ellipse>
-<text text-anchor="middle" x="3257" y="-229.8" font-family="Times,serif" font-size="14.00">Mangola</text>
+<g class="node" id="node146"><title>Mangola</title>
+<ellipse fill="none" stroke="black" cx="1419" cy="-234" rx="45.0456" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1419" y="-229.8">Mangola</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Mangola -->
-<g id="edge144" class="edge"><title>4 Ranks Multiple sowing-&gt;Mangola</title>
-<path fill="none" stroke="black" d="M2658.74,-299.407C2779.97,-291.949 2989.52,-276.733 3168,-252 3181.03,-250.194 3195.05,-247.753 3208.02,-245.286"></path>
-<polygon fill="black" stroke="black" points="3209.01,-248.659 3218.15,-243.312 3207.67,-241.788 3209.01,-248.659"></polygon>
+<g class="edge" id="edge146"><title>4 Ranks Multiple sowing-&gt;Mangola</title>
+<path fill="none" stroke="black" d="M 1338.88 -288.411 C 1353.72 -278.518 1372.68 -265.882 1388.42 -255.385" />
+<polygon fill="black" stroke="black" points="1390.42,-258.263 1396.79,-249.804 1386.53,-252.439 1390.42,-258.263" />
 </g>
 <!-- Nsolo -->
-<g id="node165" class="node"><title>Nsolo</title>
-<ellipse fill="none" stroke="black" cx="2983" cy="-234" rx="34.1562" ry="18"></ellipse>
-<text text-anchor="middle" x="2983" y="-229.8" font-family="Times,serif" font-size="14.00">Nsolo</text>
+<g class="node" id="node166"><title>Nsolo</title>
+<ellipse fill="none" stroke="black" cx="1516" cy="-234" rx="34.1562" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1516" y="-229.8">Nsolo</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Nsolo -->
-<g id="edge174" class="edge"><title>4 Ranks Multiple sowing-&gt;Nsolo</title>
-<path fill="none" stroke="black" d="M2632.03,-292.807C2721.45,-278.078 2868.82,-253.806 2940.8,-241.951"></path>
-<polygon fill="black" stroke="black" points="2941.56,-245.373 2950.85,-240.295 2940.42,-238.466 2941.56,-245.373"></polygon>
+<g class="edge" id="edge176"><title>4 Ranks Multiple sowing-&gt;Nsolo</title>
+<path fill="none" stroke="black" d="M 1361.9 -289.791 C 1393.58 -279.545 1435.95 -265.487 1473 -252 C 1475.38 -251.135 1477.82 -250.226 1480.27 -249.296" />
+<polygon fill="black" stroke="black" points="1481.64,-252.522 1489.71,-245.658 1479.12,-245.99 1481.64,-252.522" />
 </g>
 <!-- Otu -->
-<g id="node191" class="node"><title>Otu</title>
-<ellipse fill="none" stroke="black" cx="3132" cy="-234" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="3132" y="-229.8" font-family="Times,serif" font-size="14.00">Otu</text>
+<g class="node" id="node192"><title>Otu</title>
+<ellipse fill="none" stroke="black" cx="1595" cy="-234" rx="27" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1595" y="-229.8">Otu</text>
 </g>
 <!-- 4 Ranks Multiple sowing&#45;&gt;Otu -->
-<g id="edge192" class="edge"><title>4 Ranks Multiple sowing-&gt;Otu</title>
-<path fill="none" stroke="black" d="M2648.31,-296.024C2742.68,-286.352 2894.96,-269.919 3026,-252 3049.27,-248.818 3075.32,-244.648 3095.77,-241.235"></path>
-<polygon fill="black" stroke="black" points="3096.63,-244.64 3105.91,-239.529 3095.47,-237.737 3096.63,-244.64"></polygon>
+<g class="edge" id="edge194"><title>4 Ranks Multiple sowing-&gt;Otu</title>
+<path fill="none" stroke="black" d="M 1389.99 -293.177 C 1439 -284.431 1503.67 -270.772 1559 -252 C 1560.91 -251.35 1562.86 -250.627 1564.81 -249.856" />
+<polygon fill="black" stroke="black" points="1566.6,-252.894 1574.39,-245.715 1563.83,-246.468 1566.6,-252.894" />
+</g>
+<!-- Ohojichi -->
+<g class="node" id="node8"><title>Ohojichi</title>
+<ellipse fill="none" stroke="black" cx="1338" cy="-378" rx="44.2487" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1338" y="-373.8">Ohojichi</text>
+</g>
+<!-- Ohojichi&#45;&gt;4 Ranks Multiple sowing -->
+<g class="edge" id="edge8"><title>Ohojichi-&gt;4 Ranks Multiple sowing</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1332.19 -360.055 C 1329.49 -352.176 1326.21 -342.617 1323.19 -333.794" />
+<polygon fill="black" stroke="black" points="1326.48,-332.6 1319.92,-324.275 1319.86,-334.87 1326.48,-332.6" />
 </g>
 <!-- Bosh -->
-<g id="node69" class="node"><title>Bosh</title>
-<ellipse fill="none" stroke="black" cx="425" cy="-306" rx="30.3359" ry="18"></ellipse>
-<text text-anchor="middle" x="425" y="-301.8" font-family="Times,serif" font-size="14.00">Bosh</text>
+<g class="node" id="node70"><title>Bosh</title>
+<ellipse fill="none" stroke="black" cx="1799" cy="-306" rx="30.3359" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1799" y="-301.8">Bosh</text>
 </g>
 <!-- 2 Ranks Pussa Kanawa sowing&#45;&gt;Bosh -->
-<g id="edge62" class="edge"><title>2 Ranks Pussa Kanawa sowing-&gt;Bosh</title>
-<path fill="none" stroke="black" d="M914.195,-365.558C898.755,-363.698 882.933,-361.794 868,-360 719.262,-342.136 542.418,-321.014 464.828,-311.753"></path>
-<polygon fill="black" stroke="black" points="464.896,-308.236 454.552,-310.526 464.067,-315.187 464.896,-308.236"></polygon>
+<g class="edge" id="edge64"><title>2 Ranks Pussa Kanawa sowing-&gt;Bosh</title>
+<path fill="none" stroke="black" d="M 1638.97 -361.116 C 1676.86 -348.303 1729.33 -330.559 1763.71 -318.935" />
+<polygon fill="black" stroke="black" points="1764.98,-322.201 1773.33,-315.682 1762.73,-315.57 1764.98,-322.201" />
 </g>
 <!-- Abalala&#39;e -->
-<g id="node26" class="node"><title>Abalala'e</title>
-<ellipse fill="none" stroke="black" cx="1083" cy="-306" rx="48.3477" ry="18"></ellipse>
-<text text-anchor="middle" x="1083" y="-301.8" font-family="Times,serif" font-size="14.00">Abalala'e</text>
+<g class="node" id="node27"><title>Abalala'e</title>
+<ellipse fill="none" stroke="black" cx="1910" cy="-306" rx="48.3477" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1910" y="-301.8">Abalala'e</text>
 </g>
 <!-- Gabata&#45;&gt;Abalala&#39;e -->
-<g id="edge24" class="edge"><title>Gabata-&gt;Abalala'e</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1174.75,-363.337C1157.97,-353.033 1134.69,-338.738 1115.78,-327.127"></path>
-<polygon fill="black" stroke="black" points="1117.52,-324.089 1107.17,-321.839 1113.86,-330.054 1117.52,-324.089"></polygon>
+<g class="edge" id="edge26"><title>Gabata-&gt;Abalala'e</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1988.49 -362.496 C 1974.44 -352.562 1955.58 -339.227 1939.87 -328.119" />
+<polygon fill="black" stroke="black" points="1941.7,-325.127 1931.51,-322.212 1937.66,-330.843 1941.7,-325.127" />
 </g>
 <!-- Selus -->
-<g id="node100" class="node"><title>Selus</title>
-<ellipse fill="none" stroke="black" cx="957" cy="-306" rx="31.4395" ry="18"></ellipse>
-<text text-anchor="middle" x="957" y="-301.8" font-family="Times,serif" font-size="14.00">Selus</text>
+<g class="node" id="node101"><title>Selus</title>
+<ellipse fill="none" stroke="black" cx="2009" cy="-306" rx="31.4395" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2009" y="-301.8">Selus</text>
 </g>
 <!-- Gabata&#45;&gt;Selus -->
-<g id="edge212" class="edge"><title>Gabata-&gt;Selus</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1167.92,-366.328C1161.7,-364.152 1155.16,-361.937 1149,-360 1096.01,-343.326 1033.92,-326.708 995.015,-316.642"></path>
-<polygon fill="black" stroke="black" points="995.721,-313.21 985.164,-314.105 993.975,-319.988 995.721,-313.21"></polygon>
+<g class="edge" id="edge214"><title>Gabata-&gt;Selus</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2009 -359.697 C 2009 -351.983 2009 -342.712 2009 -334.112" />
+<polygon fill="black" stroke="black" points="2012.5,-334.104 2009,-324.104 2005.5,-334.104 2012.5,-334.104" />
 </g>
 <!-- Dakon -->
-<g id="node24" class="node"><title>Dakon</title>
-<ellipse fill="none" stroke="black" cx="1186" cy="-306" rx="36.1736" ry="18"></ellipse>
-<text text-anchor="middle" x="1186" y="-301.8" font-family="Times,serif" font-size="14.00">Dakon</text>
+<g class="node" id="node25"><title>Dakon</title>
+<ellipse fill="none" stroke="black" cx="2111" cy="-306" rx="36.1736" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2111" y="-301.8">Dakon</text>
 </g>
 <!-- Congkak&#45;&gt;Dakon -->
-<g id="edge22" class="edge"><title>Congkak-&gt;Dakon</title>
-<path fill="none" stroke="black" d="M1275.59,-362.496C1258.48,-351.896 1235.11,-337.424 1216.54,-325.917"></path>
-<polygon fill="black" stroke="black" points="1218.19,-322.826 1207.85,-320.536 1214.51,-328.777 1218.19,-322.826"></polygon>
+<g class="edge" id="edge24"><title>Congkak-&gt;Dakon</title>
+<path fill="none" stroke="black" d="M 2111 -359.697 C 2111 -351.983 2111 -342.712 2111 -334.112" />
+<polygon fill="black" stroke="black" points="2114.5,-334.104 2111,-324.104 2107.5,-334.104 2114.5,-334.104" />
 </g>
 <!-- Alemungula -->
-<g id="node40" class="node"><title>Alemungula</title>
-<ellipse fill="none" stroke="black" cx="1926" cy="-378" rx="58.1643" ry="18"></ellipse>
-<text text-anchor="middle" x="1926" y="-373.8" font-family="Times,serif" font-size="14.00">Alemungula</text>
+<g class="node" id="node41"><title>Alemungula</title>
+<ellipse fill="none" stroke="black" cx="3463" cy="-378" rx="58.1643" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3463" y="-373.8">Alemungula</text>
 </g>
 <!-- Um el Bagara&#45;&gt;Alemungula -->
-<g id="edge36" class="edge"><title>Um el Bagara-&gt;Alemungula</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1926,-431.697C1926,-423.983 1926,-414.712 1926,-406.112"></path>
-<polygon fill="black" stroke="black" points="1929.5,-406.104 1926,-396.104 1922.5,-406.104 1929.5,-406.104"></polygon>
+<g class="edge" id="edge38"><title>Um el Bagara-&gt;Alemungula</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3585.51 -434.326 C 3561.81 -423.626 3529.53 -409.047 3504.05 -397.541" />
+<polygon fill="black" stroke="black" points="3505.21,-394.222 3494.65,-393.296 3502.33,-400.602 3505.21,-394.222" />
 </g>
 <!-- Koumma -->
-<g id="node50" class="node"><title>Koumma</title>
-<ellipse fill="none" stroke="black" cx="2059" cy="-378" rx="46.464" ry="18"></ellipse>
-<text text-anchor="middle" x="2059" y="-373.8" font-family="Times,serif" font-size="14.00">Koumma</text>
+<g class="node" id="node51"><title>Koumma</title>
+<ellipse fill="none" stroke="black" cx="3587" cy="-378" rx="46.464" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3587" y="-373.8">Koumma</text>
 </g>
 <!-- Um ed&#45;Dyar&#45;&gt;Koumma -->
-<g id="edge108" class="edge"><title>Um ed-Dyar-&gt;Koumma</title>
-<path fill="none" stroke="black" d="M2065.78,-431.697C2064.78,-423.983 2063.59,-414.712 2062.49,-406.112"></path>
-<polygon fill="black" stroke="black" points="2065.95,-405.576 2061.2,-396.104 2059,-406.469 2065.95,-405.576"></polygon>
+<g class="edge" id="edge110"><title>Um ed-Dyar-&gt;Koumma</title>
+<path fill="none" stroke="black" d="M 3725.82 -435.17 C 3697.48 -423.701 3657.12 -407.374 3627.23 -395.277" />
+<polygon fill="black" stroke="black" points="3628.5,-392.015 3617.91,-391.509 3625.87,-398.504 3628.5,-392.015" />
 </g>
 <!-- Bao Kiarabu -->
-<g id="node54" class="node"><title>Bao Kiarabu</title>
-<ellipse fill="none" stroke="black" cx="1950" cy="-162" rx="60.1596" ry="18"></ellipse>
-<text text-anchor="middle" x="1950" y="-157.8" font-family="Times,serif" font-size="14.00">Bao Kiarabu</text>
+<g class="node" id="node55"><title>Bao Kiarabu</title>
+<ellipse fill="none" stroke="black" cx="60" cy="-162" rx="60.1596" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="60" y="-157.8">Bao Kiarabu</text>
 </g>
 <!-- Hawalis&#45;&gt;Bao Kiarabu -->
-<g id="edge48" class="edge"><title>Hawalis-&gt;Bao Kiarabu</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2257.99,-225.807C2187.82,-212.513 2042.98,-184.993 2020,-180 2015.01,-178.916 2009.83,-177.745 2004.65,-176.543"></path>
-<polygon fill="black" stroke="black" points="2005.27,-173.093 1994.74,-174.207 2003.67,-179.907 2005.27,-173.093"></polygon>
+<g class="edge" id="edge50"><title>Hawalis-&gt;Bao Kiarabu</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 82.7378 -216.055 C 79.3249 -208.091 75.176 -198.411 71.3613 -189.51" />
+<polygon fill="black" stroke="black" points="74.56,-188.088 67.4037,-180.275 68.1259,-190.845 74.56,-188.088" />
 </g>
 <!-- Lontu&#45;holu&#45;&gt;Ohojichi -->
-<g id="edge184" class="edge"><title>Lontu-holu-&gt;Ohojichi</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2327.74,-435.998C2359.27,-424.194 2405.79,-406.778 2439.11,-394.307"></path>
-<polygon fill="black" stroke="black" points="2440.42,-397.552 2448.56,-390.768 2437.97,-390.996 2440.42,-397.552"></polygon>
+<g class="edge" id="edge186"><title>Lontu-holu-&gt;Ohojichi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1711.39 -442.66 C 1643.54 -433.717 1518.11 -416.215 1412 -396 C 1403.25 -394.333 1393.96 -392.362 1385.03 -390.363" />
+<polygon fill="black" stroke="black" points="1385.68,-386.92 1375.15,-388.109 1384.12,-393.745 1385.68,-386.92" />
 </g>
 <!-- Achochodi -->
-<g id="node29" class="node"><title>Achochodi</title>
-<ellipse fill="none" stroke="black" cx="3626" cy="-378" rx="53.1115" ry="18"></ellipse>
-<text text-anchor="middle" x="3626" y="-373.8" font-family="Times,serif" font-size="14.00">Achochodi</text>
+<g class="node" id="node30"><title>Achochodi</title>
+<ellipse fill="none" stroke="black" cx="3705" cy="-378" rx="53.1115" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3705" y="-373.8">Achochodi</text>
 </g>
 <!-- Oware&#45;&gt;Achochodi -->
-<g id="edge26" class="edge"><title>Oware-&gt;Achochodi</title>
-<path fill="none" stroke="black" d="M3503.44,-436.967C3526.41,-426.104 3560.54,-409.959 3586.96,-397.464"></path>
-<polygon fill="black" stroke="black" points="3588.77,-400.482 3596.31,-393.042 3585.77,-394.154 3588.77,-400.482"></polygon>
+<g class="edge" id="edge28"><title>Oware-&gt;Achochodi</title>
+<path fill="none" stroke="black" d="M 3911.5 -439.992 C 3871.47 -428.168 3800.73 -407.276 3753.36 -393.284" />
+<polygon fill="black" stroke="black" points="3754.21,-389.885 3743.63,-390.409 3752.23,-396.598 3754.21,-389.885" />
 </g>
 <!-- Eherhe -->
-<g id="node83" class="node"><title>Eherhe</title>
-<ellipse fill="none" stroke="black" cx="3736" cy="-378" rx="38.0726" ry="18"></ellipse>
-<text text-anchor="middle" x="3736" y="-373.8" font-family="Times,serif" font-size="14.00">Eherhe</text>
+<g class="node" id="node84"><title>Eherhe</title>
+<ellipse fill="none" stroke="black" cx="3815" cy="-378" rx="38.0726" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3815" y="-373.8">Eherhe</text>
 </g>
 <!-- Oware&#45;&gt;Eherhe -->
-<g id="edge74" class="edge"><title>Oware-&gt;Eherhe</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M3510.64,-441.758C3552.15,-432.318 3625.92,-414.784 3688,-396 3691.09,-395.066 3694.27,-394.052 3697.46,-393.001"></path>
-<polygon fill="black" stroke="black" points="3698.61,-396.307 3706.95,-389.776 3696.36,-389.679 3698.61,-396.307"></polygon>
+<g class="edge" id="edge76"><title>Oware-&gt;Eherhe</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3918.71 -436.161 C 3898.82 -425.199 3869.99 -409.31 3847.77 -397.065" />
+<polygon fill="black" stroke="black" points="3849.46,-393.995 3839.01,-392.233 3846.08,-400.126 3849.46,-393.995" />
 </g>
 <!-- Kale -->
-<g id="node111" class="node"><title>Kale</title>
-<ellipse fill="none" stroke="black" cx="3822" cy="-378" rx="28.9004" ry="18"></ellipse>
-<text text-anchor="middle" x="3822" y="-373.8" font-family="Times,serif" font-size="14.00">Kale</text>
+<g class="node" id="node112"><title>Kale</title>
+<ellipse fill="none" stroke="black" cx="3901" cy="-378" rx="28.9004" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3901" y="-373.8">Kale</text>
 </g>
 <!-- Oware&#45;&gt;Kale -->
-<g id="edge102" class="edge"><title>Oware-&gt;Kale</title>
-<path fill="none" stroke="black" d="M3513.39,-445.626C3570.9,-439.531 3687.77,-424.58 3783,-396 3785.41,-395.275 3787.88,-394.442 3790.33,-393.542"></path>
-<polygon fill="black" stroke="black" points="3791.67,-396.779 3799.66,-389.825 3789.07,-390.277 3791.67,-396.779"></polygon>
+<g class="edge" id="edge104"><title>Oware-&gt;Kale</title>
+<path fill="none" stroke="black" d="M 3932.28 -432.411 C 3927.38 -424.042 3921.33 -413.71 3915.86 -404.37" />
+<polygon fill="black" stroke="black" points="3918.72,-402.33 3910.65,-395.47 3912.68,-405.868 3918.72,-402.33" />
 </g>
 <!-- Kpo -->
-<g id="node117" class="node"><title>Kpo</title>
-<ellipse fill="none" stroke="black" cx="3363" cy="-378" rx="27.4962" ry="18"></ellipse>
-<text text-anchor="middle" x="3363" y="-373.8" font-family="Times,serif" font-size="14.00">Kpo</text>
+<g class="node" id="node118"><title>Kpo</title>
+<ellipse fill="none" stroke="black" cx="3976" cy="-378" rx="27.4962" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3976" y="-373.8">Kpo</text>
 </g>
 <!-- Oware&#45;&gt;Kpo -->
-<g id="edge110" class="edge"><title>Oware-&gt;Kpo</title>
-<path fill="none" stroke="black" d="M3455.83,-435.503C3437.38,-424.272 3411,-408.217 3391.08,-396.089"></path>
-<polygon fill="black" stroke="black" points="3392.79,-393.035 3382.43,-390.825 3389.15,-399.014 3392.79,-393.035"></polygon>
+<g class="edge" id="edge112"><title>Oware-&gt;Kpo</title>
+<path fill="none" stroke="black" d="M 3950.06 -432.411 C 3954.08 -424.129 3959.04 -413.925 3963.54 -404.662" />
+<polygon fill="black" stroke="black" points="3966.78,-405.994 3968,-395.47 3960.48,-402.936 3966.78,-405.994" />
 </g>
 <!-- Oluwuka -->
-<g id="node189" class="node"><title>Oluwuka</title>
-<ellipse fill="none" stroke="black" cx="3271" cy="-378" rx="46.1529" ry="18"></ellipse>
-<text text-anchor="middle" x="3271" y="-373.8" font-family="Times,serif" font-size="14.00">Oluwuka</text>
+<g class="node" id="node190"><title>Oluwuka</title>
+<ellipse fill="none" stroke="black" cx="4150" cy="-378" rx="46.1529" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="4150" y="-373.8">Oluwuka</text>
 </g>
 <!-- Oware&#45;&gt;Oluwuka -->
-<g id="edge186" class="edge"><title>Oware-&gt;Oluwuka</title>
-<path fill="none" stroke="black" d="M3448.78,-439.119C3413.78,-427.282 3354.81,-407.342 3314.46,-393.696"></path>
-<polygon fill="black" stroke="black" points="3315.48,-390.345 3304.88,-390.457 3313.23,-396.977 3315.48,-390.345"></polygon>
+<g class="edge" id="edge188"><title>Oware-&gt;Oluwuka</title>
+<path fill="none" stroke="black" d="M 3971.36 -439.119 C 4006.64 -427.247 4066.13 -407.225 4106.69 -393.576" />
+<polygon fill="black" stroke="black" points="4107.95,-396.845 4116.31,-390.338 4105.72,-390.211 4107.95,-396.845" />
 </g>
 <!-- Ouri -->
-<g id="node196" class="node"><title>Ouri</title>
-<ellipse fill="none" stroke="black" cx="3437" cy="-378" rx="28.6011" ry="18"></ellipse>
-<text text-anchor="middle" x="3437" y="-373.8" font-family="Times,serif" font-size="14.00">Ouri</text>
+<g class="node" id="node197"><title>Ouri</title>
+<ellipse fill="none" stroke="black" cx="4243" cy="-378" rx="28.6011" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="4243" y="-373.8">Ouri</text>
 </g>
 <!-- Oware&#45;&gt;Ouri -->
-<g id="edge194" class="edge"><title>Oware-&gt;Ouri</title>
-<path fill="none" stroke="black" d="M3468.28,-432.411C3463.38,-424.042 3457.33,-413.71 3451.86,-404.37"></path>
-<polygon fill="black" stroke="black" points="3454.72,-402.33 3446.65,-395.47 3448.68,-405.868 3454.72,-402.33"></polygon>
+<g class="edge" id="edge196"><title>Oware-&gt;Ouri</title>
+<path fill="none" stroke="black" d="M 3976.66 -444.517 C 4027.57 -437.377 4125.15 -421.557 4205 -396 C 4207.27 -395.275 4209.58 -394.456 4211.88 -393.578" />
+<polygon fill="black" stroke="black" points="4213.31,-396.777 4221.22,-389.735 4210.64,-390.304 4213.31,-396.777" />
 </g>
 <!-- Shayo -->
-<g id="node214" class="node"><title>Shayo</title>
-<ellipse fill="none" stroke="black" cx="3519" cy="-378" rx="35.2659" ry="18"></ellipse>
-<text text-anchor="middle" x="3519" y="-373.8" font-family="Times,serif" font-size="14.00">Shayo</text>
+<g class="node" id="node215"><title>Shayo</title>
+<ellipse fill="none" stroke="black" cx="4325" cy="-378" rx="35.2659" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="4325" y="-373.8">Shayo</text>
 </g>
 <!-- Oware&#45;&gt;Shayo -->
-<g id="edge214" class="edge"><title>Oware-&gt;Shayo</title>
-<path fill="none" stroke="black" d="M3487.72,-432.411C3492.62,-424.042 3498.67,-413.71 3504.14,-404.37"></path>
-<polygon fill="black" stroke="black" points="3507.32,-405.868 3509.35,-395.47 3501.28,-402.33 3507.32,-405.868"></polygon>
+<g class="edge" id="edge216"><title>Oware-&gt;Shayo</title>
+<path fill="none" stroke="black" d="M 3977.53 -445.856 C 4039.66 -439.822 4171.75 -424.608 4280 -396 C 4282.97 -395.214 4286.02 -394.303 4289.06 -393.319" />
+<polygon fill="black" stroke="black" points="4290.35,-396.577 4298.64,-389.989 4288.05,-389.965 4290.35,-396.577" />
 </g>
 <!-- Adi -->
-<g id="node32" class="node"><title>Adi</title>
-<ellipse fill="none" stroke="black" cx="1268" cy="-306" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1268" y="-301.8" font-family="Times,serif" font-size="14.00">Adi</text>
+<g class="node" id="node33"><title>Adi</title>
+<ellipse fill="none" stroke="black" cx="2349" cy="-306" rx="27" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2349" y="-301.8">Adi</text>
 </g>
 <!-- Ba&#45;awa&#45;&gt;Adi -->
-<g id="edge28" class="edge"><title>Ba-awa-&gt;Adi</title>
-<path fill="none" stroke="black" d="M1377.61,-363.834C1354.95,-352.086 1321.76,-334.875 1297.84,-322.473"></path>
-<polygon fill="black" stroke="black" points="1299.34,-319.309 1288.85,-317.813 1296.12,-325.523 1299.34,-319.309"></polygon>
+<g class="edge" id="edge30"><title>Ba-awa-&gt;Adi</title>
+<path fill="none" stroke="black" d="M 2369.46 -360.055 C 2366.38 -352.059 2362.63 -342.331 2359.18 -333.4" />
+<polygon fill="black" stroke="black" points="2362.34,-331.859 2355.48,-323.789 2355.81,-334.379 2362.34,-331.859" />
 </g>
 <!-- Obridjie -->
-<g id="node43" class="node"><title>Obridjie</title>
-<ellipse fill="none" stroke="black" cx="1600" cy="-306" rx="43.3265" ry="18"></ellipse>
-<text text-anchor="middle" x="1600" y="-301.8" font-family="Times,serif" font-size="14.00">Obridjie</text>
+<g class="node" id="node44"><title>Obridjie</title>
+<ellipse fill="none" stroke="black" cx="2261" cy="-306" rx="43.3265" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2261" y="-301.8">Obridjie</text>
 </g>
 <!-- Ba&#45;awa&#45;&gt;Obridjie -->
-<g id="edge178" class="edge"><title>Ba-awa-&gt;Obridjie</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1433.78,-366.063C1467.36,-354.132 1521.28,-334.971 1558.56,-321.725"></path>
-<polygon fill="black" stroke="black" points="1559.88,-324.971 1568.13,-318.325 1557.53,-318.375 1559.88,-324.971"></polygon>
+<g class="edge" id="edge180"><title>Ba-awa-&gt;Obridjie</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2353 -363.003 C 2335.8 -352.532 2312.06 -338.082 2293.01 -326.482" />
+<polygon fill="black" stroke="black" points="2294.71,-323.423 2284.35,-321.213 2291.07,-329.402 2294.71,-323.423" />
 </g>
 <!-- J&#39;erin -->
-<g id="node107" class="node"><title>J'erin</title>
-<ellipse fill="none" stroke="black" cx="1384" cy="-306" rx="33.0308" ry="18"></ellipse>
-<text text-anchor="middle" x="1384" y="-301.8" font-family="Times,serif" font-size="14.00">J'erin</text>
+<g class="node" id="node108"><title>J'erin</title>
+<ellipse fill="none" stroke="black" cx="2465" cy="-306" rx="33.0308" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2465" y="-301.8">J'erin</text>
 </g>
 <!-- Ba&#45;awa&#45;&gt;J&#39;erin -->
-<g id="edge98" class="edge"><title>Ba-awa-&gt;J'erin</title>
-<path fill="none" stroke="black" d="M1398.4,-360.055C1396.29,-352.261 1393.72,-342.822 1391.35,-334.079"></path>
-<polygon fill="black" stroke="black" points="1394.69,-333.009 1388.69,-324.275 1387.93,-334.843 1394.69,-333.009"></polygon>
+<g class="edge" id="edge100"><title>Ba-awa-&gt;J'erin</title>
+<path fill="none" stroke="black" d="M 2395.31 -361.811 C 2408.01 -351.821 2424.8 -338.621 2438.71 -327.678" />
+<polygon fill="black" stroke="black" points="2441.24,-330.138 2446.94,-321.205 2436.92,-324.636 2441.24,-330.138" />
 </g>
 <!-- Nam&#45;Nam -->
-<g id="node171" class="node"><title>Nam-Nam</title>
-<ellipse fill="none" stroke="black" cx="1487" cy="-306" rx="51.19" ry="18"></ellipse>
-<text text-anchor="middle" x="1487" y="-301.8" font-family="Times,serif" font-size="14.00">Nam-Nam</text>
+<g class="node" id="node172"><title>Nam-Nam</title>
+<ellipse fill="none" stroke="black" cx="2568" cy="-306" rx="51.19" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2568" y="-301.8">Nam-Nam</text>
 </g>
 <!-- Ba&#45;awa&#45;&gt;Nam&#45;Nam -->
-<g id="edge164" class="edge"><title>Ba-awa-&gt;Nam-Nam</title>
-<path fill="none" stroke="black" d="M1421.23,-361.811C1432.55,-352.377 1447.3,-340.081 1459.97,-329.525"></path>
-<polygon fill="black" stroke="black" points="1462.49,-331.979 1467.93,-322.888 1458.01,-326.601 1462.49,-331.979"></polygon>
+<g class="edge" id="edge166"><title>Ba-awa-&gt;Nam-Nam</title>
+<path fill="none" stroke="black" d="M 2406.42 -365.908 C 2438.13 -354.35 2488.1 -336.129 2524.08 -323.011" />
+<polygon fill="black" stroke="black" points="2525.64,-326.17 2533.83,-319.457 2523.24,-319.594 2525.64,-326.17" />
 </g>
 <!-- Nsa Isong -->
-<g id="node177" class="node"><title>Nsa Isong</title>
-<ellipse fill="none" stroke="black" cx="1387" cy="-234" rx="49.3812" ry="18"></ellipse>
-<text text-anchor="middle" x="1387" y="-229.8" font-family="Times,serif" font-size="14.00">Nsa Isong</text>
+<g class="node" id="node178"><title>Nsa Isong</title>
+<ellipse fill="none" stroke="black" cx="2498" cy="-234" rx="49.3812" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2498" y="-229.8">Nsa Isong</text>
 </g>
 <!-- Ba&#45;awa&#45;&gt;Nsa Isong -->
-<g id="edge170" class="edge"><title>Ba-awa-&gt;Nsa Isong</title>
-<path fill="none" stroke="black" d="M1379.02,-363.392C1365.42,-354.209 1349.62,-340.723 1342,-324 1335.36,-309.441 1336.48,-303.019 1342,-288 1346.01,-277.069 1353.39,-266.851 1361.03,-258.36"></path>
-<polygon fill="black" stroke="black" points="1363.62,-260.712 1368.03,-251.076 1358.58,-255.862 1363.62,-260.712"></polygon>
+<g class="edge" id="edge172"><title>Ba-awa-&gt;Nsa Isong</title>
+<path fill="none" stroke="black" d="M 2382.11 -360.158 C 2389.61 -341.118 2403.74 -309.924 2423 -288 C 2434.31 -275.127 2449.34 -263.723 2462.97 -254.822" />
+<polygon fill="black" stroke="black" points="2465.08,-257.633 2471.68,-249.344 2461.35,-251.708 2465.08,-257.633" />
 </g>
 <!-- Num&#45;Num -->
-<g id="node181" class="node"><title>Num-Num</title>
-<ellipse fill="none" stroke="black" cx="1266" cy="-234" rx="52.3142" ry="18"></ellipse>
-<text text-anchor="middle" x="1266" y="-229.8" font-family="Times,serif" font-size="14.00">Num-Num</text>
+<g class="node" id="node182"><title>Num-Num</title>
+<ellipse fill="none" stroke="black" cx="2377" cy="-234" rx="52.3142" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2377" y="-229.8">Num-Num</text>
 </g>
 <!-- Adi&#45;&gt;Num&#45;Num -->
-<g id="edge176" class="edge"><title>Adi-&gt;Num-Num</title>
-<path fill="none" stroke="black" d="M1267.51,-287.697C1267.29,-279.983 1267.02,-270.712 1266.77,-262.112"></path>
-<polygon fill="black" stroke="black" points="1270.27,-262 1266.49,-252.104 1263.28,-262.2 1270.27,-262"></polygon>
+<g class="edge" id="edge178"><title>Adi-&gt;Num-Num</title>
+<path fill="none" stroke="black" d="M 2355.64 -288.411 C 2358.87 -280.335 2362.83 -270.431 2366.46 -261.355" />
+<polygon fill="black" stroke="black" points="2369.75,-262.541 2370.22,-251.956 2363.25,-259.941 2369.75,-262.541" />
 </g>
 <!-- Boola -->
-<g id="node35" class="node"><title>Boola</title>
-<ellipse fill="none" stroke="black" cx="34" cy="-450" rx="34.1562" ry="18"></ellipse>
-<text text-anchor="middle" x="34" y="-445.8" font-family="Times,serif" font-size="14.00">Boola</text>
+<g class="node" id="node36"><title>Boola</title>
+<ellipse fill="none" stroke="black" cx="2502" cy="-450" rx="34.1562" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2502" y="-445.8">Boola</text>
 </g>
 <!-- Boola&#45;&gt;Ajua -->
-<g id="edge32" class="edge"><title>Boola-&gt;Ajua</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M49.189,-433.811C58.7665,-424.234 71.2951,-411.705 81.9563,-401.044"></path>
-<polygon fill="black" stroke="black" points="84.7242,-403.226 89.3204,-393.68 79.7744,-398.276 84.7242,-403.226"></polygon>
+<g class="edge" id="edge34"><title>Boola-&gt;Ajua</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2520.44 -434.496 C 2533.46 -424.252 2551.09 -410.392 2565.46 -399.086" />
+<polygon fill="black" stroke="black" points="2567.79,-401.704 2573.49,-392.771 2563.47,-396.202 2567.79,-401.704" />
 </g>
 <!-- Lukho -->
-<g id="node37" class="node"><title>Lukho</title>
-<ellipse fill="none" stroke="black" cx="122" cy="-450" rx="36.3756" ry="18"></ellipse>
-<text text-anchor="middle" x="122" y="-445.8" font-family="Times,serif" font-size="14.00">Lukho</text>
+<g class="node" id="node38"><title>Lukho</title>
+<ellipse fill="none" stroke="black" cx="2590" cy="-450" rx="36.3756" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2590" y="-445.8">Lukho</text>
 </g>
 <!-- Lukho&#45;&gt;Ajua -->
-<g id="edge34" class="edge"><title>Lukho-&gt;Ajua</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M117.643,-432.055C115.639,-424.261 113.211,-414.822 110.963,-406.079"></path>
-<polygon fill="black" stroke="black" points="114.322,-405.089 108.442,-396.275 107.543,-406.832 114.322,-405.089"></polygon>
+<g class="edge" id="edge36"><title>Lukho-&gt;Ajua</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2590.25 -431.697 C 2590.36 -423.983 2590.49 -414.712 2590.61 -406.112" />
+<polygon fill="black" stroke="black" points="2594.11,-406.153 2590.76,-396.104 2587.11,-406.053 2594.11,-406.153" />
 </g>
 <!-- Andot -->
-<g id="node42" class="node"><title>Andot</title>
-<ellipse fill="none" stroke="black" cx="1877" cy="-306" rx="35.2659" ry="18"></ellipse>
-<text text-anchor="middle" x="1877" y="-301.8" font-family="Times,serif" font-size="14.00">Andot</text>
+<g class="node" id="node43"><title>Andot</title>
+<ellipse fill="none" stroke="black" cx="3394" cy="-306" rx="35.2659" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3394" y="-301.8">Andot</text>
 </g>
 <!-- Alemungula&#45;&gt;Andot -->
-<g id="edge38" class="edge"><title>Alemungula-&gt;Andot</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1914.14,-360.055C1908.15,-351.505 1900.78,-340.975 1894.19,-331.556"></path>
-<polygon fill="black" stroke="black" points="1897.02,-329.492 1888.41,-323.307 1891.28,-333.506 1897.02,-329.492"></polygon>
+<g class="edge" id="edge40"><title>Alemungula-&gt;Andot</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3446.65 -360.411 C 3437.63 -351.261 3426.3 -339.765 3416.46 -329.784" />
+<polygon fill="black" stroke="black" points="3418.8,-327.176 3409.29,-322.511 3413.82,-332.09 3418.8,-327.176" />
 </g>
 <!-- Bechi -->
-<g id="node67" class="node"><title>Bechi</title>
-<ellipse fill="none" stroke="black" cx="1964" cy="-306" rx="33.343" ry="18"></ellipse>
-<text text-anchor="middle" x="1964" y="-301.8" font-family="Times,serif" font-size="14.00">Bechi</text>
+<g class="node" id="node68"><title>Bechi</title>
+<ellipse fill="none" stroke="black" cx="3481" cy="-306" rx="33.343" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3481" y="-301.8">Bechi</text>
 </g>
 <!-- Alemungula&#45;&gt;Bechi -->
-<g id="edge60" class="edge"><title>Alemungula-&gt;Bechi</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1935.2,-360.055C1939.63,-351.887 1945.05,-341.912 1949.98,-332.824"></path>
-<polygon fill="black" stroke="black" points="1953.19,-334.247 1954.89,-323.789 1947.04,-330.908 1953.19,-334.247"></polygon>
+<g class="edge" id="edge62"><title>Alemungula-&gt;Bechi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3467.45 -359.697 C 3469.45 -351.898 3471.87 -342.509 3474.1 -333.829" />
+<polygon fill="black" stroke="black" points="3477.5,-334.661 3476.6,-324.104 3470.72,-332.918 3477.5,-334.661" />
 </g>
 <!-- Anywoli -->
-<g id="node45" class="node"><title>Anywoli</title>
-<ellipse fill="none" stroke="black" cx="1600" cy="-234" rx="44.2501" ry="18"></ellipse>
-<text text-anchor="middle" x="1600" y="-229.8" font-family="Times,serif" font-size="14.00">Anywoli</text>
+<g class="node" id="node46"><title>Anywoli</title>
+<ellipse fill="none" stroke="black" cx="2261" cy="-234" rx="44.2501" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2261" y="-229.8">Anywoli</text>
 </g>
 <!-- Obridjie&#45;&gt;Anywoli -->
-<g id="edge40" class="edge"><title>Obridjie-&gt;Anywoli</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1600,-287.697C1600,-279.983 1600,-270.712 1600,-262.112"></path>
-<polygon fill="black" stroke="black" points="1603.5,-262.104 1600,-252.104 1596.5,-262.104 1603.5,-262.104"></polygon>
+<g class="edge" id="edge42"><title>Obridjie-&gt;Anywoli</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2261 -287.697 C 2261 -279.983 2261 -270.712 2261 -262.112" />
+<polygon fill="black" stroke="black" points="2264.5,-262.104 2261,-252.104 2257.5,-262.104 2264.5,-262.104" />
 </g>
 <!-- Coro -->
-<g id="node46" class="node"><title>Coro</title>
-<ellipse fill="none" stroke="black" cx="2853" cy="-162" rx="30.0243" ry="18"></ellipse>
-<text text-anchor="middle" x="2853" y="-157.8" font-family="Times,serif" font-size="14.00">Coro</text>
+<g class="node" id="node47"><title>Coro</title>
+<ellipse fill="none" stroke="black" cx="621" cy="-162" rx="30.0243" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="621" y="-157.8">Coro</text>
 </g>
 <!-- Aweet -->
-<g id="node48" class="node"><title>Aweet</title>
-<ellipse fill="none" stroke="black" cx="2807" cy="-90" rx="36.3552" ry="18"></ellipse>
-<text text-anchor="middle" x="2807" y="-85.8" font-family="Times,serif" font-size="14.00">Aweet</text>
+<g class="node" id="node49"><title>Aweet</title>
+<ellipse fill="none" stroke="black" cx="638" cy="-90" rx="36.3552" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="638" y="-85.8">Aweet</text>
 </g>
 <!-- Coro&#45;&gt;Aweet -->
-<g id="edge42" class="edge"><title>Coro-&gt;Aweet</title>
-<path fill="none" stroke="black" d="M2842.33,-144.765C2836.72,-136.23 2829.73,-125.582 2823.44,-116.019"></path>
-<polygon fill="black" stroke="black" points="2826.35,-114.068 2817.93,-107.633 2820.5,-117.913 2826.35,-114.068"></polygon>
+<g class="edge" id="edge44"><title>Coro-&gt;Aweet</title>
+<path fill="none" stroke="black" d="M 625.115 -144.055 C 627.008 -136.261 629.3 -126.822 631.424 -118.079" />
+<polygon fill="black" stroke="black" points="634.846,-118.819 633.805,-108.275 628.043,-117.167 634.846,-118.819" />
 </g>
 <!-- Kisolo -->
-<g id="node114" class="node"><title>Kisolo</title>
-<ellipse fill="none" stroke="black" cx="2898" cy="-90" rx="36.1851" ry="18"></ellipse>
-<text text-anchor="middle" x="2898" y="-85.8" font-family="Times,serif" font-size="14.00">Kisolo</text>
+<g class="node" id="node115"><title>Kisolo</title>
+<ellipse fill="none" stroke="black" cx="729" cy="-90" rx="36.1851" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="729" y="-85.8">Kisolo</text>
 </g>
 <!-- Coro&#45;&gt;Kisolo -->
-<g id="edge106" class="edge"><title>Coro-&gt;Kisolo</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2863.44,-144.765C2868.87,-136.317 2875.63,-125.799 2881.73,-116.312"></path>
-<polygon fill="black" stroke="black" points="2884.84,-117.938 2887.31,-107.633 2878.96,-114.153 2884.84,-117.938"></polygon>
+<g class="edge" id="edge108"><title>Coro-&gt;Kisolo</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 640.809 -148.161 C 657.211 -137.53 680.762 -122.265 699.401 -110.184" />
+<polygon fill="black" stroke="black" points="701.352,-113.091 707.84,-104.715 697.545,-107.217 701.352,-113.091" />
 </g>
 <!-- Bakuk -->
-<g id="node52" class="node"><title>Bakuk</title>
-<ellipse fill="none" stroke="black" cx="2052" cy="-306" rx="36.3741" ry="18"></ellipse>
-<text text-anchor="middle" x="2052" y="-301.8" font-family="Times,serif" font-size="14.00">Bakuk</text>
+<g class="node" id="node53"><title>Bakuk</title>
+<ellipse fill="none" stroke="black" cx="3587" cy="-306" rx="36.3741" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3587" y="-301.8">Bakuk</text>
 </g>
 <!-- Koumma&#45;&gt;Bakuk -->
-<g id="edge46" class="edge"><title>Koumma-&gt;Bakuk</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2057.27,-359.697C2056.5,-351.983 2055.57,-342.712 2054.71,-334.112"></path>
-<polygon fill="black" stroke="black" points="2058.19,-333.706 2053.71,-324.104 2051.22,-334.403 2058.19,-333.706"></polygon>
+<g class="edge" id="edge48"><title>Koumma-&gt;Bakuk</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3587 -359.697 C 3587 -351.983 3587 -342.712 3587 -334.112" />
+<polygon fill="black" stroke="black" points="3590.5,-334.104 3587,-324.104 3583.5,-334.104 3590.5,-334.104" />
 </g>
 <!-- Bao -->
-<g id="node55" class="node"><title>Bao</title>
-<ellipse fill="none" stroke="black" cx="1836" cy="-234" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1836" y="-229.8" font-family="Times,serif" font-size="14.00">Bao</text>
+<g class="node" id="node56"><title>Bao</title>
+<ellipse fill="none" stroke="black" cx="209" cy="-234" rx="27" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="209" y="-229.8">Bao</text>
 </g>
 <!-- Bao&#45;&gt;Bao Kiarabu -->
-<g id="edge50" class="edge"><title>Bao-&gt;Bao Kiarabu</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1855.34,-221.125C1871.98,-210.91 1896.36,-195.937 1916.21,-183.747"></path>
-<polygon fill="black" stroke="black" points="1918.28,-186.584 1924.97,-178.369 1914.62,-180.619 1918.28,-186.584"></polygon>
+<g class="edge" id="edge52"><title>Bao-&gt;Bao Kiarabu</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 187.652 -222.971 C 164.879 -212.272 128.28 -195.078 100.097 -181.837" />
+<polygon fill="black" stroke="black" points="101.433,-178.598 90.8941,-177.514 98.4568,-184.934 101.433,-178.598" />
 </g>
 <!-- Bao la Kimasai -->
-<g id="node58" class="node"><title>Bao la Kimasai</title>
-<ellipse fill="none" stroke="black" cx="1711" cy="-162" rx="70.3557" ry="18"></ellipse>
-<text text-anchor="middle" x="1711" y="-157.8" font-family="Times,serif" font-size="14.00">Bao la Kimasai</text>
+<g class="node" id="node59"><title>Bao la Kimasai</title>
+<ellipse fill="none" stroke="black" cx="209" cy="-162" rx="70.3557" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="209" y="-157.8">Bao la Kimasai</text>
 </g>
 <!-- Bao&#45;&gt;Bao la Kimasai -->
-<g id="edge52" class="edge"><title>Bao-&gt;Bao la Kimasai</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1815.92,-221.753C1797.6,-211.495 1770.08,-196.083 1747.82,-183.617"></path>
-<polygon fill="black" stroke="black" points="1749.39,-180.486 1738.95,-178.654 1745.97,-186.593 1749.39,-180.486"></polygon>
+<g class="edge" id="edge54"><title>Bao-&gt;Bao la Kimasai</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 209 -215.697 C 209 -207.983 209 -198.712 209 -190.112" />
+<polygon fill="black" stroke="black" points="212.5,-190.104 209,-180.104 205.5,-190.104 212.5,-190.104" />
 </g>
 <!-- Isolo I -->
-<g id="node105" class="node"><title>Isolo I</title>
-<ellipse fill="none" stroke="black" cx="1836" cy="-162" rx="35.4651" ry="18"></ellipse>
-<text text-anchor="middle" x="1836" y="-157.8" font-family="Times,serif" font-size="14.00">Isolo I</text>
+<g class="node" id="node106"><title>Isolo I</title>
+<ellipse fill="none" stroke="black" cx="334" cy="-162" rx="35.4651" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="334" y="-157.8">Isolo I</text>
 </g>
 <!-- Bao&#45;&gt;Isolo I -->
-<g id="edge96" class="edge"><title>Bao-&gt;Isolo I</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1836,-215.697C1836,-207.983 1836,-198.712 1836,-190.112"></path>
-<polygon fill="black" stroke="black" points="1839.5,-190.104 1836,-180.104 1832.5,-190.104 1839.5,-190.104"></polygon>
+<g class="edge" id="edge98"><title>Bao-&gt;Isolo I</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 229.083 -221.753 C 248.823 -210.699 279.252 -193.659 302.265 -180.771" />
+<polygon fill="black" stroke="black" points="303.981,-183.822 310.996,-175.882 300.561,-177.715 303.981,-183.822" />
 </g>
 <!-- Bao la Kiswahili -->
-<g id="node61" class="node"><title>Bao la Kiswahili</title>
-<ellipse fill="none" stroke="black" cx="2295" cy="-162" rx="75.4088" ry="18"></ellipse>
-<text text-anchor="middle" x="2295" y="-157.8" font-family="Times,serif" font-size="14.00">Bao la Kiswahili</text>
+<g class="node" id="node62"><title>Bao la Kiswahili</title>
+<ellipse fill="none" stroke="black" cx="464" cy="-162" rx="75.4088" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="464" y="-157.8">Bao la Kiswahili</text>
 </g>
 <!-- Katra Fandatsaka&#45;&gt;Bao la Kiswahili -->
-<g id="edge54" class="edge"><title>Katra Fandatsaka-&gt;Bao la Kiswahili</title>
-<path fill="none" stroke="black" d="M2403.93,-217.465C2383.63,-207.315 2356.92,-193.962 2335.04,-183.018"></path>
-<polygon fill="black" stroke="black" points="2336.49,-179.834 2325.98,-178.492 2333.36,-186.095 2336.49,-179.834"></polygon>
+<g class="edge" id="edge56"><title>Katra Fandatsaka-&gt;Bao la Kiswahili</title>
+<path fill="none" stroke="black" d="M 537.249 -216.411 C 524.485 -207.103 508.389 -195.367 494.54 -185.268" />
+<polygon fill="black" stroke="black" points="496.398,-182.292 486.256,-179.228 492.274,-187.948 496.398,-182.292" />
 </g>
 <!-- Bawo -->
-<g id="node63" class="node"><title>Bawo</title>
-<ellipse fill="none" stroke="black" cx="2125" cy="-90" rx="33.3445" ry="18"></ellipse>
-<text text-anchor="middle" x="2125" y="-85.8" font-family="Times,serif" font-size="14.00">Bawo</text>
+<g class="node" id="node64"><title>Bawo</title>
+<ellipse fill="none" stroke="black" cx="219" cy="-90" rx="33.3445" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="219" y="-85.8">Bawo</text>
 </g>
 <!-- Bao la Kiswahili&#45;&gt;Bawo -->
-<g id="edge56" class="edge"><title>Bao la Kiswahili-&gt;Bawo</title>
-<path fill="none" stroke="black" d="M2258.95,-146.155C2229.79,-134.148 2188.97,-117.341 2160.08,-105.443"></path>
-<polygon fill="black" stroke="black" points="2161.35,-102.181 2150.77,-101.61 2158.68,-108.654 2161.35,-102.181"></polygon>
+<g class="edge" id="edge58"><title>Bao la Kiswahili-&gt;Bawo</title>
+<path fill="none" stroke="black" d="M 410.878 -149.119 C 369.602 -139.41 311.134 -124.614 261 -108 C 258.732 -107.248 256.411 -106.436 254.081 -105.587" />
+<polygon fill="black" stroke="black" points="255.161,-102.253 244.57,-101.961 252.667,-108.794 255.161,-102.253" />
 </g>
 <!-- Bao La Kete -->
-<g id="node65" class="node"><title>Bao La Kete</title>
-<ellipse fill="none" stroke="black" cx="2236" cy="-90" rx="59.2541" ry="18"></ellipse>
-<text text-anchor="middle" x="2236" y="-85.8" font-family="Times,serif" font-size="14.00">Bao La Kete</text>
+<g class="node" id="node66"><title>Bao La Kete</title>
+<ellipse fill="none" stroke="black" cx="330" cy="-90" rx="59.2541" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="330" y="-85.8">Bao La Kete</text>
 </g>
 <!-- Bao la Kiswahili&#45;&gt;Bao La Kete -->
-<g id="edge58" class="edge"><title>Bao la Kiswahili-&gt;Bao La Kete</title>
-<path fill="none" stroke="black" d="M2280.72,-144.055C2273.54,-135.543 2264.71,-125.068 2256.8,-115.681"></path>
-<polygon fill="black" stroke="black" points="2259.27,-113.18 2250.15,-107.789 2253.92,-117.691 2259.27,-113.18"></polygon>
+<g class="edge" id="edge60"><title>Bao la Kiswahili-&gt;Bao La Kete</title>
+<path fill="none" stroke="black" d="M 433.928 -145.291 C 414.301 -135.038 388.525 -121.573 367.554 -110.618" />
+<polygon fill="black" stroke="black" points="369.079,-107.466 358.595,-105.938 365.838,-113.67 369.079,-107.466" />
 </g>
 <!-- Fifanga -->
-<g id="node93" class="node"><title>Fifanga</title>
-<ellipse fill="none" stroke="black" cx="2354" cy="-90" rx="40.3003" ry="18"></ellipse>
-<text text-anchor="middle" x="2354" y="-85.8" font-family="Times,serif" font-size="14.00">Fifanga</text>
+<g class="node" id="node94"><title>Fifanga</title>
+<ellipse fill="none" stroke="black" cx="448" cy="-90" rx="40.3003" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="448" y="-85.8">Fifanga</text>
 </g>
 <!-- Bao la Kiswahili&#45;&gt;Fifanga -->
-<g id="edge84" class="edge"><title>Bao la Kiswahili-&gt;Fifanga</title>
-<path fill="none" stroke="black" d="M2309.28,-144.055C2316.64,-135.33 2325.73,-124.544 2333.79,-114.981"></path>
-<polygon fill="black" stroke="black" points="2336.49,-117.209 2340.26,-107.307 2331.13,-112.698 2336.49,-117.209"></polygon>
+<g class="edge" id="edge86"><title>Bao la Kiswahili-&gt;Fifanga</title>
+<path fill="none" stroke="black" d="M 460.045 -143.697 C 458.282 -135.983 456.163 -126.712 454.197 -118.112" />
+<polygon fill="black" stroke="black" points="457.55,-117.073 451.91,-108.104 450.726,-118.633 457.55,-117.073" />
 </g>
 <!-- Isiimbi -->
-<g id="node103" class="node"><title>Isiimbi</title>
-<ellipse fill="none" stroke="black" cx="2451" cy="-90" rx="38.0985" ry="18"></ellipse>
-<text text-anchor="middle" x="2451" y="-85.8" font-family="Times,serif" font-size="14.00">Isiimbi</text>
+<g class="node" id="node104"><title>Isiimbi</title>
+<ellipse fill="none" stroke="black" cx="545" cy="-90" rx="38.0985" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="545" y="-85.8">Isiimbi</text>
 </g>
 <!-- Bao la Kiswahili&#45;&gt;Isiimbi -->
-<g id="edge94" class="edge"><title>Bao la Kiswahili-&gt;Isiimbi</title>
-<path fill="none" stroke="black" d="M2328.85,-145.811C2354.12,-134.473 2388.6,-118.999 2414.49,-107.383"></path>
-<polygon fill="black" stroke="black" points="2416.26,-110.424 2423.95,-103.137 2413.4,-104.038 2416.26,-110.424"></polygon>
+<g class="edge" id="edge96"><title>Bao la Kiswahili-&gt;Isiimbi</title>
+<path fill="none" stroke="black" d="M 483.196 -144.411 C 494.143 -134.95 507.993 -122.981 519.806 -112.772" />
+<polygon fill="black" stroke="black" points="522.321,-115.225 527.599,-106.038 517.744,-109.929 522.321,-115.225" />
 </g>
 <!-- Pachgarhwa -->
-<g id="node70" class="node"><title>Pachgarhwa</title>
-<ellipse fill="none" stroke="black" cx="210" cy="-378" rx="58.3353" ry="18"></ellipse>
-<text text-anchor="middle" x="210" y="-373.8" font-family="Times,serif" font-size="14.00">Pachgarhwa</text>
+<g class="node" id="node71"><title>Pachgarhwa</title>
+<ellipse fill="none" stroke="black" cx="1799" cy="-378" rx="58.3353" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1799" y="-373.8">Pachgarhwa</text>
 </g>
 <!-- Pachgarhwa&#45;&gt;Bosh -->
-<g id="edge64" class="edge"><title>Pachgarhwa-&gt;Bosh</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M248.438,-364.485C288.353,-351.49 350.298,-331.322 389.206,-318.654"></path>
-<polygon fill="black" stroke="black" points="390.627,-321.872 399.053,-315.448 388.46,-315.216 390.627,-321.872"></polygon>
+<g class="edge" id="edge66"><title>Pachgarhwa-&gt;Bosh</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1799 -359.697 C 1799 -351.983 1799 -342.712 1799 -334.112" />
+<polygon fill="black" stroke="black" points="1802.5,-334.104 1799,-324.104 1795.5,-334.104 1802.5,-334.104" />
 </g>
 <!-- Sat&#45;gol -->
-<g id="node72" class="node"><title>Sat-gol</title>
-<ellipse fill="none" stroke="black" cx="425" cy="-378" rx="38.3968" ry="18"></ellipse>
-<text text-anchor="middle" x="425" y="-373.8" font-family="Times,serif" font-size="14.00">Sat-gol</text>
+<g class="node" id="node73"><title>Sat-gol</title>
+<ellipse fill="none" stroke="black" cx="1914" cy="-378" rx="38.3968" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1914" y="-373.8">Sat-gol</text>
 </g>
 <!-- Sat&#45;gol&#45;&gt;Bosh -->
-<g id="edge66" class="edge"><title>Sat-gol-&gt;Bosh</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M425,-359.697C425,-351.983 425,-342.712 425,-334.112"></path>
-<polygon fill="black" stroke="black" points="428.5,-334.104 425,-324.104 421.5,-334.104 428.5,-334.104"></polygon>
+<g class="edge" id="edge68"><title>Sat-gol-&gt;Bosh</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1891.55 -363.337 C 1873.41 -352.296 1847.75 -336.674 1828.05 -324.68" />
+<polygon fill="black" stroke="black" points="1829.82,-321.664 1819.46,-319.454 1826.18,-327.643 1829.82,-321.664" />
 </g>
 <!-- Omweso&#45;&gt;Coro -->
-<g id="edge68" class="edge"><title>Omweso-&gt;Coro</title>
-<path fill="none" stroke="black" d="M2700.72,-221.583C2730.23,-211.158 2774.73,-195.113 2813,-180 2815.33,-179.078 2817.74,-178.109 2820.15,-177.121"></path>
-<polygon fill="black" stroke="black" points="2821.51,-180.346 2829.39,-173.27 2818.82,-173.884 2821.51,-180.346"></polygon>
+<g class="edge" id="edge70"><title>Omweso-&gt;Coro</title>
+<path fill="none" stroke="black" d="M 795.164 -222.956 C 760.519 -212.981 706.705 -196.789 661 -180 C 658.645 -179.135 656.227 -178.208 653.802 -177.249" />
+<polygon fill="black" stroke="black" points="655.114,-174.005 644.533,-173.462 652.466,-180.484 655.114,-174.005" />
 </g>
 <!-- Elee -->
-<g id="node85" class="node"><title>Elee</title>
-<ellipse fill="none" stroke="black" cx="2507" cy="-162" rx="28.2902" ry="18"></ellipse>
-<text text-anchor="middle" x="2507" y="-157.8" font-family="Times,serif" font-size="14.00">Elee</text>
+<g class="node" id="node86"><title>Elee</title>
+<ellipse fill="none" stroke="black" cx="698" cy="-162" rx="28.2902" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="698" y="-157.8">Elee</text>
 </g>
 <!-- Omweso&#45;&gt;Elee -->
-<g id="edge76" class="edge"><title>Omweso-&gt;Elee</title>
-<path fill="none" stroke="black" d="M2638.38,-220.371C2613.43,-209.704 2576.83,-193.976 2545,-180 2542.96,-179.103 2540.85,-178.175 2538.74,-177.236"></path>
-<polygon fill="black" stroke="black" points="2540.04,-173.987 2529.48,-173.119 2537.2,-180.382 2540.04,-173.987"></polygon>
+<g class="edge" id="edge78"><title>Omweso-&gt;Elee</title>
+<path fill="none" stroke="black" d="M 804.723 -219.17 C 782.633 -207.544 751.058 -190.925 727.984 -178.781" />
+<polygon fill="black" stroke="black" points="729.457,-175.601 718.978,-174.041 726.197,-181.796 729.457,-175.601" />
 </g>
 <!-- Igisoro -->
-<g id="node99" class="node"><title>Igisoro</title>
-<ellipse fill="none" stroke="black" cx="2592" cy="-162" rx="38.087" ry="18"></ellipse>
-<text text-anchor="middle" x="2592" y="-157.8" font-family="Times,serif" font-size="14.00">Igisoro</text>
+<g class="node" id="node100"><title>Igisoro</title>
+<ellipse fill="none" stroke="black" cx="783" cy="-162" rx="38.087" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="783" y="-157.8">Igisoro</text>
 </g>
 <!-- Omweso&#45;&gt;Igisoro -->
-<g id="edge90" class="edge"><title>Omweso-&gt;Igisoro</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2650.75,-217.116C2640.51,-207.677 2627.35,-195.562 2616.09,-185.189"></path>
-<polygon fill="black" stroke="black" points="2618.38,-182.541 2608.66,-178.34 2613.64,-187.689 2618.38,-182.541"></polygon>
+<g class="edge" id="edge92"><title>Omweso-&gt;Igisoro</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 819.625 -216.411 C 813.766 -207.868 806.505 -197.278 799.997 -187.787" />
+<polygon fill="black" stroke="black" points="802.836,-185.738 794.294,-179.47 797.062,-189.697 802.836,-185.738" />
 </g>
 <!-- Kacigh -->
-<g id="node109" class="node"><title>Kacigh</title>
-<ellipse fill="none" stroke="black" cx="2687" cy="-162" rx="38.3839" ry="18"></ellipse>
-<text text-anchor="middle" x="2687" y="-157.8" font-family="Times,serif" font-size="14.00">Kacigh</text>
+<g class="node" id="node110"><title>Kacigh</title>
+<ellipse fill="none" stroke="black" cx="878" cy="-162" rx="38.3839" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="878" y="-157.8">Kacigh</text>
 </g>
 <!-- Omweso&#45;&gt;Kacigh -->
-<g id="edge100" class="edge"><title>Omweso-&gt;Kacigh</title>
-<path fill="none" stroke="black" d="M2672.6,-216.055C2674.71,-208.261 2677.28,-198.822 2679.65,-190.079"></path>
-<polygon fill="black" stroke="black" points="2683.07,-190.843 2682.31,-180.275 2676.31,-189.009 2683.07,-190.843"></polygon>
+<g class="edge" id="edge102"><title>Omweso-&gt;Kacigh</title>
+<path fill="none" stroke="black" d="M 842.138 -216.411 C 847.875 -207.868 854.984 -197.278 861.357 -187.787" />
+<polygon fill="black" stroke="black" points="864.273,-189.723 866.942,-179.47 858.461,-185.821 864.273,-189.723" />
 </g>
 <!-- Leka -->
-<g id="node144" class="node"><title>Leka</title>
-<ellipse fill="none" stroke="black" cx="2774" cy="-162" rx="30.0085" ry="18"></ellipse>
-<text text-anchor="middle" x="2774" y="-157.8" font-family="Times,serif" font-size="14.00">Leka</text>
+<g class="node" id="node145"><title>Leka</title>
+<ellipse fill="none" stroke="black" cx="965" cy="-162" rx="30.0085" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="965" y="-157.8">Leka</text>
 </g>
 <!-- Omweso&#45;&gt;Leka -->
-<g id="edge136" class="edge"><title>Omweso-&gt;Leka</title>
-<path fill="none" stroke="black" d="M2690.22,-218.326C2706.35,-207.674 2728.3,-193.179 2745.69,-181.698"></path>
-<polygon fill="black" stroke="black" points="2747.89,-184.436 2754.31,-176.005 2744.03,-178.595 2747.89,-184.436"></polygon>
+<g class="edge" id="edge138"><title>Omweso-&gt;Leka</title>
+<path fill="none" stroke="black" d="M 857.474 -219.17 C 879.462 -207.684 910.778 -191.325 933.947 -179.222" />
+<polygon fill="black" stroke="black" points="935.77,-182.218 943.013,-174.486 932.529,-176.014 935.77,-182.218" />
 </g>
 <!-- Cuba -->
-<g id="node78" class="node"><title>Cuba</title>
-<ellipse fill="none" stroke="black" cx="2060" cy="-162" rx="31.1313" ry="18"></ellipse>
-<text text-anchor="middle" x="2060" y="-157.8" font-family="Times,serif" font-size="14.00">Cuba</text>
+<g class="node" id="node79"><title>Cuba</title>
+<ellipse fill="none" stroke="black" cx="1154" cy="-162" rx="31.1313" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1154" y="-157.8">Cuba</text>
 </g>
 <!-- Moruba&#45;&gt;Cuba -->
-<g id="edge70" class="edge"><title>Moruba-&gt;Cuba</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2134.85,-218.155C2120.79,-207.793 2101.88,-193.856 2086.58,-182.585"></path>
-<polygon fill="black" stroke="black" points="2088.63,-179.751 2078.51,-176.637 2084.48,-185.387 2088.63,-179.751"></polygon>
+<g class="edge" id="edge72"><title>Moruba-&gt;Cuba</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1141.87 -216.055 C 1143.65 -208.261 1145.81 -198.822 1147.81 -190.079" />
+<polygon fill="black" stroke="black" points="1151.24,-190.804 1150.05,-180.275 1144.41,-189.244 1151.24,-190.804" />
 </g>
 <!-- Mefuvha -->
-<g id="node158" class="node"><title>Mefuvha</title>
-<ellipse fill="none" stroke="black" cx="2155" cy="-162" rx="45.3426" ry="18"></ellipse>
-<text text-anchor="middle" x="2155" y="-157.8" font-family="Times,serif" font-size="14.00">Mefuvha</text>
+<g class="node" id="node159"><title>Mefuvha</title>
+<ellipse fill="none" stroke="black" cx="1059" cy="-162" rx="45.3426" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1059" y="-157.8">Mefuvha</text>
 </g>
 <!-- Moruba&#45;&gt;Mefuvha -->
-<g id="edge150" class="edge"><title>Moruba-&gt;Mefuvha</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2155,-215.697C2155,-207.983 2155,-198.712 2155,-190.112"></path>
-<polygon fill="black" stroke="black" points="2158.5,-190.104 2155,-180.104 2151.5,-190.104 2158.5,-190.104"></polygon>
+<g class="edge" id="edge152"><title>Moruba-&gt;Mefuvha</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1120.47 -217.465 C 1109.9 -208.105 1096.27 -196.022 1084.52 -185.616" />
+<polygon fill="black" stroke="black" points="1086.56,-182.746 1076.76,-178.734 1081.92,-187.985 1086.56,-182.746" />
 </g>
 <!-- Embeli -->
-<g id="node79" class="node"><title>Embeli</title>
-<ellipse fill="none" stroke="black" cx="957" cy="-162" rx="38.3968" ry="18"></ellipse>
-<text text-anchor="middle" x="957" y="-157.8" font-family="Times,serif" font-size="14.00">Embeli</text>
+<g class="node" id="node80"><title>Embeli</title>
+<ellipse fill="none" stroke="black" cx="1867" cy="-162" rx="38.3968" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1867" y="-157.8">Embeli</text>
 </g>
 <!-- Deka -->
-<g id="node81" class="node"><title>Deka</title>
-<ellipse fill="none" stroke="black" cx="909" cy="-90" rx="31.1155" ry="18"></ellipse>
-<text text-anchor="middle" x="909" y="-85.8" font-family="Times,serif" font-size="14.00">Deka</text>
+<g class="node" id="node82"><title>Deka</title>
+<ellipse fill="none" stroke="black" cx="1819" cy="-90" rx="31.1155" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1819" y="-85.8">Deka</text>
 </g>
 <!-- Embeli&#45;&gt;Deka -->
-<g id="edge72" class="edge"><title>Embeli-&gt;Deka</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M945.867,-144.765C939.93,-136.106 932.502,-125.273 925.871,-115.604"></path>
-<polygon fill="black" stroke="black" points="928.614,-113.415 920.072,-107.147 922.841,-117.374 928.614,-113.415"></polygon>
+<g class="edge" id="edge74"><title>Embeli-&gt;Deka</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1855.87 -144.765 C 1849.93 -136.106 1842.5 -125.273 1835.87 -115.604" />
+<polygon fill="black" stroke="black" points="1838.61,-113.415 1830.07,-107.147 1832.84,-117.374 1838.61,-113.415" />
 </g>
 <!-- Nambayi -->
-<g id="node173" class="node"><title>Nambayi</title>
-<ellipse fill="none" stroke="black" cx="1005" cy="-90" rx="46.1515" ry="18"></ellipse>
-<text text-anchor="middle" x="1005" y="-85.8" font-family="Times,serif" font-size="14.00">Nambayi</text>
+<g class="node" id="node174"><title>Nambayi</title>
+<ellipse fill="none" stroke="black" cx="1915" cy="-90" rx="46.1515" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1915" y="-85.8">Nambayi</text>
 </g>
 <!-- Embeli&#45;&gt;Nambayi -->
-<g id="edge166" class="edge"><title>Embeli-&gt;Nambayi</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M968.133,-144.765C973.985,-136.23 981.286,-125.582 987.844,-116.019"></path>
-<polygon fill="black" stroke="black" points="990.825,-117.86 993.594,-107.633 985.052,-113.901 990.825,-117.86"></polygon>
+<g class="edge" id="edge168"><title>Embeli-&gt;Nambayi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1878.13 -144.765 C 1883.99 -136.23 1891.29 -125.582 1897.84 -116.019" />
+<polygon fill="black" stroke="black" points="1900.83,-117.86 1903.59,-107.633 1895.05,-113.901 1900.83,-117.86" />
 </g>
 <!-- Imbelece -->
-<g id="node86" class="node"><title>Imbelece</title>
-<ellipse fill="none" stroke="black" cx="957" cy="-234" rx="46.1342" ry="18"></ellipse>
-<text text-anchor="middle" x="957" y="-229.8" font-family="Times,serif" font-size="14.00">Imbelece</text>
+<g class="node" id="node87"><title>Imbelece</title>
+<ellipse fill="none" stroke="black" cx="1686" cy="-234" rx="46.1342" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1686" y="-229.8">Imbelece</text>
 </g>
 <!-- Imbelece&#45;&gt;Embeli -->
-<g id="edge78" class="edge"><title>Imbelece-&gt;Embeli</title>
-<path fill="none" stroke="black" d="M957,-215.697C957,-207.983 957,-198.712 957,-190.112"></path>
-<polygon fill="black" stroke="black" points="960.5,-190.104 957,-180.104 953.5,-190.104 960.5,-190.104"></polygon>
+<g class="edge" id="edge80"><title>Imbelece-&gt;Embeli</title>
+<path fill="none" stroke="black" d="M 1717.53 -220.807 C 1748.5 -208.828 1795.8 -190.536 1828.87 -177.746" />
+<polygon fill="black" stroke="black" points="1830.16,-181.002 1838.22,-174.13 1827.63,-174.473 1830.16,-181.002" />
 </g>
-<!-- En Gehé -->
-<g id="node90" class="node"><title>En Gehé</title>
-<ellipse fill="none" stroke="black" cx="675" cy="-450" rx="56.934" ry="18"></ellipse>
-<text text-anchor="middle" x="675" y="-445.8" font-family="Times,serif" font-size="14.00">En Gehé</text>
+<!-- En Gehe -->
+<g class="node" id="node91"><title>En Gehe</title>
+<ellipse fill="none" stroke="black" cx="2689" cy="-450" rx="44.3276" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2689" y="-445.8">En Gehe</text>
 </g>
-<!-- En Gehé&#45;&gt;En Dodoi -->
-<g id="edge82" class="edge"><title>En Gehé-&gt;En Dodoi</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M676.236,-431.697C676.787,-423.983 677.449,-414.712 678.063,-406.112"></path>
-<polygon fill="black" stroke="black" points="681.557,-406.328 678.778,-396.104 674.575,-405.83 681.557,-406.328"></polygon>
+<!-- En Gehe&#45;&gt;En Dodoi -->
+<g class="edge" id="edge84"><title>En Gehe-&gt;En Dodoi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2688.75 -431.697 C 2688.64 -423.983 2688.51 -414.712 2688.39 -406.112" />
+<polygon fill="black" stroke="black" points="2691.89,-406.053 2688.24,-396.104 2684.89,-406.153 2691.89,-406.053" />
 </g>
 <!-- Owela -->
-<g id="node96" class="node"><title>Owela</title>
-<ellipse fill="none" stroke="black" cx="2425" cy="-162" rx="36.3552" ry="18"></ellipse>
-<text text-anchor="middle" x="2425" y="-157.8" font-family="Times,serif" font-size="14.00">Owela</text>
+<g class="node" id="node97"><title>Owela</title>
+<ellipse fill="none" stroke="black" cx="1240" cy="-162" rx="36.3552" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1240" y="-157.8">Owela</text>
 </g>
 <!-- Hus&#45;&gt;Owela -->
-<g id="edge86" class="edge"><title>Hus-&gt;Owela</title>
-<path fill="none" stroke="black" d="M2537.51,-222.216C2516.32,-211.062 2482.9,-193.472 2457.98,-180.357"></path>
-<polygon fill="black" stroke="black" points="2459.37,-177.133 2448.89,-175.573 2456.11,-183.327 2459.37,-177.133"></polygon>
+<g class="edge" id="edge88"><title>Hus-&gt;Owela</title>
+<path fill="none" stroke="black" d="M 1274.79 -217.116 C 1269.23 -208.469 1262.23 -197.575 1255.96 -187.833" />
+<polygon fill="black" stroke="black" points="1258.83,-185.826 1250.48,-179.307 1252.95,-189.611 1258.83,-185.826" />
 </g>
 <!-- Selus&#45;&gt;Imbelece -->
-<g id="edge92" class="edge"><title>Selus-&gt;Imbelece</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M957,-287.697C957,-279.983 957,-270.712 957,-262.112"></path>
-<polygon fill="black" stroke="black" points="960.5,-262.104 957,-252.104 953.5,-262.104 960.5,-262.104"></polygon>
+<g class="edge" id="edge94"><title>Selus-&gt;Imbelece</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1984.89 -294.158 C 1979.12 -291.865 1972.91 -289.644 1967 -288 C 1869.01 -260.745 1840.06 -275.076 1741 -252 C 1737.33 -251.145 1733.55 -250.172 1729.76 -249.136" />
+<polygon fill="black" stroke="black" points="1730.41,-245.679 1719.83,-246.28 1728.47,-252.407 1730.41,-245.679" />
 </g>
 <!-- Kwahilka Aitidikus -->
-<g id="node127" class="node"><title>Kwahilka Aitidikus</title>
-<ellipse fill="none" stroke="black" cx="1108" cy="-234" rx="86.4076" ry="18"></ellipse>
-<text text-anchor="middle" x="1108" y="-229.8" font-family="Times,serif" font-size="14.00">Kwahilka Aitidikus</text>
+<g class="node" id="node128"><title>Kwahilka Aitidikus</title>
+<ellipse fill="none" stroke="black" cx="1837" cy="-234" rx="86.4076" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1837" y="-229.8">Kwahilka Aitidikus</text>
 </g>
 <!-- Selus&#45;&gt;Kwahilka Aitidikus -->
-<g id="edge120" class="edge"><title>Selus-&gt;Kwahilka Aitidikus</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M980.594,-294.063C1003.08,-283.64 1037.46,-267.701 1064.84,-255.006"></path>
-<polygon fill="black" stroke="black" points="1066.61,-258.047 1074.21,-250.666 1063.66,-251.696 1066.61,-258.047"></polygon>
+<g class="edge" id="edge122"><title>Selus-&gt;Kwahilka Aitidikus</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1983.99 -294.821 C 1957.79 -284.157 1916.02 -267.159 1883.69 -254.003" />
+<polygon fill="black" stroke="black" points="1885,-250.757 1874.42,-250.229 1882.36,-257.24 1885,-250.757" />
 </g>
 <!-- Sulus Nishtaw -->
-<g id="node128" class="node"><title>Sulus Nishtaw</title>
-<ellipse fill="none" stroke="black" cx="703" cy="-234" rx="67.1441" ry="18"></ellipse>
-<text text-anchor="middle" x="703" y="-229.8" font-family="Times,serif" font-size="14.00">Sulus Nishtaw</text>
+<g class="node" id="node129"><title>Sulus Nishtaw</title>
+<ellipse fill="none" stroke="black" cx="2009" cy="-234" rx="67.1441" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2009" y="-229.8">Sulus Nishtaw</text>
 </g>
 <!-- Selus&#45;&gt;Sulus Nishtaw -->
-<g id="edge224" class="edge"><title>Selus-&gt;Sulus Nishtaw</title>
-<path fill="none" stroke="black" d="M929.334,-297.376C888.386,-286.091 810.808,-264.711 758.013,-250.161"></path>
-<polygon fill="black" stroke="black" points="758.701,-246.72 748.13,-247.437 756.841,-253.469 758.701,-246.72"></polygon>
+<g class="edge" id="edge226"><title>Selus-&gt;Sulus Nishtaw</title>
+<path fill="none" stroke="black" d="M 2009 -287.697 C 2009 -279.983 2009 -270.712 2009 -262.112" />
+<polygon fill="black" stroke="black" points="2012.5,-262.104 2009,-252.104 2005.5,-262.104 2012.5,-262.104" />
 </g>
 <!-- Sulus Aidi -->
-<g id="node131" class="node"><title>Sulus Aidi</title>
-<ellipse fill="none" stroke="black" cx="840" cy="-234" rx="52.1236" ry="18"></ellipse>
-<text text-anchor="middle" x="840" y="-229.8" font-family="Times,serif" font-size="14.00">Sulus Aidi</text>
+<g class="node" id="node132"><title>Sulus Aidi</title>
+<ellipse fill="none" stroke="black" cx="2146" cy="-234" rx="52.1236" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2146" y="-229.8">Sulus Aidi</text>
 </g>
 <!-- Selus&#45;&gt;Sulus Aidi -->
-<g id="edge222" class="edge"><title>Selus-&gt;Sulus Aidi</title>
-<path fill="none" stroke="black" d="M936.083,-292.485C918.677,-282.072 893.573,-267.052 873.391,-254.977"></path>
-<polygon fill="black" stroke="black" points="875.173,-251.965 864.795,-249.834 871.579,-257.972 875.173,-251.965"></polygon>
+<g class="edge" id="edge224"><title>Selus-&gt;Sulus Aidi</title>
+<path fill="none" stroke="black" d="M 2031.62 -293.441 C 2052.65 -282.698 2084.35 -266.502 2109.05 -253.882" />
+<polygon fill="black" stroke="black" points="2110.82,-256.906 2118.13,-249.239 2107.63,-250.673 2110.82,-256.906" />
 </g>
 <!-- J&#39;erin&#45;&gt;Nsa Isong -->
-<g id="edge172" class="edge"><title>J'erin-&gt;Nsa Isong</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1384.74,-287.697C1385.07,-279.983 1385.47,-270.712 1385.84,-262.112"></path>
-<polygon fill="black" stroke="black" points="1389.34,-262.245 1386.27,-252.104 1382.34,-261.945 1389.34,-262.245"></polygon>
+<g class="edge" id="edge174"><title>J'erin-&gt;Nsa Isong</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2472.82 -288.411 C 2476.67 -280.249 2481.4 -270.22 2485.71 -261.065" />
+<polygon fill="black" stroke="black" points="2488.91,-262.494 2490.01,-251.956 2482.58,-259.509 2488.91,-262.494" />
 </g>
 <!-- Ndebukya -->
-<g id="node175" class="node"><title>Ndebukya</title>
-<ellipse fill="none" stroke="black" cx="2898" cy="-18" rx="50.5849" ry="18"></ellipse>
-<text text-anchor="middle" x="2898" y="-13.8" font-family="Times,serif" font-size="14.00">Ndebukya</text>
+<g class="node" id="node176"><title>Ndebukya</title>
+<ellipse fill="none" stroke="black" cx="729" cy="-18" rx="50.5849" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="729" y="-13.8">Ndebukya</text>
 </g>
 <!-- Kisolo&#45;&gt;Ndebukya -->
-<g id="edge168" class="edge"><title>Kisolo-&gt;Ndebukya</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2898,-71.6966C2898,-63.9827 2898,-54.7125 2898,-46.1124"></path>
-<polygon fill="black" stroke="black" points="2901.5,-46.1043 2898,-36.1043 2894.5,-46.1044 2901.5,-46.1043"></polygon>
+<g class="edge" id="edge170"><title>Kisolo-&gt;Ndebukya</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 729 -71.6966 C 729 -63.9827 729 -54.7125 729 -46.1124" />
+<polygon fill="black" stroke="black" points="732.5,-46.1043 729,-36.1043 725.5,-46.1044 732.5,-46.1043" />
 </g>
 <!-- Kuoless -->
-<g id="node123" class="node"><title>Kuoless</title>
-<ellipse fill="none" stroke="black" cx="3363" cy="-306" rx="42.2198" ry="18"></ellipse>
-<text text-anchor="middle" x="3363" y="-301.8" font-family="Times,serif" font-size="14.00">Kuoless</text>
+<g class="node" id="node124"><title>Kuoless</title>
+<ellipse fill="none" stroke="black" cx="4015" cy="-306" rx="42.2198" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="4015" y="-301.8">Kuoless</text>
 </g>
 <!-- Kpo&#45;&gt;Kuoless -->
-<g id="edge116" class="edge"><title>Kpo-&gt;Kuoless</title>
-<path fill="none" stroke="black" d="M3363,-359.697C3363,-351.983 3363,-342.712 3363,-334.112"></path>
-<polygon fill="black" stroke="black" points="3366.5,-334.104 3363,-324.104 3359.5,-334.104 3366.5,-334.104"></polygon>
+<g class="edge" id="edge118"><title>Kpo-&gt;Kuoless</title>
+<path fill="none" stroke="black" d="M 3985.05 -360.765 C 3989.7 -352.404 3995.49 -342.016 4000.73 -332.606" />
+<polygon fill="black" stroke="black" points="4003.92,-334.073 4005.73,-323.633 3997.81,-330.666 4003.92,-334.073" />
 </g>
 <!-- Um Laarais -->
-<g id="node120" class="node"><title>Um Laarais</title>
-<ellipse fill="none" stroke="black" cx="1787" cy="-450" rx="56.0227" ry="18"></ellipse>
-<text text-anchor="middle" x="1787" y="-445.8" font-family="Times,serif" font-size="14.00">Um Laarais</text>
+<g class="node" id="node121"><title>Um Laarais</title>
+<ellipse fill="none" stroke="black" cx="2808" cy="-450" rx="56.0227" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2808" y="-445.8">Um Laarais</text>
 </g>
 <!-- Um Laarais&#45;&gt;Krur -->
-<g id="edge114" class="edge"><title>Um Laarais-&gt;Krur</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1788.98,-431.697C1789.86,-423.983 1790.92,-414.712 1791.9,-406.112"></path>
-<polygon fill="black" stroke="black" points="1795.39,-406.437 1793.05,-396.104 1788.43,-405.642 1795.39,-406.437"></polygon>
+<g class="edge" id="edge116"><title>Um Laarais-&gt;Krur</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2805.03 -431.697 C 2803.71 -423.983 2802.12 -414.712 2800.65 -406.112" />
+<polygon fill="black" stroke="black" points="2804.07,-405.369 2798.93,-396.104 2797.17,-406.552 2804.07,-405.369" />
 </g>
 <!-- Walu -->
-<g id="node124" class="node"><title>Walu</title>
-<ellipse fill="none" stroke="black" cx="3175" cy="-378" rx="31.4266" ry="18"></ellipse>
-<text text-anchor="middle" x="3175" y="-373.8" font-family="Times,serif" font-size="14.00">Walu</text>
+<g class="node" id="node125"><title>Walu</title>
+<ellipse fill="none" stroke="black" cx="4054" cy="-378" rx="31.4266" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="4054" y="-373.8">Walu</text>
 </g>
 <!-- Walu&#45;&gt;Kuoless -->
-<g id="edge118" class="edge"><title>Walu-&gt;Kuoless</title>
-<path fill="none" stroke="black" d="M3199.64,-366.563C3205.01,-364.349 3210.68,-362.06 3216,-360 3251.46,-346.266 3292.15,-331.684 3321.72,-321.3"></path>
-<polygon fill="black" stroke="black" points="3323.02,-324.554 3331.3,-317.946 3320.7,-317.947 3323.02,-324.554"></polygon>
+<g class="edge" id="edge120"><title>Walu-&gt;Kuoless</title>
+<path fill="none" stroke="black" d="M 4044.76 -360.411 C 4040.16 -352.163 4034.5 -342.009 4029.36 -332.777" />
+<polygon fill="black" stroke="black" points="4032.37,-330.988 4024.45,-323.956 4026.26,-334.395 4032.37,-330.988" />
 </g>
 <!-- Lame Uweledet -->
-<g id="node130" class="node"><title>Lame Uweledet</title>
-<ellipse fill="none" stroke="black" cx="766" cy="-162" rx="72.1519" ry="18"></ellipse>
-<text text-anchor="middle" x="766" y="-157.8" font-family="Times,serif" font-size="14.00">Lame Uweledet</text>
+<g class="node" id="node131"><title>Lame Uweledet</title>
+<ellipse fill="none" stroke="black" cx="2077" cy="-162" rx="72.1519" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2077" y="-157.8">Lame Uweledet</text>
 </g>
 <!-- Sulus Nishtaw&#45;&gt;Lame Uweledet -->
-<g id="edge122" class="edge"><title>Sulus Nishtaw-&gt;Lame Uweledet</title>
-<path fill="none" stroke="black" d="M717.93,-216.411C725.662,-207.82 735.257,-197.159 743.835,-187.627"></path>
-<polygon fill="black" stroke="black" points="746.651,-189.731 750.739,-179.956 741.448,-185.048 746.651,-189.731"></polygon>
+<g class="edge" id="edge124"><title>Sulus Nishtaw-&gt;Lame Uweledet</title>
+<path fill="none" stroke="black" d="M 2025.12 -216.411 C 2033.54 -207.734 2044.02 -196.946 2053.35 -187.342" />
+<polygon fill="black" stroke="black" points="2056.07,-189.568 2060.53,-179.956 2051.05,-184.69 2056.07,-189.568" />
 </g>
 <!-- Sulus Aidi&#45;&gt;Lame Uweledet -->
-<g id="edge124" class="edge"><title>Sulus Aidi-&gt;Lame Uweledet</title>
-<path fill="none" stroke="black" d="M822.837,-216.765C813.354,-207.795 801.404,-196.49 790.911,-186.564"></path>
-<polygon fill="black" stroke="black" points="793.254,-183.963 783.584,-179.633 788.443,-189.048 793.254,-183.963"></polygon>
+<g class="edge" id="edge126"><title>Sulus Aidi-&gt;Lame Uweledet</title>
+<path fill="none" stroke="black" d="M 2130 -216.765 C 2121.24 -207.882 2110.23 -196.709 2100.51 -186.854" />
+<polygon fill="black" stroke="black" points="2102.91,-184.298 2093.4,-179.633 2097.92,-189.212 2102.91,-184.298" />
 </g>
 <!-- Lami -->
-<g id="node135" class="node"><title>Lami</title>
-<ellipse fill="none" stroke="black" cx="1693" cy="-306" rx="31.1284" ry="18"></ellipse>
-<text text-anchor="middle" x="1693" y="-301.8" font-family="Times,serif" font-size="14.00">Lami</text>
+<g class="node" id="node136"><title>Lami</title>
+<ellipse fill="none" stroke="black" cx="2669" cy="-306" rx="31.1284" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2669" y="-301.8">Lami</text>
 </g>
 <!-- Lamlameta&#45;&gt;Lami -->
-<g id="edge126" class="edge"><title>Lamlameta-&gt;Lami</title>
-<path fill="none" stroke="black" d="M1693,-359.697C1693,-351.983 1693,-342.712 1693,-334.112"></path>
-<polygon fill="black" stroke="black" points="1696.5,-334.104 1693,-324.104 1689.5,-334.104 1696.5,-334.104"></polygon>
+<g class="edge" id="edge128"><title>Lamlameta-&gt;Lami</title>
+<path fill="none" stroke="black" d="M 2523.67 -364.098 C 2551.85 -353.532 2592.6 -338.083 2628 -324 C 2630.24 -323.111 2632.53 -322.185 2634.85 -321.246" />
+<polygon fill="black" stroke="black" points="2636.4,-324.392 2644.33,-317.363 2633.75,-317.915 2636.4,-324.392" />
 </g>
 <!-- Mbothe -->
-<g id="node156" class="node"><title>Mbothe</title>
-<ellipse fill="none" stroke="black" cx="1783" cy="-306" rx="41.1146" ry="18"></ellipse>
-<text text-anchor="middle" x="1783" y="-301.8" font-family="Times,serif" font-size="14.00">Mbothe</text>
+<g class="node" id="node157"><title>Mbothe</title>
+<ellipse fill="none" stroke="black" cx="2759" cy="-306" rx="41.1146" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2759" y="-301.8">Mbothe</text>
 </g>
 <!-- Lamlameta&#45;&gt;Mbothe -->
-<g id="edge148" class="edge"><title>Lamlameta-&gt;Mbothe</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1713.42,-361.116C1725.88,-351.429 1741.96,-338.923 1755.52,-328.374"></path>
-<polygon fill="black" stroke="black" points="1757.84,-331.004 1763.58,-322.101 1753.54,-325.478 1757.84,-331.004"></polygon>
+<g class="edge" id="edge150"><title>Lamlameta-&gt;Mbothe</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2529.27 -365.888 C 2536.81 -363.877 2544.64 -361.837 2552 -360 C 2621.46 -342.672 2640.13 -343.548 2709 -324 C 2712.13 -323.111 2715.36 -322.142 2718.59 -321.132" />
+<polygon fill="black" stroke="black" points="2719.78,-324.425 2728.22,-318.018 2717.62,-317.765 2719.78,-324.425" />
 </g>
 <!-- Tagega -->
-<g id="node139" class="node"><title>Tagega</title>
-<ellipse fill="none" stroke="black" cx="2135" cy="-594" rx="39.1799" ry="18"></ellipse>
-<text text-anchor="middle" x="2135" y="-589.8" font-family="Times,serif" font-size="14.00">Tagega</text>
+<g class="node" id="node140"><title>Tagega</title>
+<ellipse fill="none" stroke="black" cx="3827" cy="-594" rx="39.1799" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3827" y="-589.8">Tagega</text>
 </g>
 <!-- Tagega&#45;&gt;Latho -->
-<g id="edge132" class="edge"><title>Tagega-&gt;Latho</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2138.15,-576.055C2139.58,-568.346 2141.31,-559.027 2142.92,-550.364"></path>
-<polygon fill="black" stroke="black" points="2146.41,-550.746 2144.79,-540.275 2139.52,-549.468 2146.41,-550.746"></polygon>
+<g class="edge" id="edge134"><title>Tagega-&gt;Latho</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3830.15 -576.055 C 3831.58 -568.346 3833.31 -559.027 3834.92 -550.364" />
+<polygon fill="black" stroke="black" points="3838.41,-550.746 3836.79,-540.275 3831.52,-549.468 3838.41,-550.746" />
 </g>
 <!-- Aghadaghada -->
-<g id="node141" class="node"><title>Aghadaghada</title>
-<ellipse fill="none" stroke="black" cx="2257" cy="-594" rx="64.1885" ry="18"></ellipse>
-<text text-anchor="middle" x="2257" y="-589.8" font-family="Times,serif" font-size="14.00">Aghadaghada</text>
+<g class="node" id="node142"><title>Aghadaghada</title>
+<ellipse fill="none" stroke="black" cx="3949" cy="-594" rx="64.1885" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3949" y="-589.8">Aghadaghada</text>
 </g>
 <!-- Aghadaghada&#45;&gt;Latho -->
-<g id="edge134" class="edge"><title>Aghadaghada-&gt;Latho</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2232.54,-577.291C2216.18,-566.787 2194.58,-552.912 2177.3,-541.819"></path>
-<polygon fill="black" stroke="black" points="2179.02,-538.762 2168.72,-536.304 2175.24,-544.652 2179.02,-538.762"></polygon>
+<g class="edge" id="edge136"><title>Aghadaghada-&gt;Latho</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3924.54 -577.291 C 3908.18 -566.787 3886.58 -552.912 3869.3 -541.819" />
+<polygon fill="black" stroke="black" points="3871.02,-538.762 3860.72,-536.304 3867.24,-544.652 3871.02,-538.762" />
 </g>
 <!-- Lubasi -->
-<g id="node147" class="node"><title>Lubasi</title>
-<ellipse fill="none" stroke="black" cx="3292" cy="-162" rx="36.9799" ry="18"></ellipse>
-<text text-anchor="middle" x="3292" y="-157.8" font-family="Times,serif" font-size="14.00">Lubasi</text>
+<g class="node" id="node148"><title>Lubasi</title>
+<ellipse fill="none" stroke="black" cx="1332" cy="-162" rx="36.9799" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1332" y="-157.8">Lubasi</text>
 </g>
 <!-- Mangola&#45;&gt;Lubasi -->
-<g id="edge138" class="edge"><title>Mangola-&gt;Lubasi</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M3265.47,-216.055C3269.56,-207.887 3274.54,-197.912 3279.09,-188.824"></path>
-<polygon fill="black" stroke="black" points="3282.26,-190.299 3283.61,-179.789 3276,-187.168 3282.26,-190.299"></polygon>
+<g class="edge" id="edge140"><title>Mangola-&gt;Lubasi</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1399.69 -217.465 C 1387.5 -207.658 1371.6 -194.862 1358.27 -184.138" />
+<polygon fill="black" stroke="black" points="1360.35,-181.315 1350.36,-177.773 1355.96,-186.769 1360.35,-181.315" />
 </g>
 <!-- Mbele -->
-<g id="node154" class="node"><title>Mbele</title>
-<ellipse fill="none" stroke="black" cx="3383" cy="-162" rx="35.5584" ry="18"></ellipse>
-<text text-anchor="middle" x="3383" y="-157.8" font-family="Times,serif" font-size="14.00">Mbele</text>
+<g class="node" id="node155"><title>Mbele</title>
+<ellipse fill="none" stroke="black" cx="1423" cy="-162" rx="35.5584" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1423" y="-157.8">Mbele</text>
 </g>
 <!-- Mangola&#45;&gt;Mbele -->
-<g id="edge146" class="edge"><title>Mangola-&gt;Mbele</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M3282.2,-219.003C3301.96,-208.02 3329.61,-192.659 3350.96,-180.803"></path>
-<polygon fill="black" stroke="black" points="3352.93,-183.711 3359.97,-175.795 3349.53,-177.591 3352.93,-183.711"></polygon>
+<g class="edge" id="edge148"><title>Mangola-&gt;Mbele</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1419.99 -215.697 C 1420.43 -207.983 1420.96 -198.712 1421.45 -190.112" />
+<polygon fill="black" stroke="black" points="1424.95,-190.288 1422.02,-180.104 1417.96,-189.888 1424.95,-190.288" />
 </g>
 <!-- Sombi -->
-<g id="node148" class="node"><title>Sombi</title>
-<ellipse fill="none" stroke="black" cx="3157" cy="-306" rx="35.8888" ry="18"></ellipse>
-<text text-anchor="middle" x="3157" y="-301.8" font-family="Times,serif" font-size="14.00">Sombi</text>
+<g class="node" id="node149"><title>Sombi</title>
+<ellipse fill="none" stroke="black" cx="1477" cy="-306" rx="35.8888" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1477" y="-301.8">Sombi</text>
 </g>
 <!-- Sombi&#45;&gt;Mangola -->
-<g id="edge140" class="edge"><title>Sombi-&gt;Mangola</title>
-<path fill="none" stroke="black" d="M3177.24,-290.834C3191.49,-280.857 3210.82,-267.328 3226.88,-256.086"></path>
-<polygon fill="black" stroke="black" points="3229.22,-258.716 3235.41,-250.114 3225.21,-252.981 3229.22,-258.716"></polygon>
+<g class="edge" id="edge142"><title>Sombi-&gt;Mangola</title>
+<path fill="none" stroke="black" d="M 1463.84 -289.116 C 1456.53 -280.292 1447.28 -269.13 1439.08 -259.238" />
+<polygon fill="black" stroke="black" points="1441.59,-256.774 1432.51,-251.307 1436.2,-261.24 1441.59,-256.774" />
 </g>
 <!-- Mangura -->
-<g id="node150" class="node"><title>Mangura</title>
-<ellipse fill="none" stroke="black" cx="3257" cy="-306" rx="45.3426" ry="18"></ellipse>
-<text text-anchor="middle" x="3257" y="-301.8" font-family="Times,serif" font-size="14.00">Mangura</text>
+<g class="node" id="node151"><title>Mangura</title>
+<ellipse fill="none" stroke="black" cx="1577" cy="-306" rx="45.3426" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1577" y="-301.8">Mangura</text>
 </g>
 <!-- Mangura&#45;&gt;Mangola -->
-<g id="edge142" class="edge"><title>Mangura-&gt;Mangola</title>
-<path fill="none" stroke="black" d="M3257,-287.697C3257,-279.983 3257,-270.712 3257,-262.112"></path>
-<polygon fill="black" stroke="black" points="3260.5,-262.104 3257,-252.104 3253.5,-262.104 3260.5,-262.104"></polygon>
+<g class="edge" id="edge144"><title>Mangura-&gt;Mangola</title>
+<path fill="none" stroke="black" d="M 1547.65 -291.998 C 1522.27 -280.751 1485.38 -264.407 1457.6 -252.102" />
+<polygon fill="black" stroke="black" points="1458.75,-248.783 1448.19,-247.933 1455.92,-255.183 1458.75,-248.783" />
 </g>
 <!-- Tchouba -->
-<g id="node159" class="node"><title>Tchouba</title>
-<ellipse fill="none" stroke="black" cx="2267" cy="-306" rx="44.2372" ry="18"></ellipse>
-<text text-anchor="middle" x="2267" y="-301.8" font-family="Times,serif" font-size="14.00">Tchouba</text>
+<g class="node" id="node160"><title>Tchouba</title>
+<ellipse fill="none" stroke="black" cx="1026" cy="-306" rx="44.2372" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1026" y="-301.8">Tchouba</text>
 </g>
 <!-- Tchouba&#45;&gt;Moruba -->
-<g id="edge156" class="edge"><title>Tchouba-&gt;Moruba</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2243.79,-290.496C2227.16,-280.103 2204.58,-265.987 2186.35,-254.593"></path>
-<polygon fill="black" stroke="black" points="2188.13,-251.578 2177.79,-249.246 2184.42,-257.514 2188.13,-251.578"></polygon>
+<g class="edge" id="edge158"><title>Tchouba-&gt;Moruba</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1049.21 -290.496 C 1065.84 -280.103 1088.42 -265.987 1106.65 -254.593" />
+<polygon fill="black" stroke="black" points="1108.58,-257.514 1115.21,-249.246 1104.87,-251.578 1108.58,-257.514" />
 </g>
 <!-- Tchouba&#45;&gt;Mefuvha -->
-<g id="edge152" class="edge"><title>Tchouba-&gt;Mefuvha</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2256.49,-288.398C2244.69,-270.116 2224.59,-240.114 2205,-216 2196.86,-205.977 2187.25,-195.519 2178.65,-186.567"></path>
-<polygon fill="black" stroke="black" points="2180.9,-183.858 2171.42,-179.137 2175.89,-188.742 2180.9,-183.858"></polygon>
+<g class="edge" id="edge154"><title>Tchouba-&gt;Mefuvha</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1029.98 -287.871 C 1035.63 -263.564 1046.03 -218.819 1052.72 -190.013" />
+<polygon fill="black" stroke="black" points="1056.15,-190.722 1055.01,-180.189 1049.33,-189.137 1056.15,-190.722" />
 </g>
 <!-- Njombwa -->
-<g id="node163" class="node"><title>Njombwa</title>
-<ellipse fill="none" stroke="black" cx="2155" cy="-306" rx="49.1781" ry="18"></ellipse>
-<text text-anchor="middle" x="2155" y="-301.8" font-family="Times,serif" font-size="14.00">Njombwa</text>
+<g class="node" id="node164"><title>Njombwa</title>
+<ellipse fill="none" stroke="black" cx="1138" cy="-306" rx="49.1781" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1138" y="-301.8">Njombwa</text>
 </g>
 <!-- Njombwa&#45;&gt;Moruba -->
-<g id="edge158" class="edge"><title>Njombwa-&gt;Moruba</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2155,-287.697C2155,-279.983 2155,-270.712 2155,-262.112"></path>
-<polygon fill="black" stroke="black" points="2158.5,-262.104 2155,-252.104 2151.5,-262.104 2158.5,-262.104"></polygon>
+<g class="edge" id="edge160"><title>Njombwa-&gt;Moruba</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1138 -287.697 C 1138 -279.983 1138 -270.712 1138 -262.112" />
+<polygon fill="black" stroke="black" points="1141.5,-262.104 1138,-252.104 1134.5,-262.104 1141.5,-262.104" />
 </g>
 <!-- Msuwa -->
-<g id="node167" class="node"><title>Msuwa</title>
-<ellipse fill="none" stroke="black" cx="3122" cy="-162" rx="39.1943" ry="18"></ellipse>
-<text text-anchor="middle" x="3122" y="-157.8" font-family="Times,serif" font-size="14.00">Msuwa</text>
+<g class="node" id="node168"><title>Msuwa</title>
+<ellipse fill="none" stroke="black" cx="1516" cy="-162" rx="39.1943" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1516" y="-157.8">Msuwa</text>
 </g>
 <!-- Nsolo&#45;&gt;Msuwa -->
-<g id="edge160" class="edge"><title>Nsolo-&gt;Msuwa</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M3006.89,-220.967C3029.06,-209.805 3062.3,-193.066 3087.37,-180.44"></path>
-<polygon fill="black" stroke="black" points="3089.18,-183.447 3096.54,-175.823 3086.03,-177.195 3089.18,-183.447"></polygon>
+<g class="edge" id="edge162"><title>Nsolo-&gt;Msuwa</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1516 -215.697 C 1516 -207.983 1516 -198.712 1516 -190.112" />
+<polygon fill="black" stroke="black" points="1519.5,-190.104 1516,-180.104 1512.5,-190.104 1519.5,-190.104" />
 </g>
 <!-- Msuwa Wa Kunja -->
-<g id="node169" class="node"><title>Msuwa Wa Kunja</title>
-<ellipse fill="none" stroke="black" cx="2983" cy="-162" rx="80.9385" ry="18"></ellipse>
-<text text-anchor="middle" x="2983" y="-157.8" font-family="Times,serif" font-size="14.00">Msuwa Wa Kunja</text>
+<g class="node" id="node170"><title>Msuwa Wa Kunja</title>
+<ellipse fill="none" stroke="black" cx="1655" cy="-162" rx="80.9385" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1655" y="-157.8">Msuwa Wa Kunja</text>
 </g>
 <!-- Nsolo&#45;&gt;Msuwa Wa Kunja -->
-<g id="edge162" class="edge"><title>Nsolo-&gt;Msuwa Wa Kunja</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2983,-215.697C2983,-207.983 2983,-198.712 2983,-190.112"></path>
-<polygon fill="black" stroke="black" points="2986.5,-190.104 2983,-180.104 2979.5,-190.104 2986.5,-190.104"></polygon>
+<g class="edge" id="edge164"><title>Nsolo-&gt;Msuwa Wa Kunja</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1539.89 -220.967 C 1560.47 -210.603 1590.61 -195.429 1614.88 -183.205" />
+<polygon fill="black" stroke="black" points="1616.5,-186.305 1623.86,-178.681 1613.36,-180.053 1616.5,-186.305" />
 </g>
 <!-- Spreta -->
-<g id="node220" class="node"><title>Spreta</title>
-<ellipse fill="none" stroke="black" cx="3122" cy="-90" rx="35.5569" ry="18"></ellipse>
-<text text-anchor="middle" x="3122" y="-85.8" font-family="Times,serif" font-size="14.00">Spreta</text>
+<g class="node" id="node221"><title>Spreta</title>
+<ellipse fill="none" stroke="black" cx="1516" cy="-90" rx="35.5569" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1516" y="-85.8">Spreta</text>
 </g>
 <!-- Msuwa&#45;&gt;Spreta -->
-<g id="edge220" class="edge"><title>Msuwa-&gt;Spreta</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M3122,-143.697C3122,-135.983 3122,-126.712 3122,-118.112"></path>
-<polygon fill="black" stroke="black" points="3125.5,-118.104 3122,-108.104 3118.5,-118.104 3125.5,-118.104"></polygon>
+<g class="edge" id="edge222"><title>Msuwa-&gt;Spreta</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 1516 -143.697 C 1516 -135.983 1516 -126.712 1516 -118.112" />
+<polygon fill="black" stroke="black" points="1519.5,-118.104 1516,-108.104 1512.5,-118.104 1519.5,-118.104" />
 </g>
 <!-- Whyo -->
-<g id="node183" class="node"><title>Whyo</title>
-<ellipse fill="none" stroke="black" cx="1514" cy="-378" rx="34.455" ry="18"></ellipse>
-<text text-anchor="middle" x="1514" y="-373.8" font-family="Times,serif" font-size="14.00">Whyo</text>
+<g class="node" id="node184"><title>Whyo</title>
+<ellipse fill="none" stroke="black" cx="2210" cy="-378" rx="34.455" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2210" y="-373.8">Whyo</text>
 </g>
 <!-- Whyo&#45;&gt;Obridjie -->
-<g id="edge180" class="edge"><title>Whyo-&gt;Obridjie</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1531.82,-362.496C1543.72,-352.812 1559.58,-339.897 1573.02,-328.962"></path>
-<polygon fill="black" stroke="black" points="1575.46,-331.484 1581.01,-322.457 1571.05,-326.055 1575.46,-331.484"></polygon>
+<g class="edge" id="edge182"><title>Whyo-&gt;Obridjie</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2221.83 -360.765 C 2228.11 -352.143 2235.96 -341.365 2242.98 -331.727" />
+<polygon fill="black" stroke="black" points="2245.82,-333.777 2248.88,-323.633 2240.16,-329.655 2245.82,-333.777" />
 </g>
 <!-- Lok -->
-<g id="node185" class="node"><title>Lok</title>
-<ellipse fill="none" stroke="black" cx="1594" cy="-378" rx="27" ry="18"></ellipse>
-<text text-anchor="middle" x="1594" y="-373.8" font-family="Times,serif" font-size="14.00">Lok</text>
+<g class="node" id="node186"><title>Lok</title>
+<ellipse fill="none" stroke="black" cx="2290" cy="-378" rx="27" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2290" y="-373.8">Lok</text>
 </g>
 <!-- Lok&#45;&gt;Obridjie -->
-<g id="edge182" class="edge"><title>Lok-&gt;Obridjie</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1595.48,-359.697C1596.14,-351.983 1596.94,-342.712 1597.68,-334.112"></path>
-<polygon fill="black" stroke="black" points="1601.17,-334.367 1598.53,-324.104 1594.19,-333.769 1601.17,-334.367"></polygon>
+<g class="edge" id="edge184"><title>Lok-&gt;Obridjie</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2283.13 -360.411 C 2279.78 -352.335 2275.68 -342.431 2271.92 -333.355" />
+<polygon fill="black" stroke="black" points="2275.09,-331.855 2268.02,-323.956 2268.62,-334.534 2275.09,-331.855" />
 </g>
 <!-- Otra -->
-<g id="node193" class="node"><title>Otra</title>
-<ellipse fill="none" stroke="black" cx="3208" cy="-162" rx="28.2902" ry="18"></ellipse>
-<text text-anchor="middle" x="3208" y="-157.8" font-family="Times,serif" font-size="14.00">Otra</text>
+<g class="node" id="node194"><title>Otra</title>
+<ellipse fill="none" stroke="black" cx="1782" cy="-162" rx="28.2902" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="1782" y="-157.8">Otra</text>
 </g>
 <!-- Otu&#45;&gt;Otra -->
-<g id="edge190" class="edge"><title>Otu-&gt;Otra</title>
-<path fill="none" stroke="black" d="M3147.38,-218.834C3158.2,-208.872 3172.86,-195.369 3185.05,-184.137"></path>
-<polygon fill="black" stroke="black" points="3187.66,-186.494 3192.64,-177.144 3182.92,-181.345 3187.66,-186.494"></polygon>
+<g class="edge" id="edge192"><title>Otu-&gt;Otra</title>
+<path fill="none" stroke="black" d="M 1616.11 -222.448 C 1620.95 -220.194 1626.11 -217.917 1631 -216 C 1680.47 -196.612 1695.43 -199.129 1745 -180 C 1746.88 -179.275 1748.8 -178.5 1750.73 -177.696" />
+<polygon fill="black" stroke="black" points="1752.52,-180.734 1760.28,-173.526 1749.72,-174.319 1752.52,-180.734" />
 </g>
 <!-- Qelat I -->
-<g id="node200" class="node"><title>Qelat I</title>
-<ellipse fill="none" stroke="black" cx="368" cy="-450" rx="37.366" ry="18"></ellipse>
-<text text-anchor="middle" x="368" y="-445.8" font-family="Times,serif" font-size="14.00">Qelat I</text>
+<g class="node" id="node201"><title>Qelat I</title>
+<ellipse fill="none" stroke="black" cx="2920" cy="-450" rx="37.366" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="2920" y="-445.8">Qelat I</text>
 </g>
 <!-- Qelat I&#45;&gt;Qelat II -->
-<g id="edge200" class="edge"><title>Qelat I-&gt;Qelat II</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M358.284,-432.411C353.453,-424.163 347.505,-414.009 342.098,-404.777"></path>
-<polygon fill="black" stroke="black" points="345.006,-402.816 336.931,-395.956 338.965,-406.354 345.006,-402.816"></polygon>
+<g class="edge" id="edge202"><title>Qelat I-&gt;Qelat II</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 2920 -431.697 C 2920 -423.983 2920 -414.712 2920 -406.112" />
+<polygon fill="black" stroke="black" points="2923.5,-406.104 2920,-396.104 2916.5,-406.104 2923.5,-406.104" />
 </g>
 <!-- Um el Banat -->
-<g id="node202" class="node"><title>Um el Banat</title>
-<ellipse fill="none" stroke="black" cx="253" cy="-450" rx="59.2685" ry="18"></ellipse>
-<text text-anchor="middle" x="253" y="-445.8" font-family="Times,serif" font-size="14.00">Um el Banat</text>
+<g class="node" id="node203"><title>Um el Banat</title>
+<ellipse fill="none" stroke="black" cx="3035" cy="-450" rx="59.2685" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3035" y="-445.8">Um el Banat</text>
 </g>
 <!-- Um el Banat&#45;&gt;Qelat II -->
-<g id="edge202" class="edge"><title>Um el Banat-&gt;Qelat II</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M270.163,-432.765C279.92,-423.535 292.291,-411.833 302.998,-401.705"></path>
-<polygon fill="black" stroke="black" points="305.58,-404.08 310.439,-394.666 300.769,-398.995 305.58,-404.08"></polygon>
+<g class="edge" id="edge204"><title>Um el Banat-&gt;Qelat II</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3009.76 -433.638 C 2992.6 -423.193 2969.78 -409.298 2951.44 -398.135" />
+<polygon fill="black" stroke="black" points="2953.2,-395.111 2942.84,-392.901 2949.56,-401.09 2953.2,-395.111" />
 </g>
 <!-- Lahemay Waladat -->
-<g id="node206" class="node"><title>Lahemay Waladat</title>
-<ellipse fill="none" stroke="black" cx="934" cy="-450" rx="81.3257" ry="18"></ellipse>
-<text text-anchor="middle" x="934" y="-445.8" font-family="Times,serif" font-size="14.00">Lahemay Waladat</text>
+<g class="node" id="node207"><title>Lahemay Waladat</title>
+<ellipse fill="none" stroke="black" cx="3194" cy="-450" rx="81.3257" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3194" y="-445.8">Lahemay Waladat</text>
 </g>
 <!-- Lahemay Waladat&#45;&gt;Rio Kadalis -->
-<g id="edge206" class="edge"><title>Lahemay Waladat-&gt;Rio Kadalis</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M904.274,-433.116C885.159,-422.902 860.18,-409.554 839.813,-398.671"></path>
-<polygon fill="black" stroke="black" points="841.286,-395.49 830.817,-393.864 837.987,-401.664 841.286,-395.49"></polygon>
+<g class="edge" id="edge208"><title>Lahemay Waladat-&gt;Rio Kadalis</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3210.46 -432.055 C 3219.02 -423.243 3229.62 -412.328 3238.98 -402.694" />
+<polygon fill="black" stroke="black" points="3241.7,-404.919 3246.16,-395.307 3236.68,-400.041 3241.7,-404.919" />
 </g>
 <!-- Lam Waladach -->
-<g id="node208" class="node"><title>Lam Waladach</title>
-<ellipse fill="none" stroke="black" cx="1103" cy="-450" rx="69.1298" ry="18"></ellipse>
-<text text-anchor="middle" x="1103" y="-445.8" font-family="Times,serif" font-size="14.00">Lam Waladach</text>
+<g class="node" id="node209"><title>Lam Waladach</title>
+<ellipse fill="none" stroke="black" cx="3363" cy="-450" rx="69.1298" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3363" y="-445.8">Lam Waladach</text>
 </g>
 <!-- Lam Waladach&#45;&gt;Rio Kadalis -->
-<g id="edge208" class="edge"><title>Lam Waladach-&gt;Rio Kadalis</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1051.77,-437.851C1004.3,-427.411 931.753,-411.185 869,-396 864.425,-394.893 859.678,-393.719 854.923,-392.527"></path>
-<polygon fill="black" stroke="black" points="855.758,-389.128 845.204,-390.067 854.04,-395.914 855.758,-389.128"></polygon>
+<g class="edge" id="edge210"><title>Lam Waladach-&gt;Rio Kadalis</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3339.83 -432.941 C 3326 -423.358 3308.26 -411.065 3293.22 -400.635" />
+<polygon fill="black" stroke="black" points="3294.93,-397.563 3284.72,-394.743 3290.94,-403.316 3294.93,-397.563" />
 </g>
 <!-- Lamosh -->
-<g id="node210" class="node"><title>Lamosh</title>
-<ellipse fill="none" stroke="black" cx="792" cy="-450" rx="42.2212" ry="18"></ellipse>
-<text text-anchor="middle" x="792" y="-445.8" font-family="Times,serif" font-size="14.00">Lamosh</text>
+<g class="node" id="node211"><title>Lamosh</title>
+<ellipse fill="none" stroke="black" cx="3493" cy="-450" rx="42.2212" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="3493" y="-445.8">Lamosh</text>
 </g>
 <!-- Lamosh&#45;&gt;Rio Kadalis -->
-<g id="edge210" class="edge"><title>Lamosh-&gt;Rio Kadalis</title>
-<path fill="none" stroke="black" stroke-dasharray="1,5" d="M794.719,-431.697C795.931,-423.983 797.388,-414.712 798.739,-406.112"></path>
-<polygon fill="black" stroke="black" points="802.217,-406.526 800.312,-396.104 795.302,-405.44 802.217,-406.526"></polygon>
+<g class="edge" id="edge212"><title>Lamosh-&gt;Rio Kadalis</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M 3460.87 -438.339 C 3454.31 -436.206 3447.44 -434.005 3441 -432 C 3397.72 -418.522 3348.31 -403.953 3312.38 -393.507" />
+<polygon fill="black" stroke="black" points="3313.2,-390.1 3302.62,-390.674 3311.25,-396.823 3313.2,-390.1" />
 </g>
 <!-- Songo Douala -->
-<g id="node217" class="node"><title>Songo Douala</title>
-<ellipse fill="none" stroke="black" cx="548" cy="-378" rx="66.0275" ry="18"></ellipse>
-<text text-anchor="middle" x="548" y="-373.8" font-family="Times,serif" font-size="14.00">Songo Douala</text>
+<g class="node" id="node218"><title>Songo Douala</title>
+<ellipse fill="none" stroke="black" cx="4444" cy="-378" rx="66.0275" ry="18" />
+<text font-family="Times,serif" font-size="14" text-anchor="middle" x="4444" y="-373.8">Songo Douala</text>
 </g>
 <!-- Songo Ewondo&#45;&gt;Songo Douala -->
-<g id="edge216" class="edge"><title>Songo Ewondo-&gt;Songo Douala</title>
-<path fill="none" stroke="black" d="M533.697,-431.697C535.813,-423.898 538.362,-414.509 540.718,-405.829"></path>
-<polygon fill="black" stroke="black" points="544.116,-406.672 543.357,-396.104 537.36,-404.838 544.116,-406.672"></polygon>
+<g class="edge" id="edge218"><title>Songo Ewondo-&gt;Songo Douala</title>
+<path fill="none" stroke="black" d="M 4278.7 -435.17 C 4312.03 -423.844 4359.31 -407.779 4394.77 -395.729" />
+<polygon fill="black" stroke="black" points="4396.09,-398.976 4404.44,-392.444 4393.84,-392.348 4396.09,-398.976" />
 </g>
 </g>
 </svg>

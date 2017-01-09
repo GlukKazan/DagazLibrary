@@ -1,6 +1,7 @@
-digraph graphname {
+digraph mancala {
     "Mancala" -> "2 Ranks Single sowing";
     "2 Ranks Single sowing" -> "2 Ranks Multiple sowing";
+    "2 Ranks Multiple sowing" -> "4 Ranks Multiple sowing";
     "Ohojichi" -> "4 Ranks Multiple sowing"[style=dotted];
     "2 Ranks Multiple sowing" -> "2 Ranks Pussa Kanawa sowing";
     "2 Ranks Multiple sowing" -> "Gabata"[style=dotted];
@@ -39,7 +40,7 @@ digraph graphname {
     "Omweso" -> "Elee";
     "Imbelece" -> "Embeli";
     "2 Ranks Multiple sowing" -> "En Dodoi";
-    "En Gehé" -> "En Dodoi"[style=dotted];
+    "En Gehe" -> "En Dodoi"[style=dotted];
     "Bao la Kiswahili" -> "Fifanga";
     "Hus" -> "Owela";
     "4 Ranks Multiple sowing" -> "Hus";
