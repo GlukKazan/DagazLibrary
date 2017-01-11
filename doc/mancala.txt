@@ -6,11 +6,9 @@ Gabata ~2 Ranks Multiple sowing
 Congkak <2 Ranks Multiple sowing
 Um el Bagara <2 Ranks Single sowing
 Um ed-Dyar <2 Ranks Single sowing
-Hawalis <4 Ranks Multiple sowing
 Lontu-holu ~2 Ranks Single sowing
 
 #http://mancala.wikia.com/wiki/Traditional_mancala_games
-Dakon [Indonesia/Java] [1817, Sir Thomas Stamford Raffles] (2x7+:7 multiple) <Congkak
 Abalala'e/Abala/Abalalà [Eritrea/Ethiopia] [1943, Harold Courlander] (3x6:3 multiple) ~Gabata
 Achochodi/Axoxodi [Ivory Coast] [2009, Jordi Climent Tondo] (2x6:4 single) <Oware
 Adi/Annana [Ghana] (2x8:3 multiple) <Ba-awa
@@ -188,6 +186,35 @@ Urim/Huri/Ouri/Ourim/Òrè/Ori/Ôrim/Ourim/Uri/Urim/Urinca [Cape Vert] [1994,  E
 Usolo [Tanzania] (4x16 multiple)
 Wouri [Mali] [1950, Koné Moussa] (2x6:4 multiple) <Ba-awa
 Yit [Sudan] (4x12 multiple)
+
+Agsinnoninka/Chuncajon [Philippines] [1927, Morice Vanoverbergh] (2x5:5 multiple+)
+Ali Guli Mane/Aḷu Gulimane Āṭa/Aligulimane [India (Karnataka)] (2x7:5 multiple+)
+Altıev [Turkey (Anatolia)] (2x6:3)
+Arasu Āṭa [India (Kanara)] (2x7:4 multiple+) (3) ~Raja Pasu Mandiri
+Aw-li On-nam Ot-tjin/Ot-jin/Otjin [Indonesia (Borneo)] [1920, Carl Sophus Lumholtz] (2x7:2-5 multiple)
+Bajangkaq [Indonesia (Central Sumatra)]
+Baqura/Bāqūra [Iraq] (2x6:6 multiple)
+Bay Khom [Cambodia] (2x5:4,5{1} multiple+) ~Ô Ăn Quan ~Ceelkoqyuqkoqiji
+Beatta [Saudi-Arabia (Teyma)] (2x7:7)
+Bestemshi/Bestemshe [Kazakhstan] (2x5:5 single) <Toguz Kumalak
+Bule Perga [India (Kanara)] (2x7:4 multiple+)
+Ceelkoqyuqkoqiji/Aemeibushishi/Ceelmeiyuqmeiji/Lildvqkojji [China (Yunnan)] [1995, Vernon A. Eagle] (2x5+1:5+1 multiple+)
+Cenne/Cenne Mane/Chenne/Chenne Mane [India (South Kanara)] [1986, Peter J. Claus] (2x7:4 multiple) ~Lamlameta
+Chato/Chuka/Djoenka/Jungka/Tjato/Tjoeka/Tjonka [Indonesia] ~Congkak
+Chonka/Chanka/Chonku/Pallankuli [Sri Lanka] (2x7:7 multiple) <Congkak
+Congkak/Chongkak/Congklak/Main Congkak/Tikum [Indonesia, Malaysia, Singapore] [1701, Georg Eberhard Rumpf] (2x5;7;9:5;7;9 multiple)
+Dakon [Indonesia/Java] [1817, Sir Thomas Stamford Raffles] (2x6-10+:6-10 multiple) <Congkak
+Dampu [Indonesia (Celebes)] (2 multiple)
+Dara-dara [Indonesia (Celebes)] (2x7:4 multiple) ~Galatjang
+Daramutu/Ellaewala-kanda [Sri Lanka] [1909, Henry Parker] (2x7:4 multiple)
+Devare Āṭa [India (Kanara)] (4)
+Dong Wo [China (Yunnan)] (2x5:4,1+ multiple+) ~Laomuzhuqi
+Dongjintian [China (Yunnan)] [1995,  Vernon A. Eagle] (4x5:5 multiple+) ~2 Ranks Pussa Kanawa sowing
+Eson Khorgol/Eson Xorgol [Mongolia (Bajan Ölgij)] (2x5:9 single) ~Toguz Kumalak
+Evcik [Turkey (Muğla)]
+Galatjang [Indonesia (Celebes)] (2x7:7 multiple)
+Halusa/Halusi/Hālūsa/Hālūsi [Iraq] [1694, Thomas Hyde] (2x6:6 single) ~Mangala ~Al-manqala ~Bohnenspiel
+Hawalis [Oman, Tanzania (Zanzibar)] (4x7:2 multiple) <4 Ranks Multiple sowing
 
 #https://en.wikipedia.org/wiki/List_of_mancala_games
 #http://skyruk.livejournal.com/410114.html
