@@ -215,6 +215,17 @@ Evcik [Turkey (Muğla)]
 Galatjang [Indonesia (Celebes)] (2x7:7 multiple)
 Halusa/Halusi/Hālūsa/Hālūsi [Iraq] [1694, Thomas Hyde] (2x6:6 single) ~Mangala ~Al-manqala ~Bohnenspiel
 Hawalis [Oman, Tanzania (Zanzibar)] (4x7:2 multiple) <4 Ranks Multiple sowing
+Hunse Pace Āṭa [India (Karnataka)]
+Jōḍu Perga [India (Kanara)] (2x7:4 multiple+) ~Bule Perga
+Kaci [India (Madurai, Tamil Nadu)] (2x7:14 multiple+)
+Kaloleh [Indonesia (Central Sumatra)]
+Kánji-guti [India (Orissa)] [1924, Hem Chandra Das Gupta] (2x7:12,1 multiple+)
+Kashiyāṭa [India (Hassan region, Karnataka)] (2x7:12) (2;3)
+Khutki-boia [India (Punjab)] (2x5:5 multiple+)
+Khuzhi Palaka [India (Kerala)] (multiple+)
+Kawaḍi Āṭa [India (Hassan region, Karnataka)] (2x7:5 multiple+)
+Kodi Mule [India (Kanara)]
+Kotu-baendum [Sri Lanka] [1909, Henry Parker] (2x7:4 multiple) ~Layli Goobalay ~Bosh
 
 #https://en.wikipedia.org/wiki/List_of_mancala_games
 #http://skyruk.livejournal.com/410114.html
