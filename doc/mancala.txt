@@ -226,6 +226,34 @@ Khuzhi Palaka [India (Kerala)] (multiple+)
 Kawaḍi Āṭa [India (Hassan region, Karnataka)] (2x7:5 multiple+)
 Kodi Mule [India (Kanara)]
 Kotu-baendum [Sri Lanka] [1909, Henry Parker] (2x7:4 multiple) ~Layli Goobalay ~Bosh
+Kozdatu [Kazakhstan] (2x7:7 single) <Toguz Kumalak
+La'b Madjnuni [Syria] (2x7 multiple)
+La'b Hakimi/La'b Akila [Syria] (2x7:7 multiple)
+La'b rosëya [Syria] (2x7:7 multiple) <La'b Hakimi
+Laomuzhu [China (Yunnan)] (2x5:5+1 multiple+)
+Laomuzhukeng [China (Yunnan)] (2-4x5:5+1 multiple+) (2-4) ~Laomuzhu
+Laomuzhuqi [China (Yunnan)] (2-5x5:5+1 multiple+) ~Dong Wo
+Longbeu-a-cha [India (Assam)] (2x5:5+1 multiple+)
+Mak Khom/Main Chakot/Tungkayon [Thailand (Malay Peninsula)] [1836, James Low] (2x4 multiple) <Congkak
+Mak-hu-hai [China (Yunnan)] (2-3x5:5+1 multiple+) (2-3)
+Mangala II/Manqala/Manqalat [Turkey (Southeast Anatolia)] [1694, Thomas Hyde] (2x6-7:5 single) >Mandoli >Ban-Ban >Bohnenspiel
+Manqala/Al-manqala/La'b Akila/La'b Hakimi [Israel (Galilee)] [1694, Thomas Hyde] (2x7:7 single)
+Matoe [Indonesia (Eastern Sumba)]
+Mawkar Katiya [India (Cherrapunji)] (2x7:5 multiple+)
+Mechiwa/Metjiwa [Indonesia (Bali)] (2x5)
+Meneli Taş [Turkey (Ilgın)] (2x5)
+Mereköçdü [Azerbaidshan] (2x3:7)
+Meuchoh/Meutjoh [Indonesia (Acheh)] (multiple)
+Meuliëh [Indonesia (Acheh)] (multiple+)
+Meusuëb/Meusoeëb [Indonesia (Acheh)] (2x6:4 multiple+)
+Meuta' [Indonesia (Acheh)] (multiple)
+Motiq I/Ka Ia [Indonesia (Lomblen)] (2x7:4 multiple) ~Aw-li On-nam Ot-tjin
+Motiq II/Éu Léu/Kéu Léu [Indonesia (Lomblen)] (2x7:7 multiple) ~Congkak
+Nikkikkaḷi [India (Northern Kerala)] (multiple+)
+Ohvalhu/Naranj/Ohvalhu gondi [Maldives] [1894, Stewart Culin] (2x7:7 multiple) ~Congkak ~Dakon
+Olinda Deliya [Sri Lanka] (2x7:4 multiple+)
+Ô Ăn Quan/Ô Láng [Northern Vietnam] [1944,  Ngô Quý Sơn] (2x5+1:5,10 multiple+) ~Laomuzhu ~Ceelkoqyuqkoqiji
+Pachgarhwa [India (Uttar Pradesh)] [1906, E. de M. Humphies] (2x5:5 multiple+) ~Longbeu-a-cha
 
 #https://en.wikipedia.org/wiki/List_of_mancala_games
 #http://skyruk.livejournal.com/410114.html
