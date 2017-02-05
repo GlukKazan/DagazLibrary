@@ -1,0 +1,22 @@
+# https://en.wikipedia.org/wiki/Shogi_variant
+Shogi [Japan] [1500?] <Sho shogi
+Heian shogi [Japan] [1120?] (8x8;9x9) ~Makruk
+Heian dai shogi [Japan] [794-1185] (13x13) ~Heian shogi
+Sho shogi [Japan] [1185-1333] (9x9) ~Heian shogi
+Dai shogi [Japan] [1230?] (15x15) ~Heian dai shogi
+Chu shogi [Japan] [1300?] (12x12) <Dai shogi
+Dai dai shogi [Japan] [1400?] (17x17) <Dai shogi
+Tenjiku shogi [Japan] [1400-1500] (16x16) ~Chu shogi
+Maka dai dai shogi [Japan] [1400-1500] (19x19) ~Dai dai shogi
+Hishigata shogi [Japan] <Maka dai dai shogi
+Nutty shogi [Japan] (13x13) <Tenjiku shogi
+Cashew shogi [Japan] (13x13) <Dai dai shogi
+Macadamia shogi [Japan] (13x13) <Maka dai dai shogi
+Tai shogi [Japan] [1400-1500] (25x25) ~Dai dai shogi
+Taikyoku shogi [Japan] [1500-1600] (36x36) ~Tai shogi
+Wa shogi [Japan] [1600?] (11x11) <Chu shogi
+Tori shogi [Japan] [Toyota Genryu, 1799] (7x7) ~Wa shogi
+Dobutsu shogi [Japan] [Madoka Kitao] (3x4) ~Shogi
+Goro goro shogi [Japan] (5x6) ~Dobutsu shogi
+Yonin shogi [Japan] (9x9) (4) <Shogi
+Ko shogi [Japan] [Ogyu Sorai, 1700-1800] ~Dai dai shogi ~Xiangqi ~Go
