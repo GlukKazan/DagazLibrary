@@ -1,3 +1,22 @@
+Chaturanga [India] [500-600] (8x8)
+Chaturaji [India] [1030, Al-Biruni] (8x8) (4) <Chaturanga
+Shatranj [Persia] [600-700] (8x8) <Chaturanga
+Tamerlane chess/Timur's Chess [Persia] [1336–1405] (11x10+2) <Chaturanga
+Senterej [Ethiopia] <Shatranj
+Makruk [Thai] [500-600] (8x8) <Chaturanga
+Ouk-Khmer [Cambodia] [1994, D. B. Pritchard] (8x8) <Makruk
+Sittuyin [Burmese] [700-800] (8x8) <Makruk
+
+Qiguo Xiangqi [China] (19x19) ~Go ~Chaturanga
+Xiangqi [China] (9x10) ~Qiguo Xiangqi ~Makruk
+Shou Dou Qi/Jungle [China] (7x9) ~Xiangqi
+Banqi [China] (8x4) ~Xiangqi ~Shou Dou Qi
+Luzhanqi [China] (5x13) <Shou Dou Qi
+Stratego (10x10) <Luzhanqi
+Janggi [Korea] (9x10) <Xiangqi
+Gwangsanghui [Korea] (15x14) <Janggi
+Sanjangjanggi [Korea] (9x10) <Janggi
+
 # https://en.wikipedia.org/wiki/Shogi_variant
 Shogi [Japan] [1500?] <Sho shogi
 Heian shogi [Japan] [1120?] (8x8;9x9) ~Makruk
@@ -20,3 +39,15 @@ Dobutsu shogi [Japan] [Madoka Kitao] (3x4) ~Shogi
 Goro goro shogi [Japan] (5x6) ~Dobutsu shogi
 Yonin shogi [Japan] (9x9) (4) <Shogi
 Ko shogi [Japan] [Ogyu Sorai, 1700-1800] ~Dai dai shogi ~Xiangqi ~Go
+Kyoto shogi [Japan] [Tamiya Katsuya, 1976] (5x5) ~Shogi
+Micro shogi [Japan] [Oyama Yasuharu, 1982] (4x5) ~Shogi
+Minishogi [Japan] [Shigenobu Kusumoto, 1970] <Shogi
+Annan shogi [Korean] <Shogi
+Okisaki shogi [Japan] [Masayuki Nakayachi, 1996] <Shogi ~Chess
+
+Courier chess [1100-1200] (12x8) <Shatranj
+Gala/Farmer's chess  [Germany] ~Courier chess
+Chess [1400-1500] (8x8) <Courier chess
+Rithmomachy/Rithmomachia/Arithmomachia/Rythmomachy/Rhythmomachy [England] [1200-1300] (8x16) ~Courier chess
+Shatar [Mongolia] (8x8) <Chess
+Hiashatar [Mongolia] (10x10) <Shatar

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<games>
+ <game>
+  <name>Chaturanga</name>
+  <region>India</region>
+  <setup>8x8</setup>
+ </game>
+ <game>
+  <name>Chaturaji</name>
+  <parent>Chaturanga</parent>
+  <region>India</region>
+  <described>Al-Biruni</described>
+  <date>1030</date>
+  <type>(4</type>
+  <setup>8x8)</setup>
+  <players>4</players>
+ </game>
+ <game>
+  <name>Shatranj</name>
+  <parent>Chaturanga</parent>
+  <region>Persia</region>
+  <setup>8x8</setup>
+ </game>
+ <game>
+  <name>Tamerlane chess</name>
+  <name>Timur's Chess</name>
+  <parent>Chaturanga</parent>
+  <region>Persia</region>
+  <setup>11x10+2</setup>
+ </game>
+ <game>
+  <name>Senterej</name>
+  <parent>Shatranj</parent>
+  <region>Ethiopia</region>
+ </game>
+ <game>
+  <name>Makruk</name>
+  <parent>Chaturanga</parent>
+  <region>Thai</region>
+  <setup>8x8</setup>
+ </game>
+ <game>
+  <name>Ouk-Khmer</name>
+  <parent>Makruk</parent>
+  <region>Cambodia</region>
+  <described>D. B. Pritchard</described>
+  <date>1994</date>
+  <setup>8x8</setup>
+ </game>
+ <game>
+  <name>Sittuyin</name>
+  <parent>Makruk</parent>
+  <region>Burmese</region>
+  <setup>8x8</setup>
+ </game>
+ <game>
+  <name>Qiguo Xiangqi</name>
+  <related>Go</related>
+  <related>Chaturanga</related>
+  <region>China</region>
+  <setup>19x19</setup>
+ </game>
+ <game>
+  <name>Xiangqi</name>
+  <related>Qiguo Xiangqi</related>
+  <related>Makruk</related>
+  <region>China</region>
+  <setup>9x10</setup>
+ </game>
+ <game>
+  <name>Shou Dou Qi</name>
+  <name>Jungle</name>
+  <related>Xiangqi</related>
+  <region>China</region>
+  <setup>7x9</setup>
+ </game>
+ <game>
+  <name>Banqi</name>
+  <related>Xiangqi</related>
+  <related>Shou Dou Qi</related>
+  <region>China</region>
+  <setup>8x4</setup>
+ </game>
+ <game>
+  <name>Luzhanqi</name>
+  <parent>Shou Dou Qi</parent>
+  <region>China</region>
+  <setup>5x13</setup>
+ </game>
+ <game>
+  <name>Stratego (10x10)</name>
+  <parent>Luzhanqi</parent>
+ </game>
+ <game>
+  <name>Janggi</name>
+  <parent>Xiangqi</parent>
+  <region>Korea</region>
+  <setup>9x10</setup>
+ </game>
+ <game>
+  <name>Gwangsanghui</name>
+  <parent>Janggi</parent>
+  <region>Korea</region>
+  <setup>15x14</setup>
+ </game>
+ <game>
+  <name>Sanjangjanggi</name>
+  <parent>Janggi</parent>
+  <region>Korea</region>
+  <setup>9x10</setup>
+ </game>
+ <game>
+  <name>Shogi</name>
+  <parent>Sho shogi</parent>
+  <region>Japan</region>
+ </game>
+ <game>
+  <name>Heian shogi</name>
+  <related>Makruk</related>
+  <region>Japan</region>
+  <setup>8x8;9x9</setup>
+ </game>
+ <game>
+  <name>Heian dai shogi</name>
+  <related>Heian shogi</related>
+  <region>Japan</region>
+  <setup>13x13</setup>
+ </game>
+ <game>
+  <name>Sho shogi</name>
+  <related>Heian shogi</related>
+  <region>Japan</region>
+  <setup>9x9</setup>
+ </game>
+ <game>
+  <name>Dai shogi</name>
+  <related>Heian dai shogi</related>
+  <region>Japan</region>
+  <setup>15x15</setup>
+ </game>
+ <game>
+  <name>Chu shogi</name>
+  <parent>Dai shogi</parent>
+  <region>Japan</region>
+  <setup>12x12</setup>
+ </game>
+ <game>
+  <name>Dai dai shogi</name>
+  <parent>Dai shogi</parent>
+  <region>Japan</region>
+  <setup>17x17</setup>
+ </game>
+ <game>
+  <name>Tenjiku shogi</name>
+  <related>Chu shogi</related>
+  <region>Japan</region>
+  <setup>16x16</setup>
+ </game>
+ <game>
+  <name>Maka dai dai shogi</name>
+  <related>Dai dai shogi</related>
+  <region>Japan</region>
+  <setup>19x19</setup>
+ </game>
+ <game>
+  <name>Hishigata shogi</name>
+  <parent>Maka dai dai shogi</parent>
+  <region>Japan</region>
+ </game>
+ <game>
+  <name>Nutty shogi</name>
+  <parent>Tenjiku shogi</parent>
+  <region>Japan</region>
+  <setup>13x13</setup>
+ </game>
+ <game>
+  <name>Cashew shogi</name>
+  <parent>Dai dai shogi</parent>
+  <region>Japan</region>
+  <setup>13x13</setup>
+ </game>
+ <game>
+  <name>Macadamia shogi</name>
+  <parent>Maka dai dai shogi</parent>
+  <region>Japan</region>
+  <setup>13x13</setup>
+ </game>
+ <game>
+  <name>Tai shogi</name>
+  <related>Dai dai shogi</related>
+  <region>Japan</region>
+  <setup>25x25</setup>
+ </game>
+ <game>
+  <name>Taikyoku shogi</name>
+  <related>Tai shogi</related>
+  <region>Japan</region>
+  <setup>36x36</setup>
+ </game>
+ <game>
+  <name>Wa shogi</name>
+  <parent>Chu shogi</parent>
+  <region>Japan</region>
+  <setup>11x11</setup>
+ </game>
+ <game>
+  <name>Tori shogi</name>
+  <related>Wa shogi</related>
+  <region>Japan</region>
+  <setup>7x7</setup>
+ </game>
+ <game>
+  <name>Dobutsu shogi</name>
+  <related>Shogi</related>
+  <region>Japan</region>
+  <setup>3x4</setup>
+ </game>
+ <game>
+  <name>Goro goro shogi</name>
+  <related>Dobutsu shogi</related>
+  <region>Japan</region>
+  <setup>5x6</setup>
+ </game>
+ <game>
+  <name>Yonin shogi</name>
+  <parent>Shogi</parent>
+  <region>Japan</region>
+  <type>(4</type>
+  <setup>9x9)</setup>
+  <players>4</players>
+ </game>
+ <game>
+  <name>Ko shogi</name>
+  <related>Dai dai shogi</related>
+  <related>Xiangqi</related>
+  <related>Go</related>
+  <region>Japan</region>
+ </game>
+ <game>
+  <name>Kyoto shogi</name>
+  <related>Shogi</related>
+  <region>Japan</region>
+  <setup>5x5</setup>
+ </game>
+ <game>
+  <name>Micro shogi</name>
+  <related>Shogi</related>
+  <region>Japan</region>
+  <setup>4x5</setup>
+ </game>
+ <game>
+  <name>Minishogi</name>
+  <parent>Shogi</parent>
+  <region>Japan</region>
+ </game>
+ <game>
+  <name>Annan shogi</name>
+  <parent>Shogi</parent>
+  <region>Korean</region>
+ </game>
+ <game>
+  <name>Okisaki shogi</name>
+  <parent>Shogi</parent>
+  <related>Chess</related>
+  <region>Japan</region>
+ </game>
+ <game>
+  <name>Courier chess</name>
+  <parent>Shatranj</parent>
+  <setup>12x8</setup>
+ </game>
+ <game>
+  <name>Gala</name>
+  <name>Farmer's chess</name>
+  <related>Courier chess</related>
+  <region>Germany</region>
+ </game>
+ <game>
+  <name>Chess</name>
+  <parent>Courier chess</parent>
+  <setup>8x8</setup>
+ </game>
+ <game>
+  <name>Rithmomachy</name>
+  <name>Rithmomachia</name>
+  <name>Arithmomachia</name>
+  <name>Rythmomachy</name>
+  <name>Rhythmomachy</name>
+  <related>Courier chess</related>
+  <region>England</region>
+  <setup>8x16</setup>
+ </game>
+ <game>
+  <name>Shatar</name>
+  <parent>Chess</parent>
+  <region>Mongolia</region>
+  <setup>8x8</setup>
+ </game>
+ <game>
+  <name>Hiashatar</name>
+  <parent>Shatar</parent>
+  <region>Mongolia</region>
+  <setup>10x10</setup>
+ </game>
+</games>
