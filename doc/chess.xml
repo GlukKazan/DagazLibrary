@@ -2,6 +2,7 @@
 <games>
  <game>
   <name>Chaturanga</name>
+  <related>Ashta-kashte</related>
   <region>India</region>
   <setup>8x8</setup>
  </game>
@@ -22,9 +23,15 @@
   <setup>8x8</setup>
  </game>
  <game>
+  <name>Shatranj al-husun</name>
+  <parent>Shatranj</parent>
+  <region>Persia</region>
+  <setup>10x10</setup>
+ </game>
+ <game>
   <name>Tamerlane chess</name>
   <name>Timur's Chess</name>
-  <parent>Chaturanga</parent>
+  <parent>Shatranj al-husun</parent>
   <region>Persia</region>
   <setup>11x10+2</setup>
  </game>
@@ -68,6 +75,12 @@
   <setup>9x10</setup>
  </game>
  <game>
+  <name>Siguo Xiangqi</name>
+  <parent>Xiangqi</parent>
+  <region>China</region>
+  <players>4</players>
+ </game>
+ <game>
   <name>Shou Dou Qi</name>
   <name>Jungle</name>
   <related>Xiangqi</related>
@@ -88,8 +101,10 @@
   <setup>5x13</setup>
  </game>
  <game>
-  <name>Stratego (10x10)</name>
+  <name>Stratego</name>
   <parent>Luzhanqi</parent>
+  <region>Europe</region>
+  <setup>10x10</setup>
  </game>
  <game>
   <name>Janggi</name>

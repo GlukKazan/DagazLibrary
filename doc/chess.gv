@@ -1,7 +1,9 @@
 digraph graphname {
+    "Ashta-kashte" -> "Chaturanga"[style=dotted];
     "Chaturanga" -> "Chaturaji";
     "Chaturanga" -> "Shatranj";
-    "Chaturanga" -> "Tamerlane chess";
+    "Shatranj" -> "Shatranj al-husun";
+    "Shatranj al-husun" -> "Tamerlane chess";
     "Shatranj" -> "Senterej";
     "Chaturanga" -> "Makruk";
     "Makruk" -> "Ouk-Khmer";
@@ -10,6 +12,7 @@ digraph graphname {
     "Chaturanga" -> "Qiguo Xiangqi"[style=dotted];
     "Qiguo Xiangqi" -> "Xiangqi"[style=dotted];
     "Makruk" -> "Xiangqi"[style=dotted];
+    "Xiangqi" -> "Siguo Xiangqi";
     "Xiangqi" -> "Shou Dou Qi"[style=dotted];
     "Xiangqi" -> "Banqi"[style=dotted];
     "Shou Dou Qi" -> "Banqi"[style=dotted];
