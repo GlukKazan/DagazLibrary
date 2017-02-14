@@ -317,4 +317,12 @@
   <region>Mongolia</region>
   <setup>10x10</setup>
  </game>
+ <game>
+  <name>Ultima</name>
+  <name>Baroque chess</name>
+  <related>Chess</related>
+  <region>Robert Abbott</region>
+  <region>1962</region>
+  <setup>8x8</setup>
+ </game>
 </games>

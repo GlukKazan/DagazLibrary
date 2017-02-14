@@ -1,8 +1,8 @@
-Chaturanga [India] [500-600] (8x8) ~Ashta-kashte
+ï»¿Chaturanga [India] [500-600] (8x8) ~Ashta-kashte
 Chaturaji [India] [1030, Al-Biruni] (8x8) (4) <Chaturanga
 Shatranj [Persia] [600-700] (8x8) <Chaturanga
 Shatranj al-husun [Persia] (10x10) <Shatranj
-Tamerlane chess/Timur's Chess [Persia] [1336–1405] (11x10+2) <Shatranj al-husun
+Tamerlane chess/Timur's Chess [Persia] [1336?1405] (11x10+2) <Shatranj al-husun
 Senterej [Ethiopia] <Shatranj
 Makruk [Thai] [500-600] (8x8) <Chaturanga
 Ouk-Khmer [Cambodia] [1994, D. B. Pritchard] (8x8) <Makruk
@@ -54,3 +54,4 @@ Chess [1400-1500] (8x8) <Courier chess
 Rithmomachy/Rithmomachia/Arithmomachia/Rythmomachy/Rhythmomachy [England] [1200-1300] (8x16) ~Courier chess
 Shatar [Mongolia] (8x8) <Chess
 Hiashatar [Mongolia] (10x10) <Shatar
+Ultima/Baroque chess [Robert Abbott, 1962] (8x8) ~Chess
