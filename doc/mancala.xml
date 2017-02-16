@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="windows-1251"?>
 <games>
  <game>
-  <name>2 Ranks Single sowing</name>
+  <name>﻿2 Ranks Single sowing</name>
   <parent>Mancala</parent>
  </game>
  <game>
@@ -28,28 +28,15 @@
  <game>
   <name>Um el Bagara</name>
   <parent>2 Ranks Single sowing</parent>
+  <parent>Alemungula</parent>
  </game>
  <game>
   <name>Um ed-Dyar</name>
   <parent>2 Ranks Single sowing</parent>
  </game>
  <game>
-  <name>Hawalis</name>
-  <parent>4 Ranks Multiple sowing</parent>
- </game>
- <game>
   <name>Lontu-holu</name>
   <related>2 Ranks Single sowing</related>
- </game>
- <game>
-  <name>Dakon</name>
-  <parent>Congkak</parent>
-  <region>Indonesia</region>
-  <region>Java</region>
-  <described>Sir Thomas Stamford Raffles</described>
-  <date>1817</date>
-  <type>multiple</type>
-  <setup>2x7+:7</setup>
  </game>
  <game>
   <name>Abalala'e</name>
@@ -136,6 +123,20 @@
   <setup>2x20:5{7},1</setup>
  </game>
  <game>
+  <name>Ayoayo</name>
+  <name>Aji</name>
+  <name>Ajito</name>
+  <name>Ayo</name>
+  <name>Madji</name>
+  <name>Tamtam Apachi</name>
+  <name>Yovodji</name>
+  <region>Benin</region>
+  <region>Ghana</region>
+  <region>Nigeria</region>
+  <type>multiple</type>
+  <setup>2x4;5;6:4</setup>
+ </game>
+ <game>
   <name>Ba-awa</name>
   <parent>2 Ranks Multiple sowing</parent>
   <region>Ghana</region>
@@ -209,6 +210,15 @@
   <date>1972</date>
  </game>
  <game>
+  <name>Bare</name>
+  <name>Baré</name>
+  <region>Sudan</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>4x12:4</setup>
+ </game>
+ <game>
   <name>Bechi</name>
   <related>Alemungula</related>
   <region>Eritrea</region>
@@ -256,6 +266,7 @@
   <setup>3x5;6,2:2</setup>
  </game>
  <game>
+  <name>Eherhe</name>
   <name>Éhérhé</name>
   <related>Oware</related>
   <region>Ghana</region>
@@ -282,6 +293,7 @@
   <setup>3x10,2:4,0</setup>
  </game>
  <game>
+  <name>En Gehe</name>
   <name>En Gehé</name>
   <region>Tanzania (North)</region>
   <described>Moritz Merker</described>
@@ -293,7 +305,7 @@
   <name>En Dodoi</name>
   <name>Endodoi</name>
   <parent>2 Ranks Multiple sowing</parent>
-  <related>En Gehé</related>
+  <related>En Gehe</related>
   <region>Kenya</region>
   <region>Tanzania</region>
   <described>Moritz Merker</described>
@@ -307,6 +319,13 @@
   <region>Madagascar</region>
   <type>multiple</type>
   <setup>4x8:12+52</setup>
+ </game>
+ <game>
+  <name>Gamacha</name>
+  <name>Yada</name>
+  <region>Ethiopia (South)</region>
+  <type>multiple</type>
+  <setup>2x12</setup>
  </game>
  <game>
   <name>Owela</name>
@@ -327,7 +346,7 @@
   <name>Uera</name>
   <name>Xoros</name>
   <name>Wera</name>
-  <parent>4 Ranks Multiple sowing</parent>
+  <parent>Hus</parent>
   <region>Namibia</region>
   <described>Johann Georg Krönlein</described>
   <date>1855</date>
@@ -484,6 +503,7 @@
   <setup>2x6:4</setup>
  </game>
  <game>
+  <name>Lame Uweledet</name>
   <name>Lamè Uwèlèdèt</name>
   <parent>Sulus Nishtaw</parent>
   <parent>Sulus Aidi</parent>
@@ -544,6 +564,15 @@
   <date>1972</date>
   <type>multiple</type>
   <setup>2x8;10;12:3</setup>
+ </game>
+ <game>
+  <name>Mangala</name>
+  <region>Egypt (Red Sea Coast)</region>
+  <region>Sudan (Coast)</region>
+  <described>Henry Parker</described>
+  <date>1909</date>
+  <type>multiple</type>
+  <setup>2x6</setup>
  </game>
  <game>
   <name>Mangola</name>
@@ -765,6 +794,7 @@
   <name>Wora</name>
   <name>Woro</name>
   <parent>2 Ranks Single sowing</parent>
+  <related>Oware</related>
   <region>Cape Verde</region>
   <region>Gambia</region>
   <region>Ghana</region>
@@ -877,5 +907,785 @@
   <date>1943</date>
   <type>multiple</type>
   <setup>3x6:3</setup>
+ </game>
+ <game>
+  <name>Takti</name>
+  <related>Boola</related>
+  <related>En Dodoi</related>
+  <region>Tanzania</region>
+  <described>Paul Berger</described>
+  <date>1935</date>
+  <type>multiple</type>
+  <setup>2x9:3</setup>
+ </game>
+ <game>
+  <name>Tapata</name>
+  <related>Gamacha</related>
+  <region>Ethiopia (South)</region>
+  <type>multiple</type>
+  <setup>2x12</setup>
+ </game>
+ <game>
+  <name>Tchadji</name>
+  <name>M'pale</name>
+  <related>Mefuvha</related>
+  <related>Moruba</related>
+  <region>Mozambique</region>
+  <described>Abdulcarimo Ismael</described>
+  <date>2001</date>
+  <type>multiple</type>
+  <setup>4x8:2</setup>
+ </game>
+ <game>
+  <name>Tchouba</name>
+  <name>Nchuwa</name>
+  <name>Tschuba</name>
+  <region>Mozambique</region>
+  <described>Henri Alexandre Junod</described>
+  <date>1898</date>
+  <type>multiple</type>
+  <setup>4x16;18;20;22;24;26;28;30;32;34;36;38;40:2</setup>
+ </game>
+ <game>
+  <name>Tok Ku Rou</name>
+  <name>Tok Kurou</name>
+  <parent>Bare</parent>
+  <region>Ethiopia (Far West)</region>
+  <region>Sudan</region>
+  <described>Richard Pankhurst</described>
+  <date>1971</date>
+  <type>multiple</type>
+  <setup>4x12;13:4</setup>
+ </game>
+ <game>
+  <name>Tokoro</name>
+  <name>Tokolo</name>
+  <related>Mangola</related>
+  <region>Congo</region>
+  <type>multiple</type>
+  <setup>4x8</setup>
+ </game>
+ <game>
+  <name>Uera</name>
+  <parent>Hus</parent>
+  <region>Namibia (Okavango)</region>
+  <type>multiple</type>
+  <setup>4x10</setup>
+ </game>
+ <game>
+  <name>Um ed-Dyar</name>
+  <name>Enmediar</name>
+  <name>Krur</name>
+  <name>Khrour</name>
+  <name>Kurúr</name>
+  <name>Manddiaré</name>
+  <name>Umdiyar</name>
+  <name>Umm Dyar</name>
+  <parent>2 Ranks Multiple sowing</parent>
+  <related>Um Laarais</related>
+  <region>Mauretania</region>
+  <described>Mokhtar Ould Hamidoun</described>
+  <date>1952</date>
+  <type>single</type>
+  <setup>2x2;4;6;8;10;12:4;6;8;10;12</setup>
+ </game>
+ <game>
+  <name>Um el Bagara</name>
+  <parent>2 Ranks Single sowing</parent>
+  <parent>Alemungula</parent>
+  <region>Sudan (Kordofan)</region>
+  <described>R. Davies</described>
+  <date>1925</date>
+  <type>single</type>
+  <setup>2x5:5</setup>
+ </game>
+ <game>
+  <name>Um el Banat</name>
+  <name>Mazageb</name>
+  <region>Eritrea</region>
+  <region>Sudan (North)</region>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Um el Tuweisat</name>
+  <related>Um el Bagara</related>
+  <region>Sudan (Kordofan)</region>
+  <type>single</type>
+  <setup>2x3:3</setup>
+ </game>
+ <game>
+  <name>Um Laarais</name>
+  <related>Um ed-Dyar</related>
+  <region>Morocco (Western Sahara)</region>
+  <described>Víktor Bautista i Roca</described>
+  <date>2001</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+  <players>3</players>
+ </game>
+ <game>
+  <name>Urim</name>
+  <name>Huri</name>
+  <name>Ouri</name>
+  <name>Ourim</name>
+  <name>Òrè</name>
+  <name>Ori</name>
+  <name>Ôrim</name>
+  <name>Ourim</name>
+  <name>Uri</name>
+  <name>Urim</name>
+  <name>Urinca</name>
+  <parent>Oware</parent>
+  <region>Cape Vert</region>
+  <described>Elísio Romariz Santos Silva</described>
+  <date>1994</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Wouri</name>
+  <parent>Ba-awa</parent>
+  <region>Mali</region>
+  <described>Koné Moussa</described>
+  <date>1950</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Arasu Āṭa</name>
+  <related>Raja Pasu Mandiri</related>
+  <region>India (Kanara)</region>
+  <type>multiple+</type>
+  <setup>2x7:4</setup>
+  <players>3</players>
+ </game>
+ <game>
+  <name>Aw-li On-nam Ot-tjin</name>
+  <name>Ot-jin</name>
+  <name>Otjin</name>
+  <region>Indonesia (Borneo)</region>
+  <described>Carl Sophus Lumholtz</described>
+  <date>1920</date>
+  <type>multiple</type>
+  <setup>2x7:2-5</setup>
+ </game>
+ <game>
+  <name>Bay Khom</name>
+  <related>O An Quan</related>
+  <related>Ceelkoqyuqkoqiji</related>
+  <region>Cambodia</region>
+  <type>multiple+</type>
+  <setup>2x5:4,5{1}</setup>
+ </game>
+ <game>
+  <name>Bestemshi</name>
+  <name>Bestemshe</name>
+  <parent>Toguz Kumalak</parent>
+  <region>Kazakhstan</region>
+  <type>single</type>
+  <setup>2x5:5</setup>
+ </game>
+ <game>
+  <name>Bule Perga</name>
+  <region>India (Kanara)</region>
+  <type>multiple+</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Ceelkoqyuqkoqiji</name>
+  <name>Aemeibushishi</name>
+  <name>Ceelmeiyuqmeiji</name>
+  <name>Lildvqkojji</name>
+  <region>China (Yunnan)</region>
+  <described>Vernon A. Eagle</described>
+  <date>1995</date>
+  <type>multiple+</type>
+  <setup>2x5+1:5+1</setup>
+ </game>
+ <game>
+  <name>Cenne</name>
+  <name>Cenne Mane</name>
+  <name>Chenne</name>
+  <name>Chenne Mane</name>
+  <related>Lamlameta</related>
+  <region>India (South Kanara)</region>
+  <described>Peter J. Claus</described>
+  <date>1986</date>
+  <type>multiple</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Chato</name>
+  <name>Chuka</name>
+  <name>Djoenka</name>
+  <name>Jungka</name>
+  <name>Tjato</name>
+  <name>Tjoeka</name>
+  <name>Tjonka</name>
+  <related>Congkak</related>
+  <region>Indonesia</region>
+ </game>
+ <game>
+  <name>Chonka</name>
+  <name>Chanka</name>
+  <name>Chonku</name>
+  <name>Pallankuli</name>
+  <parent>Congkak</parent>
+  <region>Sri Lanka</region>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Congkak</name>
+  <name>Chongkak</name>
+  <name>Congklak</name>
+  <name>Main Congkak</name>
+  <name>Tikum</name>
+  <parent>2 Ranks Multiple sowing</parent>
+  <region>Indonesia</region>
+  <region>Malaysia</region>
+  <region>Singapore</region>
+  <described>Georg Eberhard Rumpf</described>
+  <date>1701</date>
+  <type>multiple</type>
+  <setup>2x5;7;9:5;7;9</setup>
+ </game>
+ <game>
+  <name>Dakon</name>
+  <parent>Congkak</parent>
+  <region>Indonesia</region>
+  <region>Java</region>
+  <described>Sir Thomas Stamford Raffles</described>
+  <date>1817</date>
+  <type>multiple</type>
+  <setup>2x6-10+:6-10</setup>
+ </game>
+ <game>
+  <name>Dara-dara</name>
+  <related>Galatjang</related>
+  <region>Indonesia (Celebes)</region>
+  <type>multiple</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Dong Wo</name>
+  <related>Laomuzhuqi</related>
+  <region>China (Yunnan)</region>
+  <type>multiple+</type>
+  <setup>2x5:4,1+</setup>
+ </game>
+ <game>
+  <name>Dongjintian</name>
+  <related>2 Ranks Pussa Kanawa sowing</related>
+  <region>China (Yunnan)</region>
+  <described>Vernon A. Eagle</described>
+  <date>1995</date>
+  <type>multiple+</type>
+  <setup>4x5:5</setup>
+ </game>
+ <game>
+  <name>Eson Khorgol</name>
+  <name>Eson Xorgol</name>
+  <related>Toguz Kumalak</related>
+  <region>Mongolia (Bajan Ölgij)</region>
+  <type>single</type>
+  <setup>2x5:9</setup>
+ </game>
+ <game>
+  <name>Galatjang</name>
+  <region>Indonesia (Celebes)</region>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Halusa</name>
+  <name>Halusi</name>
+  <name>Hālūsa</name>
+  <name>Hālūsi</name>
+  <related>Mangala</related>
+  <related>Manqala</related>
+  <related>Bohnenspiel</related>
+  <region>Iraq</region>
+  <described>Thomas Hyde</described>
+  <date>1694</date>
+  <type>single</type>
+  <setup>2x6:6</setup>
+ </game>
+ <game>
+  <name>Hawalis</name>
+  <parent>4 Ranks Multiple sowing</parent>
+  <region>Oman</region>
+  <region>Tanzania (Zanzibar)</region>
+  <type>multiple</type>
+  <setup>4x7:2</setup>
+ </game>
+ <game>
+  <name>Jodu Perga</name>
+  <name>Jōḍu Perga</name>
+  <related>Bule Perga</related>
+  <region>India (Kanara)</region>
+  <type>multiple+</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Kotu-baendum</name>
+  <related>Layli Goobalay</related>
+  <related>Bosh</related>
+  <region>Sri Lanka</region>
+  <described>Henry Parker</described>
+  <date>1909</date>
+  <type>multiple</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Kozdatu</name>
+  <parent>Toguz Kumalak</parent>
+  <region>Kazakhstan</region>
+  <type>single</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>La'b Hakimi</name>
+  <name>La'b Akila</name>
+  <region>Syria</region>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>La'b rosëya</name>
+  <parent>Manqala</parent>
+  <region>Syria</region>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Laomuzhu</name>
+  <region>China (Yunnan)</region>
+  <type>multiple+</type>
+  <setup>2x5:5+1</setup>
+ </game>
+ <game>
+  <name>Laomuzhukeng</name>
+  <related>Laomuzhu</related>
+  <region>China (Yunnan)</region>
+  <players>2-4</players>
+ </game>
+ <game>
+  <name>Laomuzhuqi</name>
+  <related>Dong Wo</related>
+  <region>China (Yunnan)</region>
+ </game>
+ <game>
+  <name>Longbeu-a-cha</name>
+  <region>India (Assam)</region>
+  <type>multiple+</type>
+  <setup>2x5:5+1</setup>
+ </game>
+ <game>
+  <name>Mak Khom</name>
+  <name>Main Chakot</name>
+  <name>Tungkayon</name>
+  <parent>Congkak</parent>
+  <region>Thailand (Malay Peninsula)</region>
+  <described>James Low</described>
+  <date>1836</date>
+  <type>multiple</type>
+  <setup>2x4</setup>
+ </game>
+ <game>
+  <name>Manqalat</name>
+  <name>Mangala II</name>
+  <name>Manqala</name>
+  <region>Turkey (Southeast Anatolia)</region>
+  <described>Thomas Hyde</described>
+  <date>1694</date>
+  <type>single</type>
+  <setup>2x6-7:5</setup>
+ </game>
+ <game>
+  <name>Manqala</name>
+  <name>Al-manqala</name>
+  <name>La'b Akila</name>
+  <name>La'b Hakimi</name>
+  <region>Israel (Galilee)</region>
+  <described>Thomas Hyde</described>
+  <date>1694</date>
+  <type>single</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Ka Ia</name>
+  <name>Motiq I</name>
+  <related>Aw-li On-nam Ot-tjin</related>
+  <region>Indonesia (Lomblen)</region>
+  <type>multiple</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Eu Leu</name>
+  <name>Motiq II</name>
+  <name>Éu Léu</name>
+  <name>Kéu Léu</name>
+  <related>Congkak</related>
+  <region>Indonesia (Lomblen)</region>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Ohvalhu</name>
+  <name>Naranj</name>
+  <name>Ohvalhu gondi</name>
+  <related>Congkak</related>
+  <related>Dakon</related>
+  <region>Maldives</region>
+  <described>Stewart Culin</described>
+  <date>1894</date>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>O An Quan</name>
+  <name>Ô Ăn Quan</name>
+  <name>Ô Láng</name>
+  <related>Laomuzhu</related>
+  <related>Ceelkoqyuqkoqiji</related>
+  <region>Northern Vietnam</region>
+  <described>Ngô Quý Sơn</described>
+  <date>1944</date>
+  <type>multiple+</type>
+  <setup>2x5+1:5,10</setup>
+ </game>
+ <game>
+  <name>Pachgarhwa</name>
+  <related>Longbeu-a-cha</related>
+  <region>India (Uttar Pradesh)</region>
+  <described>E. de M. Humphies</described>
+  <date>1906</date>
+  <type>multiple+</type>
+  <setup>2x5:5</setup>
+ </game>
+ <game>
+  <name>Pasu Pondi</name>
+  <name>Pallanguzhi Āṭam</name>
+  <name>Pasu Pandi</name>
+  <name>Pondi Āṭam</name>
+  <related>Pallam Kurie</related>
+  <related>Pandi</related>
+  <region>India (Tamil Nadu)</region>
+  <described>L. S., Saraswathi</described>
+  <date>1995</date>
+  <type>multiple+</type>
+  <setup>2x7:5;6</setup>
+ </game>
+ <game>
+  <name>Pic</name>
+  <name>Piç</name>
+  <related>Toguz Kumalak</related>
+  <region>Turkey (East Anatolia)</region>
+  <described>Osman Sinayuç</described>
+  <date>1974</date>
+  <type>single</type>
+  <setup>3x2-5:9;12</setup>
+  <players>2-5</players>
+ </game>
+ <game>
+  <name>Raja Pasu</name>
+  <region>India</region>
+  <region>Sri Lanka</region>
+  <described>Alexander Johan de Voogt</described>
+  <date>2000</date>
+  <type>multiple+</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Raja Pasu Mandiri</name>
+  <related>Raja Pasu</related>
+  <related>Arasu Atta</related>
+  <region>Sri Lanka</region>
+  <type>multiple+</type>
+  <setup>2x7:7</setup>
+  <players>3</players>
+ </game>
+ <game>
+  <name>Rajata</name>
+  <name>Rajāṭa</name>
+  <related>Bule Perga</related>
+  <region>India (Hassan region</region>
+  <region>Karnataka)</region>
+  <type>multiple+</type>
+  <setup>2x7:5</setup>
+ </game>
+ <game>
+  <name>Sadata</name>
+  <name>Sadāṭa</name>
+  <related>Cenne</related>
+  <region>India (Hassan region</region>
+  <region>Karnataka)</region>
+  <type>multiple+</type>
+  <setup>2x7:5</setup>
+ </game>
+ <game>
+  <name>Sai</name>
+  <related>Aw-li On-nam Ot-tjin</related>
+  <region>Indonesia (Flores)</region>
+  <type>multiple</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Sat-gol</name>
+  <name>Satgol</name>
+  <region>India (Madhya Pradesh)</region>
+  <described>Hem Chandra Das Gupta</described>
+  <date>1926</date>
+  <type>multiple+</type>
+  <setup>1x7:4</setup>
+ </game>
+ <game>
+  <name>Sungka</name>
+  <name>Sungca</name>
+  <name>Sunka</name>
+  <name>Chuncajon</name>
+  <related>Congkak</related>
+  <related>Ohvalhu</related>
+  <related>Chongka</related>
+  <region>Philippines</region>
+  <described>José Sanchez</described>
+  <date>1692</date>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Tchuka Ruma</name>
+  <name>Tchouka</name>
+  <related>Congkak</related>
+  <region>Indonesia</region>
+  <players>1</players>
+ </game>
+ <game>
+  <name>Toguz Kumalak</name>
+  <name>Тоғыз құмалақ</name>
+  <name>Toğız qumalaq</name>
+  <name>toghyz qumalaq</name>
+  <name>тогуз кумалак</name>
+  <name>Togus Kumalak</name>
+  <name>Тогуз Коргоол</name>
+  <name>Toguz Khorgool</name>
+  <name>Toguz Korgool</name>
+  <related>Pic</related>
+  <region>Afghanistan (Badakhshan)</region>
+  <region>China (Dzungaria)</region>
+  <region>Kazakhstan</region>
+  <region>Kyrgyzstan</region>
+  <region>Mongolia (Bajan Ölgij)</region>
+  <region>Russia (Altay</region>
+  <region>Khakassia</region>
+  <region>Tuva)</region>
+  <region>Tajikistan</region>
+  <region>Turkmenistan</region>
+  <region>Uzbekistan (Karakalpakstan)</region>
+  <described>Nikolai Nikolaevich Pantusov</described>
+  <date>1906</date>
+  <type>single</type>
+  <setup>2x9:9</setup>
+ </game>
+ <game>
+  <name>Walak-pussa</name>
+  <related>Puhulmutu</related>
+  <region>Sri Lanka</region>
+  <described>Henry Parker</described>
+  <date>1909</date>
+  <type>multiple+</type>
+  <setup>2x7:4</setup>
+ </game>
+ <game>
+  <name>Yucebao</name>
+  <related>Laomuzhu</related>
+  <region>China (Yunnan)</region>
+  <described>Vernon A. Eagle</described>
+  <date>1995</date>
+  <type>multiple+</type>
+  <setup>2x5+1:5+1</setup>
+ </game>
+ <game>
+  <name>Chongka</name>
+  <name>Tchonka</name>
+  <name>Chongka'</name>
+  <related>Sungka</related>
+  <region>Marianas</region>
+  <described>Georg Fritz</described>
+  <date>1904</date>
+  <type>multiple</type>
+  <setup>2x7:7</setup>
+ </game>
+ <game>
+  <name>Baltisches Bohnenspiel</name>
+  <name>Kardis-Bohnenspiel</name>
+  <name>Badari</name>
+  <name>Sabo</name>
+  <related>Manqalat</related>
+  <region>Estonia</region>
+  <region>Germany</region>
+  <described>Fritz Jahn</described>
+  <date>1916</date>
+  <type>single</type>
+  <setup>2x6:6</setup>
+ </game>
+ <game>
+  <name>Ban-Ban</name>
+  <parent>Manqalat</parent>
+  <related>Mandoli</related>
+  <region>Bosnia and Herzegovina</region>
+  <described>Roger Guillamon</described>
+  <date>2004</date>
+ </game>
+ <game>
+  <name>Deutsches Bohnenspiel</name>
+  <related>Baltisches Bohnenspiel</related>
+  <region>Germany (Pomerania</region>
+  <region>East Prussia)</region>
+  <type>single</type>
+  <setup>2x9</setup>
+ </game>
+ <game>
+  <name>Mandoli</name>
+  <parent>Manqalat</parent>
+  <related>Manqalat</related>
+  <related>Halusa</related>
+  <region>Greece (Cyclades)</region>
+  <described>Jean-Etienne Liotard</described>
+  <date>1740</date>
+  <type>single</type>
+  <setup>2x6:6</setup>
+ </game>
+ <game>
+  <name>Adji Kui</name>
+  <related>Oware</related>
+  <related>Hoyito I</related>
+  <region>Cuba (Matanzas)</region>
+  <described>Ruth Magalys Wilson Ferrer</described>
+  <date>1991</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Hoyito</name>
+  <name>Caille</name>
+  <name>Casitas</name>
+  <name>Casitas de Mate</name>
+  <name>El Hoyito</name>
+  <name>Mate</name>
+  <parent>Ba-awa</parent>
+  <region>Dominican Republic</region>
+  <described>Víktor Bautista i Roca</described>
+  <date>2005</date>
+  <type>multiple</type>
+  <setup>2x6-12:4</setup>
+ </game>
+ <game>
+  <name>Barbados Warri</name>
+  <name>English Wari</name>
+  <parent>Oware</parent>
+  <region>Barbados</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Round-and-Round Warri</name>
+  <name>French Wari</name>
+  <name>Rounds</name>
+  <related>Oware</related>
+  <region>Barbados</region>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Wahree</name>
+  <parent>Oware</parent>
+  <region>United States Virgin Islands (Saint Croix)</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Warra</name>
+  <parent>Oware</parent>
+  <region>USA (Louisiana)</region>
+  <described>Felix von Luschan</described>
+  <date>1919</date>
+ </game>
+ <game>
+  <name>Kay</name>
+  <name>Warri</name>
+  <parent>Hoyito</parent>
+  <region>Haiti</region>
+  <described>Suzanne Comhaire-Sylvain</described>
+  <date>1952</date>
+  <type>multiple</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Waurie</name>
+  <name>Island Wari</name>
+  <name>Warie</name>
+  <name>Wauri</name>
+  <parent>Kalah</parent>
+  <related>Congkak</related>
+  <region>Grand Cayman</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Wa-wee</name>
+  <related>Oware</related>
+  <region>Santa Lucia</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Woll</name>
+  <related>Oware</related>
+  <region>Jamaica</region>
+  <described>Frederick Henry Robertson</described>
+  <date>1936</date>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Worri</name>
+  <related>Oware</related>
+  <region>Bahamas</region>
+  <described>George J. H.</described>
+  <date>1899</date>
+ </game>
+ <game>
+  <name>A-i-ú</name>
+  <parent>Oware</parent>
+  <region>Brazil (Bahia)</region>
+  <setup>2x6</setup>
+ </game>
+ <game>
+  <name>Adji-boto</name>
+  <related>Ayoayo</related>
+  <region>Suriname</region>
+  <described>Melville J. Herskovits</described>
+  <date>1928</date>
+  <type>single</type>
+  <setup>2x5:10</setup>
+ </game>
+ <game>
+  <name>Langa Holo</name>
+  <name>Langa-holo Adji-pre</name>
+  <name>Awari</name>
+  <related>Oware</related>
+  <region>Suriname</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
+ </game>
+ <game>
+  <name>Wari</name>
+  <related>Oware</related>
+  <region>Guyana (coast)</region>
+  <type>single</type>
+  <setup>2x6:4</setup>
  </game>
 </games>

@@ -27,7 +27,7 @@ Bao la Kimasai [Tanzania (Kilimanjaro)] [2001, David MacKay] (4x8:0,1) ~Bao
 Bao la Kiswahili/Bao La Komwe/Bao La Kucheza/Bao La Zanzibar/Bau/Busolo/Katra/Lusole [Burundi (Bujumbura), Comores (Anjouan), Congo (Kisangani), Kenya (Coast), Madagascar (Northwest), Malawi, Tanzania (Coast Zanzibar)] [1658, Étienne de Flacourt] (4x8:20+44 multiple) <Katra Fandatsaka
 Bawo [Malawi] [1896] <Bao la Kiswahili
 Bao La Kete [Kenya] [1972, Walter Driedger] <Bao la Kiswahili
-Baré/Bare [Sudan] [1971, Richard Pankhurst] (4x12:4 multiple)
+Bare/Baré [Sudan] [1971, Richard Pankhurst] (4x12:4 multiple)
 Baruma [Congo] (4x8 multiple)
 Bechi [Eritrea] [1913] (2x4:6 single) ~Alemungula
 Boola [Kenya] [1971] (2x12:0,3 multiple)
@@ -43,17 +43,17 @@ Dabuda [Djibouti, Ethiopia] [1971, Richard Pankhurst] (2x6;10:4 multiple)
 Dagh [Nigeria] (single?)
 Deka [Congo] (3x5;6,2:2 multiple) ~Embeli
 Dwong/Soro [Congo] (4x8 multiple)
-Éhérhé [Ghana] (2x6:4 single) ~Oware
+Eherhe/Éhérhé [Ghana] (2x6:4 single) ~Oware
 El Arnab [Sudan] [puzzle] (2x3 multiple) (1)
 Elee [Kenya/Uganda] (4x8 multiple) <Omweso
 Embeli/Ambala [Congo (Buta, Bafwasende)] [1911, Joseph Halkin & Col. Ernest Viaene] (3x10,2:4,0 multiple) <Imbelece
-En Gehé [Tanzania (North)] [1904, Moritz Merker] (2x40-50:4 multiple)
+En Gehe/En Gehé [Tanzania (North)] [1904, Moritz Merker] (2x40-50:4 multiple)
 Enkeshui [Kenya] (2x8;10;12 multiple)
 En Dodoi/Endodoi [Kenya, Tanzania] [1904, Moritz Merker] (2x6;8;10:4 multiple) ~En Gehé <2 Ranks Multiple sowing
 Fifanga [Madagascar] (4x8:12+52 multiple) <Bao la Kiswahili
 Gamacha/Yada [Ethiopia (South)] (2x12 multiple)
 Giuthi [Kenya] [1925, Orde Brown] (2x5-10:4-9 single)
-Goré [Ethiopia (Omo valley)] [2009, Jordi Climent Tondo] (2x4:6 multiple)
+Gore/Goré [Ethiopia (Omo valley)] [2009, Jordi Climent Tondo] (2x4:6 multiple)
 Huroy [Ethiopia (Omo valley)] [1970, David Turton] (2x6:4 single)
 Owela [Angola, Namibia] [1937, Diana and Antoinette Powell-Cotton] <Hus
 Hus/Lochspiel/Ogoro/Onjune/Onyune/Otjitoto/Thuskae/Uera/Xoros/Wera [Namibia] [1855, Johann Georg Krönlein] (4x8-24:2,0 multiple) <4 Ranks Multiple sowing
@@ -68,12 +68,12 @@ Isolo I [Zambia] [1956, J. H. Chaplin] (2x8:2+ multiple) ~Bao
 Isolo II/Isumbi [Tanzania] [1979, Assia Popova] (4x8:2 multiple)
 J'erin [Nigeria] [1939, R. J. Newberry] (2x6:4 single) <Ba-awa
 Je ki n je [Nigeria] [2009, Jordi Climent Tondo] (2x6:4 single/multiple)
-J'odu/Jodokarase  [Nigeria (Keta)] (2x6:4 multiple)
+Jodokarase/J'odu  [Nigeria (Keta)] (2x6:4 multiple)
 Kabwenga [Zambia] (4x8 multiple)
 Kacigh [Kenya] (4x11-12 multiple) <Omweso
 Kale [Gabon] (2x6:4 single) [1894, Stewart Culin] <Oware
 Kanona [Zambia (Mwinilunga District)] (4x8:2 multiple)
-Kâra [Sudan (Kordofan)] [1925, R. Davies] (2x6:7 multiple) (4)
+Kara/Kâra [Sudan (Kordofan)] [1925, R. Davies] (2x6:7 multiple) (4)
 Katra Fandatsaka [Madagascar] (4x8:12+52 multiple) <4 Ranks Multiple sowing
 Katra Gorobaka [Madagascar] (4x8 multiple)
 Katra Mpantsaka [Madagascar] (4x8 multiple)
@@ -91,7 +91,7 @@ Krur/Crur/Hrur/Khrour/Krour/Kurùr [Mauretania, Morocco (Western Sahara)] [1955,
 Kuoless [Guinea] [1960, Horst Luz & Waldemar Herz] (2x2-10:4 single) (2-10) <Kpo <Walu
 Kwahilka Aitidikus [Eritrea, Ethiopia] (3x3:2{1},1 multiple) (1) ~Selus
 Lahemay Waladat [Ethiopia (southern Tigré)] [1971, R. Pankhurst] (2x6:4 multiple)
-Lamè Uwèlèdèt [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Sulus Nishtaw <Sulus Aidi
+Lame Uweledet/Lamè Uwèlèdèt [Eritrea] [1943, Harold Courlander] (3x6:3 multiple) <Sulus Nishtaw <Sulus Aidi
 Lami [Ethiopia (South)] (2x10:2 multiple) <Lamlameta
 Lamlameta [Ethiopia (Olanta)] [1971, Richard Pankhurst] (2x12:2 multiple) <2 Ranks Multiple sowing
 Latho [Ethiopia (south-central)] [1971, Richard Pankhurst] (2x6) ~Tagega ~Aghadaghada <Mancala
@@ -154,10 +154,10 @@ Qelat I [Eritrea] [1971, Richard Pankhurst] (2x6:4 single)
 Qelat II [Eritrea (Keren-Agordat)] [1971, Richard Pankhurst] (2x6:4 multiple) ~Qelat I ~Um el Banat <2 Ranks Multiple sowing
 Rio Kadalis/Riya kadhalis/Riyo-ka-dhalis [Somalia (Hargheisa, Jigjiga)] [1971, Richard Pankhurst] (2x6:4 multiple) ~Lahemay Waladat ~Lam Waladach ~Lamosh <2 Ranks Multiple sowing
 Ruhesho [Tanzania] (4x8 multiple)
-Sadéqa [Ethiopia, Sudan] [1971, Richard Pankhurst] (2x10:4 multiple)
+Sadeqa/Sadéqa [Ethiopia, Sudan] [1971, Richard Pankhurst] (2x10:4 multiple)
 Selus [Eritrea (Massawa)] [1971, Richard Pankhurst] (3x6:3 multiple) ~Gabata
 Shayo [Nigeria] (2x6:4 single) <Oware
-Sokusowó/Sokusọwó [Nigeria] [2009, Jordi Climent Tondo] (2x6:4 multiple)
+Sokusowo/Sokusowó/Sokusọwó [Nigeria] [2009, Jordi Climent Tondo] (2x6:4 multiple)
 Songo Douala [Cameroon] [1931, P. H. G. Powell-Cotton] (2x7:8 single) <Songo Ewondo
 Songo Ewondo/Akong/Songa/Songo/Songo'o [Cameroon, Congo, Equatorial Guinea, Gabon] [1907, Günter Tessmann] (2x7:5 single) <2 Ranks Single sowing
 Soro [Sudan] (4x8 multiple)
@@ -207,7 +207,7 @@ Dakon [Indonesia/Java] [1817, Sir Thomas Stamford Raffles] (2x6-10+:6-10 multipl
 Dampu [Indonesia (Celebes)] (2 multiple)
 Dara-dara [Indonesia (Celebes)] (2x7:4 multiple) ~Galatjang
 Daramutu/Ellaewala-kanda [Sri Lanka] [1909, Henry Parker] (2x7:4 multiple)
-Devare Āṭa [India (Kanara)] (4)
+Devare Ata/Devare Āṭa [India (Kanara)] (4)
 Dong Wo [China (Yunnan)] (2x5:4,1+ multiple+) ~Laomuzhuqi
 Dongjintian [China (Yunnan)] [1995,  Vernon A. Eagle] (4x5:5 multiple+) ~2 Ranks Pussa Kanawa sowing
 Eson Khorgol/Eson Xorgol [Mongolia (Bajan Ölgij)] (2x5:9 single) ~Toguz Kumalak
@@ -215,15 +215,15 @@ Evcik [Turkey (Muğla)]
 Galatjang [Indonesia (Celebes)] (2x7:7 multiple)
 Halusa/Halusi/Hālūsa/Hālūsi [Iraq] [1694, Thomas Hyde] (2x6:6 single) ~Mangala ~Al-manqala ~Bohnenspiel
 Hawalis [Oman, Tanzania (Zanzibar)] (4x7:2 multiple) <4 Ranks Multiple sowing
-Hunse Pace Āṭa [India (Karnataka)]
-Jōḍu Perga [India (Kanara)] (2x7:4 multiple+) ~Bule Perga
+Hunse Pace Ata/Hunse Pace Āṭa [India (Karnataka)]
+Jodu Perga/Jōḍu Perga [India (Kanara)] (2x7:4 multiple+) ~Bule Perga
 Kaci [India (Madurai, Tamil Nadu)] (2x7:14 multiple+)
 Kaloleh [Indonesia (Central Sumatra)]
-Kánji-guti [India (Orissa)] [1924, Hem Chandra Das Gupta] (2x7:12,1 multiple+)
-Kashiyāṭa [India (Hassan region, Karnataka)] (2x7:12) (2;3)
+Kanji-guti/Kánji-guti [India (Orissa)] [1924, Hem Chandra Das Gupta] (2x7:12,1 multiple+)
+Kashiyata/Kashiyāṭa [India (Hassan region, Karnataka)] (2x7:12) (2;3)
 Khutki-boia [India (Punjab)] (2x5:5 multiple+)
 Khuzhi Palaka [India (Kerala)] (multiple+)
-Kawaḍi Āṭa [India (Hassan region, Karnataka)] (2x7:5 multiple+)
+Kawadi Ata/Kawaḍi Āṭa [India (Hassan region, Karnataka)] (2x7:5 multiple+)
 Kodi Mule [India (Kanara)]
 Kotu-baendum [Sri Lanka] [1909, Henry Parker] (2x7:4 multiple) ~Layli Goobalay ~Bosh
 Kozdatu [Kazakhstan] (2x7:7 single) <Toguz Kumalak
@@ -236,37 +236,71 @@ Laomuzhuqi [China (Yunnan)] (2-5x5:5+1 multiple+) ~Dong Wo
 Longbeu-a-cha [India (Assam)] (2x5:5+1 multiple+)
 Mak Khom/Main Chakot/Tungkayon [Thailand (Malay Peninsula)] [1836, James Low] (2x4 multiple) <Congkak
 Mak-hu-hai [China (Yunnan)] (2-3x5:5+1 multiple+) (2-3)
-Mangala II/Manqala/Manqalat [Turkey (Southeast Anatolia)] [1694, Thomas Hyde] (2x6-7:5 single) >Mandoli >Ban-Ban >Bohnenspiel
+Manqalat/Mangala II/Manqala [Turkey (Southeast Anatolia)] [1694, Thomas Hyde] (2x6-7:5 single) >Mandoli >Ban-Ban >Bohnenspiel
 Manqala/Al-manqala/La'b Akila/La'b Hakimi [Israel (Galilee)] [1694, Thomas Hyde] (2x7:7 single)
 Matoe [Indonesia (Eastern Sumba)]
 Mawkar Katiya [India (Cherrapunji)] (2x7:5 multiple+)
 Mechiwa/Metjiwa [Indonesia (Bali)] (2x5)
-Meneli Taş [Turkey (Ilgın)] (2x5)
-Mereköçdü [Azerbaidshan] (2x3:7)
+Meneli Tas/Meneli Taş [Turkey (Ilgın)] (2x5)
+Merekocdu/Mereköçdü [Azerbaidshan] (2x3:7)
 Meuchoh/Meutjoh [Indonesia (Acheh)] (multiple)
-Meuliëh [Indonesia (Acheh)] (multiple+)
-Meusuëb/Meusoeëb [Indonesia (Acheh)] (2x6:4 multiple+)
+Meulieh/Meuliëh [Indonesia (Acheh)] (multiple+)
+Meusueb/Meusuëb/Meusoeëb [Indonesia (Acheh)] (2x6:4 multiple+)
 Meuta' [Indonesia (Acheh)] (multiple)
-Motiq I/Ka Ia [Indonesia (Lomblen)] (2x7:4 multiple) ~Aw-li On-nam Ot-tjin
-Motiq II/Éu Léu/Kéu Léu [Indonesia (Lomblen)] (2x7:7 multiple) ~Congkak
-Nikkikkaḷi [India (Northern Kerala)] (multiple+)
+Ka Ia/Motiq I [Indonesia (Lomblen)] (2x7:4 multiple) ~Aw-li On-nam Ot-tjin
+Eu Leu/Motiq II/Éu Léu/Kéu Léu [Indonesia (Lomblen)] (2x7:7 multiple) ~Congkak
+Nikkikkali/Nikkikkaḷi [India (Northern Kerala)] (multiple+)
 Ohvalhu/Naranj/Ohvalhu gondi [Maldives] [1894, Stewart Culin] (2x7:7 multiple) ~Congkak ~Dakon
 Olinda Deliya [Sri Lanka] (2x7:4 multiple+)
-Ô Ăn Quan/Ô Láng [Northern Vietnam] [1944,  Ngô Quý Sơn] (2x5+1:5,10 multiple+) ~Laomuzhu ~Ceelkoqyuqkoqiji
+O An Quan/Ô Ăn Quan/Ô Láng [Northern Vietnam] [1944,  Ngô Quý Sơn] (2x5+1:5,10 multiple+) ~Laomuzhu ~Ceelkoqyuqkoqiji
 Pachgarhwa [India (Uttar Pradesh)] [1906, E. de M. Humphies] (2x5:5 multiple+) ~Longbeu-a-cha
 Pallamkurie/Pallam Kuzhi/Pallanguri/Pallankuzhi/Pallankuli/Pannankuri [India (Tamil Nadu),  Sri Lanka] [1909, Henry Parker] (2x7:4;5;6 multiple+)
 Pasu Pondi/Pallanguzhi Āṭam/Pasu Pandi/Pondi Āṭam [India (Tamil Nadu)] [1995, L. S., Saraswathi] (2x7:5;6 multiple+) ~Pallam Kurie ~Pandi
-Piç [Turkey (East Anatolia)] [1974, Osman Sinayuç] (3x2-5:9;12 single) (2-5) ~Toguz Kumalak
+Pic/Piç [Turkey (East Anatolia)] [1974, Osman Sinayuç] (3x2-5:9;12 single) (2-5) ~Toguz Kumalak
 Raja Pasu [India, Sri Lanka] [2000, Alexander Johan de Voogt] (2x7:7 multiple+)
 Raja Pasu Mandiri [Sri Lanka] (2x7:7 multiple+) (3) ~Raja Pasu ~Arasu Atta
-Rajāṭa India (Hassan region, Karnataka) (2x7:5 multiple+) ~Bule Perga
+Rajata/Rajāṭa [India (Hassan region, Karnataka)] (2x7:5 multiple+) ~Bule Perga
 Rama rildok [Nepal]
-Sadāṭa [India (Hassan region, Karnataka)] (2x7:5 multiple+) ~Cenne
+Sadata/Sadāṭa [India (Hassan region, Karnataka)] (2x7:5 multiple+) ~Cenne
 Sai [Indonesia (Flores)] (2x7:4 multiple) ~Aw-li On-nam Ot-tjin
 Sat-gol/Satgol [India (Madhya Pradesh)] [1926, Hem Chandra Das Gupta] (1x7:4 multiple+)
 Seethaipandi/Asokavāṭam/Sita-Lakshmi Āṭa/Sita Āṭa/Sitāṭa [India (Kanara, Tamil Nadu)] [1987, Peter J. Claus] (2x7:1,2,3,4,5,6,7) (1)
 Sungka/Sungca/Sunka/Chuncajon [Philippines] [1692, José Sanchez] (2x7:7 multiple) ~Congkak ~Naranj ~Chongka'
 Tap-urdy [Turkmenistan] [1977, Assia Popova & André Deledicq] (2x6:4 multiple)
+Tatak [Pakistan] (2x7)
+Tchuka Ruma/Tchouka [Indonesia] (nx1 multiple ) (1) ~Congkak
+Til-guti [India (Chota Nagpur)] (2x7:5 multiple+)
+Toguz Kumalak/Тоғыз құмалақ/Toğız qumalaq/toghyz qumalaq/тогуз кумалак/Togus Kumalak/Тогуз Коргоол/Toguz Khorgool/Toguz Korgool [Afghanistan (Badakhshan), China (Dzungaria), Kazakhstan, Kyrgyzstan, Mongolia (Bajan Ölgij), Russia (Altay, Khakassia, Tuva), Tajikistan, Turkmenistan, Uzbekistan (Karakalpakstan)] [1906, Nikolai Nikolaevich Pantusov] (2x9:9 single) ~Piç
+Ünee Tugalluulax/Unee Tugaluulax [Mongolia (Bajan Ölgij)] [1963, N. Namzhildorzh] (2x3:6 single)
+Vai Lung Thlan/Vai Lung Thlān [India (Mizoram)] [1912, J., Shakespear] (2x6:5 single)
+Walak-pussa [Sri Lanka] [1909, Henry Parker] (2x7:4 multiple+) ~Puhulmutu
+Yucebao [China (Yunnan)] [1995, Vernon A. Eagle] (2x5+1:5+1 multiple+) ~Laomuzhu
+Zigulzoqge [China (Yunnan)] [1995, Vernon A. Eagle] (2-4x4-6:5 multiple+) (2-4)
+
+Chongka/Tchonka/Chongka' [Marianas] [1904, Georg Fritz] (2x7:7 multiple) ~Sungka
+
+Baltisches Bohnenspiel/Kardis-Bohnenspiel/Badari/Sabo [Estonia, Germany] [1916, Fritz Jahn] (2x6:6 single) ~Manqalat
+Ban-Ban [Bosnia and Herzegovina] [2004, Roger Guillamon] (2 single) ~Mandoli
+Deutsches Bohnenspiel [Germany (Pomerania, East Prussia)] (2x9 single) ~Baltisches Bohnenspiel
+Mandoli [Greece (Cyclades)] [1740, Jean-Etienne Liotard] (2x6:6 single) ~Manqalat ~Halusa
+
+Adji Kui [Cuba (Matanzas)] [1991, Ruth Magalys Wilson Ferrer] (2x6:4 single) ~Oware ~Hoyito I
+Hoyito/Caille/Casitas/Casitas de Mate/El Hoyito/Mate [Dominican Republic] [2005, Víktor Bautista i Roca] (2x6-12:4 multiple) <Ba-awa
+Barbados Warri/English Wari [Barbados] (2x6:4 single) <Oware
+Round-and-Round Warri/French Wari/Rounds [Barbados] (2x6:4 multiple) ~Ayo
+Voleur [Haiti] [2005, Víktor Bautista i Roca] (2x6:4 single)
+Wahree [United States Virgin Islands (Saint Croix)] (2x6:4 single) <Oware
+Warra [USA (Louisiana)] [1919, Felix von Luschan] (single) <Oware
+Kay/Warri [Haiti] [1952, Suzanne Comhaire-Sylvain] (2x6:4 multiple) <Hoyito
+Waurie/Island Wari/Warie/Wauri [Grand Cayman] (2x6:4 single) <Kalah ~Congkak
+Wa-wee [Santa Lucia] (2x6:4 single) ~Oware
+Woll [Jamaica] [1936, Frederick Henry Robertson] (2x6:4 single) ~Oware
+Worri [Bahamas] [1899, George J. H.] ~Oware
+
+A-i-ú [Brazil (Bahia)] (2x6) <Ayo
+Adji-boto [Suriname] [1928, Melville J. Herskovits] (2x5:10 single) ~Ajito
+Langa Holo/Langa-holo Adji-pre/Awari [Suriname] (2x6:4 single) ~Oware
+Wari [Guyana (coast)] (2x6:4 single) ~Oware
 
 #https://en.wikipedia.org/wiki/List_of_mancala_games
 #http://skyruk.livejournal.com/410114.html
